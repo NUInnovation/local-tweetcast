@@ -16,6 +16,7 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - oauthlib==1.0.3
+  - pymongo==3.2.2
   - python-twitter==2.2
   - requests==2.9.1
   - requests-oauthlib==0.6.1

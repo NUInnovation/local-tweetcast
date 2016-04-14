@@ -13,6 +13,7 @@ SANDERS_SUPPORTER_TWEETS_FOLDER = 'Sanders Supporter Tweets'
 CRUZ_SUPPORTER_TWEETS_FOLDER = 'Cruz Supporter Tweets'
 CLINTON_SUPPORTER_TWEETS_FOLDER = 'Clinton Supporter Tweets'
 
+WORD_COUNT_TWEETS_FOLDER = 'Word Counts'
 
 auth = tweepy.OAuthHandler(app.config['CONSUMER_KEY'], app.config['CONSUMER_SECRET'])
 auth.set_access_token(app.config['ACCESS_TOKEN_KEY'], app.config['ACCESS_TOKEN_SECRET'])
@@ -70,17 +71,6 @@ candidate_supporter_tweets_folders = {
     cruz_handle: CRUZ_SUPPORTER_TWEETS_FOLDER,
     clinton_handle: CLINTON_SUPPORTER_TWEETS_FOLDER,
 }
-
-
-# this is for messing with the API
-# trumpfollowers = api.followers(trump_handle)
-
-# user = api.get_user(user_id=720528592094887936)
-
-# print user.screen_name
-# print user.profile_image_url
-# print user.description
-# print api.user_timeline(include_rts=False)[0].text
 
 for candidate_handle in candidate_handles:
     scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
