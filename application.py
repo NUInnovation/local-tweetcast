@@ -3,11 +3,16 @@ import tweepy
 from flask import Flask, request, session, g, redirect, url_for, \
     abort, render_template, flash
 import os
+from scraping import scrape_tweets
 
 app = Flask(__name__)
 app.config.from_object('config')
 
 TRUMP_SUPPORTER_TWEETS_FOLDER = 'Trump Supporter Tweets'
+SANDERS_SUPPORTER_TWEETS_FOLDER = 'Sanders Supporter Tweets'
+CRUZ_SUPPORTER_TWEETS_FOLDER = 'Cruz Supporter Tweets'
+CLINTON_SUPPORTER_TWEETS_FOLDER = 'Clinton Supporter Tweets'
+
 
 auth = tweepy.OAuthHandler(app.config['CONSUMER_KEY'], app.config['CONSUMER_SECRET'])
 auth.set_access_token(app.config['ACCESS_TOKEN_KEY'], app.config['ACCESS_TOKEN_SECRET'])
@@ -28,7 +33,7 @@ sanders = api.get_user(sanders_handle)
 
 candidates = [trump, clinton, cruz, sanders]
 
-clear_trump_follower_screen_names = [
+clear_trump_supporter_screen_names = [
     'michaelpshipley',
     'wyomobe',
     'jesskazen',
@@ -40,9 +45,31 @@ clear_trump_follower_screen_names = [
     'DarkStream',
 ]
 
-clear_sanders_follower_screen_names = [
+clear_sanders_supporter_screen_names = [
     'CopinHagen',
 ]
+
+clear_cruz_supporter_screen_names = [
+
+]
+
+clear_clinton_supporter_screen_names = [
+
+]
+
+candidate_supporters = {
+    trump_handle: clear_trump_supporter_screen_names,
+    sanders_handle: clear_sanders_supporter_screen_names,
+    cruz_handle: clear_cruz_supporter_screen_names,
+    clinton_handle: clear_clinton_supporter_screen_names,
+}
+
+candidate_supporter_tweets_folders = {
+    trump_handle: TRUMP_SUPPORTER_TWEETS_FOLDER,
+    sanders_handle: SANDERS_SUPPORTER_TWEETS_FOLDER,
+    cruz_handle: CRUZ_SUPPORTER_TWEETS_FOLDER,
+    clinton_handle: CLINTON_SUPPORTER_TWEETS_FOLDER,
+}
 
 
 # this is for messing with the API
@@ -55,10 +82,5 @@ clear_sanders_follower_screen_names = [
 # print user.description
 # print api.user_timeline(include_rts=False)[0].text
 
-for trump_follower_screen_name in clear_trump_follower_screen_names:
-    tweetfilepath = TRUMP_SUPPORTER_TWEETS_FOLDER + '/' + trump_follower_screen_name + '.txt'
-    if not os.path.isfile(tweetfilepath):
-        with open(tweetfilepath, 'w') as newtweetsfile:
-            for tweet in api.user_timeline(screen_name = trump_follower_screen_name, include_rts=False):
-                print tweet.text
-                newtweetsfile.write(tweet.text.encode("UTF-8") + '\n')
+for candidate_handle in candidate_handles:
+    scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
