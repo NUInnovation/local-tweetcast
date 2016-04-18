@@ -73,4 +73,4 @@ candidate_supporter_tweets_folders = {
 }
 
 for candidate_handle in candidate_handles:
-    scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
+    scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
