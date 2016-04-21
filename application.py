@@ -4,6 +4,9 @@ from flask import Flask, request, session, g, redirect, url_for, \
     abort, render_template, flash
 import os
 from scraping import scrape_tweets
+from searching import import_obvious_supporter, get_max_obvious_supporter_id, get_obvious_supporter
+import csv
+import json
 
 app = Flask(__name__)
 app.config.from_object('config')
@@ -87,3 +90,25 @@ candidate_supporter_tweets_folders = {
 for candidate_handle in candidate_handles:
     # scrape tweets also puts supporter metadata into csv file first line
     scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
+
+# list_dir = os.listdir('Trump Supporter Tweets')
+# init_max_id = get_max_obvious_supporter_id()
+# cur_id = init_max_id
+# for file in list_dir:
+#     if file.endswith('.csv'):
+#         cur_id += 1
+#         data = csv.reader(open(os.path.join('Trump Supporter Tweets', file)))
+#         metadata = data.next()
+#         metadata = json.loads(metadata[0])
+#         tweets = []
+#         for tweetrow in data:
+#             tweets.append(tweetrow[0])
+#         tweets_as_one_string = ''.join(tweets)
+#         supporter_name = metadata['name']
+#         supporter_handle = os.path.splitext(file)[0]
+#         supporter_location = metadata['location']
+#         candidate_handle = trump_handle
+#         import_obvious_supporter(supporter_name, supporter_handle, supporter_location, cur_id, candidate_handle, tweets_as_one_string)
+        # import_supporter()
+
+print type(get_obvious_supporter('DarkStream'))

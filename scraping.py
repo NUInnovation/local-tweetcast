@@ -10,9 +10,10 @@ def scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folder,
             with open(tweetsfilepath, 'w') as newtweetsfile:
                 csvwriter = csv.writer(newtweetsfile)
                 user_info = api.get_user(screen_name = candidate_supporter_screen_name)._json
+                user_info['imported_to_elastic'] = False
                 csvwriter.writerow([json.dumps(user_info).encode("UTF-8")])
                 for tweet in api.user_timeline(screen_name = candidate_supporter_screen_name, include_rts=False, count = 200):
-                    print tweet.text
+                    # print tweet.text
                     # for string in tweet.text:
                     #     stringentry = db.candidate_handle.find({'string': string})
                     #     if stringentry:
