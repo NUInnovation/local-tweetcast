@@ -4,6 +4,7 @@ import json
 import csv
 import uuid
 from pyelasticsearch import ElasticSearch, exceptions
+from collections import Counter
 
 # pp = pprint.PrettyPrinter(indent = 4)
 
@@ -83,5 +84,32 @@ def add_tweets_to_elastic(directory, candidate_handle):
                         newwriter.writerows(data_to_copy)
                     print 'imported user with handle', supporter_handle, 'and id', new_id
 
+def match(blob_of_tweets, k_neighbors):
+    query = {
+        'query': {
+        "match_phrase": {
+            "supporter_tweets": blob_of_tweets
+        }
+        }
+    }
+    hitcandidates = [hit['_source']['candidate_handle'] for hit in es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['hits']]
+    hitcandidates = hitcandidates[:k_neighbors]
+    mode_candidate = Counter(hitcandidates).most_common()[0][0]
+    candidate_count = Counter(hitcandidates).most_common()[0][1]
+    other_candidate_count = Counter(hitcandidates).most_common()[1][1]
+    return mode_candidate, candidate_count, other_candidate_count, es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['total']
 
+# print match("""We need a strong comeback after eight years of a symbolic and worthless Obama presidency and Trump is the one.
+# @kathleenbieleck @SquidsLighters That's what mothers used to tell their daughters before they were married. Society was a lot better off too""", 5)
+# print match("""Assumption based upon an antiquated form of #feminism. #genderstereotypes determine sensitivity? #UsNotMe #gunsense https://t.co/OCE6otwYWb
+# "@politico So divisive to make ""everything a woman's issue."" Understand impetus, but trauma of #gunviolence doesn't discriminate. #UsNotMe"
+# @kilihn @arzE At this point the enemy is any judge/official who could open the #NYPrimary but doesn't. #DemPrimary #DemocracySpring #NYC
+# """, 6)
+print match("""@HillaryClinton @GMA love u
+@tedcruz don't like you much
+@BernieSanders shut up
+@BernieSanders Sanders supporters are
+""", 10)
+
+# print match('Republican', 5)
 # print es.get('localtweetcast', 'obvioussupporter', 15)
