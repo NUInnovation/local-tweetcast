@@ -48,6 +48,18 @@ clear_trump_supporter_screen_names = [
 
 clear_sanders_supporter_screen_names = [
     'CopinHagen',
+    'MediaPhiled',
+    'french_monica',
+    'LilyStarlette',
+    'Marnie_was_here',
+    'Thinkers4Bernie',
+    'AudreyGoz',
+    'MinervaAventine',
+    'sharon211',
+    'joavargas_1220',
+    'dsptchsfrmexile',
+    'TheTardisDoc',
+    'angelam314'
 ]
 
 clear_cruz_supporter_screen_names = [
