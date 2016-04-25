@@ -2,7 +2,7 @@
 
 ### Team Members
 
-Shawn Caeiro, Sam Cohen, Athif Athif Wulandana
+Shawn Caeiro, Sam Cohen, Athif Wulandana
 
 ### What if Twitter decided this election?
 
