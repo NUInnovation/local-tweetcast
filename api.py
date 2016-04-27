@@ -1,8 +1,6 @@
 import tweepy
 import os
 from scraping import scrape_tweets
-from searching import import_obvious_supporter, get_obvious_supporter, add_tweets_to_elastic, get_number_of_obvious_supporters, \
-match_by_handle, match_by_blob
 import csv
 import copy
 import json
