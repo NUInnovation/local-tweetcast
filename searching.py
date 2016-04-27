@@ -6,7 +6,7 @@ import uuid
 from pyelasticsearch import ElasticSearch, exceptions
 from collections import Counter
 # pp = pprint.PrettyPrinter(indent = 4)
-
+import string
 es = ElasticSearch('http://localhost:9200/')
 
 # def get_max_obvious_supporter_id():
@@ -86,25 +86,34 @@ def add_tweets_to_elastic(directory, candidate_handle):
 def match_by_blob(blob_of_tweets, k_neighbors):
     query = {
             'query': {
-            "match_phrase": {
+            "term": {
                 "supporter_tweets": blob_of_tweets
             }
         }
     }
-    print es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')
     hitcandidates = [hit['_source']['candidate_handle'] for hit in es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['hits']]
     hitcandidates = hitcandidates[:k_neighbors]
+    print Counter(hitcandidates).most_common()
     mode_candidate = Counter(hitcandidates).most_common()[0][0]
     candidate_count = Counter(hitcandidates).most_common()[0][1]
-    other_candidate_count = Counter(hitcandidates).most_common()[1][1]
-    print es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')
+    try:
+        other_candidate_count = Counter(hitcandidates).most_common()[1][1]
+    except IndexError:
+        # this means that only one candidate was in the top k
+        other_candidate_count = 0
     return mode_candidate, candidate_count, other_candidate_count, es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['total']
 
 def match_by_handle(api, handle, k_neighbors):
     user_tweets = []
-    for tweet in api.user_timeline(screen_name = handle, include_rts=False, count = 200):
-        user_tweets.append(tweet.text.encode("UTF-8"))
-    user_tweets_blob = str(' '.join(user_tweets))
+    for tweet in api.user_timeline(screen_name = handle, include_rts=False, count = 5):
+        tweettext = tweet.text
+        user_tweets.append(tweettext)
+    user_tweets_blob = ' '.join(user_tweets)
+    printable = set(string.printable)
+    user_tweets_blob = filter(lambda x: x in printable, user_tweets_blob)
+    user_tweets_blob.replace('/', '\\/')
+    print user_tweets_blob
+    print type(user_tweets_blob)
     return match_by_blob(user_tweets_blob, k_neighbors)
 
 # print match("""We need a strong comeback after eight years of a symbolic and worthless Obama presidency and Trump is the one.

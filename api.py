@@ -91,4 +91,4 @@ def import_clear_supporters():
         scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
         add_tweets_to_elastic(candidate_supporter_tweets_folders[candidate_handle], candidate_handle)
 
-print match_by_blob('hello', 10)
+print match_by_handle(api, 'Parker9_', 10)
