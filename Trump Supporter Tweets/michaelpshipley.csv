@@ -1,4 +1,301 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": ""Jakarta"", ""id"": 14753886, ""description"": ""LIBERTARIAN | Originally from Maryland, USA. #TRUMP2016"", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/o6KlZjqNT5"", ""indices"": [0, 22], ""expanded_url"": ""http://www.michaelpshipley.com/"", ""display_url"": ""michaelpshipley.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2082, ""protected"": false, ""id_str"": ""14753886"", ""default_profile_image"": false, ""listed_count"": 88, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""#Prince\n\n\""People who eat a strictly plant-based diet may suffer from subclinical protein malnutrition.\""\n\nhttps://t.co/3RhVHlbyIR"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723251039005224961, ""favorite_count"": 1, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 7], ""text"": ""Prince""}], ""urls"": [{""url"": ""https://t.co/3RhVHlbyIR"", ""indices"": [105, 128], ""expanded_url"": ""http://articles.mercola.com/sites/articles/archive/2015/08/03/vegetarian-vegan-nutrient-deficiencies.aspx"", ""display_url"": ""articles.mercola.com/sites/articles\u2026""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723251039005224961"", ""retweet_count"": 0, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 20:44:19 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""lang"": ""en"", ""utc_offset"": 25200, ""statuses_count"": 50427, ""profile_background_color"": ""FAB81E"", ""friends_count"": 1239, ""profile_link_color"": ""4A913C"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme14/bg.gif"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/14753886/1458683084"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme14/bg.gif"", ""screen_name"": ""michaelpshipley"", ""is_translation_enabled"": false, ""profile_background_tile"": true, ""favourites_count"": 14222, ""name"": ""Michael P. Shipley"", ""url"": ""http://t.co/o6KlZjqNT5"", ""created_at"": ""Tue May 13 03:07:46 +0000 2008"", ""contributors_enabled"": false, ""location"": ""Jakarta, Indonesia"", ""profile_sidebar_border_color"": ""EEEEEE"", ""default_profile"": false, ""following"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 14753886, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme14/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/o6KlZjqNT5"", ""indices"": [0, 22], ""expanded_url"": ""http://www.michaelpshipley.com/"", ""display_url"": ""michaelpshipley.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2130, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""14753886"", ""profile_background_color"": ""FAB81E"", ""listed_count"": 87, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Smart people live in Oregon (@GroovyBruce told me that) https://t.co/KRo0Tjp1aD"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 725861021223641088, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""quoted_status_id"": 725810073642110977, ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 282392576, ""indices"": [29, 41], ""id_str"": ""282392576"", ""screen_name"": ""GroovyBruce"", ""name"": ""Bruce Campbell""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/KRo0Tjp1aD"", ""indices"": [56, 79], ""expanded_url"": ""https://twitter.com/TheLastRefuge2/status/725810073642110977"", ""display_url"": ""twitter.com/TheLastRefuge2\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""725861021223641088"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:35:27 +0000 2016"", ""quoted_status_id_str"": ""725810073642110977"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 25200, ""statuses_count"": 50619, ""description"": ""LIBERTARIAN | Originally from Maryland, USA. #TRUMP2016"", ""friends_count"": 1276, ""location"": ""Jakarta, Indonesia"", ""profile_link_color"": ""4A913C"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/14753886/1458683084"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme14/bg.gif"", ""name"": ""Michael P. Shipley"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 14470, ""screen_name"": ""michaelpshipley"", ""notifications"": false, ""url"": ""http://t.co/o6KlZjqNT5"", ""created_at"": ""Tue May 13 03:07:46 +0000 2008"", ""contributors_enabled"": false, ""time_zone"": ""Jakarta"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Smart people live in Oregon (@GroovyBruce told me that) https://t.co/KRo0Tjp1aD
+Good news... https://t.co/caPjnaa6mS
+"""If all govt is drawn to Washington it will render powerless the checks of one government on another."" -- Jefferson https://t.co/b4E1ffEEyL"
+Sarandon wants to build a wall around Hillary.... https://t.co/2la6i1zTaJ
+The power of Trump compels you... https://t.co/LypamzH5Ar
+Why India is poor. https://t.co/UklObWZwjG
+Princeton says Trump is a lock to get at least 1300 delegates. https://t.co/1Vs4vz7NVV
+Fascinating tIme lapse of majestic container ship The Gunhilde Maersk - https://t.co/zkvd8n0S6S
+"#Trump2016 
+
+Support Donald Trump this Saturday, April 30th at the Massachusetts Caucus. 
+
+""Do not let them try to overturn your vote!"""
+Reinforcements have arrived... #TrumpTrain https://t.co/t1o7wGQi5W
+Like taking candy from a baby seal. https://t.co/PGWEc0mjee
+"Trumpians! Ready your breakfast and eat hearty... For tonight, we dine in hell! https://t.co/fkXGsu32QL"
+@realDonaldTrump We lived to tell the tale... https://t.co/B987kchxCS
+"Via @BenSwann_
+
+Saudi Arabia Terrified of Release of ""28 Pages"" in 9/11 Report 
+
+https://t.co/CQzlLsNPdt"
+"@realDonaldTrump Ted Cruz, delegate burglar. https://t.co/DAe4AQkUa9"
+"@ByBrianBennett When the econ gets better, they'll be back."
+@OfficialSPGB @HillaryClinton A brutal hegemonic govt is the most dangerous threat to us. A Big Mac never hurt me.
+@HillaryClinton YOUR dangerous. ##refugees https://t.co/rovfWrgxj1
+"@anitabadejo @juliaioffe Yeah, class warfare jealousy. Thats not tacky at all. :P"
+"@RichardGrenell @RepAdamSchiff @thehill @rollcall @politico 
+Right, lets keep doing the same thing. Thats what got us 911 and 2008."
+@OhmyGalt Yes.
+@MMWapp @HuffPostPol @realDonaldTrump https://t.co/rC3ZawIjr6
+"@CNNnewsroom @djrothkopf @realdonaldtrump Yeah, more 911s and 2008s is what we want. Right necons? :P"
+@salnews You'd rather have this reality? https://t.co/Zj36Cbxq9u
+@ABC Like Obama got all the black voters. Liberal racism and sexism is rampant.
+"@RogerJStoneJr @RealAlexJones @infowars Ted Cruz, delegate burglar. https://t.co/9Fk05pYGbD"
+"""Muh pay gap."" https://t.co/6haZysC6Wi"
+"@realDonaldTrump 
+
+Western civilisation.
+
+_ https://t.co/cyMnRWVJ1m"
+"Donald Trump has finally reached the pinnacle of the media pyramid. He's on TMZ:
+https://t.co/Z1DYihNAbL"
+"Maybe we can build a fire, sing a couple of songs, huh? https://t.co/Xwl6llk2bs"
+"@mitchellvii 
+
+This is how we fight.
+
+___ https://t.co/KNfRL8FIZW"
+Hard core Gore. https://t.co/DPVSclbpCd
+"@vulture Yeah the USGOV has a great record of regulating things, like the banks, housing, health care, the economy, NSA, CIA, DHS. :P"
+@ElizabethOIsen This witch can be a bitch. https://t.co/GgORPeSq9V
+@enews Lame SJW BS again.
+"@POLITICOEurope If he waits for the GOP to do it, it will never happen."
+@Zap2it Why doesnt she move to Mexico? Not white enough?
+"@Slate Come back with your shield, or on it. https://t.co/epNFag3H58"
+@thehill Thats the type of clever thinking we need.
+@DanScavino https://t.co/QU7D9ke83s
+"#Trump2016 
+
+Come back with your shield, or on it. 
+
+_ https://t.co/k08NbwwhjX"
+Rules and records are meant to be broken. https://t.co/xTOjUh8T0e
+@dcexaminer Here Mexican non union equivalent wants to stay too. https://t.co/PIzktGVEVV
+@dcexaminer Why wont she move to Mexico? Too poor and brown for her? https://t.co/YlTUsUkv6e
+@perthnow Move to Mexico.
+@HollywoodLife Why wont she move to Mexico? Too poor and brown for her? https://t.co/YlTUsUkv6e
+"Gutfeld: Fleeing to Canada? Who's the real bigot, Lena? https://t.co/cUzMggmcXH"
+Another hoax by Michelle Fields. Her book. https://t.co/1dNA1KMhvM
+"""This is obviously a huge money laundering scheme."" - Graham, DP, The Room."
+Trump going live now. https://t.co/KKvkGrZgfV
+Not just the media Lyin Ted. https://t.co/reSiCPqqm7
+@Slate Dont be predictable?
+Scary cool. https://t.co/wE7jleIiUy
+@allen_hallock USSA. :P
+"""Its not enough that I win, everyone else must lose."""
+"@OK_Magazine CORRECT LINK:
+
+https://t.co/nhzzMU8MVt
+
+_"
+@OK_Magazine Link asks for username password.
+"Napolitano: Indictment or not, Hillary faces catastrophe https://t.co/XucNKi0JxW"
+England Bans Its Own Flag to Avoid Offending Muslims https://t.co/h3ZUvw5Gkp
+@OU182 Did he stop Colorado citizens from voting? Did he tell voters in Iowa that Ben Carson dropped out? Nope. THATS thuggery.
+"@SopanDeb What he says doesnt change, only how he says it."
+@dcexaminer Canada has always blocked illegals and only allowed in rich immigrants yet she prefers to move there. Idiot.
+@OU182 @NBCNews He'd rather expose thuggery than join it.
+@iRoyalJelly @thehill Dems have already said they will sue for eligibility if he wins nom.
+"@newsbusters @BrentBozell 
+
+Bozell: ""President Barack Obama looks like a 'skinny ghetto crackhead.' ""
+
+___"
+"@WBNGActionNews 
+Chairman of Mises Institute Endorses Trump University
+https://t.co/ROnksMIB4J"
+@BuzzFeedAndrew Her plan to shut down coal proves she wants to increase the hard times and the high prices for energy.
+"@dcexaminer 
+Chairman of Mises Institute Endorses Trump University
+https://t.co/ROnksMIB4J"
+"@ForAmerica 
+
+Bozell: ""President Barack Obama looks like a 'skinny ghetto crackhead.' ""
+
+_______"
+@eaglekwest @CameliaDitch @realDonaldTrump @DonaldJTrumpJr @EricTrump LoL.
+@adamprotocols @benshapiro Its real.
+"Chris Evans gets an eyefull of Elizabeth Olsen's cleavage at the London premiere.
+
+#CaptainAmericaCivilWar  https://t.co/dSfrtdEFMP"
+@benshapiro Hard to tell where the pizza begins and Kasich's mouth ends. https://t.co/3ndBNTbffL
+"@harvardshaker No Crocidili, I also post informative + educational images like this! So there! https://t.co/3Arp4jagcA"
+"#AshvsEvilDead is international now.
+
+https://t.co/WbDUQHzE8H
+
+@GroovyBruce @AshvsEvilDead https://t.co/1YtsSMNqjC"
+@realDonaldTrump @DonaldJTrumpJr @EricTrump https://t.co/9ti4kwMXeH
+Kasich is Konfused. https://t.co/yDKzgkh1fv
+Students fight teacher: video shows five pupils gang up on teacher in China. https://t.co/Z0GHyCLgvb
+"If you live in the UK, 'super gonorrhea' is coming for you https://t.co/uKxIievDkV via @TomoNewsUS"
+@RealRaySantiago Public schools are glorified kiddie prisons with viciously gangs prowling the hall ways. #homeschool
+"Would someone steal your moped if you left it running on the street? 
+https://t.co/E4IcsORpvm"
+Indonesia govt admits torturing a man to death. https://t.co/UPLK6gAcKt
+Demands by wives to blame for corruption in Indonesia: Minister  via @htTweets https://t.co/1AxJHcNKu0
+"TRUMP POLLS
+MD  +26
+CT   +29
+RI    +38
+PA   +22
+DE   +37
+https://t.co/QnnhEzw2vG"
+@SkyNews I for one welcome our new dinosaur overlords.
+@business Its just beginning. https://t.co/61uCAgZ1Bm
+@NBCNews Wack crack. https://t.co/PVgxqfAHG6
+@thatRamosgirl If they mated... https://t.co/3TzgpN6Uuu
+@TheLeadCNN @realDonaldTrump Make my stomach weak thats for sure. https://t.co/KPuPg0xFlK
+@thehill Crusich? https://t.co/7mVSkvv0oO
+Major pollitical donor Foster Friess https://t.co/TVTmOO573I
+Oligarchs dropping support for Hillary. Will support Republican candidate. https://t.co/roExPtFn7O
+@CandaceSmith_  Never eat on camera. It never turns out well.
+@prioritiesUSA Be afraid. Be very afraid. https://t.co/WJJkw2HY19
+@PrisonPlanet https://t.co/Bo10SzWByz
+"@PrisonPlanet Have to admit, I'd take her over this any day. https://t.co/XW9tnu6BKF"
+@dianepe44651138 Totally. ;)
+@WayneDupreeShow Final form... https://t.co/Ctg48WLjbP
+@NPR https://t.co/y8FXud7jVF
+"@dcexaminer 
+
+Most Pennsylvania delegates will go to Trump.
+
+https://t.co/KdEx4PXHiO"
+@CTVNews https://t.co/N7joCbFx82
+@TimOBrien @realDonaldTrump Avg # of lawsuits / yr is 500k.
+@aavelarx &lt;= Dick.
+@realDonaldTrump https://t.co/DCis3PiLll
+"Trump is polling over 50% in CT, PA, and RI. https://t.co/UtkrSUC7xz"
+"BIBLE: ""Cursed is he who frames mischief by a law."" https://t.co/B0RTDbGegd"
+"Cruz and Kasich, the very definition of corrupt colluding politicians. https://t.co/N3wdbqX7Tv"
+@BostonGlobe You mean stop democracy.
+@conservatismtlk @CNNPolitics Its the media thats has been incendiary. Calling him a Hitler that will nuke the world.
+"@Sandra_Sully @Reuters Spelling error: Not ""Stop Trump,"" ""Stop Democracy."""
+"4/25: Chairman of Cruz campaign: Most Pennsylvania delegates will go for Trump.
+
+4/6 Redstate: Most Pennsylvania delegates will go for Cruz."
+Food is part of culture. Govt regulating our food (FDA) is Govts way of forcing THEIR culture onto us.
+"@DunkinDave @GroovyBruce 
+
+PABLO: Ash! What R U doing!?
+ASH: Gotta plug them sinkholes!
+KELLY: Not a sinkhole! https://t.co/AcO1xhfus9"
+"Fox News Sunday 4/24
+
+Paul Manafort: ""Cruz stealing delegates is irrelevant. Trump will win on 1st ballot.""
+
+https://t.co/hhgBBdRHjV"
+All great billionaires think alike... https://t.co/J8dEPDZWpa
+@BoudicaRides Looks like he's retired.
+Its not you.  https://t.co/QAiiPAJWhG
+Trump will not delegate the process of eliminating the delegate system. https://t.co/775kIV9YGO
+This is how they do it. This is how they cheat. And this is how we fight.
+Rock stars always die young.  https://t.co/rVZOEhxSMq
+"@mitchellvii 
+
+Watch how the GOP con men railroad you into choosing their hand picked delegates.
+
+https://t.co/xOvcfN4wnI"
+LMAO. Love Roger Stone. https://t.co/YjdsMQZeML
+"Video example of how the GOP con men railroad you into choosing their hand picked delegates.
+
+https://t.co/S97S6etTG2"
+World leader  = globalist banker shill.
+Donald Trump has low blood pressure. Until he starts thinking about about Lyin Ted Cruz... https://t.co/SF0ohHiXVk via @YouTube
+Its the only way they could allow Hillary to vote. https://t.co/6wABio3v0w
+@ABC Its the only way they could allow Hillary to vote.
+Donald Trump Does a Hilarious Impression of 'Boring' Hillary Clinton https://t.co/ZLHhvFmzZ9
+"2016 Libertarian Party Debate
+
+The USGOVs draconian taxes and regulations makes it the worst free trade cheater.
+
+https://t.co/FOSvvMdLjJ"
+@politico World leader = crony banker shill.
+"Chinese love Americans. UGOV, not so much. 
+
+CAPTAIN AMERICA: CIVIL WAR Beijing Premiere B-Roll 
+
+https://t.co/uvOrxiWTeJ"
+SUV Rolls Over After Aquaplaning - All Okay https://t.co/gH7gMxymIf via @YouTube
+How very droll. https://t.co/wvR6I9KndT
+"@Paul_Bettany No one should pay taxes, aka extortion."
+@PolitiFact https://t.co/sJJa7GZVuk
+@PolitiFact Carter knew the whole US election system was rigged long ago. https://t.co/3TddbRwa7c
+@PolitiFact They suspend democracy in CO and Politifact says the system isnt rigged for insiders like Cruz. I call Politifacts claim: false.
+Time for some fresh souls. https://t.co/qlfNxAeZPQ
+@koconews https://t.co/nCcuDPh6bS
+@justin_halpern https://t.co/Bbx4lWClmQ
+Kaysick. https://t.co/gRG0VLnRH7
+"Kesha Performs ""True Colors"" Live with Zedd at Coachella Music Festival ... https://t.co/sxK5QFAeC2"
+Kesha Kills at Coachella https://t.co/j7Ljp6FyUA
+Its an epidemic. https://t.co/KTb02mOhWG
+"@VICE Misleading. His 757 is legal, its his small cessna thats grounded."
+@Penn_Zero @VICE These real estate holdings should put him back in the black... https://t.co/vuO16yfim7
+@thehill And not a second too soon.. https://t.co/D8llV8Zxjb
+@NYMag Trumped. https://t.co/3P5gERFkU9
+"#CaptainAmericaCivilWar 
+
+Rottentomatoes 97%
+
+_ https://t.co/0LoHnmFWDk"
+"#CaptainAmericaCivilWar
+
+Marvel writer Mark Waid gives advice on writing ideas and writers block. 
+
+https://t.co/J45WVb7QnR"
+@realDonaldTrump Carter banned muslims. https://t.co/O3YhYWsm5r
+Best Fails of the Week 3 April 2016 https://t.co/EoLOOUyUy7 https://t.co/SsHTNUq1di
+California dreamin... https://t.co/RONPcVRLJy
+"Now this is what I call a fair exchange. US gives Marines, arabs give dollars. https://t.co/7UCnvFV2aI"
+"Jonathan Kent must be their guardian angel...
+
+Horses Rescued From Flood Waters in Texas 
+
+https://t.co/DFY7chGn8w"
+@realDonaldTrump @DonaldJTrumpJr https://t.co/syUBdHClah
+@AnnCoulter 420
+Carter banned Muslims when he thought they were a threat. https://t.co/syUBdHClah
+"@scrappy_neu Not true, but its true that most people hate you.
+
+@thehill"
+"#domesticviolence
+
+We have to stop violence against women, BY WOMEN.
+
+https://t.co/VBuOIQVhgU"
+ISIS storming Malibu Beach. https://t.co/LblKLxjX3d
+"""Cruz is not my favorite by any means, always hittin on the ladies trying to get in their jeans...."" https://t.co/1fBWIRr87K"
+Typical lyin Wall Street lawyer... https://t.co/nOR8crGydE
+"@FastCoDesign 
+
+And this?
+
+_ https://t.co/4FGQvANdxf"
+"The Worst Advice I Ever Received: 
+
+""Never quit.""
+
+https://t.co/vkdlWhFRpN"
+If I could get a new heart I'd do it in a heartbeat.
+@GroovyBruce Dont go gently. Squeeze every bit of life out of Mel Brooks.... https://t.co/w9eodEk3hc
+"@carlreiner Whenever I hear a little girl screaming in a church, I will always think of Carl Reiner."
+@ESDAlerts Are we going to let the aliens win and force us to ration water? Hell to the no! Fill up your pool and say F.U. to alien tyranny.
+Maisie Williams always  pays her comic book debts... https://t.co/Y2kmult857
+"Camille Paglia:
+
+Is Hillary lying about a chronic thyroid condition?
+
+https://t.co/JgkllqfG5F https://t.co/sV4oBXLmmA"
+A classic. https://t.co/N7IrhxAMq7
+He did it his way. https://t.co/c1pbDaWjwa
+"#BumperStickerOfTheDay
+
+""Dont want to get technical but according to chemistry, alcohol IS a solution."" - Anonymous
+
+_"
+Veep Season 5: Contested Convention (HBO) https://t.co/ylZnbXPvCU
+"Via @billstill
+
+""Hamilton was the founding father of our $20T national debt.""
+
+You stay class Hamilton fans.
+
+https://t.co/ntTB8VCj1M"
+Miranda Sings Tries Out Speed Dating In Hilarious Prank https://t.co/i2ZI61E2dP
+ABC NEWS: Donald Trump Eyes General Election After New York Win https://t.co/ApOHfpZoRg
 "#Prince
 
 ""People who eat a strictly plant-based diet may suffer from subclinical protein malnutrition.""
@@ -15,375 +312,3 @@ https://t.co/3RhVHlbyIR"
 *cough* britney spears *cough* 
 
 _ https://t.co/TycIHtB1Cu"
-The Japanese consume 89 times more iodine than Americans and they have the lowest rates of cancer in the world.
-BigPharma profits from cancer. https://t.co/9CmsIyH4QL
-@thedailybeast @RealLucyLawless Remember when the north attacked the south and made slaves of us all?
-@allen_hallock Historic.
-@allen_hallock SNL is full of useful idiots unwittingly working for the cultural marxists who want to turn the US into the USSA.
-Star Wars x 10. https://t.co/gdAk36ZtpO
-"@sherrycooper61 @PrisonPlanet 
-""Raif Badawi, 10-year in prison in Saudi Arabia, for setting up a website for social and political debate."""
-"@jonallendc @reidepstein @WSJ @monicalangley 
-
-USGOV is $20T in debt, rising $500b / yr. We could use some financial help. 
-
-_"
-"@TandCmag Not the big one, the little one."
-@Slate Wall Street.
-Pat Buchanan brings historical perspective to the current GOP race. https://t.co/T0DN0e8IWP
-"The smallest US state is Wyoming, 563,626 people."
-@vivelafra THIS is the mentality that led us into WW2. https://t.co/FPDKkJK0NL
-"The Late Late Show with James Corden 
-
-Running for President Is Hard for Ted Cruz 
-
-https://t.co/kuOTr9pC3e"
-Cruz better get his Canadian passport ready because he's gonna get run out of town real soon now. https://t.co/WXIl2446YB
-"#AshvsEvilDead 
-
-Episode 1 Easter Egg
-
-""1973 Olds Road.""
-
-_ https://t.co/Opl0UG2idG"
-@AngryAmerican97 Bug bite?
-@EconomicTimes Take care of you own damn self and stop living like a parasite off the US.
-"Its like Cesar says, if you're too nice to a dog, it doesnt respect you. The US is too nice, gets no respect. https://t.co/dNj5Dvvxwg"
-Director Joe Russo Teases A FULLY POWERED 'Scarlet Witch' For AVENGERS: INFINITY WAR https://t.co/agVCVePTaw https://t.co/sHcc32Hpxh
-@RedAlert @anthonyhennen Its more like N.Korea where even the communist (Republican) party members cant vote.
-"When Cruz runs away, will he run to Canada or Cuba?"
-"#Trump2016 
-
-""Never interrupt an enemy when they're making a mistake."" - Napoleon.
-
-#Colorado 
-#Wisconsin"
-@Cernovich I've heard they also do some weird things in Slovakia. Something about a Hostel and torture.
-Bring back the AoC (Articles of Confederation).
-Trump sent operatives to find the Colorado votes. They found them. https://t.co/5C6y08Ii3Y
-@SpinDr @nytimes I'd like to ground the USGOV. We could put it in the Smithsonian on display as a relic of the obsolete past.
-@HudsonLandrock @nytimes They broke the mold after they made that beast. Awesome.
-"Finally. Next, gay Thor. https://t.co/moz8qaWvBm"
-"@Realjmannarino Finally. Next, gay Spiderman."
-@SpinDr @nytimes His other narrative is to be as cheap as possible. ;)
-@HudsonLandrock @nytimes Make SR71s great again! ;)
-@SpinDr @nytimes Go go gadget helicopter! https://t.co/JqRCOOQosH
-@snopes @realDonaldTrump Hillary's faux paux: https://t.co/gS3gfq5SsK
-@MarketWatch What Would Ron Paul Do?
-@WashTimes Poor baby. Reminds me of another whiner... https://t.co/5gfxeIArh3
-@SpiritofBen @nytimes IKEA would be proud. https://t.co/BhnkQDx7RR
-@SpinDr @nytimes He' just have to use his backup 757. https://t.co/O82XDezlJ3
-@nytimes His other jet is an SR-71. https://t.co/W8g4fzUMyM
-@AshvsEvilDead https://t.co/DQf5muJKWX
-"@MaximMag @AshvsEvilDead @ImDanaDeLorenzo 
-
-""Damn girl I must be a demon because I wanna be inside you."" - Ash
-
-_ https://t.co/ePk5KbPrMa"
-Why didnt I think of that? https://t.co/Nk7sI7OPvt
-Trump is crossing the Delaware in a surprise attack against Cruz's forces.. https://t.co/Wu32WWRVUV
-@DavidMGold32 @WinterInAmerika @TheRickWilson Or Richy Rich.
-@DavidMGold32 @WinterInAmerika @TheRickWilson Me either.
-"#trailer
-
-""Got a job.""
-
-""Is it difficult?""
-
-""Impossible.""
-
-THE MAGNIFICENT SEVEN Chris Pratt, Denzel Washington.
-
-https://t.co/yoBDueGF7Q"
-@DavidMGold32 @WinterInAmerika @TheRickWilson Would you believe George Washington? https://t.co/aL975ZY2Zc
-@WinterInAmerika @TheRickWilson He's better. He's more like Andrew Jackson.
-@TheRickWilson Didnt Reagan also have low national numbers during primary yet won the general?
-@business GOP needs to dump the delegate process. Dont need it. It just a way to rig the system.
-Think about this: All elected congressmen and senators and presidents are -- UNBOUND.
-Its worth the risk. Right? https://t.co/uQlKrlbMxa
-@dcexaminer 90% of blacks voted for Obama.
-@samhaysom @lydialeith Pass it over here.. https://t.co/kiCI6M7Itt
-@RonStarts That would be great.
-Dont make Paul Manafort laugh. https://t.co/GEtMLdUcdu
-You cant smoke in here. https://t.co/MA6cBxGqg9
-Dont touch me. https://t.co/BxbzlKTcyO
-Hilarious. Especially Al Sharpton.  https://t.co/cLRKw0edXY
-"@mitchellvii 
-
-""Cruz's stealth strategy to defeat Trump in NY""
-
-Get 0 delegates.
-
-https://t.co/X8aaJUTQbt"
-@bpolitics China is not a free trader so US gets ripped off. The prob with Mexico is the US. is a high cost economy.
-"David Spade's Awkward Adele Story 
-
-""I stayed 4 minutes too long.""
-
-https://t.co/eojIQJrNoA"
-@GroovyBruce Safe and sound. https://t.co/YeY1zJMMTE
-Dont tell the media. https://t.co/LDLPvWW9aV
-@ReutersUS Why fight it? https://t.co/YP0FbL44Nq
-"Paul Manafort (Trump Convention Manager) on Hannity 4/19
-
-""There Won't Be a Second Ballot""
-
-https://t.co/fFyUW6Kctt"
-@winfrey_mark @RaiseURH @mitchellvii LOL.
-"_
-
-N.Koreans applaud Colorado: 
-
-""Democracy no good!""
-
-_ https://t.co/9mGaxjXZFm"
-@EOnlineAU I like her flub better. https://t.co/0ChlBdonGw
-@michaelpshipley @SamanthaDunn @ShaneGoldmacher Nope I was wrong. over 90 delegates. Man I'm stupid.
-@CurtisLReid @thehill The truth is treason in an empire of lies.
-@thehill My other jet is an SR71. https://t.co/HBZMPShMLY
-"@Daily_Express 
-
-She's an ass.
-
-_ https://t.co/JFxaeiGpF3"
-I'm having a good feeling about this... #NewYorkPrimary https://t.co/Lg5QyRyz41
-"@mitchellvii 
-
-Feelin guuuuud...
-
-_ https://t.co/j2ZfPxCkyX"
-@bpolitics Think so. https://t.co/GHNdypWgEh
-@Variety No one does a better Elvis than @GroovyBruce in Bubba HoTep https://t.co/WKKTIJZy0o
-"_
-
-Sen. Rand Paul Urges Economic Freedom Zones
-
-https://t.co/92HiheMR78 via @YouTube"
-That autograph will be on sale at ebay in about 5min. #NewYorkPrimary  https://t.co/a20U0lHODb
-"In a summer when there are so many good movies coming out, only one man can see them all... https://t.co/jyzOMMKaMc"
-Ash has retired and become a Jacksonville hillbilly in S2 of #AshvsEvilDead  https://t.co/qPBmRJCuzv
-"Has the USGOV apologized yet for the 700k+ killed in the US ""civil war?""   https://t.co/sxTULRgCgQ"
-"@TIME 
-
-Has the USGOV apologized for the 700k+ killed in the US ""civil war?"" 
-
-Hypocrite.
-
-_"
-Trump dominating in all NY districts. https://t.co/CHXEpi3Slx
-Trump leading in all NY districts. Will prob get ~85 delegates. https://t.co/yfCBVh3Qqn
-"@SamanthaDunn @ShaneGoldmacher 
-
-Trump leading in all districts, He will prob get 85 delegates.
-
-https://t.co/CHXEpi3Slx"
-Rhuzkan was the consultant on that ice rink in NY before Trump took over and did it for a tenth of the cost. https://t.co/4cTNyF6nCH
-@PopMech Ali F. Rhuzkan must of been the consultant on that ice rink in NY before Trump took over and did it for a tenth of the cost.
-"@PopMech 
-
-Ali F. Rhuzkan must of been the consultant on that ice rink in NY before Trump took over and did it for a tenth of the cost.
-
-_"
-"@HuffPostAU Thank god the media 
-points out these faux pauxs otherwise we'd be wasting time thinking about the $700b trade deficit."
-"@scottbix Next they'll be doing a something even sillier, like a ""Sophisticated Trump."" Wait a minute... https://t.co/owmDSbbfmb"
-@PopMech &lt;= must of been the consultant on that ice rink in NY before Trump took over and showed them how to do it for a tenth of the cost.
-@HitFix https://t.co/Eh157x2sBB
-@gopcrapola @realDonaldTrump Ok... https://t.co/i9arA44jck
-@NotUncleTom @realDonaldTrump This? https://t.co/pkfMPKCElK
-"@SamanthaDunn 
-
-Manfort to the rescue!
-
-""Paul Manafort, just delivered a big win in Michigan’s delegate game.""
-
-https://t.co/xRdsNvHaUg"
-"@seanybrams @ImDanaDeLorenzo @AshvsEvilDead @MaximMag 
-
-Yowsa.. https://t.co/zpxG0TpdzR"
-@KellyWirth3 &lt;= Evil https://t.co/RH7aFiaI3x
-@RealTrillBill @realDonaldTrump https://t.co/zOVgeVpxQs
-@antiquusxy &lt;= Not a guy.
-@__Mazhi &lt;= Sadist.
-@ImIyx @realDonaldTrump Fat.
-"@realDonaldTrump 
-
-Free kisses if you vote for Trump!
-
-_ https://t.co/e4RK0HFKsg"
-"@dcexaminer 
-
-Morning Consult 
-
-4/15 - 4/17
-
-Trump 46
-Cruz    26
-
-_"
-"@Independent Thank god the media 
-points out these faux pauxs otherwise we'd be wasting time thinking about the $700b trade deficit."
-"@thejournal_ie Thank god the media 
-points out these faux pauxs otherwise we'd be wasting time thinking about the 20% unemployment rate."
-"@7NewsSydney Thank god the media 
-points out these faux pauxs otherwise we'd be wasting time thinking about the $700b trade deficit."
-"@foxandfriends Thank god the media 
-points out these important faux pauxs otherwise we'd be wasting time thinking about the $500b deficit."
-"@MSN Rules are made to be broken, if they are bad rules. We the people are not slaves to rules."
-"@THRGlobal How does Sam get 40% share of the venture for only $100k? Chan had to inves $160m for 60%.  
-
-_"
-ICYDK: Sam Raimi does the voice of the Giant Squirrel in The Jungle Book! https://t.co/XCsMDVK1gW
-"@thehill Well its over folks, obviously he cant be prez now. Thank god the hill detected this mountain level faux paux. :P"
-@602sportsfan @realDonaldTrump You work for LG? https://t.co/Z0n9TvmRjF
-"_
-
-In US, 67% of the electricity generated was from fossil fuels. 
-
-#TeslaFail"
-@PrisonPlanet He's such an ass. https://t.co/Wwx5I3RQHP
-@TPM Daddy issues.
-@TPM https://t.co/mCwq8TVhOq
-@TPM Looks like an older version of hoaxster Michelle Fields.
-@RedAlert @anthonyhennen We're tired of the hit pieces on Trump. Your time is over Neocons. Get used to it. https://t.co/jICfrcWYgg
-@marvelcrush Slow motion. https://t.co/Rht41E5hzq
-"@alexburnsNYT @megynkelly 
-
-Go ahead, make my day...
-
-_ https://t.co/wVpsmvhMwa"
-"@HorrorCrltique 
-
-Wish they used the original evil entity sound effect...
-
-https://t.co/d1aHphl75M"
-@GovExec He's making jet fuel great again.
-@thehill Didnt you guys just post that an hour ago? Getting perilously close to being a desperate spammer.
-"@RedAlert 
-
-Rule #1 Cheat.
-Rule #2 Cheat.
-Rule #3 Cheat....
-
-_"
-"@elizabethredman @WSJ 
-
-She'll get over it.
-
-""Donald Trump's $100 million penthouse."" https://t.co/KTdPP10GxE"
-@NRO Daddy issues.
-"@BillyCorben 
-
-#AntiTrumpPussies
-
-_"
-"@DaveMcKinley2 @WGRZ 
-
-I thought these guys were supposed to handle security.
-
-_ https://t.co/IsC53mTwD6"
-"@WomenintheWorld 
-
-I'm surprised THIS isnt a huge deal.
-
-_ https://t.co/qte7bH7KfH"
-"@GangsterActual @NRO 
-
-Yeah, pretty gaudy.
-
-_ https://t.co/Wi4eSYBMKQ"
-@NRO They must have daddy issues.
-"@stereogum @YG @NipseyHussle 
-Dont see too many white people at this rally. https://t.co/wQDZYainkX"
-@NRO Cruz is much more masculine. Look at all the pussy he gets... https://t.co/aC3gWZA4Qf
-@BostonGlobe His women like it when he talks dirty to them.
-@globeandmail You mean how DEMOCRACY can be derailed. Boy you guys need a journalism refresher course.
-Imagine McDonald's charged wealthy people more than middle class for a Big Mac. Thats govt.
-"@complex_uk It was a REPUBLICAN fund raiser, not a TRUMP fund raiser. Bad inaccurate biased reporting. Not surprised though. :P"
-@complex_uk Blacks are only 10% of Long Island population and 17% of US pop. Dont think they have quite mastered omnipresence yet.
-"@thehill 
-Trump 2015 ""China is taking our jobs!""
-Hillary 2016 ""China is taking our jobs!"""
-@dcexaminer She's the one who needs chemotherapy. https://t.co/HULwMT7qNS
-@WISN12News Warmongers dont like trump.
-"@thehill Words cant hurt me, but word bullets could. https://t.co/n2ldx6neCy"
-"@realDonaldTrump 
-
-Those are not small hands, believe me.
-
-_ https://t.co/sTNfKsOzkq"
-"Refugees arent invading Europe. They're being invited in. You know, like vampires."
-"@HuffPostPol He's closing the deal as we speak in CA, CT, MD, and PA. https://t.co/2lBolHYisN"
-"@dcexaminer  If it was Ted Cruz: ""You're out of order! You're out of order! The whole trial is out of order! They're out of order!"""
-Camera Movement In Filmmaking Is Indulgence by Tom Sachs https://t.co/kXkjYJxkAu
-"@realDonaldTrump @DiamondandSilk 
-
-Now entering nominational altitude...
-
-_ https://t.co/5z8mZ37qL3"
-"Mexico's #1 export is...
-
-...people. 
-
-55m legal, 11 - 30m illegals."
-"@ahanson0930 @GroovyBruce 
-
-Dont like the weather in Baja? Wait 5 minutes.
-
-_ https://t.co/YdjKFlr2BT"
-Read how Trump is a major victim of the Fed and its corrupt cartel of money printing central banks. #Trump #Toronto  https://t.co/GwIuiEPWf1
-@jpags @amydempsey Well done article. Very thorough.
-@jpags @amydempsey The root cause of this was the 2008 financial collapse that collapsed the credit market. Blame the Fed.
-@SamanthaDunn @jimmycamp1 Luckily Trump doesnt seem to need his help: https://t.co/IVc5lCq8xR
-Trump surges in CA... https://t.co/IVc5lCq8xR
-"@rontherope If you were running for pres and voters asked to see your American B.C., you'd show it, right? But no Cruz hides it. Why?"
-The press is depressing.
-@thehill Trump responds with a brutal attack ad on Kasich. https://t.co/uSGUJHk9sI
-@BethElderkin Bender under construction as we speak... https://t.co/6EE6Gni2th
-@realDonaldTrump https://t.co/lTZrURfFxc
-@realDonaldTrump https://t.co/VUKvfG0qHd
-"Obama will of course ""bow"" to their demands.  https://t.co/45GWWuT5xP"
-Answer: Hillary Clinton. She's a liar wrapped in a conflict of interest. https://t.co/WtIw8k4uK9
-@mitchellvii Remember when CNN asked Cruz over and over what it would take for him to drop out since he was losing so badly? Me either. :P
-@politico I doubt if the many developers that licensed the Trump name would of done it if all these libelous accusations were true.
-"@AnnCoulter Businessmen like Trump are very libertarian. They dont believe in force, they believe in making deals."
-@DrKC4 Are you related to Miles Dyson?
-@hrh_orchid @realDonaldTrump He only condemned incompetent politicians. Manafort is a lawyer.
-@PaulaRh65216681 @realDonaldTrump Not if he didnt apply for a US birth certificate. Where is it? Why hide it?
-"@enid_berrios He's not running for Miss Congeniality. It's not a beauty contest for gods sake. People need jobs, he's their only hope."
-@ThisIsFusion Are there any more pejoratives left in the english language? I think that was all of them. Micropenis?
-@DailyCaller https://t.co/kzpvTCJp5z
-"""James Franco as a writer?That's laughable, I can't see him being a writer, but I can see him being a drug addict."" https://t.co/OvXFvx3rrH"
-@hrh_orchid @realDonaldTrump Not worried. Trumps hired Paul Manafort. Expert in delegate and convention process. Cruz might not be citizen!
-@allen_hallock The safest place is in the Feds vault. No one can ever go in there.
-@allen_hallock LOL. Vote early vote often.
-"Why is it the media never asks Ted Cruz, ""What would make YOU drop out?"" https://t.co/qiNFsuGGS9"
-"Trump is killing it in CT, MD, and Penn. 
-
-CA is still close though.
-
-_ https://t.co/2lBolHYisN"
-"@realDonaldTrump 
-
-IF Cruz is an real American citizen he'd have one of these, but he's sealed his records. 
-
-_ https://t.co/HWYAYsZDAy"
-@thehill Because its another Colorado; no voting; forced anti Trump delegates hand picked by the GOP. #corrupt
-@HorrorCrltique Kiligos... https://t.co/Q2spY3h8qX
-@HorrorCrltique Its alive. ITS ALIVE. https://t.co/b4bZls4d9p
-@TPM Unfortunately there is no path for the RNC leadership to recover from their corruption. Heads will roll.
-@bpolitics ...after the woman violated SS protocol and charged up to Trump who was a victim of a murder attempt just a week before.
-"""I'm so petite I stood near a womens restroom and a line formed behind me."" - Nick Guerra (@nickcomic)"
-@csmonitor @Taylor_Luck As long as they dont turn the US into Egypt... https://t.co/lsdeXYNEun
-@DevineNews I wonder what his views are on TPP and Common Core.
-"@A1Carl His ""US"" citizenship docs have not been released. They are sealed. It should look like this: https://t.co/gq1LOk1hPk"
-@glenzee79  Zeeeee senor. ;) https://t.co/7VWTRekjDf
-"@YahooTV @realDonaldTrump
-
-Every single homosexual in the world is now denouncing Cruz. 
-
-_ https://t.co/GdrbE5PRHN"
-@USM_FrostBerg Ok Ushinar. LoL.
-@MainstreamNews @realDonaldTrump @dmharvey89 @wdct8110 Release your birth certificate CanadianTed.
-@Trump201678 @realDonaldTrump @dmharvey89 @wdct8110 LOL.
-@realDonaldTrump @dmharvey89 @wdct8110 https://t.co/cNosXH9XBv

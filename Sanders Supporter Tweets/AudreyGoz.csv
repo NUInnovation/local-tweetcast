@@ -1,74 +1,53 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": null, ""id"": 1155097699, ""description"": ""Disability and Mental Health Advocate, past social entrepreneur, nature & environment loving hiker, clean air and water activist,  yuuuge Bernie supporter."", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/710986613573226499/EUSdZZvD_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 493, ""protected"": false, ""id_str"": ""1155097699"", ""default_profile_image"": false, ""listed_count"": 71, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @GiveEmHellBern: #NeverHillary https://t.co/UdoK7reZ46"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723288300279091200, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [3, 18], ""screen_name"": ""GiveEmHellBern"", ""id"": 3959718724, ""name"": ""brent4Bernie"", ""id_str"": ""3959718724""}], ""hashtags"": [{""indices"": [20, 33], ""text"": ""NeverHillary""}], ""urls"": [], ""media"": [{""source_user_id"": 3959718724, ""source_status_id_str"": ""723287265628270592"", ""expanded_url"": ""http://twitter.com/GiveEmHellBern/status/723287265628270592/photo/1"", ""display_url"": ""pic.twitter.com/UdoK7reZ46"", ""url"": ""https://t.co/UdoK7reZ46"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""source_user_id_str"": ""3959718724"", ""source_status_id"": 723287265628270592, ""id_str"": ""723287263287758848"", ""sizes"": {""large"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""small"": {""h"": 272, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [34, 57], ""type"": ""photo"", ""id"": 723287263287758848, ""media_url"": ""http://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723288300279091200"", ""retweet_count"": 2, ""in_reply_to_user_id"": null, ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""#NeverHillary https://t.co/UdoK7reZ46"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723287265628270592, ""favorite_count"": 2, ""source"": ""<a href=\""http://www.twitter.com\"" rel=\""nofollow\"">Twitter for Windows Phone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 13], ""text"": ""NeverHillary""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/GiveEmHellBern/status/723287265628270592/photo/1"", ""sizes"": {""large"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""small"": {""h"": 272, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/UdoK7reZ46"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""id_str"": ""723287263287758848"", ""indices"": [14, 37], ""media_url"": ""http://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""type"": ""photo"", ""id"": 723287263287758848, ""display_url"": ""pic.twitter.com/UdoK7reZ46""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723287265628270592"", ""retweet_count"": 2, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Thu Apr 21 23:08:16 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/GiveEmHellBern/status/723287265628270592/photo/1"", ""sizes"": {""large"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""small"": {""h"": 272, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/UdoK7reZ46"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""id_str"": ""723287263287758848"", ""indices"": [14, 37], ""media_url"": ""http://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""type"": ""photo"", ""id"": 723287263287758848, ""display_url"": ""pic.twitter.com/UdoK7reZ46""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Thu Apr 21 23:12:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3959718724, ""source_status_id_str"": ""723287265628270592"", ""expanded_url"": ""http://twitter.com/GiveEmHellBern/status/723287265628270592/photo/1"", ""display_url"": ""pic.twitter.com/UdoK7reZ46"", ""url"": ""https://t.co/UdoK7reZ46"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg"", ""source_user_id_str"": ""3959718724"", ""source_status_id"": 723287265628270592, ""id_str"": ""723287263287758848"", ""sizes"": {""large"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""small"": {""h"": 272, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 480, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [34, 57], ""type"": ""photo"", ""id"": 723287263287758848, ""media_url"": ""http://pbs.twimg.com/media/Cgmh7w7U0AAoXMt.jpg""}]}}, ""lang"": ""en"", ""utc_offset"": null, ""statuses_count"": 9731, ""profile_background_color"": ""C0DEED"", ""friends_count"": 757, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/710986613573226499/EUSdZZvD_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1155097699/1457981521"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""screen_name"": ""AudreyGoz"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 6789, ""name"": ""Audrey Gozdiskowski"", ""url"": null, ""created_at"": ""Wed Feb 06 21:01:40 +0000 2013"", ""contributors_enabled"": false, ""location"": ""NE Pennsylvania"", ""profile_sidebar_border_color"": ""C0DEED"", ""default_profile"": true, ""following"": false}"
-#Pennsylvania #PAprimary #scranton #Philly #Erie #Pittsburgh #Reading #Maryland #Connecticut  https://t.co/5LoJWAgnov
-#Pennsylvania #PAprimary #scranton #Philly #Harrisburg #Erie #Pittsburgh #Lancaster #BernieStrong #PennState  https://t.co/QG5awmZk2M
-#Pennsylvania #PAprimary #scranton #Philly #Harrisburg #Lancaster #Erie #Pittsburgh #hersheypa https://t.co/SPLyxvlifd
-.@BillClinton Not a millennial &amp; all ages didn't &amp; don't vote since  Dem party has gone to the right-hopelessness! https://t.co/P0LhjINIyf
-"So this is what ""Democracy"" has come to?  Can't back who you want in the US w/out losing job - #Hillary or else?  https://t.co/rdFOIRhfWS"
-#Pennsylvania #PAprimary #scranton #Philly #Pittsburgh #Erie #Harrisburg #Lancaster #BernieStrong #Bernie2016  https://t.co/XElw3viK09
-"A perfect explanation. . .
-#Pennsylvania #scranton #Philly #Erie #Pittsburgh #hersheypa #Lancaster #Harrisburg  https://t.co/POkf7VWhwh"
-This is a democracy not a monarchy. . when some Hillary supporters have said it's her birthright! https://t.co/6cu7yGQJvM
-@TammyKosiancic  Couldn't agree more!
-#California #CAPrimary #LosAngeles #SanDiego #SanFransico https://t.co/E9YLSl9SNN
-"I agree. . .Hillary Clinton's campaign devalues women.  
-#Pennsylvania #PAprimary #Philly #scranton #Pittsburgh https://t.co/ZIsnshgm6C"
-"If you think their will be positive change with Hillary think again!
-#Pennsylvania #PAprimary #Philly #scranton https://t.co/XRGf56Jg7p"
-#cleanwater #FlintWaterCrisis #Michigan  https://t.co/bYimmhmcU3
-"#scranton #Pennsylvania will Feel the Bern today at Bernie's A Future to Believe In Townhall today! Volunteering, hope to see you there!"
-"Powerful Photographic Portraits of Veterans for Bernie Sanders 
-https://t.co/urBwdyQ8Qi
-#Pennsylvania #PAprimary #scranton #Philly #Erie"
-"Ban Fracking-Tax Carbon
-#SaveTheEarthIn4Words https://t.co/x7OVvBnotX"
-"#Pennsylvania #PAprimary #Philly #scranton #PennState #Erie #Pittsburgh
-#Bernie2016 https://t.co/98eMbshA8W"
-#Pennsylvania #PAprimary #scranton #Philly #Erie #Pittsburgh #veterans  https://t.co/8yrxjoiD7W
-"@jchaltiwanger @spandakolis22 @BernieSanders @AnaKasparian   So TYT Ana gives Bernie a Tues deadline, then we're to give up #DemocracySpring"
-"Empire File Abby Martin Exposes What Hillary Clinton Really Represents https://t.co/nSry0Z21mK via @YouTube
-#Pennsylvania #scranton #Philly"
-"There is a special place in hell for those who exploit folks with disabilities to get votes!
-#Hillary #Pittsburgh 
- https://t.co/kUII0JmCSl"
-@TammyKosiancic  As an advocate for people with disabilities and someone who has worked in this field-there is a special place in hell . . .
-Doing and saying anything for a vote? #HillaryClinton #Pennsylvania #PAprimary #disability #disabilityrights #Philly https://t.co/kUII0JmCSl
-"As a decades long advocate for folks with disabilities, I find this beyond reprehensible
-@HillaryClinton #scranton https://t.co/kUII0JmCSl"
-"#Pennsylvania #PAprimary #veterans #scranton #Philly #Pittsburgh #Erie 
-#BernieStrong #war #peace #FeelTheBern https://t.co/h9CTHYguS1"
-"Far from over folks.  Door knock, Phone Bank and VOTE! https://t.co/wNlKozy77Z"
-"Presidential hopefuls seize on race as wedge issue - https://t.co/IXqb8M8Cpc via @TLNews
-#StillSanders #racism #FeelTheBern #PAprimary"
-#Pennsylvania #PAprimary #scranton #Philly #Pittsburgh #Erie #BernieStrong  https://t.co/ImSAi9r2Ae
-@NationalNurses  I was standing next to nurses not realizing they were wearing Bernie hats at U of Scranton event.  Feel the Bern!
-#Pennsylvania #PAprimary #Philly #Erie #Pittsburgh #scranton #FeelTheBern #Hillary2016 #Bernie2016 #oligarchy  https://t.co/eJkhfy6Pae
-Great things (&amp; nominees) don't come easy! #StillSanders #Bernie2016 #Pennsylvania #PAprimary #scrantoon #Pittsburgh https://t.co/fuPnxE6ydT
-It's All Broken: NYC Mayor Bill de Blasio Calls for an Audit of Election Board - https://t.co/x7tzMEqYbh via @Shareaholic #VoterSuppression
-"#VoterSuppression Robert Reich VIDEO
-https://t.co/1LfbIqgwOa"
-Shut Up CNN Bernie Does Have a Path to the Nomination Going Forward VIDEO https://t.co/mzNyZR4TPT  #Pennsylvania #PAprimary #Philly
-"Clinton aide says Sanders needs to tone down his rancor after New York loss: ‘If not, f*ck him’ https://t.co/j47tQduMMm #StillSanders"
-"Massive voter fraud in NY https://t.co/2rje05Gl1X via @
-#StillSanders #Pennsylvania #PAprimary #NewYork #Bernie2016 #FeelTheBern"
-"New water concerns bubble up-Barnett Shale https://t.co/CGtTZYMfSi via @@WFFA #fracking #cleanwater #Bernie2016 #Hillary2016
-#StillSanders"
-#Scranton #Pennsylvania A Future to Believe Town Hall  w/ BERNIE Join me at this event to support @BernieSanders https://t.co/RfF546dHJ5
-"#StillSanders to ""the end"" and beyond!  Thank you @BernieSanders https://t.co/A4YoXNcgOp"
-"#StillSanders because he will protect what I love @BernieSanders
-#climate #Pennsylvania #PAprimary #Philly #scranton https://t.co/3F4KH38xpP"
-#Pennsylvania #PAprimary #scranton #Philly #Erie #Pittsburgh #California #CAPrimary #BernieStrong #FeelTheBern https://t.co/T0DzwDyck3
-Look forward to voting for Bernie in Pennsylvania's upcoming primary!  Thank you for fighting for We The People! https://t.co/igSmdjUWHt
-#Pennsylvania #PAprimary #Philly #Erie #scranton #Pittsburgh #StillSanders https://t.co/gItdeze1AG
-Look out Pennsylvania! https://t.co/WuwJhwtSd1
-@MadamClinton  This 59 year old Dem woman will never vote for her. I don't change my personal ethics and morals for anyone!
-#Pennsylvania #PAprimary #Philly #Pittsburgh #scranton #Erie #Bernie2016 #StillSanders https://t.co/voU5cOnLWt
-"@nytimes - one of Hillary's many media surrogates. Bernie won more NY counties than Obama in 2008, his message is just fine"
-#Pennsylvania #PAprimary #scranton #Philly #Pittsburgh #BernieStrong #StillSanders #Bernie2016 #FeelTheBern https://t.co/0uGOcQue6q
-"#StillSanders because we NEED change! Feel the Bern!
-#Bernie2016 #NeverHillary #BernieSanders #Pennsylvania #Philly https://t.co/zl1F4qIOwH"
-#Pennsylvania #PAprimary #scranton #Philly #Pittsburgh #Erie  https://t.co/j3KGmpBXnZ
-#Pennsylvania #PAprimary #Erie #scranton #Pittsburgh #Philly #BernieStrong #Bernie2016 #FeelTheBern #StillSanders https://t.co/OrkGDRVQg9
-Ditto.  Too many decades of settling for less.  https://t.co/MVDbpcyt2Z
-#Pennsylvania #PAprimary #scranton #Philly #Erie #Pittsburgh #Bernie2016 #FeelTheBern https://t.co/EVBhcyzVY1
-#Pennsylvania #PAprimary #Philly #Pittsburgh #Erie #scranton #Bernie2016 #FeelTheBern  https://t.co/Yi3e1x0seq
-#Pennsylvania #PAprimary #scranton #Philly #Pittsburgh #Bernie2016  https://t.co/gN6rqPpn2D
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 1155097699, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/710986613573226499/EUSdZZvD_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 554, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""1155097699"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 80, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @GottaBernNow: This is What Will Happen at the Democratic Convention | the writing of john laurits #BernieSanders #DemConvention https:/\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725865669678370816, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 704085173617324032, ""indices"": [3, 16], ""id_str"": ""704085173617324032"", ""screen_name"": ""GottaBernNow"", ""name"": ""Rana""}], ""hashtags"": [{""indices"": [102, 116], ""text"": ""BernieSanders""}, {""indices"": [117, 131], ""text"": ""DemConvention""}], ""urls"": [{""url"": ""https://t.co/6eZbm38cb5"", ""indices"": [139, 140], ""expanded_url"": ""https://johnlaurits.com/2016/04/28/this-is-what-will-happen-at-the-democratic-convention/"", ""display_url"": ""johnlaurits.com/2016/04/28/thi\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 20, ""id_str"": ""725865669678370816"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""This is What Will Happen at the Democratic Convention | the writing of john laurits #BernieSanders #DemConvention https://t.co/6eZbm38cb5"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725856074872459266, ""favorite_count"": 20, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [84, 98], ""text"": ""BernieSanders""}, {""indices"": [99, 113], ""text"": ""DemConvention""}], ""urls"": [{""url"": ""https://t.co/6eZbm38cb5"", ""indices"": [114, 137], ""expanded_url"": ""https://johnlaurits.com/2016/04/28/this-is-what-will-happen-at-the-democratic-convention/"", ""display_url"": ""johnlaurits.com/2016/04/28/thi\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 20, ""id_str"": ""725856074872459266"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:15:48 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:53:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 10932, ""description"": ""Disability and Mental Health Advocate, past social entrepreneur, nature & environment loving hiker, clean air and water activist,  yuuuge Bernie supporter."", ""friends_count"": 774, ""location"": ""NE Pennsylvania"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/710986613573226499/EUSdZZvD_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1155097699/1457981521"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Audrey Gozdiskowski"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 7881, ""screen_name"": ""AudreyGoz"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Feb 06 21:01:40 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@Willcboha64 @jimvaccaro1 @_metafizik @HillaryClinton @BernieSanders   William you do realize that there are more Ind than Dems.  LOL
+"#MSM math is flawed. Hillary won't have enough delegates, super delegates don't count until convention:DNC rules.   https://t.co/jBRHQeKeka"
+.@mmurraypolitics DNC rep on CNN:superdelegates NOT to be added B4 convention&amp;anything can happen. NBC math flawed https://t.co/jBRHQeKeka
+@sonofanders121 @HillaryClinton  She can't help herself/cloning him  Can't be herself #WhichHillary has herself confused as to who she is.
+DNC says not to include super delegates in reporting Dem race @CBSNews @ABC @MSNBC @NBCNews #Hillary2016 #Bernie2016 https://t.co/zuhJenz2dG
+#veterans #Indiana #INPrimary #Oregon #OregonPrimary #WestVirginia #California #CAPrimary #BernieStrong https://t.co/RtTDoEZd51
+.@stevechaggaris Hillary clearly expected something in 2008-place in Obama's cabinet as SOS &amp; did not back down #MSM https://t.co/9TSi3ZibK5
+Corruption is Legal in America https://t.co/vyjeTk5DRh via @YouTube
+@LiberalLaTchr @TimBartender @maestro3780  HRC's media surrogates doing all they can to get her elected.
+#ThursdayThoughts Just when you thought someone couldn't be any more corrupt then #ItsAllBeenDownhill https://t.co/5D8UBLlZye
+@LiberalLaTchr @TimBartender @maestro3780  I don't turn CNN on but my husband reporte/While on MSNBC Jane Sanders saying going all the way.
+"Clinton's Internet Supporters, Allegedly Using Porn Shut Down Sanders' Largest Facebook Groups  https://t.co/YQpqNYS6p9 via @pastemagazine"
+Bernie Sanders is in the race to the convention.Fake calls to #Indiana falsely saying he dropped out. #BernieStrong https://t.co/0yoeKgwLfd
+@TimBartender @LiberalLaTchr @maestro3780  CNN reported Wolf Blitzer spoke with Bernie (this morning) &amp; said he was thinking about conceding
+"@CarolAnneKnapp @wildscenery @HerMillennials @RoseDocMaker @alan_emilores  I'm now blocked by HerMillennials.  Imagine that, truth hater"
+Here's the Cali one.  @CarolAnneKnapp @wildscenery @HerMillennials @RoseDocMaker @alan_emilores https://t.co/nvGu8aytyK
+Here's another looking for the Cali one: @CarolAnneKnapp @wildscenery @HerMillennials @RoseDocMaker @alan_emilores https://t.co/0yoeKgwLfd
+"@wildscenery @CarolAnneKnapp @HerMillennials @RoseDocMaker @alan_emilores  See the screen shot from N Hollywood HRC ""Bros"" More shenanigans"
+Hey @spencerthayer about https://t.co/40oOr1MjZs - Environment- Clinton silent on carbon tax when asked by Bernie at debate
+@HAGOODMANAUTHOR @YouTube Thank you!
+"Susan Sarandon: I “broke up” with Hillary Clinton over Iraq vote, fracking https://t.co/3klY0rrX4t via @Salon"
+"Susan Sarandon: I “broke up” with Hillary Clinton over Iraq vote, fracking https://t.co/3klY0ramcV via @Salon"
+#Indiana #IndianaPrimary #INPrimary #Oregon #ORPrimay #WestVirginia #WestVirginiaPrimary #Califoria #CAPrimary  https://t.co/WGQ5KECoTR
+"Heads Up: #California #Hollywood
+ https://t.co/0U9TTBgsMk"
+".@CNN @wolfblitzer, now about that phone call. https://t.co/2M3khCYuJw"
+.@WNDU  Ahead of yourself aren't you? hmmm https://t.co/QFzTr5s4KM
+.@CNN @wolfblitzer  Perhaps a bigger CNN  protest is in order after second hand information comments today to discourage BS supporters.
+@MarkRuffalo @POTUS @Variety  Leaving a legacy as the Fracking President!
+#CrazyIs THIS https://t.co/wk911QYvhY
+.@Morning_Joe  Many of us Bernie supporters over 55 will not vote for Hillary Dems against Obama lowering drug prices. The new Dem=Rep
+.@Morning_Joe  Polls have shown Bernie leading in Latino vote in California not that long ago.
+.@Morning_Joe  Hillary didn't hold back and had horrible attacks on Obama in 2008. The original birther with that released turban photo.
+"Knowledgeable voters who look at facts, history and actions wouldn't vote for Hillary either.  The #LyingQueen
+ https://t.co/YpVA8symxN"
+#CrazyIs voting for a president that has no principles and doesn't know the meaning of truth. https://t.co/eVALIACPjO
+#CrazyIs believing Hillary cares about #climatechange more than Big Oil when she is silent on a carbon tax and sold fracking to the world.
+".@Morning_Joe  Laying off workers is prudent finance sense, when money is coming from We The People and not wealthy interest and states done"
+#California #CAPrimary #HillaryClinton #BernieStrong #Elections2016 https://t.co/jvW5ym4wpM
+#California #CAPrimary #Indiana #IndianaPrimary #WestVirginia #WestVirginiaPrimary #Oregon #Hillary2016 #climate https://t.co/TKkhTjxkV8
+#California #CAPrimary #Indiana #IndianaPrimary #WestVirginia #WestVirginiaPrimary #Oregon #Bernie2016 #BernieStrong https://t.co/hcC4uv3oSk
+"#California #Indiana #IndianaPrimary #WestVirginia #WestVirginiaPrimary #Oregon 
+#Hillary2016 #Bernie2016 https://t.co/3VgDaoogvE"
+#California #CaliforniaPrimary #Indiana #IndianaPrimary #WestVirginia  #Oregon #Bernie2016 #Hillary2016 #Hillary https://t.co/hx5d6TFAoo
+"#California #CaliforniaPrimary #CAPrimary #Indiana #IndianaPrimary #WestVirginia 
+#WestVirginiaPrimary #Hillary https://t.co/oIWHWBkRke"
+#California #CAprimary #Indiana #IndianaPrimary #WestVirginia #WestVirginiaPrimary #Oregon #OregonPrimary #Hillary https://t.co/79J211dE9U
+"#California #CAPrimary #Indiana #INPrimary #Oregon #ORPrimary #WestVirginia
+ #WestVirginaPrimary #ImWithHer #Hillary https://t.co/9PWwWAy7mU"
+#California #CAprimary #LosAngeles #SanDiego #SanFrancisco  https://t.co/yeFfU8Ki5Y
+"#CAPrimary #California #Indiana #INPrimary #WestVirginia #WestVirginiaPrimary 
+#Oregon #OregonPrimary  https://t.co/qhiKp5hY8B"

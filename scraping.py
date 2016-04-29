@@ -3,7 +3,7 @@ import tweepy
 import csv
 import json
 
-def scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folder, candidate_supporter_screen_names):
+def scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folder, candidate_supporter_screen_names):
     for candidate_supporter_screen_name in candidate_supporter_screen_names:
         tweetsfilepath = candidate_supporter_tweets_folder + '/' + candidate_supporter_screen_name + '.csv'
         if not os.path.isfile(tweetsfilepath):
@@ -14,4 +14,3 @@ def scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folder,
                 csvwriter.writerow([json.dumps(user_info).encode("UTF-8")])
                 for tweet in api.user_timeline(screen_name = candidate_supporter_screen_name, include_rts=False, count = 200):
                     csvwriter.writerow([tweet.text.encode("UTF-8")])
-            add_tweets_to_gensim_corpus(tweetsfilepath, candidate_handle)

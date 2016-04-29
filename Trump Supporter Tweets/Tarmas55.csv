@@ -1,4 +1,113 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": ""Eastern Time (US & Canada)"", ""id"": 2982318819, ""description"": """", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/688028627313676288/pdDDeEOJ_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""is_translator"": false, ""geo_enabled"": true, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 87, ""protected"": false, ""id_str"": ""2982318819"", ""default_profile_image"": false, ""listed_count"": 13, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@foxandfriends no way.. they don't bring drugs"", ""is_quote_status"": false, ""in_reply_to_status_id"": 723134956591976449, ""id"": 723243563484631041, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [0, 14], ""screen_name"": ""foxandfriends"", ""id"": 15513604, ""name"": ""FOX & Friends"", ""id_str"": ""15513604""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""foxandfriends"", ""id_str"": ""723243563484631041"", ""retweet_count"": 0, ""in_reply_to_user_id"": 15513604, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""15513604"", ""lang"": ""en"", ""created_at"": ""Thu Apr 21 20:14:37 +0000 2016"", ""in_reply_to_status_id_str"": ""723134956591976449"", ""place"": null}, ""lang"": ""en"", ""utc_offset"": -14400, ""statuses_count"": 2552, ""profile_background_color"": ""C0DEED"", ""friends_count"": 250, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/688028627313676288/pdDDeEOJ_normal.png"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""screen_name"": ""Tarmas55"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 697, ""name"": ""Tony Armas"", ""url"": null, ""created_at"": ""Sat Jan 17 10:09:22 +0000 2015"", ""contributors_enabled"": false, ""location"": """", ""profile_sidebar_border_color"": ""C0DEED"", ""default_profile"": true, ""following"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2982318819, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/688028627313676288/pdDDeEOJ_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 90, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2982318819"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 13, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""And they wonder why we want @realDonaldTrump and NOT THEM\nCongress votes to designate bison as national mammal https://t.co/GKT9L2IsDT"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725844968909246466, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [28, 44], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/GKT9L2IsDT"", ""indices"": [111, 134], ""expanded_url"": ""http://www.foxnews.com/politics/2016/04/28/congress-votes-to-designate-bison-as-national-mammal.html"", ""display_url"": ""foxnews.com/politics/2016/\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""725844968909246466"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 00:31:40 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 2654, ""description"": """", ""friends_count"": 251, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/688028627313676288/pdDDeEOJ_normal.png"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Tony Armas"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 716, ""screen_name"": ""Tarmas55"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jan 17 10:09:22 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"And they wonder why we want @realDonaldTrump and NOT THEM
+Congress votes to designate bison as national mammal https://t.co/GKT9L2IsDT"
+@daniellesandler @realDonaldTrump Danielle ur really smart huh? Do u work in retail?
+@HowieCarrShow where's u knife and fork u Kasich mo
+@pauldiegocraney @HowieCarrShow @JamieEldridgeMA look at em.
+"This is who @SenTedCruz takes his advice from Wednesday, Septr 30, 2015 G Beck gushes over Carly Fiorina on his Radio Show post-interview"
+@SenTedCruz has Crazy @glennbeck on his. All u need 2 know. Beck ought 2 open a MENTAL HOSPITAL &amp; he could be the FIRST PATIENT #TRUMPTRAIN
+@realDrumpf @realDonaldTrump yeah we'll see. #PresidentTRUMP
+@Trump_Donald_J_ @YahyaJohn @realDonaldTrump what were the polls when it was Trump via 16
+@klopfer_teresa @YahyaJohn @realDonaldTrump Wrong!! He is the only one with the courage it will take to be the MEDIA AND HER
+"@realDonaldTrump Donald did u see @jonkarl, @ABC &amp; @DavidMuir already running the National Media campaign against u.#disgusting #TRUMPTRAIN"
+@AmalClooneyBlog isn't it funny to c rich libs like u &amp; @ABC @ABCPolitics &amp; th rest all rallying 4 @HillaryClinton. Kp trying so sad natl m
+@FoxNews Its the new get rich scam.. Send the kid out with a fake gun
+"@hamnitup See, it wasn't her fault. It was happening to everyone, except the ones who had a successful leader. #Trump2016"
+@SenTedCruz U been with @CarlyFiorina almost as much as that girll u brought to the Washington hotel every Tuesday and Thursday.
+"@CarlyFiorina GO SING A SONG. COOKOO, U LIE LIKE UR BUDDY TED. Wow, U got even more ARROGANT. But the same result is coming"
+"@CarlyFiorina FUCK OFF and GO AWAY. UR GONNA FIND OUT HOOSIER VALUES IN LESS THAN A WEEK. THEN GO HOME.CARLY ""UGLY"" FIORINA
+YEAH, I SAID IT"
+@CarlyFiorina I almost forgot how much U SUCK. Rich Annoying Wit Woman. Got Lucky I'd say. I want 2 know WHAT MORON promoted u frm secratary
+@YahyaJohn @realDonaldTrump I'm sorry ur wrong. Govt has never ever helped jobs explode. It is only when govt gets out of the way.
+@WoodlandHicks @YahyaJohn we dont need racists in the convers. If u work hard regrdlss of race u can do well.i prefer to see a man as a man.
+"@YahyaJohn @realDonaldTrump just wait john. Besides, I know u and me r th same. We want to take care of our fam. Hv gd jobs DJT will do that"
+"@YahyaJohn @realDonaldTrump pork belly futures, whitewater, bigots, and more.. any questions"
+"@YahyaJohn @realDonaldTrump benghazi, FBI investig, Monika Lewinsky, bimbo erupt squad, Vince foster, Web hub (Chlse cl dad), 7 or 8 rape vc"
+"@ABC Celebrate Diversity, Will you be satisfied when she's KIA BC she isn't as strong or as able as a MAN. FACT, MEN AND WOMAN ARE DIFFFERNT"
+"@@ABCPolitics Isn't it great that we have a MEDIA that SUPPORTS DEMS. ABC, Isn't the parent co DISNEY, that Laid OFF AMER TO HIRE MIGRANTS"
+"@SenTedCruz has selected an hispanic. Carlionia Fiorina, a lady who took HP into the ground. DesperaTED #TRUMPTRAIN"
+@realDonaldTrump has made someone  create a New Word... DesperaTED. @FoxNews @HowieCarrShow #TEDISPATHETIC
+"VP of what? Talk about using a woman for a cheap stunt
+Sources: Cruz to announce Fiorina as choice for running mate https://t.co/jvLRNQh2Rs"
+@USATODAY #TRUMPTRAIN #hillaryforprison
+@ShellinNsb  I love trump.. what r u saying
+"Fuck w my dog I shoot
+Fresh off SeaWorld victory, animal rights groups take aim at zoos, circuses and maybe your pet https://t.co/zSQ8x10ZFE"
+"@realDonaldTrump yeah, hey @BernieSanders what's the matter are you afraid of the Clinton Machine. If u believe so much Do it #doit #bernie"
+"@straussanator @JennyVrentas they can stay at ur house. Wht about sharia law, want to go with that? Or is that not what they want"
+@bitterclingy @DRUDGE_REPORT so WAS my wife and then she started paying attention. In the old days it was not a bad thing .. People Change
+@bitterclingy @DRUDGE_REPORT he's no lib but ur guy he's a liar and just one of the boys
+@dcexaminer Now that's funny. The whole college system is screwed up.
+"@NavyFederal Stop ans my txts. My seller is not ur membr so U don't give a shit. I'm going 2 cost u biz, my seller is KEEPING UR MBRS 1k DEP"
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Ok, more later. Btw, this is an AWFUL LENDER. DON""T USE THEM. TRUST ME."
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Typical Govt Run, just a job, no care from emplys. Imagine a lender like"
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Costing their memb 1000$, he is losing his deposit bc thy lost a documnt"
+@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. As long as u don't mind a compy u can't talk to. Suppsd to cls Fri NOPE.
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Aweful company, awful service. Can't even find out when / if Im clsing."
+"@homesellers DO NOT A PREQUAL FROM @NavyFederal in NEWPORT RI. My goal is to cost them biz. They R hrting my seller, not important. Dont use"
+@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Thy only care about their membrs not the sellers they are screwing
+@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. Then I called them. My Seller isn't a membr. Their buyer is.
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. FUNNY, I POST THIS AND THEY SEND ME A Response. They want to see my acct"
+"@bitterclingy @DRUDGE_REPORT yeah, that's what leave things as they are means."
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. @homebuyers DON'T WASTE UR TIME W/ THIS COMP. ESP Jason Filipe, Bad NEWS"
+@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. THEY SHOULD BE INVESTIGATED FOR FRAUD. ITS DISGUSTING.WHAT A HORRIBLE CO
+@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. I AM GOING TO TWEET THIS 50 TIMES A DAY UNTIL I DROP DEAD. EXCUSES .....
+"@homesellers DO NOT TAKE A PREQUAL FROM @NavyFederal in NEWPORT RI. THEY DON'T CLOSE ON TIME IF AT ALL. I TRIED TO TALK TO A SUPERV. NOPE,"
+@moveupbuyers  If anyone is BUYIING a home DO NOT USE @NavyFederal in NEWPORT RI. NO COMMUNICATION. NO CARE ALWAYS LATE.IF THY CLS. AT ALL.
+@firsttimehomebuyers @moveupbuyers @homeownners If anyone is BUYIING a home DO NOT USE @NavyFederal in NEWPORT RI. NO COMMUNICATION. NO CARE
+@ABC she is a no talent who lives to talk about her vagina
+@bitterclingy @PlataWOLF3 @DRUDGE_REPORT go vote for Hillary then #LYINGTED #loser #hillaryforprison #TRUMPTRAIN
+"@bitterclingy @DRUDGE_REPORT yah, ok. U go back to Lying Ted, Now Mr. CONSTITUTION conservative is joking up with Jon kasich. Pro Illegal"
+@HowieCarrShow and this is how we choose a candidate. .. vote...
+@DanScavino And they r so courageous that they waited til AFTER their town hall that no one watched. NO PROBLEM @realDonaldTrump 3RD PARTY
+After the 2 GOP LOSERS decided 2 collude.I am going 2 my town Hall &amp; chnging my party. Take that @JohnKasich @SenTedCruz @Reince #LeavingGOP
+"@sandyaschneider All U @SenTedCruz supporters, TED IS A MAN OF PRINCIPAL HUH?? YEAH, JUST LIKE HIS WALL ST CONNECTED WIFE IS SUZY HOMEMAKER"
+@FOX25Shiri #EnoughIsEnough
+@foxandfriends Military man @potus wants to send 250 soldiers to get slaughered by Muslims extremist.. 250 really
+@FaceTheNation Any interest in the FLIP FLOPS of HRC or jst want 2 Hatchett @realDonaldTrump  LIBS R NRVUS. VRY NERVOUS. #HILLARYLIEDPPLDIED
+@FaceTheNation what a program for morons. I watched ignorant ppl who either dont listen or are too stupid to listen. Ignore the HRC Lies
+@reihan keep dreaming. I can understnd U being a Muslim not understanding how we as Amer hv watched those in ur faith butcher us by thousnds
+can someone pls ask @BernieSanders Y the doom and gloom predictions of the Climate cooling of the 70s NOTHING HAPPENED&gt;
+"@TerryMcAuliffe U R a SCUMBAG. So, MURDERS&amp; RAPISTS deserve the RIGHT to VOTE &amp; B on a JURY. @realDonaldTrump Lk how Pathetic &amp; desp dems R"
+"@GStephanopoulos @ThisWeekABC @HillaryClinton George, WE DON'T NEED THE BASE. @realDonaldTrump is going to THRASH HILLARY. WITHOUT THE GOP E"
+@GStephanopoulos @ThisWeekABC @HillaryClinton WHO IS THE WOMAN WHO SPEWS ON LIES ON the PANEL? Fucking @BillKristol has the BALLS to AGREE
+@GStephanopoulos @ThisWeekABC @HillaryClinton HEY @realDonaldTrump may have changed but LIARS HRC CHANGED EVERYONE OF HER POSITIONS.
+"@GStephanopoulos @ThisWeekABC What a pathetic group. Have the BALLS to say @HillaryClinton was against GAY MARRIAGE, ILLEGAL IMMIG. AND ALL"
+@BillKristol Hey @realDonaldTrump Bill Kristol of the WEAK STANDARD is such a dirtbag he thinks he speaks for us. BILL WE SPEAK FOR US.
+"@meetthepress @katiepack @realDonaldTrump KATIE, I and my family ARE the GOP. U will be sorry if you want the GOP EVER TO WIN AGAIN."
+"@meetthepress @katiepack @realDonaldTrump KATIE PACK, TOTALLY DISHONEST. POLLESTER, NEUTRAL, I DONT THINK SO. JUST ANOTHER GOP E LIAR."
+"@edgoeas Hey Ed, wht u r doing is a disgrace. I'm sure somehow ur trying to protect ur own influence peddling, POLLSTER, HOW? Not Neutral."
+"@meetthepress @katiepack If @realDonaldTrump loses it will b BC of Cruz supprters. Thy cant accpt th WILL OF THE PEOPLE. KP, Steal it &amp; lose"
+"@meetthepress @katiepack Hey KATIE, UR the same person that said TRUMP had no chance in the PRIMARY. THE LEFT IS SCARED of @realDonaldTrump"
+@WMUR9 Another words NOTHING is HAPPENING in NH today
+"@FoxNewsSunday @realDonaldTrump Hey DJT, Manafort is going to take you down. BIG MISTAKE."
+@meetthepress @realDonaldTrump @chucktodd's wife is a DEMOCRAT OPERATIVE. Any1 think CHUCK is NEUTRAL? He may b NEUTERED but he aint NEUTRAL
+"@meetthepress @realDonaldTrump Mr. TRUMP, PLS DO what @HillaryClinton does. TELL THE MEDIA U WILL GO ON the left media when HRC goes on FOX"
+@meetthepress @realDonaldTrump Time 2 start doing 2 the LEFT what they do to us. @chucktodd is an ANTI-CHRISTIAN BIGOT who MOCKS our beliefs
+@meetthepress @realDonaldTrump @chucktodd is an ANTI-CHRISTIAN BIGOT. He hates our values &amp; is a vile human being. #BOYCOTTNBC #BOYCOTTMTP
+@nytimes LAYOFFS HA HA..HOW FUNNY IS THT?GUESS THAT'S OBAMANOMICS 4 YA. #Trump2016 #TrumpTrain To bad @realDonaldTrump wasnt running ur comp
+@perrybaconjr Looks like you enjoy quite a bit of bacon
+"@PatMcCroryNC Pols say LET""S THROW MONEY AT EM, THAT'LL MAKE EM BETTER. DEMOCRAT PAT MCCRORY.  Teachers are FAILING and SO R U. Wake UP NC"
+"@PatMcCroryNC Pretty sad pathetic, afraid of the left interview. Instead of standing up to loser @chucktodd and slapping him down. U cowered"
+"@boycott.com LET""S BOYCOTT THE BOYCOTTER'S IN NORTH Carolina. #saveinsteadofspend"
+@chucktodd HATER. U hv done very well 4 someone who FAILED TO GRAD from COLLEGE. That must make u SO ANGRY. U R a JEW who HATES CHRISTIANS.
+@chucktodd what did ur mom &amp; Dad do 2 u? The way u HATE the right is so sad. Is it BC U didn't Grad frm college? No Col Deg. U must b DUMB
+@dxtbxtch @realDonaldTrump ur mom was standing when u were hatched STAM
+@realDonaldTrump go suck bernie
+@realDrumpf @realDonaldTrump drumpf = ass hole. Math
+"of course he was the coach is a prick and frankly always will be
+https://t.co/tFhTXGztUM
+Albert Breer says he was limited at NFL Network"
+@BBCOurWorld Never bring a knife to a gunfight
+HELLO @Reince &amp; @GOP Get ready to lose the house &amp; Senate if U SCREW THE VOTERS. Watch wht we will DO. UR message is we hv 2 b with u. NOPE
+"@IngrahamAngle tell ur call that ppl that talk like him r the reason they'll NEVER win.It's no prob, TRUMP may not beat HRC but he beat cruz"
+@queenreign88 I don't hate I just don't think it was that big of a deal
+@TODAYshow and that's goes Double for Bryant GUMBALL
+@TODAYshow Prince= OVERRATED He was not that good.
+@realDonaldTrump @DanScavino @CLewandowski_ I'm begging u guys -RETHINK-MEN DO NOT BELONG IN WOMAN'S RESTROOMS @HowieCarrShow pls Tell TRUMP
+"@FoxFriendsFirst @HeatherChilders @HowieCarrShow when will there be a rebate to the ""TAXPAYERS"""
+"Then stay out of our politics
+Monstrous interference': UK pols furious at Obama's plan to intervene in EU debate https://t.co/JSa7sd4rly."
 @foxandfriends no way.. they don't bring drugs
 @FoxBusiness 90 yrs on the dole. Congrats..
 "@businessinsider @verizon and @VZWSupport are both overpriced services. Wake up america, I switched to @TMobile and saved 100$ / month."
@@ -105,107 +214,3 @@ Clinton pins racially charged skit on NYC mayor https://t.co/6u7vKWGqSF"
 "@CoryGardner It's nice U don't believe in 1 LEGAL PERSON 1 LEGAL VOTE. Hey Cory, Go FUCK YOURSELF. SMOKE SOME COLORADO WEED and DROP DEAD."
 "Lk at th So Nice Left. Jerks. Th racists are dems &amp; Tavis is a HUGE 1.
 Bill O'Reilly Is Still a Racist Motherfucker https://t.co/egnvqJNwPt"
-"Chicago's grim murder trend blamed on light sentencing, misguided reforms https://t.co/kmwi6XOzjQ Hey #BLM so as long as they cull the herd."
-"@BV @business hey look, Obama and romney. 2 of the same."
-@stanc1ss @aghoukassian @nytimes behavioral scientists =whack job and spare me on TRUMP u and ur lib buddies hav made insulting him a sport
-"@BillHemmer and @marthamaccallum god, a truly pathetic show. Glad to see that u think picking a Potus is a game. #onelegalmanonelegalvote"
-@TheKuhnerReport Bolton SOS no way y would u want some1 who says they can't do what DJT wants done
-@BGlobeSports @Dan_Shaughnessy And it starts with the Manager. Who brings in a closer in a TIE game. There was no reason to take out Koji.
-@foxandfriends @HeyTammyBruce Canadian Bryan Adams. Go bck to Canada. Th country full of heroes. Remember how thy saved us all frm the nazis
-"@foxandfriends @HeyTammyBruce  Who Cares, thy r so full of bull. Thy r big climate change ppl 2 thn fly all around the wrld &amp; hv YUGE houses"
-@realDonaldTrump pls don't pick john Bolton for anything. just another RINO who says we can't do anything
-@realDonaldTrump @YouTube LET'S SCREW THE GOP E ..3RD PARTY #TRUMPTRAIN
-First female infantry recruit is a Louisiana police officer https://t.co/LzQ9GAVgGC and if she's killed it'll all b worth it right.?
-Ohio officer in critical condition after being shot serving warrant https://t.co/HQyo6HNxC4 john k just wants to get along such nice ppl.
-"Chicago's grim murder trend blamed on light sentencing, misguided reforms https://t.co/kmwi6XOzjQ they were yelling at old perv bill clin."
-"Chicago's grim murder trend blamed on light sentencing, misguided reforms https://t.co/kmwi6XOzjQ Hey #BLM so as long as they cull the herd."
-@taylorhjlls drop dead and C U Next Tuesday
-@LessGovMoreFun Bono sounds like boner.. and he's a bone head #bono
-"@FoxNews @BretBaier So FOX wants @realDonaldTrump 2 leave MK alone and then u do a hit pc on him. Well I spk 4 all DJT ppl, go fuck urselves"
-@FoxNewsSunday @HowieCarrShow @realDonaldTrump Mr. TRUMP u should ask Wallace to b treated w the kit gloves lk he did w/ obama.  Ass kissing
-@GeorgeWill Hey George u r so smart. At least u think so. Drop fucking dead
-"@KarlRove @FoxNewsSunday it doesn't matter Karl, if u thnk @realDonaldTrump is behind the 8 Ball. Think of @gop w/o the 3 Million DJT voters"
-@meetthepress @mollyesque why does Meet the Press and @chucktodd kiss the dems ass. Bc his wife is a dem operative. .VERY IMPARTIAL
-@aghoukassian @realDonaldTrump @nytimes stick to ur countries business. It's fucked up enough.
-@realDonaldTrump if they screw u... 3RD Party
-@FoxNewsSunday @foxnewspoll @FoxNews @HillaryClinton watch HRC suck all the @BernieSanders voters in. The establishment is ok with them
-@CNN @HillaryClinton she will also go to jail
-@aghoukassian @realDonaldTrump @nytimes Australians are fucking morons. You must be Australian
-@Ianasmermaid  @nytimes C U Next Tuesday
-"@taylorhjlls hey taylor, fuckoff ur an idiot."
-@TomLlamasABC interesting of u to not say ur job is 2 Report th news not 2 make it. Th Globes article is inappropriate &amp; u shld have said so
-"@realDonaldTrump is getting screwed and @JohnSununu is participating. Hey john, I live in NH. Voted R my whole life.. #donewiththeGOP"
-@ByronYork @foxandfriends See @gop and York The man with the most delagates after WE VOTE is the WINNER. PERIOD. IF NOT GOODBYE GOP.
-"@DRJAMESCABOT @SenTedCruz Oh NO TED, it's like the DC MADAM. How Come the SENATOR DID not comment on the SCOTUS RULING. Something to hide ??"
-"@WMUR9 @GovernorHassan LIES, LIES and MORE LIES. NICE TO SEE U COVERING UP FOR YOUR HUSBAND MAGGIE. SEXUAL MISCONDUCT at PA, #DISGRACEFUl"
-@WMUR9 @UnionLeader Just another coverup by Joe McQuaid of the UL and MUR.. Don't want 2 upset the GOV Maggie Hassan even tho her husband CU
-"@SenTedCruz WILL WIN THE GOP NOMINATION the same way he ""won"" IOWA. HE WILL CHEAT, BEND THE RULES. TED, SEE MIKE DUKAKIS.. THATS UR PATH"
-"@realDonaldTrump SO, @SenTedCruz If U can't win Utah in the GOP Pri it'll b a bloodbath. REALITY IS, if u can't win PURPLE U CANT' WIN. DOPE"
-@mitchellreports @JohnKerry @HowieCarrShow fans know that Kerry has married the most woman with MONEY. When he doesn't he SLEEPS IN HIS CAR
-"@RedSox @BostonRedSoxPR Someone needs to tell the RS that not all disabled ppl have a Wheelchair. Legally Blind ppl need cls seating, dopes"
-@businessinsider @realDonaldTrump @HillaryClinton They compare TRUMP who ran a business to Clinton who sold access and did speeches 4 600k.
-"@realDonaldTrump @agentvf @Q102Philly @BreitbartNews did u see wht th failing Bost Globe did 2u? John Henry, Liberal Billionaire, a disgrace"
-@MichaelDeMocker How stupid and senseless
-"Didn't no the @bostonglobe was still in biz. Aren't they cute. Sox owner John Henry owns the Globe. SO AS AN FU TO HENRY I""LL Wr my MAGA HAT"
-"@beckyjaneaston @FoxNewsSunday @POTUS @FOXTV When I look at these 2 people, I'd say men but that wouldn't be accurate. They are the problem"
-@BostonRedSoxPR @RedSox @veteransunited I asked the RS 2 post a TY on the BB 2 my nephew 4 his 13 Tours in Iraq and afgh.Wanted 100$ pathetc
-@realDonoldTrunp @ABC Hey DonOld. Ur a loser #TRUMPTRAIN
-"@r_a_deverell @ABC right bigots, not like those tolerant of Christians LEFT. Not"
-"@ABC @springsteen The new TK ""Lion of the Left"" hey boss did u need the $$ from NC. Only the RINO'S &amp; LIBS go 2 ur concerts. Oh the pain. Wc"
-@realDonaldTrump @vivhall3 Cruz is a politician. Do u know any honest politicians? #TrumpTrain
-STUPID  https://t.co/nwjmBCyM1X
-"@gop Let's all Kiss the ring of the RINO'S. They want their GOP, take it. SEE WHAT U CAN DO WITHOUT @realDonaldTrump and his followers. DOA"
-"@TheBossFanPage @brucespringsten Hey Bruce, RICH LIBERAL MAN. REDUCE UR CARBON FTPRINT. SELL UR HOMES &amp; STOP FLYING. U R a phony. ALL TALK"
-"@GOP @realDonaldTrump Let's all DELETE OUR @PayPal ACCTS. THEY want to tell STATES what they can &amp; can't DO, NO PROBLEM. DELETE
-#TrumpTrain"
-I encourage all to delete their @PayPal accs 4 trying 2 tell states wht thy can &amp; cannot do. If thy want 2 get involved in policy no problem
-"Issa, Grassley say F &amp; Fur doc rela 'fraction' fails 2meet subpoena https://t.co/hW6IBT1TOL via @FoxNews
-The Most transparent admin ever LOL"
-@FoxNews @tedcruz AND LOSE ALL DEDUCTIONS --#NOTHANKSTED
-@FoxNews Nice 2 know theres a RACIST on the scotus. As a wht man its embarrassing 2 no my race is so stupid as to give power 2 fucks lk soto
-"@FoxNews hey Soto how grt is it 2 not get a job bc ur the most qualified for the job, but 2 get it BC u can check a box. Wht Discrimination"
-"@FoxNews the Liberals say @realDonaldTrump is racist. Sotomayor is a racist. When u judge ppl by th color of their skin, that's racist."
-"RACIST STMT Sotomayor wants more diversity on court, after Obama picks Garland, a white Ivy male https://t.co/6hG1IJ3C0e via the @FoxNews"
-@Starbucks To all the MORON people in Starbucks paying 7 bucks 4 a cup of coffee &amp; then BITCHING bc I am not PAYING 4 HER HEALTHCARE. F OFF
-"@FoxNews Let me help your experts. @SenTedCruz , Takes away my deductions with his flat tax .. NO WAY. @JohnKasich won 1 state, RINO, NO WAY"
-"@hughhewitt @realDonaldTrump There's the ESTABLISHMENT radio guy trying to poke the bear. Hugh should thank Trump, no one knew who he was"
-@pennygeneral @realDonaldTrump @gene70 Frm a HRC stooge. Did u no HRC laughs whn sh lies. M Lauer asked her abt gettin arrested. She laughed
-@mitchellreports @HillaryClinton so I guess it's only racists when @realDonaldTrump slaps down BLM.. what a 2 faced party the dems r
-@HowieCarrShow I will shoot it
-@blackcharvel72 @foxandfriends schools are out of control and getting away with it
-@CoachKipGary @foxandfriends THOSE ARE THE PPL THAT PAY UR SALARY U ARROGANT PC OF SHIT. GUESS IT'S OK THAT KIDS EAT AT 11 AND GET HOME AT 5
-@CoachKipGary @foxandfriends yeah ok ass kisser
-@foxandfriends scumbag liberal puke school admins
-"How feasible is Trump's proposed wall? Border agents claim they were never asked ---Tell u what, save money just use land mines"
-@LessGovMoreFun If guys like @POTUS and duval Patrick and @SenWarren Couldn't use Race and ethnicity we wouldn't even know who they were
-@TheEconomist @DavidCameron_MP is a punk.Jealous of Trump success. Typic Brit Pol. Loser. Fraud. Those words descr him perfectly. OBAMALIKE
-@ABCPolitics does Lying Ted's Mgr know the Delagate cnt. Just bc Lying Ted is pt of th establishment now does he need 2 start acting like em
-"@ABC LOOK @HillaryClinton and @BernieSanders are FIGHTING!! OOOHH, infighting in the DNC and among the candidates. God they look so FOOLISH"
-"@realDonaldTrump Here's the Negotiation in Cleveland. Trump is the nominee or he will run 3rd party, the GOP WILL SUPPORT or 3rd party."
-@FoxNews @weeklystandard Let me help all u dopes frm FOX &amp; THE WS. @realDonaldTrump will hv th delg lead. If he's not the NOM. thn 3rd party
-@foxnewsvideo @FoxFriendsFirst The only person this should be done to is @HillaryClinton
-"@BloombergTV @TinaBrownLM @BernieSanders We only ask @realDonaldTrump for specifics, no 1 else. BY THE @BernieSanders , WALL ST is 401k terr"
-@markets That because burger king is hiring
-@dcexaminer The AG whose name is Kamala Harris should be arrested for using the state for political purposes. A fed pros is on her horizon
-@nytimes How many in the FREELOADER class wld want the jobs back if we #endedwelfare &amp; made the FREELOADERS work to eat like in the old days
-"@nytimes So, I'm willing to pay more for Made in USA. But of course the NY TIMES wld rather screw the lower and middle class.So, End Welfar"
-@alroker @FLOTUS @TODAYshow What a racist country we live in.
-@alroker @FLOTUS @TODAYshow Ask her y she hates kids &amp; makes them eat garbage 4 lunch while she is munching on the good stuff. DLTGLHYWTGLSY
-"@klgandhoda Cute, looks like UMA &amp; @HillaryClinton . Did u see how Uma said the 1st time she saw HRC she thought how beautiful she was po AW"
-TOTALLY DISGUSTING - Not a vets kidArizona college imposes mandatory fee to fund scholarship for illegal immigrants https://t.co/GTQJjwRAhr
-I can tell the story. I LIED ABOUT BEING AN INDIAN. THE END https://t.co/8ew7MLUC4V
-"If u r an @SenSanders @BernieSanders supporters, Hillry is mocking u &amp; she is going 2 steal th election. WILL U FOLLOW HILLARY? #FEELTHEHILL"
-@HowieCarrShow @townhallcom it is time for a REVOLUTION
-"@FoxNews @TheJuanWilliams I hv listed aftr many Blk wmn but thanks Juan, way 2 go.u hv such a race complex it's hillarious u r such a racist"
-I think Bernies followers are going to be disenfranchised #FeelTheBern or #stayhome #neverhillary #nomoreclintons https://t.co/OyWggXFQ4y
-"@my2bits4u @realDonaldTrump JERKS LK this guy think DJT is DUMB.10$ in WEALTH, HUGE CO, thy think BERN, who LIVED IN MOMS BASMNT IS A GENIUS"
-@FoxBusiness @Starbucks THIS is what FOX REPORTS. How abt saying that THESE R THE JOBS @BarackObama is BRAGGING ABT. Th USA has gone to hell
-@foxnewspolitics Let see if @FoxNewsSunday chris wallace has any balls.
-@MartinMawyer  A Relig that wants 2 kill &amp; murder americans is being called out. y did the people of molanbeek protect the paris murderer
-@MichaelBarone that's ok.. Watch @realDonaldTrump supporters when we dump the @GOP. @wewillwalkorg
-"@CNN @JeffBezos shld b arrested for LARCENCY. Me &amp; my family all got screwed by deceptive marketing &amp; clicks. BTW, Y is the LIB using robots"
-"@wewillwalkorg Oh yeah, We WILL walk we let you have RINO McCain, RINO @MittRomney &amp; NOW it's OUR TURN. NO TURN, NO VOTES. TOUGH #wewillwalk"
-"@realDonaldTrump PLS, PLS, RUN 3rd Party if U dont get the Rep nom. I'm Lifelong R but have had it w/ the @gop and their games. #DONEWITHGOP"
-"@foxandfriends @GOP @realDonaldTrump Should we be shocked that a ST that gave us Paul RYAN went 4 th GOP E @SenTedCruz 
-So DONE WITH THE GOP"
-"@yesnicksearcy @seanhannity @tedcruzsucks1 Hey Nick, you're a socialist, which used to be a communist and actually still is. So STFU"

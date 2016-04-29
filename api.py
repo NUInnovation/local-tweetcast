@@ -5,7 +5,7 @@ import csv
 import copy
 import json
 import uuid
-from application import app
+from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_SECRET, ACCESS_TOKEN_KEY
 
 TRUMP_SUPPORTER_TWEETS_FOLDER = 'Trump Supporter Tweets'
 SANDERS_SUPPORTER_TWEETS_FOLDER = 'Sanders Supporter Tweets'
@@ -14,8 +14,8 @@ CLINTON_SUPPORTER_TWEETS_FOLDER = 'Clinton Supporter Tweets'
 
 WORD_COUNT_TWEETS_FOLDER = 'Word Counts'
 
-auth = tweepy.OAuthHandler(app.config['CONSUMER_KEY'], app.config['CONSUMER_SECRET'])
-auth.set_access_token(app.config['ACCESS_TOKEN_KEY'], app.config['ACCESS_TOKEN_SECRET'])
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(auth)
 
@@ -86,8 +86,7 @@ candidate_supporter_tweets_folders = {
 def import_clear_supporters():
     for candidate_handle in candidate_handles:
         # scrape tweets also puts supporter metadata into csv file first line
-        scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
-        add_tweets_to_gensim_corpus()
+        scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
 
 import_clear_supporters()
 # print match_by_handle(api, 'Parker9_', 10)

@@ -1,4 +1,60 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""0C3E53"", ""time_zone"": ""Mountain Time (US & Canada)"", ""id"": 19887029, ""description"": ""Instagram:@GlenDanzig\n https://t.co/Tem2ys7fbR"", ""verified"": false, ""profile_location"": {""country_code"": """", ""url"": ""https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""full_name"": ""Colorado, USA"", ""attributes"": {}, ""id"": ""e21c8e4914eef2b3"", ""name"": ""Colorado, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/709398489034174464/1g_4osit_normal.jpg"", ""profile_sidebar_fill_color"": ""FFF7CC"", ""is_translator"": false, ""geo_enabled"": true, ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/7315jUDfMk"", ""indices"": [0, 23], ""expanded_url"": ""http://dealsbyjess.blogspot.com/"", ""display_url"": ""dealsbyjess.blogspot.com""}]}, ""description"": {""urls"": [{""url"": ""https://t.co/Tem2ys7fbR"", ""indices"": [23, 46], ""expanded_url"": ""http://jesskazen.tumblr.com"", ""display_url"": ""jesskazen.tumblr.com""}]}}, ""followers_count"": 350, ""protected"": false, ""id_str"": ""19887029"", ""default_profile_image"": false, ""listed_count"": 10, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""strawberry cake https://t.co/OeBD51Tw5v"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723280532893650944, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/OeBD51Tw5v"", ""indices"": [16, 39], ""expanded_url"": ""http://tinychat.com/ss87/6ac873/fd/metal420/whitepowder666/04-21-2016"", ""display_url"": ""tinychat.com/ss87/6ac873/fd\u2026""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723280532893650944"", ""retweet_count"": 0, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 22:41:31 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""lang"": ""en"", ""utc_offset"": -21600, ""statuses_count"": 132, ""profile_background_color"": ""BADFCD"", ""friends_count"": 569, ""profile_link_color"": ""FF0000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/709398489034174464/1g_4osit_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme12/bg.gif"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/19887029/1396556931"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme12/bg.gif"", ""screen_name"": ""jesskazen"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 2508, ""name"": ""Jess Kazen"", ""url"": ""https://t.co/7315jUDfMk"", ""created_at"": ""Mon Feb 02 01:23:23 +0000 2009"", ""contributors_enabled"": false, ""location"": ""Colorado, USA"", ""profile_sidebar_border_color"": ""F2E195"", ""default_profile"": false, ""following"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""0C3E53"", ""default_profile_image"": false, ""id"": 19887029, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme12/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Colorado, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""e21c8e4914eef2b3"", ""name"": ""Colorado, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/709398489034174464/1g_4osit_normal.jpg"", ""profile_sidebar_fill_color"": ""FFF7CC"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/7315jUDfMk"", ""indices"": [0, 23], ""expanded_url"": ""http://dealsbyjess.blogspot.com/"", ""display_url"": ""dealsbyjess.blogspot.com""}]}, ""description"": {""urls"": [{""url"": ""https://t.co/Tem2ys7fbR"", ""indices"": [23, 46], ""expanded_url"": ""http://jesskazen.tumblr.com"", ""display_url"": ""jesskazen.tumblr.com""}]}}, ""followers_count"": 340, ""profile_sidebar_border_color"": ""F2E195"", ""id_str"": ""19887029"", ""profile_background_color"": ""BADFCD"", ""listed_count"": 11, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Women Experience More Pain, Due to Both Biology and Bias - kind of puts the nonsense notion of equality on its head https://t.co/jPuORA5f6Z"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725744233005481984, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/jPuORA5f6Z"", ""indices"": [116, 139], ""expanded_url"": ""http://bit.ly/1qYDau6"", ""display_url"": ""bit.ly/1qYDau6""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""725744233005481984"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 28 17:51:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -21600, ""statuses_count"": 205, ""description"": ""Instagram:@GlenDanzig\n https://t.co/Tem2ys7fbR"", ""friends_count"": 568, ""location"": ""Colorado, USA"", ""profile_link_color"": ""FF0000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/709398489034174464/1g_4osit_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/19887029/1396556931"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme12/bg.gif"", ""name"": ""Jess Kazen"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2550, ""screen_name"": ""jesskazen"", ""notifications"": false, ""url"": ""https://t.co/7315jUDfMk"", ""created_at"": ""Mon Feb 02 01:23:23 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Mountain Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Women Experience More Pain, Due to Both Biology and Bias - kind of puts the nonsense notion of equality on its head https://t.co/jPuORA5f6Z"
+Didn't they just let one of these degenerates go or something? https://t.co/irHBc54P1h
+#lyingTed can't even tell the truth about basketball hoops being called hoops and not rings #basketballring
+New York man punched in the face because he 'looks exactly like Shia LaBeouf' https://t.co/LmZBYhh7C0 via @EW
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+"https://t.co/1DuY7RmXzw this guy is cool, saw him in a Trump video. Good for him."
+https://t.co/a5rjcHXdVx
+"Ted Cruz talks about Carrier, bringing jobs back and then announces that Carly Fiorina who destroyed HP as the CEO, will be his choice as VP"
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+Come videochat with me at https://t.co/TttP7Viofh #whitepowder666 via @tinychat
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+@TrumpTrain8 @tedcruz lolol Ted Cruz is to the presidency what Lance Bass was to space travel
+This is very cool for Serbia https://t.co/lUsWLWhBmM
+Don't believe #lyingTed https://t.co/4HIYPpXHbi
+#lyingted and Kasich want to play games with each other in bathrooms while @realDonaldTrump is actually working to fix the American economy.
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+#Trump2016 The Secret Shame of Middle-Class Americans Living Paycheck to Paycheck https://t.co/FighM6aOl5
+@Tjsotomayor they are tearing her up in the comments https://t.co/qsLxU7T1k9
+"@realDonaldTrump is actually a great guy, and doesn't pander to any special interests. He is the only candidate with integrity."
+"@PIX11News I don't have kids and I keep mine high up on a shelf because it's a caustic cleaning agent, how could a parent not do the same?"
+@realDonaldTrump  https://t.co/EUpaXm3ksP
+@RealBenCarson A great biblical quote for @realDonaldTrump to find solace in right now while facing these snakes that wish to do him harm.
+I am not surprised by their deplorable behavior https://t.co/iPz7h9xbEq
+they make me sick https://t.co/noUkDCDKZi
+Ohio 'Execution Style' Murders Linked to Marijuana Grow https://t.co/jMMzDtNuH9
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+"@troylf That is good to hear, it's very scary"
+@PuigBobby I have some shit gene that predisposes me to them and apparently intermittent fasting makes it worse lel
+I'm back. Just found out I need my gallbladder removed. https://t.co/iQDsMBOKL1
+"Join me at https://t.co/TttP7V0MQH
+ There are currently 4 people person here with 3 live on camera.
+ Sent by Tinychat for Android"
+"Can't even keep water down. Best diet of my life, lost 5 lbs in 2 days. https://t.co/9gRvDd3pk6"
+Krekorian Calls on L.A. to Cancel Wall Street Journal Subscriptions for Printing Ads Denying the Armenian Genocide https://t.co/rooC4phTO8
+"people who do dumb shit die earlier, who knew?! https://t.co/5eTg8hIB18"
+Bayer Sold HIV-Risky Meds https://t.co/h0aZaSSXwU
+literally dying https://t.co/zwpdZYx21x
+"Wow, this is putrid."
+"This is deplorable, Check out ""Tricked"" on Netflix
+https://t.co/WphES0aUad"
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+"@Target can't get any resolution on the phone, why are you mailing things to my old post office?"
+"on the phone with @target.com customer service, trying to fix this ridiculous shipping issue. Been hung up on once. Let's see how this goes."
+The DEA Just Approved a Way to Smoke Marijuana Legally for the First Time via @FortuneMagazine https://t.co/pXa1mG0DVN
+Why Immigration Matters on Earth Day https://t.co/hgCwmeFJIt
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+"breakfast, and lunch of champions https://t.co/FeUAitOeel"
+"@TrumpTrain8 yeah in a fake sort of way that panders to the most people as possible, unlike @realDonaldTrump, I get what you're saying."
+"@TrumpTrain8 since day one she had like 3 opponents, easy for her to say."
+I am willing to make a bet that once @realDonaldTrump becomes president and our economy recovers #suicide rates will drop DRAMATICALLY
+@Tjsotomayor watch the video!!!! they talk about HAIR ENVY like it somehow started the fight #smh https://t.co/m0FrYXst4K
+16-year-old girl beaten to death in high school bathroom in Delaware https://t.co/hMYk9OIC2Q via @fox13now
+pimps and I https://t.co/cPAuQbBrff
+"@Slate she's overly peppy and fake, I can't stand that show."
+"Hanging out in a group video chat room, come say hey. https://t.co/TttP7Viofh #tinychat"
+pear goat cheese walnut spinach salad https://t.co/GRdml5ZXZi
 strawberry cake https://t.co/OeBD51Tw5v
 Michigan woman dies after having 16 teeth removed at dentist https://t.co/HIk0erl86v
 """too drunk to remember what happened"" Seattle nurse dismembered in her home by man she was dating https://t.co/yM9PDBqxVM"
