@@ -1,0 +1,452 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 225633973, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721037283852423169/MQdhWIp2_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/zjmLtBCojA"", ""indices"": [0, 23], ""expanded_url"": ""http://NaturalLaw.org/Homogeneous_Communities"", ""display_url"": ""NaturalLaw.org/Homogeneous_Co\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2982, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""225633973"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 83, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @yobynnad1127: This is how scumbags act after receiving a lifetime of government handouts. #Trump #mexico #illegals #welfare https://t.c\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726941327351488514, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1717464030, ""indices"": [3, 16], ""id_str"": ""1717464030"", ""screen_name"": ""yobynnad1127"", ""name"": ""SecureOurBorder""}], ""hashtags"": [{""indices"": [94, 100], ""text"": ""Trump""}, {""indices"": [101, 108], ""text"": ""mexico""}, {""indices"": [109, 118], ""text"": ""illegals""}, {""indices"": [119, 127], ""text"": ""welfare""}], ""urls"": [], ""media"": [{""source_user_id"": 1717464030, ""source_status_id_str"": ""726940752912207872"", ""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg"", ""source_user_id_str"": ""1717464030"", ""source_status_id"": 726940752912207872, ""id_str"": ""726940738269773824"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726940738269773824, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 28, ""id_str"": ""726941327351488514"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""This is how scumbags act after receiving a lifetime of government handouts. #Trump #mexico #illegals #welfare https://t.co/VnQ6HgZLaw"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726940752912207872, ""favorite_count"": 29, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [76, 82], ""text"": ""Trump""}, {""indices"": [83, 90], ""text"": ""mexico""}, {""indices"": [91, 100], ""text"": ""illegals""}, {""indices"": [101, 109], ""text"": ""welfare""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg"", ""id_str"": ""726940738269773824"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 726940738269773824, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 28, ""id_str"": ""726940752912207872"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 01:05:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg"", ""id_str"": ""726940738269773824"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 726940738269773824, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg""}, {""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1U0AAsgYl.jpg"", ""id_str"": ""726940738269794304"", ""sizes"": {""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 726940738269794304, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1U0AAsgYl.jpg""}, {""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_2UgAAFOaU.jpg"", ""id_str"": ""726940738273968128"", ""sizes"": {""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 726940738273968128, ""media_url"": ""http://pbs.twimg.com/media/Chacv_2UgAAFOaU.jpg""}, {""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/ChacwBYUgAIKis0.jpg"", ""id_str"": ""726940738685009922"", ""sizes"": {""small"": {""h"": 136, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 409, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 240, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 726940738685009922, ""media_url"": ""http://pbs.twimg.com/media/ChacwBYUgAIKis0.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 01:08:13 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1717464030, ""source_status_id_str"": ""726940752912207872"", ""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg"", ""source_user_id_str"": ""1717464030"", ""source_status_id"": 726940752912207872, ""id_str"": ""726940738269773824"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726940738269773824, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1UgAAMNda.jpg""}, {""source_user_id"": 1717464030, ""source_status_id_str"": ""726940752912207872"", ""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_1U0AAsgYl.jpg"", ""source_user_id_str"": ""1717464030"", ""source_status_id"": 726940752912207872, ""id_str"": ""726940738269794304"", ""sizes"": {""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726940738269794304, ""media_url"": ""http://pbs.twimg.com/media/Chacv_1U0AAsgYl.jpg""}, {""source_user_id"": 1717464030, ""source_status_id_str"": ""726940752912207872"", ""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/Chacv_2UgAAFOaU.jpg"", ""source_user_id_str"": ""1717464030"", ""source_status_id"": 726940752912207872, ""id_str"": ""726940738273968128"", ""sizes"": {""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726940738273968128, ""media_url"": ""http://pbs.twimg.com/media/Chacv_2UgAAFOaU.jpg""}, {""source_user_id"": 1717464030, ""source_status_id_str"": ""726940752912207872"", ""expanded_url"": ""http://twitter.com/yobynnad1127/status/726940752912207872/photo/1"", ""display_url"": ""pic.twitter.com/VnQ6HgZLaw"", ""url"": ""https://t.co/VnQ6HgZLaw"", ""media_url_https"": ""https://pbs.twimg.com/media/ChacwBYUgAIKis0.jpg"", ""source_user_id_str"": ""1717464030"", ""source_status_id"": 726940752912207872, ""id_str"": ""726940738685009922"", ""sizes"": {""small"": {""h"": 136, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 409, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 240, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726940738685009922, ""media_url"": ""http://pbs.twimg.com/media/ChacwBYUgAIKis0.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 19270, ""description"": ""NationalUnityPatriotParty\u00a9Nationalist party with FOUNDING principles;1A,2A,\u2627\u00a4CitizensTradition!\u00a4LifeIsWar!\u00a4 ANTI-Marxist/Liberal/Globalist/Socialist/Cuck/COMMIE"", ""friends_count"": 4938, ""location"": ""GA, USA\u2796We stand with AMERICA!"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721037283852423169/MQdhWIp2_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/225633973/1456270945"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""NationalUnityPatriot"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 11073, ""screen_name"": ""ArchHighLord"", ""notifications"": false, ""url"": ""https://t.co/zjmLtBCojA"", ""created_at"": ""Sun Dec 12 02:16:44 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Tokens for #Trump https://t.co/a9F3MxpTSY
+I liked a @YouTube video https://t.co/iftW8yFxpw The Best Of Bluegrass - Roll in My Sweet Baby's Arms 1991
+"#MayDay 
+.
+#VIEWS 
+. https://t.co/2uP9jj9kBV"
+Hey l👀k!👇 Just like I've been saying for  20 years now! We are funding our OWN DEMISE.  https://t.co/JQdgNAPq6o
+"@ameripundit @Apatriot11 @SenatorRonbo @MichaelCohen212 .
+.
+#PrimaryDay #delegates #OnlineBallot #JanBrewer 
+. https://t.co/yxJiUkIMV3"
+"@Azzmador_1488 @JigabooFranklin @Rolling4Chie .
+. 
+lol... Never felt the urge to slap a Hakenkreuz before!  😈"
+"Really?
+Ahh...
+So then...
+There are too many JEWS in ISRAEL!  https://t.co/CQbGoI9ILa"
+"Yeah... 
+Way, WAY too many CHINESE in CHINA too!  https://t.co/CQbGoI9ILa"
+"#MayDay 
+.
+#VIEWS 
+.
+#WhenISayHillaryYouSay 
+.
+#HillarySoQualified 
+.
+For... 
+.
+👿🇭🇪🇱🇱👿
+.
+😱
+. https://t.co/Jeo141dUjM"
+"#MayDay 
+.
+#VIEWS 
+.
+#WhenISayHillaryYouSay 
+.
+Trial for TREASON and summary punishment... 
+. https://t.co/yoZdxMriej"
+"#SuperSoulSunday 
+.
+#VIEWS 
+.
+#WhenISayHillaryYouSay 
+.
+We're taking OUR nation back! 
+. 
+                     🐇 
+.
+https://t.co/mfJ42rrrvR"
+"You shouldda been there for the rally...
+.
+It was a blast...😈
+.
+https://t.co/eO0gwrkKAm
+.
+https://t.co/tSuwfVAsJP
+🐇  https://t.co/oSBAoVW9j6"
+"#MayDay 
+.
+#HappySunday 
+.
+#White #family ❗
+.
+✋👱
+.
+🐇 https://t.co/A2PEZcAigl"
+"Haaaaaaaa!!!
+.
+🇭🇦❗
+.
+😋 https://t.co/aF6PP44ZDS"
+"#MayDay ❗
+.
+#TedCruz 
+.
+Is...
+.
+#CruzinToTheMadHouse ❗
+.
+👇😨 
+https://t.co/OxPqaICHRd"
+"Half-jews for #Trump 
+😵 https://t.co/OtzYaPBLpb"
+"Mexican drug cartels FREELY Xing border 2 compete W &amp; MASS-MURDER Appalachian marijuana families!
+😧
+.
+#BuildThatWall
+https://t.co/sWC0LLgVY7"
+"#MayDay
+Uh oh!
+No more 'Peruvian Gold' for you ""sophisticated"" druggies out there!
+😏 
+Colombia arrests 'Snail'
+. 
+ https://t.co/9nRuH1K8Me"
+"#MayDay 
+.
+#TrumpforPresident 
+.
+#HillaryForPrison2k16 
+. 
+https://t.co/RnTSPF3FWC"
+@Azzmador_1488 @JigabooFranklin @Rolling4Chie 😂
+"#MAGA
+.
+#VIEWS
+. 
+Im so glad I &amp; my #robotics company invested capital into those #FightFor15 morons! 👍😂 💲$💲 
+. 
+. 
+https://t.co/D6HA1znF5t"
+I liked a @YouTube video from @lovinbluegrass https://t.co/P1EhUehOUC The Gospel Plowboys - Everybody Will Be Happy Over There
+I liked a @YouTube video from @lovinbluegrass https://t.co/UHH9fyZodo The Gospel Plowboys - What A Day That Will Be
+https://t.co/gfSOLnv74o
+"@Im4theUSA .. 
+.
+. 
+Im so glad I and my #robotics company invested capital into those #FightFor15 morons! 👍😂 💲$💲 
+. https://t.co/D6HA1znF5t"
+@GamerGate4Life @marylovefreedom lol!
+"#WhatTheyDontWantUsToKnow 
+.
+""Us latins need to stick together."" 
+#TedCruz 
+.
+https://t.co/W4XtTjuNOJ
+#AmericaFirst https://t.co/7Hrj1CZVxO"
+"#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+Mooslams are training THEIR KIDS....
+.
+To..
+.
+🇰🇮🇱🇱
+.
+Yours... 
+.
+🔻🔽👇😱👇🔽🔻 
+. 
+https://t.co/wQK7THzelO"
+"@Cucked_UK @mak_morn3 
+.
+Yep! 
+.
+✋👱 
+. 
+. https://t.co/GwYe8dKlDa"
+"@mak_morn3 .
+.
+✋👱 
+. https://t.co/GwYe8dKlDa"
+"#Saturday
+.
+#VIEWS
+.
+#WhatTheyDontWantUsToKnow 
+.
+#immigration
+#diversity
+.
+#Russia blows up mooslam prayer-bombs!
+.
+https://t.co/llKRdUKZdr"
+@amentilone Check out @ArchHighLord's Tweet: https://t.co/q3lVsfCZI0
+"#Saturday
+.
+#VIEWS 
+. 
+I'll take one million STRONG TRAD WHITES
+.
+..  who are UNITED ....
+.
+Against the WORLD...
+.   https://t.co/4Zx26kObWb"
+"@amentilone 
+""Plunge your troops into a DIRE fight, and their VALOR will be UNMATCHED""
+Sun Tzu
+.
+A STORM is coming. https://t.co/uoX62RkXJq"
+"@amentilone .
+.
+#Saturday 
+.
+#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+We're taking OUR nation back! 
+🐇 https://t.co/mfJ42rrrvR"
+"#Saturday
+.
+ #VIEWS 
+.
+Don't make the #WHITE kids angry?.
+.
+Too late... 
+. https://t.co/wopZ21AtqY"
+"#Saturday
+.
+#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+#Cruzbot s attacked #Trump delegates 4 not knowing rules.
+🇴🇴🇵🇸❗👇
+https://t.co/5JQdJjKguu"
+"Thanks2ALL who came/helped talk abt the #WR #SH #stonemountain #GA RALLY❗
+😎
+THIS👇ONE IS;
+#AmericaFirst
+#StopTheSteal https://t.co/Cs6s4mG56W"
+"#Saturday 
+.
+#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+#WakeUpAmerica 
+.
+#HillaryForPrison2016 
+. https://t.co/hGwhN3wPrj"
+"#Saturday 
+.
+#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+#WakeUpAmerica 
+.
+#FeelTheBern 
+. https://t.co/EeDy7iZdyv"
+"Here's a start to the list of 🇹🇷🇦🇮🇹🇴🇷🇸 
+to  
+CULL FIRST!   https://t.co/eZEc5Px7sF"
+Added https://t.co/3dkhEc0jd0
+"#Saturday
+.
+#VIEWS
+.
+#WhatTheyDontWantUsToKnow 
+.
+🇸🇭🇭🇭❗
+.
+#Diversity really means❗
+.
+🇰🇮🇱🇱 🇼🇭🇮🇹🇪🇾❗
+.
+🇩🇮🇳🇩🇺
+🇳🇺🇫🇫🇮🇳❗
+😠 
+https://t.co/7e969MIw7J"
+"@e80d78cbef564a9 
+.
+#14words 
+.
+🐺🏰👪🏰🐺 
+.
+🔻🔼🔻 https://t.co/tsNNSyzLMf"
+"Kenya burns vast piles of elephant tusks as it seeks ban on trade 
+.
+https://t.co/1ciFylAaOe"
+"I bet he did... 
+. https://t.co/9Ho3iH78aH"
+"@cuckservative @thehill .
+. 
+#Trump stumped the Anti #USA fags like an #AmericanNinjaWarrior ❗
+😂
+🐺🏰󾓦👪󾓦🏰🐺"
+"#VIEWS
+#Saturday
+#WhatTheyDontWantUsToKnow
+.
+#Trump got past the evil anti #USA fagz like an #AmericanNinjaWarrior ❗ https://t.co/cbg7tz4IUd"
+"Fek u fagggot! #Trump got past yer silly racist mezstiso ass like a #CHAMPS 
+#AmericanNinjaWarrior ❗
+🏰󾓦🏰
+🇩🇪🇷🇵❗
+👋😂🙌👍😂 https://t.co/3xiV9Qthh4"
+"#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+#JudgementDay 
+.
+#immigration 
+.
+#Saturday 
+.
+#Trump
+#AmericaFirst ❗ 🐺🏰󾓦👪🏰🐺
+. https://t.co/otZ4yQUXFK"
+"#VIEWS 
+.
+#WhatTheyDontWantUsToKnow 
+.
+#JudgementDay 
+.
+#Saturday 
+. https://t.co/yZXTC62m3K"
+"#VIEWS 
+.
+#satchat 
+. https://t.co/WzIfqTFtdk"
+"Stop ALL #immigration ❗
+#Deport or intern🇦🇱🇱 undesirables❗
+#BuildThatWall 🐺🏰󾓦👪🏰🐺
+#MakeAmericaGreatAgain 😤
+🔻🔽🔻🔽🔻 
+https://t.co/otmZTO3d3N)"
+"@UnPoliticalPrty @Thomaskirkm .
+.
+#NationalDebt https://t.co/iZ9FVWhrtX"
+@MScuffy @MumpDragon @OldNavy https://t.co/BRVfrO5HOM
+"@MScuffy @MumpDragon @OldNavy .
+. https://t.co/zqLmuUFWlo"
+"Ifunzz ya'll can't take the heat...
+.
+Getdafekouttaheeeah! 
+.
+😤 
+
+."
+Diznee iz run by joooozzz...  https://t.co/ZXWRAndaf4
+"Sorry fekin cukfagz...
+. 
+https://t.co/f5OzffDp29"
+"@DixieLand__Diva .
+. https://t.co/jGIXQvCQ7h"
+"@DixieLand__Diva .
+.
+https://t.co/LSzJ01DmWm
+. https://t.co/2Pnafp4lfB"
+"@DixieLand__Diva .
+.
+Check out @ArchHighLord's Tweet: https://t.co/uCk5X5sk1C
+.
+#Truth 
+. https://t.co/Bb5pJNgjdw"
+"@DixieLand__Diva .
+.
+#Truth
+. https://t.co/ADJNwIV4Rg"
+He would know...  https://t.co/n5k3tmjA0K
+"💫🇧🇴🇳🇪🇷❗💫
+.   https://t.co/um6yIXkxRI"
+"#VIEWS 
+.
+#FridayFeeling 
+.
+#cuck
+.
+🇸🇭🇭🇭❗
+.
+Diversity really means....
+.
+Kill whitey...
+.  
+🔻🇨🇺🇨🇰🔻   https://t.co/DajR7pj81U"
+"#VIEWS 
+.
+#FridayFeeling 
+.
+Vl🔯dimir Lennon,
+Leon Tr🔯tsky &amp;
+ K🔯rl Marx
+are alive, well &amp; in charge of #America &amp; #Europe in the year #2016
+😠"
+"#InternationalDanceDay 
+.
+#CAPrimary 
+.
+#TrumpRally 
+.
+#FridayFeeling
+.
+#VIEWS 
+.
+#Breasts4Trump
+.
+#Backs2Obama 
+. https://t.co/0H2IZEKiSj"
+"Q: Why are so many whites BETRAYING their fellow countrymen?
+.
+💲💲❓
+.
+Demonic 🇲🔯🇸🇸 delusion &amp; deception?
+.
+A: Both
+.
+https://t.co/pP48BfurVA"
+"#VIEWS 
+#1A 
+#2A
+#MolonLabe 
+#guns 
+.
+🇱🇴🇨🇦🇱
+🇸🇭🇪🇷🇮🇫🇫🇸
+🇨🇦🇱🇱
+🇫🇴🇷
+🇷🇪🇧🇪🇱🇱🇮🇴🇳 🇦🇬🇦🇮🇳🇸🇹 🇹🇾🇷🇦🇳🇳🇮🇨🇦🇱 🇫🇪🇩🇪🇷🇦🇱
+#guncontrol ❗
+🏰󾓦🏰
+https://t.co/Fy8leYHaob"
+"Plunge your troops into DIRE straights, &amp; their VALOR will be UNMATCHED!
+.
+Go ahead, dumbass #dindu tip the scales
+😈
+https://t.co/mO1aHwQAlR"
+"#VIEWS 
+.
+The #Queenat90  will kick yo' sorry, skinny  #Dindu ass, Ebama!
+.
+Lol! 
+. 
+https://t.co/p8uOGLnjR2"
+"#VIEWS 
+#1A 
+#2A
+#MolonLabe 
+#guns 
+.
+🇱🇴🇨🇦🇱
+🇸🇭🇪🇷🇮🇫🇫🇸
+🇨🇦🇱🇱
+🇫🇴🇷
+🇷🇪🇧🇪🇱🇮🇴🇳 🇦🇬🇦🇮🇳🇸🇹 🇹🇾🇷🇦🇳🇳🇮🇨🇦🇱 🇫🇪🇩🇪🇷🇦🇱
+#guncontrol ❗
+🏰󾓦🏰
+https://t.co/Fy8leYHaob"
+"#VIEWS 
+.
+#falseflag 
+
+Targeting of #Trump supporter!
+.
+Don't believe MEDI🔯 LIES❗
+.
+Trump Fan Arrested❗
+.
+ https://t.co/w6MS1cLJxn"
+"#VIEWS 
+#WHITES r being backed into a corner
+🐇
+""Plunge your troops into desperate circumstances, and their VALOR will be unmatched"" -Sun Tzu"

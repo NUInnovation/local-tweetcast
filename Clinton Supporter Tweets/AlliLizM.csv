@@ -1,0 +1,71 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4053608507, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/659165805133864961/oL2_Mu8U_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/beK5zeZu78"", ""indices"": [0, 23], ""expanded_url"": ""http://www.eeoc.gov/laws/statutes/epa.cfm"", ""display_url"": ""eeoc.gov/laws/statutes/\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 15, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4053608507"", ""profile_background_color"": ""000000"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HillaryClinton: It\u2019s Caucus Day, Alaska, Hawaii, and Washington! Retweet if you're with her. https://t.co/gKBMJ3UKgc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 719055907661987840, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [3, 18], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""713755536236228608"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 713755536236228608, ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3480, ""id_str"": ""719055907661987840"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""It\u2019s Caucus Day, Alaska, Hawaii, and Washington! Retweet if you're with her. https://t.co/gKBMJ3UKgc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 713755536236228608, ""favorite_count"": 5213, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [77, 100], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3480, ""id_str"": ""713755536236228608"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Mar 26 15:52:35 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [77, 100], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun Apr 10 06:54:22 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""713755536236228608"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 713755536236228608, ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 73, ""description"": ""Look for the shy girl. I'll be the one standing next to her chatting it up."", ""friends_count"": 87, ""location"": ""Dancing With Myself"", ""profile_link_color"": ""885599"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/659165805133864961/oL2_Mu8U_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4053608507/1445992565"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""A Meyer"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 45, ""screen_name"": ""AlliLizM"", ""notifications"": false, ""url"": ""https://t.co/beK5zeZu78"", ""created_at"": ""Tue Oct 27 13:24:13 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@NJ_MVC Proof that our government is failing us. Been here 2 hours and counting for a license renewal.
+"#NJ #DMV line goes from front door all the way through the parking lot. Gotta love the ""services"" NJ Residents receive."
+So happy to finally find out why Charles is no longer in charge.  @JudgeJeanine @ScottBaio
+"Takes less time to file taxes than for @united to file paperwork. 1 hr delay &amp; counting b/c of a ""complication with paperwork."" Seriously."
+"Not how, but why?!? The parody on @nbcsnl will be more interesting (and less depressing) #republicandebate  https://t.co/uHKjHjUC58"
+Really?!? @Vol_Sports @Vol_Football  Wow.  #firebutch #classlesscoach  https://t.co/NVz7Kx1cSD
+Pretty sure I was a fixer in my past life.
+@DeCampBusLines 2nd bus ride in a row where the overhead lights aren't working. What do you a have against those who like actual books?!?
+Hoping to win this overtime.... #EsuranceSweepstakes  https://t.co/hWFTfXrN2n
+"Fifty almost done
+Should be two hundred, Peyton
+Thrilling game to watch
+@NPR 
+#SuperBowlHaiku #SuperBowl #SB50"
+What about getting it through the uprights when needed?!? #SB50 #EsuranceSweepstakes  https://t.co/1NZ84GBVmR
+"For the chance at $50k, I guess I'll have to pretend to agree. #EsuranceSweepstakes #SB50  https://t.co/IiZeVBUN2f"
+"Or it could look like my normal backyard party, but behind a bigger house ;) #EsuranceSweepstakes #SB50  https://t.co/qtuvIjwRnY"
+Is it weird that I miss #leftshark #SB50 #HalftimeShow
+They should do away with all pro cheerleaders and have @Beyonce &amp; @BrunoMars choreograph shows for every sports event. #SB50 #HalftimeShow
+@AnnaKendrick47 just tweet to wake us up when Beyonce comes on
+"Or human food, human toys and human gear..... #EsuranceSweepstakes #SB50  https://t.co/bLeW6wQTyI"
+I'm surprised no lap band surgery provider advertises during the #SuperBowl #toomuchfood #pizzacoma #SB50
+Did @CBS not sell out their ads? I seem to be seeing a lot of promos for their shows. #SB50
+"That was the blindside, right @MichaelOher #SB50"
+"And with $50k, I could buy a nice amount of @PapaJohns stock before next  #SuperBowl #SB50  #EsuranceSweepstakes  https://t.co/433JXlhAPl"
+@fredweb53534337 Told you they wouldn't score. So there. #SB50
+Love that #JimNantz has to say Teenage Mutant Ninja Turtles #SB50
+Thought the window in which to make #SteveHarvey jokes had closed. Moment over @TMobile #SB50
+Nice hand jive @Jonathanstewar1  Someone saw @GoGrease last week. #SB50
+#EsuranceSweepstakes #SB50  https://t.co/e9rTGexWkL
+"""You look like you're on a cleanse that doesn't work."" Brilliant line @ShockTop #SB50"
+"Holding on tighter than Cam Newton....come in @esurance, cough up some cash my way! #EsuranceSweepstakes #SB50  https://t.co/1fTjMPaRAK"
+"Have no idea what @squarespace is, but I love me some @KeyAndPeele #SB50"
+Ruling on the field stands. Agree.  Not enough to #overturn. #SB50  https://t.co/8Fyr2f5EW2
+#puppymonkeybaby hell no. That would be like a @HillaryClinton and @realDonaldTrump ticket. Some things should just not be CGIed together.
+Cool stat about @Panthers never trailing #EthanCooperson @STATSbiznews #SB50
+Which city will have a baby boom in 9 months? Denver or Charlotte? #SB50 best ad yet @NFL
+"So we'll be living in spaceships in the future, but we'll still have avocado trees. Ohhhkay @AvosfromMexico"
+Pick me. Pick me. #EsuranceSweepstakes #SB50  https://t.co/lnLW1IEkuy
+"Considering your handle @YoungCons, I'm not sure cheating talk is your strong suit here. #justsaying #KnowMuchAboutCons #IowaCaucus"
+Pretty sure every @nyjets fan wants to hug @DeMarcusWare Nice game @Broncos #defense
+"""...a single mouthful is more satisfying than one sip of #pinotnoir"" Best in Bean-to-Bar #chocolate https://t.co/64gZrjRiHA #wine #disagree"
+"If you support @realDonaldTrump I won't debate you or not be your friend, but I reserve the right to consider you completely gullible."
+And?!?   https://t.co/tl0fpuxrdB
+And all the hot air coming out of most of the other candidates cannot be helping.... https://t.co/FPlEm80awE
+@mathowie If @realDonaldTrump has seen this I have to believe he's most upset that his hair is not as nice as Immortan Joe
+"Much respect for the @Patriots fan who made good on the bet. @ConnorBarwin98 wins bet, beer from Pats fan https://t.co/gbxSI89RJd @FoxSports"
+LOVE this and RESPECT these women. Here’s what some of America’s most powerful women think about Hillary Clinton. https://t.co/a0OmuT1we9
+"2 eps in and loving the show @JessicaJones I will be repeating ""I don't give a bag of dicks"" OFTEN."
+#officiallyold Could only watch about 10 mins of the #AMAs and hoping I can stay awake to make it through @LastWeekTonight @iamjohnoliver
+@NJPAC BRILLIANT idea having everyone pay for parking AFTER an event.  Because you NEED to add to a parking lot bottleneck after an event.
+"LOVED ""Ice Cream Queen of Orchard Street"" Lillian is brilliant, complex, not always likeable, fascinating - like REAL women @SusanJGilman"
+"I may be at work, but my mind is here. #TravelTuesday #Andes https://t.co/0DRkbK06Tx"
+Who knew snowflakes &amp; skates are #Christian symbols? So that's why we Jews retire to Florida @Starbucks https://t.co/AX56cVgFBT @examinercom
+I may live in #NJ but I am all about Michigan this weekend! @umichfootball #greattobeamichiganwolverine  https://t.co/zNgxKHksts
+"That time of day when you just want to answer every call and email with ""I really don't care"" and just get in your car and drive away..."
+"Beautifully put.  ""Know Your Risks, but Meat Still Isn’t the Enemy"" https://t.co/XInZZHt7Ra via @UpshotNYT #moderation"
+Can we give @KaiForbath and the @Seahawks D keys to the city? @EaglesInsider @Eagles @Saints
+"@TrevDon not as good as Pop Tarts, but much better than Pop Turds"
+What does driving a @Dodge have to do with a movie about a dystopian U.S. where there are no cars?!? @lionsgatemovies @TheHungerGames
+"@roomfordebate @nytimes Flannel pj bottoms, slippers, tee shirt and a bathrobe - you're either going as ""tired"" or you on a Monday Morning"
+@HuffingtonPost What a sad turn of events. Surprising that Sen. Lamar Alexander blocked it. He's more bipartisan than most.
+@NateHeitzman Not sure. It makes sense for the brand I work on and the wine thing just kind of started naturally. Why not try and see
+#HalloweenASitcom  black(cat)-ish
+"@GovChristie I thought the ""Stronger Than the Storm"" statewide (er, re-election) ad campaign was about how you'd solved everything already."
+"Shout out to all of my friends who clutter my Facebook, Twitter and Instagram feeds with cat videos and pictures! #NationalCatDay"
+"Can we really call it ""news"" if it is something we've all known was going to happen for days? https://t.co/ZOWVEDiE2K"
+"Nice trend to read about  @NPR: As Schools Buy More Local Food, Kids Throw Less Food In The Trash  https://t.co/dmkZfRzsbE #TheSalt"
+@SenGillibrand Wish I could join. Thanks for bringing attention to this book. Had no idea @amyklobuchar wrote a book. Will add to my list.
+"I don't agree w/ @realDonaldTrump on most issues, but his speech in Iowa was hilarious. I may watch him on @nbcsnl. #LarryDavidvsTrump2016"

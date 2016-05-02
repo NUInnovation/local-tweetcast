@@ -1,0 +1,51 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": true, ""id"": 2253432262, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 26, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2253432262"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @JeanChatzky: Thx for all the love&amp;support! Pls keep sharing \u2014 wouldn't it be great if we hit Business top 5? ;) #HerMoneyPodcast https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 719705635399409664, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 18452614, ""indices"": [3, 15], ""id_str"": ""18452614"", ""screen_name"": ""JeanChatzky"", ""name"": ""Jean Chatzky""}], ""hashtags"": [{""indices"": [120, 136], ""text"": ""HerMoneyPodcast""}], ""urls"": [], ""media"": [{""source_user_id"": 18452614, ""source_status_id_str"": ""719636060393902081"", ""expanded_url"": ""http://twitter.com/JeanChatzky/status/719636060393902081/photo/1"", ""display_url"": ""pic.twitter.com/iDjiZAwofn"", ""url"": ""https://t.co/iDjiZAwofn"", ""media_url_https"": ""https://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg"", ""source_user_id_str"": ""18452614"", ""source_status_id"": 719636060393902081, ""id_str"": ""719636060045713410"", ""sizes"": {""large"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""medium"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 719636060045713410, ""media_url"": ""http://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""719705635399409664"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Thx for all the love&amp;support! Pls keep sharing \u2014 wouldn't it be great if we hit Business top 5? ;) #HerMoneyPodcast https://t.co/iDjiZAwofn"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 719636060393902081, ""favorite_count"": 31, ""source"": ""<a href=\""http://www.hootsuite.com\"" rel=\""nofollow\"">Hootsuite</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [103, 119], ""text"": ""HerMoneyPodcast""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/JeanChatzky/status/719636060393902081/photo/1"", ""display_url"": ""pic.twitter.com/iDjiZAwofn"", ""url"": ""https://t.co/iDjiZAwofn"", ""media_url_https"": ""https://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg"", ""id_str"": ""719636060045713410"", ""sizes"": {""large"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""medium"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [120, 143], ""type"": ""photo"", ""id"": 719636060045713410, ""media_url"": ""http://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""719636060393902081"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon Apr 11 21:19:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/JeanChatzky/status/719636060393902081/photo/1"", ""display_url"": ""pic.twitter.com/iDjiZAwofn"", ""url"": ""https://t.co/iDjiZAwofn"", ""media_url_https"": ""https://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg"", ""id_str"": ""719636060045713410"", ""sizes"": {""large"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""medium"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [120, 143], ""type"": ""photo"", ""id"": 719636060045713410, ""media_url"": ""http://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue Apr 12 01:56:09 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 18452614, ""source_status_id_str"": ""719636060393902081"", ""expanded_url"": ""http://twitter.com/JeanChatzky/status/719636060393902081/photo/1"", ""display_url"": ""pic.twitter.com/iDjiZAwofn"", ""url"": ""https://t.co/iDjiZAwofn"", ""media_url_https"": ""https://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg"", ""source_user_id_str"": ""18452614"", ""source_status_id"": 719636060393902081, ""id_str"": ""719636060045713410"", ""sizes"": {""large"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""medium"": {""h"": 453, ""resize"": ""fit"", ""w"": 271}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 719636060045713410, ""media_url"": ""http://pbs.twimg.com/media/CfypLw6WIAIVV68.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 60, ""description"": """", ""friends_count"": 134, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Barbara C"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3897, ""screen_name"": ""caluvr4life"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Dec 31 03:24:08 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@GMA California
+"You should be #cool, @GraysonDolan! #TasteTheFeeling https://t.co/GUyGtLCjuy"
+"@HillaryforNH @HillaryClinton Go Hillary, Go!!"
+@MichaelSkolnik @UncleRUSH So? Innocent people are sent to prison all the time. Older drug sentences need to be commuted.
+@JeanChatzky Yes Kohls. Not fulfilling what I ordered online and late (ran out). UPS by a day or two.
+@HilaryDuff Peanut butter allergies. Afraid to hand out.
+@CNNPolitics Men have always killed each other.
+Rapper T.I.: Women are too emotional to be president  @CNNPolitics http://t.co/LmYT6aCdGY Men have always killed each other
+Rapper T.I.: Women are too emotional to be president  @CNNPolitics http://t.co/OekDW8dFOu
+@TheView #ViewYourDeal
+#WhoWillWin tonight? The @steelers! http://t.co/5mIebeWSBj
+"@KathieLGifford deepest sympathy and condolences. He was a wonderful husband, your best friend, &amp; will always be in your heart and thoughts."
+@KeithUrban @GMA Sweet Thing
+@SuzeOrmanShow @CNBC #approved. He has enough money to buy it in all his accounts. He will make more money also.
+@SuzeOrmanShow @CNBC dj equipment denied. Needs to save money before he can buy. Tweet for this not set up.
+@SuzeOrmanShow @CNBC #approved.  It is a need not a want. She has enough in retirement. Allergies asthma need
+@SuzeOrmanShow #denied. She needs to save for 6 months to buy camcorder. Not enough in savings for 10%.
+@SuzeOrmanShow @CNBC #approved. If he gets it for $140 10% of emergency fund and is ok.
+@SuzeOrmanShow @CNBC #approved.  He needs it for transportation.  Needs to save for 6 months then buy the bike.
+@SuzeOrmanShow @CNBC #approved she has more than 10% in savings even if from an inheritance.
+@SuzeOrmanShow @drdre #approved she has enough in savings. Only 10% of her savings will  be used
+@carrieunderwood It's such a great show. Like Friends use to be. Wonder if new show to replace them will be any good??
+@SuzeOrmanShow #approved
+@cnnbrk It could have gone to another zoo. People are so stupid!!
+@SuzeOrmanShow @CNBC  #approved dm
+@JenArnoldMD @TLC Enjoy your kids and life!!!
+"@SuzeOrmanShow @UGGaustralia @CNBC #approved she can afford it, but she should save her money"
+"@TLC #cakebossmomma
+Welcome back. Hope you are feeling better!!!"
+@SuzeOrmanShow #Approved
+@vbschools 2 hour delay
+@AmericanIdol @JLo
+@SuzeOrmanShow #approved
+@Oprah Stop and smell the flowers along the way. :-)
+@Oprah stop and smell the flowers along the way :-)
+@SuzeOrmanShow #denied
+@KellyRipa Happy New Years from VA Beach
+@TLC #CakeBoss
+"@CakeBossLisa @CakeBossCafe @CakeBossMary @CakebossCastano @CakeBossGrace @CakeBossBuddy @lisavalastro4 @TLC 
+Go girls. Go girls!!!!"
+"@TLC @CakeBossBuddy 
+
+I would love a cake made by Buddy. Saw him in Norfolk VA. Nice guy. Good family man.
+@caluvr4life"
+"#cakebosskickoff
+
+Teach them how it is done!  That's why you are The Cake Boss!!"
+"@cakebosskickoff
+Go Buddy. Show them why you are The Cake Boss!!"
+Go Buddy. Go Buddy!!!! Teach them why you are The Cake Boss

@@ -8,9 +8,11 @@ import logging
 from gensim import utils, corpora, models, similarities
 from collections import defaultdict
 from pprint import pprint
+from api import candidate_supporter_tweets_folders, candidate_handles, candidate_supporters
+from random import shuffle
 
 # logging for gensim
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, path_to_tweets_csv):
     # corpus should be a list (of lists), and dictionary must be a gensim dictionary
@@ -27,35 +29,64 @@ def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, pat
     dictionary.add_documents([text])
     corpus.append(dictionary.doc2bow(text))
     return dictionary, corpus, id_to_path_dict
-# texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
-corpus = []
-id_to_path_dict = {}
-# frequency = defaultdict(int)
-dictionary = corpora.Dictionary()
-dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, 'Trump Supporter Tweets/asamjulian.csv')
-dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, 'Trump Supporter Tweets/DarkStream.csv')
-dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, 'Trump Supporter Tweets/jesskazen.csv')
 
-tfidf = models.TfidfModel(corpus)
+def test_tfidf(training_set_size_fraction, k_neighbors):
+    training_set = []
+    testing_set = []
 
-tfidf_corpus = tfidf[corpus]
+    for candidate_handle in candidate_handles:
+        candidate_folder = candidate_supporter_tweets_folders[candidate_handle]
+        dirlist = os.listdir(candidate_folder)
+        dirlist = [file for file in dirlist if file.endswith('.csv')]
+        shuffle(dirlist)
+        for i in range(len(dirlist)):
+            filepath = os.path.join(candidate_folder, dirlist[i])
+            if i <= len(dirlist) * training_set_size_fraction:
+                training_set.append(filepath)
+            else:
+                testing_set.append(filepath)
 
-index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
+    corpus = []
+    id_to_path_dict = {}
+    dictionary = corpora.Dictionary()
 
-block_of_tweets = ''
-with open('Trump Supporter Tweets/asamjulian.csv') as tweetsfile:
-    tweetreader = csv.reader(tweetsfile)
-    metadata = tweetreader.next()
-    for tweetrow in tweetreader:
-        tweetstring = tweetrow[0]
-        block_of_tweets += tweetstring
-clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
-text = [word for word in clean_block_of_tweets.lower().split()]
+    for training_filepath in training_set:
+        dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
 
-doc_to_check = text
-vec_bow = dictionary.doc2bow(doc_to_check)
-vec_tfidf = tfidf[vec_bow] # convert the query to TDIDF space
-print [(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))]
+    tfidf = models.TfidfModel(corpus)
+    tfidf_corpus = tfidf[corpus]
+    index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
+
+    rightcount = 0
+    wrongcount = 0
+
+    for testing_filepath in testing_set:
+        block_of_tweets = ''
+        with open(testing_filepath) as tweetsfile:
+            tweetreader = csv.reader(tweetsfile)
+            metadata = tweetreader.next()
+            for tweetrow in tweetreader:
+                tweetstring = tweetrow[0]
+                block_of_tweets += tweetstring
+        clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+        text = [word for word in clean_block_of_tweets.lower().split()]
+
+        doc_to_check = text
+        vec_bow = dictionary.doc2bow(doc_to_check)
+        vec_tfidf = tfidf[vec_bow] # convert the query to TDIDF space
+        sortedresult = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))], key=lambda x: x[1], reverse=True)
+        mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
+        if mode == testing_filepath.split('/')[0]:
+            rightcount += 1
+        else:
+            wrongcount += 1
+    return rightcount / float(rightcount + wrongcount)
+testdict = {}
+for i in range(3, 30):
+    testdict[i] = test_tfidf(0.3, i)
+
+pprint(testdict)
+
 
 # sims = index[tfidf_corpus]
 

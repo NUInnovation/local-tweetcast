@@ -1,0 +1,160 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 243610070, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/618826149519601664/5N1AUiXv_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 34, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""243610070"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @AJEnglish: A Syrian fighter builds this bomb shelter to protect his family from air strikes in Ghouta https://t.co/X1PNWG8syL https://t\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725279610095697920, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4970411, ""indices"": [3, 13], ""id_str"": ""4970411"", ""screen_name"": ""AJEnglish"", ""name"": ""Al Jazeera English""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/X1PNWG8syL"", ""indices"": [106, 129], ""expanded_url"": ""http://aje.io/7rwy"", ""display_url"": ""aje.io/7rwy""}], ""media"": [{""source_user_id"": 4970411, ""source_status_id_str"": ""725250187036364800"", ""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg"", ""source_user_id_str"": ""4970411"", ""source_status_id"": 725250187036364800, ""id_str"": ""725250173186629632"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725250173186629632, ""media_url"": ""http://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 172, ""id_str"": ""725279610095697920"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""A Syrian fighter builds this bomb shelter to protect his family from air strikes in Ghouta https://t.co/X1PNWG8syL https://t.co/7e58Bw9InX"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725250187036364800, ""favorite_count"": 113, ""source"": ""<a href=\""http://www.socialflow.com\"" rel=\""nofollow\"">SocialFlow</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/X1PNWG8syL"", ""indices"": [91, 114], ""expanded_url"": ""http://aje.io/7rwy"", ""display_url"": ""aje.io/7rwy""}], ""media"": [{""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg"", ""id_str"": ""725250173186629632"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 725250173186629632, ""media_url"": ""http://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 172, ""id_str"": ""725250187036364800"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 27 09:08:13 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg"", ""id_str"": ""725250173186629632"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 725250173186629632, ""media_url"": ""http://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg""}, {""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMXKW4AAaLgj.jpg"", ""id_str"": ""725250176684843008"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 725250176684843008, ""media_url"": ""http://pbs.twimg.com/media/ChCbMXKW4AAaLgj.jpg""}, {""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMwbUYAAOQYF.jpg"", ""id_str"": ""725250183466868736"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 725250183466868736, ""media_url"": ""http://pbs.twimg.com/media/ChCbMwbUYAAOQYF.jpg""}, {""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbM5gWUAEJH_g.jpg"", ""id_str"": ""725250185903886337"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 725250185903886337, ""media_url"": ""http://pbs.twimg.com/media/ChCbM5gWUAEJH_g.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 27 11:05:08 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4970411, ""source_status_id_str"": ""725250187036364800"", ""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg"", ""source_user_id_str"": ""4970411"", ""source_status_id"": 725250187036364800, ""id_str"": ""725250173186629632"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725250173186629632, ""media_url"": ""http://pbs.twimg.com/media/ChCbMKIUYAAK3oz.jpg""}, {""source_user_id"": 4970411, ""source_status_id_str"": ""725250187036364800"", ""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMXKW4AAaLgj.jpg"", ""source_user_id_str"": ""4970411"", ""source_status_id"": 725250187036364800, ""id_str"": ""725250176684843008"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725250176684843008, ""media_url"": ""http://pbs.twimg.com/media/ChCbMXKW4AAaLgj.jpg""}, {""source_user_id"": 4970411, ""source_status_id_str"": ""725250187036364800"", ""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbMwbUYAAOQYF.jpg"", ""source_user_id_str"": ""4970411"", ""source_status_id"": 725250187036364800, ""id_str"": ""725250183466868736"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725250183466868736, ""media_url"": ""http://pbs.twimg.com/media/ChCbMwbUYAAOQYF.jpg""}, {""source_user_id"": 4970411, ""source_status_id_str"": ""725250187036364800"", ""expanded_url"": ""http://twitter.com/AJEnglish/status/725250187036364800/photo/1"", ""display_url"": ""pic.twitter.com/7e58Bw9InX"", ""url"": ""https://t.co/7e58Bw9InX"", ""media_url_https"": ""https://pbs.twimg.com/media/ChCbM5gWUAEJH_g.jpg"", ""source_user_id_str"": ""4970411"", ""source_status_id"": 725250187036364800, ""id_str"": ""725250185903886337"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725250185903886337, ""media_url"": ""http://pbs.twimg.com/media/ChCbM5gWUAEJH_g.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 282, ""description"": """", ""friends_count"": 45, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/618826149519601664/5N1AUiXv_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Boday Rajy"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 26, ""screen_name"": ""bodeclitton"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Jan 27 12:34:18 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@Rainbow941fm #Ireport: pls talk to IkDc to give us light @obawole.  Since one week we have not seen light day &amp;night.No water no fuel !!!
+"INTERVIEW-Panama law firm says data hack was external, files complaint https://t.co/YHLCar4Dd7"
+Very tricky goal #England  https://t.co/1963hlCGuY
+"@Rainbow941fm#G3news:let's worry less abt America electns,am worried abt Rivers politic&amp;killing.The Americans says history continues#Clinton"
+"@Rainbow941fm #G3news:Wellington am sure you are aware that tension will rise about your lawyer analysis this morning, Is worrisome honestly"
+"@Rainbow941fm :D pple arrested are PDP members controlling govt money,does Barr.Jimy says dat pple that stole our comwlth shd not act for it"
+"@Rainbow941fm #G3news:your analyst just want to criticize for ceiling sake, I think he needs to balance his analysis with objectivity!"
+@Rainbow941fm #G3news: who is more qualify to talk on EFCC? Chairman or the PRO? Does talking to press jeopardize a case or investgtn?  Hmm!
+"@Rainbow941fm #G3news, so if it was anything done by the past admn it's not new and it's not news but if it's PMB adm it's new? Common !!!"
+@Rainbow941fm #G3news:it is not brag that stolen fund was recovered &amp; what is bad in saying snr lawyers frustrate legal process?Lawyers chai
+"Scalia's Death Spurs Test of Political Will for Obama, Republicans https://t.co/r6GnLOOW82 via bpolitics"
+"@Rainbow941fm:#G3news, what is bad in saying the challenges of fighting curuptn? I disagree that war against curuptn cannot be won."
+@Rainbow941fm #G3news: all we need is a very strong institutions and a political will I believe curuptn can be reduced to bearest minimum.
+@Rainbow941fm #Ireport:The RRS are the causes of traffic@iju Rd. Yesterday I spent 1 hr btw jungle to fagba. They block the Rd &amp;left narrow
+"Cruz beats Trump as Sanders, Clinton split Democratic vote https://t.co/yLAYs2CWyq"
+Iowa's message more important than Trump's loss https://t.co/h2mV9gjBfU
+"@Rainbow941fm #G3news:I don't know d problem of lawyers,they argued that Lamode shd step down for proper investgtn now they say is tactical!"
+@Rainbow941fm #G3news:PMB economic policy will be foolish to the Timesnews as long as it does not allow them to exploit Nigeria.
+@Rainbow941fm #G3news: it is only people like Methu that will be afraid and condemned the present government.  Shame shame shame !!!
+@Rainbow941fm :Is it PMB that handcuffs Methu to the court? Must we teach the law officer dia work when they never err against the law? Haba
+@Rainbow941fm #G3news:Dayo shd answer if it is not within the rule of law to handcuffs Methu to court? Why playing to the gallery? Common!
+@Rainbow941fm #Ireport: pls tell Gov.Ambode to help us on our roads @obawole bridge to Ndike it causes so much traffic morning &amp; night
+@Rainbow941fm #G3news;everyone that got the money#Dasukigate be prosecuted for money laundering bcos they have d knowledge of where it comes
+@Rainbow941fm #Ireport; I want to confirm the riding of Okada on one way from Agege to iju which is even an unauthorized for okada lawlesnes
+"@Rainbow941fm #G3news, I disagree with Barr. JIDE that Fashola is repentant on housing, tell me where did is low income cement&amp;building mat?"
+"@Rainbow941fm #G3news,I urge  Wellinton to search for the video clip and watch, the military shd not be blame, this is the nation strength."
+@Rainbow941fm #G3news: I trust super Fashola will succeed this Era is diff from Bola ige time. Nigerians are more wise now &amp; cabal is aware
+@Rainbow941fm #G3news; why should PMB budget so much for oil exploration in d north when oil market is crashing@the int'l mkt? Diversify !!!
+@Rainbow941fm #G3news:Barr is wrong to say that the IPOB leader should have been ignored.  More life would have been wasted &amp; irresponsible
+@drnidoko ; Hey Doctor what's up? We have not been hearing you on rainbow again. Are you fine? I want to believe so. Pls send me your number
+Canada PM under fire for nannies and child care https://t.co/AZIhULrA6R
+"Dear President Buhari, This Is What Is Called Change – Dele Momodu 
+READ: https://t.co/YK47HgJPSH"
+Try out the new FirstMobile App from First Bank! https://t.co/zq1UGvl6GD
+"@Rainbow941fm#G3news, let's put Biafra issue into refreremdum and see how many Igbos that will support the cause."
+"@Rainbow941fm#G3news, the police should be put on check with the killing of innocent Nigerian, we need a reform in the Nigeria police."
+"@Rainbow941fm#G3news,Obama made a statement on gun control outside US, he said America is a country that lack common sense on gun control."
+"@Rainbow941fm #G3news, people criticizing LASTMA under Fashola are those who did not respect traffic law, now under lame Ambode is okay!"
+"@Rainbow941fm#G3news, if Fashola platform was faulty why did Ambode campaign for continuity? Why did he ride on his achievement to seek vote"
+"@Rainbow941fm#G3news, Rivers and Akwa Ibom elections was a shame we have a very short memory we saw what happened in d election,not surprise"
+"@Rainbow941fm#G3News, people who are apologetic of the past admns,and water down the issue of corruption are those that benefits from d wrot"
+"@Rainbow941fm #G3News, Proff. Nwabueze is wrong to say corruption is not the priority now, remove corruption % of Nig,problems is solved"
+@Rainbow941fm G3newspaper; Dr.pls talk about Ohakim who paid mongos cash for a property in Abuja that runs millions of Naira in in the news
+Israeli row over no-fly zone for supermodel's wedding http://t.co/AzMpWJkCfG
+Kidnapped Vanguard Columnist Released -  http://t.co/FlKTZjEq2R
+"@Rainbow941fm #G3News,Oshiomole was not contesting the construction of 2nd niger bridge,what he was contesting was the large chunk of money."
+"@Rainbow941fm #G3News, GEJ was boasting of good economic team but the result of his Admn on the economic scale was bad, how do we reconcile?"
+"@Rainbow941fm #G3News, no one is saying Akpabio did not build world class hospital the question is why can he patronize the hospital for med"
+@Rainbow941fm#G3news; PMB shd balance the appointment he cannot tell me that the south lacks credible people to be appointed for juices post
+http://t.co/moijHzbtKi
+"@Rainbow941fm ; Fashola has written an open letter ,if is not satisfactory people shd,go to court trials are not done on pages of newspaper."
+"@Rainbow941fm ; all the looted fund should be recovered no matter whose ox is gored, audit firm should be engaged to reconcile the figure."
+"@Rainbow941fm #G3news; IBB is having guilty conscience, am sure he will nurse this for the rest of his life, MKO live for ever!"
+"@Rainbow941fm:#G3news;  Fayose loudest noise is diversionary, and wolf crying anti graft search light will soon beam on his side."
+"@Rainbow941fm#G3news; introducing National carrier is a welcome development, it must be a world class standard and run as a profit center."
+"@Rainbow941fm #G3news ;he who come to equity must come with clean hand, what is the antecedent of Akinjide as a minister in 2nd republic?"
+"@Rainbow941fm #G3news ;we don't need big or small thief, what does it takes to become a thief? Whoever steal is a thief &amp;must be punished."
+Petition as French Riviera beach closed for Saudi king http://t.co/OhhFtX4CNW
+Full transcript of BBC interview with President Barack Obama http://t.co/fqtCDIhiKy
+@Rainbow941fm#G3news; rejection of Nig crude oil is a signal to move from mono economic.  May the oil dry so soon! So that our eyes can open
+"@Rainbow941fm#G3news;Insurgency is a global problem, BH operations in Nig is senseless and uncalled for.PMB shd adopt diff strategies."
+@Rainbow941fm#G3news: OBJ shd stop lamenting what did he do about the corrupt gov he talks about?  Having knowledge that they were corrupt
+@Rainbow941fm#G3news: inability to crush insurgency is incompetence and corruption or the toxic combination of both in military.# wakeup Nig
+"@Rainbow941fm #G3news:negotiation is not bad,even theAmerican change policy on hostage taken and allowed family to pay ransom,policy dynamic"
+"@Rainbow941fm #3G; Dr. No system is statics, even America reverse her policy on hostage taken by allowing the family to pay ransom&amp;negotiate"
+@Rainbow941fm Dr shd answer these questions;did Enugu state prosecute the Gov?Did they pay any legal fee? Did they give evidence?court is ok
+@Rainbow941fm ; Saraki analysis is pot calling kettle black! As a former gov has he not exhibit similar traits?Even@the NASS corruptn evrywh
+"@Rainbow941fm; @Wellinton , you talk about the cost of going to U.S alone what's about the benefits? Dr. Is on point we need a strategic frd"
+"@Rainbow941fm; the issues @ NASS is about inordinate ambition and not independence of NASS, leaders shd make sacrifice @ the expense of self"
+"@Rainbow941fm ;when GEJ appointed Jega APC did not reject him but rather work with him, so what is the problem with PDP?"
+"@Rainbow941fm ;PDP wolf crying is just a mere politics, PMB has a right to appoint anyone as INeC boss even me,lol Jega was appointed by GEJ"
+@Rainbow941fm:PMB shd address the issue of fuel scarcity with the same tenacity he is applying to insurgency.  1st things 1st .
+"@Rainbow941fm: Dr. Shd know that presidential system is too expensive, NASS cannot be scarab.  What if we have a unicamera house ? God saves"
+"@Rainbow941fm; issues @NASS is about inordinate ambition of few Indv and not the independence of NASS, Saraki lies again, step down for who?"
+"@Rainbow941fm ,I agreed with Kelvin on the recklessness of SG and FG, what about the Legislooters? They should earn only sitting allowance."
+"@Rainbow941fm;Okada have resumed operations in many restricted roads half of the roads now used for car park and street trading, floods etc."
+"@Rainbow941fm ; Ambode shd roll up his slip and set down to work enough of fraternity here and there, most roads are in deplorable condition"
+"@Rainbow941fm @Wellinton , you cannot rule out internal politic in d emergence of led warship in the NASS,What we demand is credible process"
+@Rainbow941fm;FG should be interested in the way the state Govt spend their allocations else they will continue to make request for bailout.
+"@Rainbow941fm; pls tell Gov Amosun to help us @Ijeja orudu the roads are terribly bad, most time we can't go out with our cars."
+@Rainbow941fm: the fight against terrorism is a global one and can only be won by collaborative effort. No nation is an island.
+@Rainbow941fm: PMB visit to Chad and Niger is not to seek help but seek collaboration in the fighting against BH. People shd know diff bwt.
+@Rainbow941fm:there is what we called virement in govt spending if Aregbe paid salary with ecology fund he is going to jail.
+@richard_conway : the breaking news is that Blatter to step down #FIFA president.
+Wikipedia Link http://t.co/xri8wDQBv7
+"@Rainbow941fm; the govt as the regulator has a policy of no premium no cover,yet when they insured they never paid premium sometime over 1yr"
+"@Rainbow941fm : @Dr.Nick, should know that govt knows the important of ins but never value it,the building may be insured without premium pd"
+@Rainbow941fm the German journalist asked simple and harmless question why must he be expelled? GEJ govt is clueless there is God oooo!
+@Rainbow941fm : Okonjo iweala and GEJ are leaving the legacy of maladministration and corruption and not a strong economic legacy claimed.
+@Rainbow941fm ; NLC should put their house in order and stop the threat of been ready for GMB. Too much problem lied ahead for incoming Admn
+@Lemmosky @Rainbow941fm : I think it should be a mixture of both old and the youthful experience to have a blend excellent.
+"@Rainbow941fm : let the law take its due cause in Ekiti, irrespective of whether people love Fayose or not, illegality shouldn't be preceden"
+"@Rainbow941fm : GMB should include a vibrant youth with integrity in his cabinet,we should not forget that APC will have nominees in e cabin"
+"@Rainbow941fm the monarch has denied the statement, so let's us believe he has regret his action. Use PVC to react as Kelvin has said. QED."
+"@Rainbow941fm ; deployment of troop in various state, may be there is another Sambisa forest in those state.it is simply court contempt."
+"@Rainbow941fm :IGP should not teach us how to vote, he should just provide security and people should wait for their vote to be counted!"
+"@Rainbow941fm ; JAMB has outleave it's usefulness, student should be allowed direct admission to university of choice."
+'Downton office' US lawmaker resigns http://t.co/1adUSd3HiD
+"@Rainbow941fm : the Okada on Iju road drive against the traffic on both side from Fagba to Agege everyday, and the police look away."
+@Rainbow941fm Jega should be allowed to conduct the election his removal is another coup on democracy!
+@Rainbow941fm ;how many of the afenifere leaders can win election in their ward or LG? They are speaking for their pocket and not Yoruba Nat
+Migrant tragedy in Med 'kills 300' http://t.co/PI7vblPVEY
+http://t.co/1V3gKi3W8r
+"@Rainbow941fm: it shows truly that INEC is not actually independent, the govt have a script they are playing! The change must come"
+Jordan executes convicted jihadists http://t.co/9DauE7EVOl
+Facing the crocodile that 'ate my wife' http://t.co/JGrF14y0rb
+Meet Rami: Part dachshund ... part pit bull? http://t.co/3dVmlfXjrc
+"Obama, Dalai Lama to attend prayer breakfast http://t.co/tWF43p01ig"
+Why leadership-development programs fail @McKQuarterly http://t.co/AH6oSop1fF
+Fostering women leaders: A fitness test for your top team @McKQuarterly http://t.co/Sye0Ei2LFM
+Mitt Romney 'likely to run in 2016' http://t.co/6IhnRvfu7K
+Rush to buy new Charlie Hebdo issue http://t.co/TZBqil7Ujj
+http://t.co/BaH41FqppG
+Hedge fund founder shot dead in NY http://t.co/5poC2khPug
+Bill Cosby accused of molesting girl http://t.co/b3rcjBeTLe
+"Guinea qualify, Nigeria out of Afcon http://t.co/wO1tT5ubx1 [via @SuperSportTV]"
+Apple chief: 'I'm proud to be gay'#what implication in global market? Especlly in Africa where this is not acceptable http://t.co/HVKeHpvSov
+@Rainbow941fm @donolumola @the_funberry :pls appeal to Gov. Amosun to come to our rescue @ IJEJA Orudu &amp;gasline in Adiyan the roads are bad.
+"Quote of the Day: Do not be too moral. You may cheat yourself out of much life so. Aim above morality. Be not...
+http://t.co/SAwd8TsszM"
+13 Things Successful People Do In The First 10 Minutes Of The Workday http://t.co/gMTuRil1IP via @YahooFinance
+Laureate Malala urges child rights http://t.co/Kg4jglnwHK
+Tanzania arrests for 'witch' deaths http://t.co/OsrxF7BKak
+@stedeangelis : yeah is good to say the west African Sub region! How did Ebola find it's way to Texas?
+"In the News: Ebola Makes Its Way to US
+http://t.co/K6Q1TsK1W7"
+Birth of a Mugabe dynasty in Zimbabwe? http://t.co/OqYxZiewSR
+"Quote of the Day: There is a wisdom of the head, and... a wisdom of the heart.
+http://t.co/SOKiPnQEyq"
+Toronto Mayor Rob Ford 'quits race' http://t.co/9TD81ei7fO
+Steenkamp family protest at verdict http://t.co/NFbMZVAPnn
+"Quote of the Day: Vanity dies hard; in some obstinate cases it outlives the man.
+http://t.co/U9j9luBf7P"
+Biden - Chase IS to 'gates of hell' http://t.co/M3Asbo6LaS
+"Quote of the Day: In the country the darkness of night is friendly and familiar, but in a city, with its blaze...
+http://t.co/BMmTIYDXOi"
+"Quote of the Day: One can know a man from his laugh, and if you like a man&amp;#39;s laugh before you know...
+http://t.co/xgtFovF2TG"
+"US girl, nine, in gun lesson mishap http://t.co/jI1u8Ij7kr"
+Obama: Foley video shocks the world http://t.co/W5PmQKEzuP
+US grand jury indicts Texas governor http://t.co/AKw8iIBcbN
+Germany 'spied' on Kerry and Clinton http://t.co/WQmqgwnmGW
+@Rainbow941fm @Wellington and Ulama; pls tell Wellington to admit when he guff the progm is greater than anyone .
+Liberia to receive Ebola trial drug http://t.co/gLO5Gyh3Gh
+Guinea shuts borders against Ebola http://t.co/P3lPZrcpmc
+Obama hails 'a new Africa emerging' http://t.co/vQ6HtEakGi
+NY man being tested for Ebola virus http://t.co/fw6HanhQgW
+Bolt claims first Commonwealth gold http://t.co/W0U8uEoWny
+Infected Ebola doctor lands in US http://t.co/FZKHNuEsfu
+US and EU expand sanctions on Russia http://t.co/0ioiAzUwqe
+"For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith. http://t.co/NJsiiztC5R"
+Yukos shareholders win $50bn payout http://t.co/bbcpOqBMJw
+"But I say unto you which hear, Love your enemies, do good to them which hate you,   Bless them that curse you, and p… http://t.co/H6Wd1Vix2S"
+"Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven: http://t.co/KF7Qv6FT5L"
+@Rainbow941fm @donolumola @philelamah @drnidoko ; is it foreigner or Nigerian that will implement the PIB? I doubt if the status quo change!
+@Rainbow941fm @donolumola @philelamah @drnidoko @ Doctor Idoko: the laws were there for the petroleum industry but never implemented!
+The kids running their own companies http://t.co/DNFQTDFDZt
+@Rainbow941fm @donolumola @philelamah @drnidoko . Yes bode George was acquitted by the Supreme Court and not radon by GEJ
+"The two top flight league are out #worldcup2014 ,#EPL,#Laliga! What a disappointment."
