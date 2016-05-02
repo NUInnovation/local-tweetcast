@@ -1,4 +1,74 @@
-"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 14753886, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme14/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/o6KlZjqNT5"", ""indices"": [0, 22], ""expanded_url"": ""http://www.michaelpshipley.com/"", ""display_url"": ""michaelpshipley.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2130, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""14753886"", ""profile_background_color"": ""FAB81E"", ""listed_count"": 87, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Smart people live in Oregon (@GroovyBruce told me that) https://t.co/KRo0Tjp1aD"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 725861021223641088, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""quoted_status_id"": 725810073642110977, ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 282392576, ""indices"": [29, 41], ""id_str"": ""282392576"", ""screen_name"": ""GroovyBruce"", ""name"": ""Bruce Campbell""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/KRo0Tjp1aD"", ""indices"": [56, 79], ""expanded_url"": ""https://twitter.com/TheLastRefuge2/status/725810073642110977"", ""display_url"": ""twitter.com/TheLastRefuge2\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""725861021223641088"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:35:27 +0000 2016"", ""quoted_status_id_str"": ""725810073642110977"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 25200, ""statuses_count"": 50619, ""description"": ""LIBERTARIAN | Originally from Maryland, USA. #TRUMP2016"", ""friends_count"": 1276, ""location"": ""Jakarta, Indonesia"", ""profile_link_color"": ""4A913C"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/14753886/1458683084"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme14/bg.gif"", ""name"": ""Michael P. Shipley"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 14470, ""screen_name"": ""michaelpshipley"", ""notifications"": false, ""url"": ""http://t.co/o6KlZjqNT5"", ""created_at"": ""Tue May 13 03:07:46 +0000 2008"", ""contributors_enabled"": false, ""time_zone"": ""Jakarta"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 14753886, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme14/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/o6KlZjqNT5"", ""indices"": [0, 22], ""expanded_url"": ""http://www.michaelpshipley.com/"", ""display_url"": ""michaelpshipley.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2149, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""14753886"", ""profile_background_color"": ""FAB81E"", ""listed_count"": 87, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @ppppolls: People in West Virginia are mad as hell about this Harriet Tubman/Andrew Jackson swap"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726974412998594560, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 61220477, ""indices"": [3, 12], ""id_str"": ""61220477"", ""screen_name"": ""ppppolls"", ""name"": ""PublicPolicyPolling""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 59, ""id_str"": ""726974412998594560"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""People in West Virginia are mad as hell about this Harriet Tubman/Andrew Jackson swap"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726232257791291392, ""favorite_count"": 78, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 59, ""id_str"": ""726232257791291392"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 02:10:37 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Mon May 02 03:19:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 25200, ""statuses_count"": 50667, ""description"": ""LIBERTARIAN | Originally from Maryland, USA. #TRUMP2016"", ""friends_count"": 1297, ""location"": ""Jakarta, Indonesia"", ""profile_link_color"": ""4A913C"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/573260995444940800/aDpH2s8S_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/14753886/1458683084"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme14/bg.gif"", ""name"": ""Michael P. Shipley"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 14519, ""screen_name"": ""michaelpshipley"", ""notifications"": false, ""url"": ""http://t.co/o6KlZjqNT5"", ""created_at"": ""Tue May 13 03:07:46 +0000 2008"", ""contributors_enabled"": false, ""time_zone"": ""Jakarta"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Paul ""Dont make me laugh"" Manafort was on Face the Nation May 1, 2016  https://t.co/3X2mKB3Wpr"
+@jch9432 @DonaldJTrumpJr @thehill https://t.co/hArHRdoqNj
+"@Sith_Lord_Cruz &lt;= Poorly educated
+
+@DonaldJTrumpJr @thehill"
+"@_restlesswave &lt;= sex offender
+
+@DonaldJTrumpJr @thehill"
+@Crippled1963 LoL.
+New Indiana  Poll: Trump +15  https://t.co/FZLn8PySAp
+"#europe #regugees
+
+Coming to America
+
+https://t.co/VuT89JVolF"
+@ElseMarilyn @DanScavino Kinky.
+@Daily_Star Guess they want higher taxes and less jobs. Go figure.
+@politico @realDonaldTrump Doubtful.
+@dwnews Globalism is the fire in which the world burns.
+@CNNPolitics @Eugene_Scott WTF is wrong with Beck. He's gone insane.
+Donald Trump Eludes Protesters  https://t.co/IfRLAEKHTM
+"Sure, I'll flip them for it. Just happen to have a ""Hillary"" quarter here. Heads I win, tails they lose. https://t.co/kNnXZZ6QgT"
+@TheColdCivilWar @Liee4Trump @Eliz_Hightower Whatchu talkin bout. She's a total MILF. https://t.co/5b0ju0bAKE
+@DanScavino https://t.co/XKdJKOOTy8
+"Paul ""Dont Make Me Laugh"" Manafort on The Laura Ingraham Show (4/28/2016) https://t.co/7MZMUk26gH"
+@allen_hallock @tedcruz LoL.
+"The house where I grew up is now worth $261,705
+and has gone up 74% in 2 years.  Definitely a housing bubble going on."
+"""Governor Mike Pence endorsed Cruz. Think that is an indication of potential voter fraud more then anything else at this point."""
+"Jimmy Fallon &amp; Paul Rudd Recreate Styx Music Video 
+
+""Notin to do and all day to do it.""
+
+https://t.co/th5XNzK9VP"
+Cruz is right about one thing... https://t.co/bMDC186mce
+@norvilgirl @ccthecomputer LoL.
+Cruz alerted the media. The media never called back. https://t.co/OlGFqUa9pd
+High on life. https://t.co/Xl5CwQURCA
+"""I'll get along with Putin..."" https://t.co/24JOWqwiqt"
+"Film Review 
+
+Key and Peele in Keanu 
+
+""We say, go.""
+
+https://t.co/SJGmYBdAi0"
+"Chris Hemsworth Doing Pull-Ups While Dissing ‘Captain America: Civil War’ 
+https://t.co/rUCxdAXVnl"
+Pres Trump should consider Ron Paul for Fed Chairman. His first act would be to close it down. https://t.co/Qf94hCqWky
+"Cruz, you lose.  https://t.co/6P7TKlzFZq"
+Hilarious. https://t.co/RP75jcAymK
+"Break the chain, freedom will reign, but beware, the establishment monster will go insane. #Trump2016 https://t.co/GZOYeOhsBL"
+@Ankian4 @LauschJack @realDonaldTrump Sorry grandma. Can I have a cookie? LoL.
+@Gelf_Sara Definitely.
+"Trump Supporter Does Donuts Around Anti-Trump Protesters In Orange County, California! MUST SEE! https://t.co/Svb9oVYET3 via @YouTube"
+Its yuuuuge. https://t.co/TaTk9Oty1Y
+"#AshvsEvilDead 
+
+Lee &amp; Faith Majors Honored by St. Christopher's Inn
+
+https://t.co/9ZJlYfdNtH"
+"@realDonaldTrump 
+
+Cryin Ted.
+
+_ https://t.co/m9MV4bQjSP"
+Zedd &amp; Kesha - True Colors https://t.co/9WdvBK8c46
+@GroovyBruce Great minds think alike. https://t.co/nyI1nVJPg8
+"Sam Raimi has created a monster filmmaker, Fede Alvarez @fedalvar. https://t.co/ZJStYNg4Bp"
+"#drugwar Prescription drugs kill more people than ""illegal"" drugs: Prince Had Prescription Opioids At Time Of Death https://t.co/EhlI9N2upX"
 Smart people live in Oregon (@GroovyBruce told me that) https://t.co/KRo0Tjp1aD
 Good news... https://t.co/caPjnaa6mS
 """If all govt is drawn to Washington it will render powerless the checks of one government on another."" -- Jefferson https://t.co/b4E1ffEEyL"
@@ -213,102 +283,3 @@ SUV Rolls Over After Aquaplaning - All Okay https://t.co/gH7gMxymIf via @YouTube
 How very droll. https://t.co/wvR6I9KndT
 "@Paul_Bettany No one should pay taxes, aka extortion."
 @PolitiFact https://t.co/sJJa7GZVuk
-@PolitiFact Carter knew the whole US election system was rigged long ago. https://t.co/3TddbRwa7c
-@PolitiFact They suspend democracy in CO and Politifact says the system isnt rigged for insiders like Cruz. I call Politifacts claim: false.
-Time for some fresh souls. https://t.co/qlfNxAeZPQ
-@koconews https://t.co/nCcuDPh6bS
-@justin_halpern https://t.co/Bbx4lWClmQ
-Kaysick. https://t.co/gRG0VLnRH7
-"Kesha Performs ""True Colors"" Live with Zedd at Coachella Music Festival ... https://t.co/sxK5QFAeC2"
-Kesha Kills at Coachella https://t.co/j7Ljp6FyUA
-Its an epidemic. https://t.co/KTb02mOhWG
-"@VICE Misleading. His 757 is legal, its his small cessna thats grounded."
-@Penn_Zero @VICE These real estate holdings should put him back in the black... https://t.co/vuO16yfim7
-@thehill And not a second too soon.. https://t.co/D8llV8Zxjb
-@NYMag Trumped. https://t.co/3P5gERFkU9
-"#CaptainAmericaCivilWar 
-
-Rottentomatoes 97%
-
-_ https://t.co/0LoHnmFWDk"
-"#CaptainAmericaCivilWar
-
-Marvel writer Mark Waid gives advice on writing ideas and writers block. 
-
-https://t.co/J45WVb7QnR"
-@realDonaldTrump Carter banned muslims. https://t.co/O3YhYWsm5r
-Best Fails of the Week 3 April 2016 https://t.co/EoLOOUyUy7 https://t.co/SsHTNUq1di
-California dreamin... https://t.co/RONPcVRLJy
-"Now this is what I call a fair exchange. US gives Marines, arabs give dollars. https://t.co/7UCnvFV2aI"
-"Jonathan Kent must be their guardian angel...
-
-Horses Rescued From Flood Waters in Texas 
-
-https://t.co/DFY7chGn8w"
-@realDonaldTrump @DonaldJTrumpJr https://t.co/syUBdHClah
-@AnnCoulter 420
-Carter banned Muslims when he thought they were a threat. https://t.co/syUBdHClah
-"@scrappy_neu Not true, but its true that most people hate you.
-
-@thehill"
-"#domesticviolence
-
-We have to stop violence against women, BY WOMEN.
-
-https://t.co/VBuOIQVhgU"
-ISIS storming Malibu Beach. https://t.co/LblKLxjX3d
-"""Cruz is not my favorite by any means, always hittin on the ladies trying to get in their jeans...."" https://t.co/1fBWIRr87K"
-Typical lyin Wall Street lawyer... https://t.co/nOR8crGydE
-"@FastCoDesign 
-
-And this?
-
-_ https://t.co/4FGQvANdxf"
-"The Worst Advice I Ever Received: 
-
-""Never quit.""
-
-https://t.co/vkdlWhFRpN"
-If I could get a new heart I'd do it in a heartbeat.
-@GroovyBruce Dont go gently. Squeeze every bit of life out of Mel Brooks.... https://t.co/w9eodEk3hc
-"@carlreiner Whenever I hear a little girl screaming in a church, I will always think of Carl Reiner."
-@ESDAlerts Are we going to let the aliens win and force us to ration water? Hell to the no! Fill up your pool and say F.U. to alien tyranny.
-Maisie Williams always  pays her comic book debts... https://t.co/Y2kmult857
-"Camille Paglia:
-
-Is Hillary lying about a chronic thyroid condition?
-
-https://t.co/JgkllqfG5F https://t.co/sV4oBXLmmA"
-A classic. https://t.co/N7IrhxAMq7
-He did it his way. https://t.co/c1pbDaWjwa
-"#BumperStickerOfTheDay
-
-""Dont want to get technical but according to chemistry, alcohol IS a solution."" - Anonymous
-
-_"
-Veep Season 5: Contested Convention (HBO) https://t.co/ylZnbXPvCU
-"Via @billstill
-
-""Hamilton was the founding father of our $20T national debt.""
-
-You stay class Hamilton fans.
-
-https://t.co/ntTB8VCj1M"
-Miranda Sings Tries Out Speed Dating In Hilarious Prank https://t.co/i2ZI61E2dP
-ABC NEWS: Donald Trump Eyes General Election After New York Win https://t.co/ApOHfpZoRg
-"#Prince
-
-""People who eat a strictly plant-based diet may suffer from subclinical protein malnutrition.""
-
-https://t.co/3RhVHlbyIR"
-@TheColdCivilWar LoL.
-"@TheColdCivilWar 
-
-""People who eat a strictly plant-based diet may suffer from subclinical protein malnutrition.""
-
-https://t.co/3RhVHlbyIR"
-"@_bookofmorgan_ @Cernovich 
-
-*cough* britney spears *cough* 
-
-_ https://t.co/TycIHtB1Cu"

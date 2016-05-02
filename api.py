@@ -5,6 +5,7 @@ import csv
 import copy
 import json
 import uuid
+from pprint import pprint
 from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_SECRET, ACCESS_TOKEN_KEY
 
 TRUMP_SUPPORTER_TWEETS_FOLDER = 'Trump Supporter Tweets'
@@ -33,47 +34,11 @@ sanders = api.get_user(sanders_handle)
 
 candidates = [trump, clinton, cruz, sanders]
 
-clear_trump_supporter_screen_names = [
-    'michaelpshipley',
-    'wyomobe',
-    'jesskazen',
-    'JosephineMigli2',
-    'shadohchaser',
-    'Tarmas55',
-    'scalpatriot',
-    'asamjulian',
-    'DarkStream',
-]
-
-clear_sanders_supporter_screen_names = [
-    'CopinHagen',
-    'MediaPhiled',
-    'french_monica',
-    'LilyStarlette',
-    'Marnie_was_here',
-    'Thinkers4Bernie',
-    'AudreyGoz',
-    'MinervaAventine',
-    'sharon211',
-    'joavargas_1220',
-    'dsptchsfrmexile',
-    'TheTardisDoc',
-    'angelam314'
-]
-
-clear_cruz_supporter_screen_names = [
-
-]
-
-clear_clinton_supporter_screen_names = [
-
-]
-
 candidate_supporters = {
-    trump_handle: clear_trump_supporter_screen_names,
-    sanders_handle: clear_sanders_supporter_screen_names,
-    cruz_handle: clear_cruz_supporter_screen_names,
-    clinton_handle: clear_clinton_supporter_screen_names,
+    trump_handle: 'Trump Supporter Screen Names.txt',
+    sanders_handle: 'Sanders Supporter Screen Names.txt',
+    cruz_handle: 'Cruz Supporter Screen Names.txt',
+    clinton_handle: 'Clinton Supporter Screen Names.txt',
 }
 
 candidate_supporter_tweets_folders = {
@@ -88,5 +53,11 @@ def import_clear_supporters():
         # scrape tweets also puts supporter metadata into csv file first line
         scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
 
+def import_retweeters_from_tweet(tweet_id, supporter_handle):
+    for retweet in api.retweets(tweet_id):
+        print retweet.author.screen_name
+
+
 import_clear_supporters()
 # print match_by_handle(api, 'Parker9_', 10)
+import_retweeters_from_tweet(713755536236228608, clinton_handle)

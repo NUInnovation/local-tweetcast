@@ -1,207 +1,212 @@
-"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4289460455, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721075564585594880/qXhnOHlr_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 4647, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4289460455"", ""profile_background_color"": ""000000"", ""listed_count"": 55, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@tomesimpson No problem. @_HankRearden"", ""is_quote_status"": false, ""in_reply_to_status_id"": 725864694112772096, ""id"": 725864849280999424, ""favorite_count"": 0, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 18315727, ""indices"": [0, 12], ""id_str"": ""18315727"", ""screen_name"": ""tomesimpson"", ""name"": ""#Cruz2016""}, {""id"": 2461452080, ""indices"": [25, 38], ""id_str"": ""2461452080"", ""screen_name"": ""_HankRearden"", ""name"": ""American Hank""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""tomesimpson"", ""in_reply_to_user_id"": 18315727, ""retweet_count"": 0, ""id_str"": ""725864849280999424"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""18315727"", ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:50:40 +0000 2016"", ""in_reply_to_status_id_str"": ""725864694112772096"", ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 15115, ""description"": ""Common Sense Conservative. American Nationalist. Started Twitter only to follow Donald Trump's race to the White House. #Trump2016 #MakeAmericaGreatAgain"", ""friends_count"": 794, ""location"": ""Massachusetts, USA"", ""profile_link_color"": ""ABB8C2"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721075564585594880/qXhnOHlr_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4289460455/1461763651"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Asa M. Julian"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 29735, ""screen_name"": ""asamjulian"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Nov 26 21:44:17 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
-@tomesimpson No problem. @_HankRearden
-"#TrumpRally in Costa Mesa, CA in 20 minutes. 😃"
-@tomesimpson Get a life. Go find someone else to entertain you. @_HankRearden
-@Catholics4Cruz The low road?  @realDonaldTrump
-@tomesimpson It's a stupid question and you know it. @_HankRearden
-@Catholics4Cruz You don't sound biased at all. :)  @realDonaldTrump
-"@tomesimpson You act like Cruz, always bringing Trump into the conversation in a negative way. @_HankRearden"
-I've been informed ABC now has Trump at 996 delegates. 😎 https://t.co/IWNh81kwSG
-"@S51Bill I think Trump will win Indiana, no way to validate those numbers posted tho. @LoriMu2"
-@jenilynn1001 Awesome @abc
-"@LoriMu2 Yeah, he says someone from the Trump campaign texted it to him? I don't believe it."
-@tomesimpson I'm still not convinced you aren't a 15yr old girl posing as an old man. @_HankRearden
-@kincannon_show Where did you get this information? I'm sure someone already asked.
-@LoriMu2 Where did he get those numbers from? I can't find the original tweet. @Bostoncharm @wane15
-@tomesimpson What point are you trying to make? @_HankRearden
-RCP has Trump at 994 delegates. 😎
-@_HankRearden What the hell..?
-"I love hearing this. Even 1,000 is a lot for Cruz. https://t.co/5MMVktd0UN"
-@MsErinMurray To put it mildly.
-@MsErinMurray I had to follow you after I read your bio. I love haters of Ted Cruz. :)
-@CharlesYordy lol @SteveDeaceShow @rcpvideo
-I hope after Trump gets in office all these fake conservative talk show hosts just quit and never come back.
-@hwhittle74 Unbelievable how rude and arrogant he was!
-@Sellertson Can you believe how out of control he was?
-@BonButner81 It makes total sense he is a Cruz supporter. @SteveDeaceShow
-"@CalebDHurt1 The interview is just embarrassing, he is shouting like a little child. @SteveDeaceShow"
-"Biggest dumbass Cruz supporter -&gt; @SteveDeaceShow
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4289460455, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721075564585594880/qXhnOHlr_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 4872, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4289460455"", ""profile_background_color"": ""000000"", ""listed_count"": 54, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@LoriMu2 Pathetic."", ""is_quote_status"": false, ""in_reply_to_status_id"": 726961593871781888, ""id"": 726962103211462657, ""favorite_count"": 0, ""source"": ""<a href=\""http://tapbots.com/tweetbot\"" rel=\""nofollow\"">Tweetbot for i\u039fS</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 703636955544727553, ""indices"": [0, 8], ""id_str"": ""703636955544727553"", ""screen_name"": ""LoriMu2"", ""name"": ""Lori Mu""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""LoriMu2"", ""in_reply_to_user_id"": 703636955544727553, ""retweet_count"": 0, ""id_str"": ""726962103211462657"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""703636955544727553"", ""lang"": ""en"", ""created_at"": ""Mon May 02 02:30:46 +0000 2016"", ""in_reply_to_status_id_str"": ""726961593871781888"", ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 15658, ""description"": ""Common Sense Conservative. American Nationalist. Started Twitter only to follow Donald Trump's race to the White House. #Trump2016 #MakeAmericaGreatAgain"", ""friends_count"": 799, ""location"": ""Massachusetts, USA"", ""profile_link_color"": ""ABB8C2"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721075564585594880/qXhnOHlr_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4289460455/1461763651"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Asa M. Julian"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 30455, ""screen_name"": ""asamjulian"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Nov 26 21:44:17 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@LoriMu2 Pathetic.
+"@DefendingtheUSA “the next president, Ted Cruz” delusional idiots! @_HankRearden"
+"@Max_Henry18 Yeah, they do. @feronialevia"
+I fear for Heidi's safety after having called Ted an immigrant while his campaign is collapsing.
+@feronialevia Nope.
+"@campbel763 Grandma won't admit anything negative about Cruz/Carly no matter what, just letting ya know. 😄@CoFemale"
+@gretstan 😄😄 @conservatismtlk
+@michelle4trump 😄
+"@donnasfineart Like this endorsement? 
+https://t.co/2sKdOOQM0B @mitchellvii"
+@CoFemale Quite the opposite actually. Cruz is saying Trump is the Washington Cartel now. He said the complete opposite before.
+@CoFemale There are interviews on YouTube of him saying the same things 25 yrs ago that he is saying now.
+@CoFemale Trump has been saying the same things his entire campaign. Cruz is now saying the opposite now because he is LOSING.
+"@CoFemale So Cruz didn’t know any of this before? Wow, you’re gullible."
+@CoFemale This might piss you off. https://t.co/jEcnFGkX2r @pmbasse @Ohmaar1 @izzytina
+@CoFemale Save yourself some time and block me. @pmbasse @Ohmaar1 @izzytina
+@BaldEagle140 👍 thanks
+"@CoFemale Which being interpreted means, “until you say something bad about Cruz” @pmbasse @Ohmaar1 @izzytina"
+@Taniel Cruz has zero chance of beating Trump in CA.
+@CoFemale 🙄 @lehutch12 @pmbasse @mitchellvii
+@CoFemale Grandma is getting a bit senile. @lehutch12 @pmbasse @mitchellvii
+@LisaBow10 She’s disgusting in every way possible.
+Are there any states left that has Cruz leading in any polls? He may not win another state.
+Hillary Clinton’s pandering for money reminds me of the Cruz campaign. #Politicians  https://t.co/a3kwZNbGe9
+Trump nearly beat Clinton in votes in Florida (GE swing state) and he was running against 3 others. #IndianaPrimary https://t.co/07XMbJG1qb
+@mitchellvii I been reading about stories like this all day! Everything is backfiring on Cruz.
+@She_Became Great! :) @lsmythe6 @realDonaldTrump
+@She_Became In Indiana? @lsmythe6 @realDonaldTrump
+@_HankRearden Wow. @MTcowboy3250 @Mferris67
+@Mistertbones GE will change everything. Most will vote Trump.
+"@feronialevia I saw that...either way, he's going."
+"@Writeonright Lol, if only it was that easy!"
+"""Trump doesn't have a majority"" is nothing but sore loser talk. Don't entertain it."
+@DualDaniel Democrats are anything but united. Bernie fans are super pissed at Hillary.
+"Ted Cruz is that annoying fly that gets in the room. It might take a while, but you know it'll go away eventually."
+"@DualDaniel Now or later, it's over. :)"
+"Oh, the desperation from the Cruzbots. Don't worry, it will all be over soon. 🙂 #CruzCrew #IndianaPrimary"
+"@elaine882 Don't worry, Trump will win by double digits. @LindaSuhler @ChuckNellis"
+@mitchellvii Just followed. I didn't even know you could follow until now.
+@GaryACarlo Watch Cruz's interview with Chuck Todd this morn if you wanna hear a sore loser. @SprayberryKim
+@KGHASKINS1 Stop lying. It wasn’t too long ago Cruz loved Trump. Can’t you ppl think for yourselves? @CindySmyth5
+@GaryACarlo Don’t try the sore loser talk with me.  @SprayberryKim
+@laura26__ Must be depressing since Trump just had 31k at a CA rally. 😂 @_HankRearden
+@Max_Henry18 She’s just coping with the new IN poll. 😄 @ErinRehman @MeatScales @CindySmyth5 @thee88plyr
+@_HankRearden https://t.co/QXGhMF7VPm
+@MeatScales It’s entertaining sometimes. :) @ErinRehman @CindySmyth5 @thee88plyr
+@_HankRearden I saw that. Unbelievable.
+@ErinRehman You don’t act like a normal person. Just trying to help you out. @MeatScales
+"@ErinRehman You don’t see it now, but the majority of Cruz base will vote Trump in the GE. @MeatScales @CindySmyth5 @thee88plyr"
+@ErinRehman 😂😂😂@MeatScales @CindySmyth5 @thee88plyr
+@ErinRehman You think too highly of yourself. @MeatScales @CindySmyth5 @thee88plyr
+"@mitchellvii “the next president, Ted Cruz” wow what delusional ppl"
+@ErinRehman 💤💤 @MeatScales
+"@ErinRehman No you won’t. You idiots make up prob 2%, if that. @MeatScales @CindySmyth5 @thee88plyr"
+@ErinRehman Not all Cruz supporters are as idiotic as you. @MeatScales @CindySmyth5 @thee88plyr
+This is based on 60 calls made into Indiana today. Thank you Lydia! And go Trump! #IndianaPrimary  https://t.co/IVyF7GAxbw
+@lsmythe6 How many calls? @realDonaldTrump
+"@susieroussel11 Bible talks about someone's conscience becoming ""seared"" That's my guess. @republic2016 @_HankRearden"
+Narcissists HATE when someone else gets the glory. Expect more lies and desperate behavior from #TedCruz.
+"@_HankRearden He will do anything, find any loophole he can exploit. He is truly a base human being."
+Note to Ted Cruz: Voters have rejected you. #IndianaPrimary  https://t.co/mfJzkkM52e
+@missynorris411 Ouch! @mitchellvii @doctagee
+"@MeatScales Don't worry, their mouths will be shut very soon. @ErinRehman @CindySmyth5 @thee88plyr"
+"Cruz on 3/4 ""convention would lead to voter revolt"" https://t.co/hCdkfnpm8H
 
-Cruz Surrogate Explodes At Trump Backer Over ""CO Voterless Elec."" https://t.co/cAHPssFmrd"
-@mitchellvii Exciting stuff!
-@_HankRearden Boehner hates Cruz for the same reason his former roommate is constantly throwing out hate tweets. He's an unlikable asshole.
-John Kasich's campaign strategist after Lyin' Ted Cruz denied they ever had an alliance.  https://t.co/DrwbZFW5v1
-"@clmazin Craig, did you see this? Now Cruz is denying he ever had an alliance with Kasich. https://t.co/49NHNXwzPe"
-"@mitchellvii Former Sen Judd Gregg unbound delegate warming to Trump, hates Cruz. https://t.co/xFJkjOh0yE"
-“Cruz is a person of little character. He shouldn’t be trusted with the responsibilities of the office.” https://t.co/xFJkjOh0yE
-@gcain63 Me either. @clmazin @Isa_block
-Ted Cruz pulling another Ben Carson in Indiana. https://t.co/Y5a0MNVRnH
-Preach. https://t.co/3izfNCO51E
-@clmazin He’s Lyin’ Ted Cruz.
-@michelle4trump Awesome!
-@1776Solution I can relate.  @ReneeofSoCalif
-@ReneeofSoCalif Singing gig?? Wow…didn’t know you were a singer.
-@ReneeofSoCalif I totally know what you are feeling. :)  Are you going to the Trump rally tonight?
-"@ReneeofSoCalif Heh, I’ll cool down soon. :)"
-@_HankRearden Avg Cruzbot/#NeverTrump https://t.co/xyiUdpID47
-"@mitchellvii Ugh, my feed is full of Cruz hate lately!"
-"The next rally starts at 10PM EST (7PM PST). 
+Cruz today 👇 https://t.co/KTnavyRrWV https://t.co/vAD8Bt7Swm"
+@realDonaldTrump Trump will win Indiana by more than 10 points.
+@mitchellvii Dumb Cruzers can't see that this is just a desperation play by Cruz. 🙄 @doctagee
+@MissD4Trump I know! lol
+"@_HankRearden Wow, good point."
+@Trumpazona Never. @mitchellvii
+@mitchellvii I hope you're right.
+@CindySmyth5 As well as his supporters who defend him. @thee88plyr
+@CindySmyth5 Totally disagree. Cruz doesn't belong anywhere in our government. @thee88plyr
+@thee88plyr A first grader could do it but you can't because of your bias. Pathetic ppl you are.  @CindySmyth5
+"@mitchellvii I dunno Bill, hes a maniac thinking he's on a mission from God..."
+@mitchellvii That's exactly how they judge a candidate. @SRMooreSr @Virginia4USA
+@CindySmyth5 The logic is too easy for him to understand. @thee88plyr
+"@LoriMu2 Don't worry, only like 2 people are listening to him. @steph93065 @Kotcha301"
+@kimbub67 🙄 @LauraSi09162263
+The Trump crowds in Indiana are MASSIVE. This is looking more and more like a landslide victory. #IndianaPrimary
+@HeatherMMurphy Sore loser talk. @michaelwweston
+@kgriffigk4_g I seriously doubt it.  @mitchellvii @tedcruz
+"@kgriffigk4_g I heard rumors, but haven't read anything official. @mitchellvii @tedcruz"
+@kgriffigk4_g Link? @mitchellvii @tedcruz
+"@tigersimon27 It's just 2nd ballot stuff, nothing to worry about."
+@kgriffigk4_g Closest thing to a cult I've seen in a long while. @mitchellvii
+@KGHASKINS1 Nonsense. Stop repeating Cruz lies.
+@unappologeticly Definitely :) @Al_Baldasaro @Sanjay25_ @realDonaldTrump @bradTmusic @mitchellvii @laurenpaige1985
+@unappologeticly CNN has him at 1002. @Al_Baldasaro @Sanjay25_ @realDonaldTrump @bradTmusic @mitchellvii @laurenpaige1985
+"@thee88plyr He has no path to victory.  Is John Kasich ""fighting to the end"" too?"
+@CLewandowski_ Trump's got all the momentum! @mitchellvii
+@thee88plyr You're just pissed Cruz is losing and being a sore loser like Cruz. Did you see his pathetic interview w/ Chuck Todd this morn?
+"@thee88plyr None of this matters anyways, Trump can easily get 1237."
+"@thee88plyr A 3rd grader could understand. I don't worship my candidate to abandon reason, like you do."
+@clmazin No way...
+"@mitchellvii Lol, nuff said. @David4ster @realjimrussell @LOVEINE"
+"@thee88plyr Cruz lost, it's over. He should stop trying to force his will on the American ppl."
+"@thee88plyr Oh boy, another one. 🙄"
+@clmazin Every day your opinions about Ted Cruz are being realized more and more.
+@clmazin Wow..
+@CoFemale Probably the worst argument I've ever heard. @pmbasse @mitchellvii
+Donald Trump Interview on 'Fox and Friends' 5-1-2016 with @GeraldoRivera https://t.co/gkC0IIECvQ
+"Earth to Ted Cruz, nobody is buying your bullsh*t. 🙄 https://t.co/GeueAhYAGm https://t.co/sY4TMKZ5Em"
+@clmazin 😄
+"@mitchellvii A caller on talk radio in MA this morning, ""Trump is the SAME as Obama"" then hung up. Cruz poisons the minds of his followers."
+@mitchellvii They get it from Cruz and his outrageous lies.
+"For someone who claims to have memorized the Constitution, he seems to have forgotten the first words. #TedCruz https://t.co/MXeK0m8KJy"
+This is by far the most pathetic interview I've ever seen with Ted Cruz. What a sore loser. https://t.co/c8NiTyWrBJ https://t.co/uSQEWx1q1U
+"@mitchellvii Cruz forgot the very first words, ""We the people..."""
+@ModelNikeeLynn  😄
+"@MGillbert1913 Not quite, sir."
+@MAGA_1958 Trump is going to win Indiana handily. @tedcruz
+"#CruzCrew, this is Cruz’s real opinion of Trump before he was losing. Get on the #TrumpTrain and let’s beat Hillary. https://t.co/sfoMtwvw14"
+@mitchellvii Cruz has deluded them so bad they think Trump = Hillary.
+@_HankRearden Cruz is saying the opposite about Trump he was saying at the beginning. Dude is such a dishonest weasel.
+Conservative talk radio in Massachusetts is mocking Ted Cruz like CRAZY for his shameful interview with Chuck Todd. 😂
+@talldede Indeed. @drenamay1
+"With Ted Cruz, we are dealing with a narcissitic, conceited man who thinks he is called by God to be POTUS. No way he will give up easily."
+We have not even seen close to the worst of Ted Cruz. He will do ANYTHING to steal the nomination from Trump.
+@lsmythe6 What the…@gs777gs777 @dmanolli @mitchellvii
+@mitchellvii Contrast this with @RealBenCarson. https://t.co/ki2tDVGEsK
+@mitchellvii Stubborn little child.
+@realDonaldTrump I think he meant little girl. @FaceTheNation
+@mitchellvii Agreed!
+"@drenamay1 It means nothing, just 2nd ballot stuff."
+@nickmor13673691 Wow. Major denial going on here dude.
+@meetthepress Acts like a child. @chucktodd @tedcruz @_HankRearden
+"Nate Silver has Trump at 69% to win the Indiana primary, Cruz was at 65% yesterday! 😄  https://t.co/L9KBMYjXnN"
+@mitchellvii Haha! Well look at that!
+@RichardWeaving Wow. Cruz's campaign is truly failing. @mitchellvii
+@nickmor13673691 Loser? Are you living under a rock or something?
+"@mitchellvii Cruzbots must be crying, lol."
+@mitchellvii https://t.co/LDaWanvb8C
+@mitchellvii You mean ppl don't like a lost candidate naming a VP? 😂
+@Ramesh0082 He knows how to win. @realDonaldTrump
+@marisamcg You're welcome!
+"@PotluckPolitico Could be. I don't think it was a fake poll. By phony I mean over a 2 week period with so much changed, it wasn't relevant."
+I predict the polls get worse for Cruz in Indiana following the publicity of more fraudulent delegate tricks in Arizona. #IndianaPrimary
+"All the fake momentum from the phony ""Mike Downs"" poll is gone, just like that. #IndianaPrimary"
+"@_HankRearden In PA, Trump supporters were putting major pressure on delegates to ""do the right thing"""
+@realDonaldTrump Game. Set. Match.
+@_HankRearden Amen to that.
+@mitchellvii Haha
+@_HankRearden This will only serve to hurt Cruz before IN. Trump at 49% in new Indiana poll.
+@mitchellvii This only hurts Cruz before Indiana.
+@mitchellvii LOL!!
+"NEW NBC/WSJ Indiana Poll
+645 LV | Apr 26-28
+Trump 49% 😎
+Cruz 34%
+Kasich 13%
 
-LIVE Stream: Donald Trump Rally in Costa Mesa, CA (4-28-16) https://t.co/9JsHiqoQOQ"
-Planet Earth is the best nature documentary serious I’ve seen to date. So amazingly done!
-I have more respect for Hillary Clinton than Ted Cruz. Words cannot express how much I disdain liars who use Jesus for political gain.
-"@mitchellvii And somehow he is competitive in the polls, very strange."
-Definitely tuning into this show!  https://t.co/J6Uf3exsAt
-@MarkSimoneNY 😂😂 @michelle4trump
-@mitchellvii Wow!
-@mitchellvii Sounds about right.
-@gwhinton I wonder if he would still say that today since Jeb is endorsing Cruz.
-@perreaultfan85 Wow.
-@560ft 😂😂 @CarolMBoothe
-@gardenofthegods Examples? Too many to say. Lies about Trump consistently. @DavidHudson04
-@LindTuo Trying to keep the feed PG-13. :)
-"Oh, Jeb.🙄
+#IndianaPrimary 
 
-Jeb Slams Trump’s Foreign Policy: Successful Presidents Are Not “Unpredictable” https://t.co/Qa83PxJ956"
-The Bible often talks about “base and worthless” people. Ted Cruz is the living definition of that. I pity the fool who thinks he is godly.
-Ted Cruz + Carly Fiorina + 4 quarters will get you a dollar.
-"@MarkON56 My dad used to like him a lot, now he hates his guts. So many have said the same thing."
-"@BetterCallTrump Believe me, if I said what was truly on my mind, I might lose some followers. 😡"
-"Ted Cruz is the lowest, vilest, base, shameless, ruthless, wicked, dishonest, lying, piece of garbage I have ever seen in my life. #venting"
-"Long before John Boehner called Ted Cruz 'Lucifer in the flesh,' he called him his lawyer https://t.co/J5eZWWOn4B"
-"Trump says he will build a wall since day one, Cruz lies and says Trump won’t, then Cruz says HE will build a wall. I HATE Ted Cruz."
-Cruz says Boehner “allowed his inner Donald to come out” in response to his statements about Cruz. I hate Ted Cruz more and more every day.
-@markamerica Do I really have to explain what he meant? 🙄
-@leighanne911 Lol @RickLeventhal
-@ca67_ttc 🙂 So true.
-@blaubok What the… @LoveuLynn
-"“I know I got him in Indiana lying like hell, so I better get there fast!” @realDonaldTrump on Ted Cruz"
-@mitchellvii I never trust the poll when it’s not a respected pollster.
-“That will NEVER happen under a Trump administration” Bobby Knight on Benghazi
-"Bobby Knight is not just apathetically endorsing, he is full of respect and admiration for Donald Trump."
-@stejMikey On my feed. :)
-"“This man is not a Republican nor a Democrat, he is just a great man at heart.” Bobby Knight on @realDonaldTrump"
-Bobby Knight is a YUGE endorsement for Indiana.
-"“I watched Ted Cruz this morning, UGH, I just can’t listen, soo dramatic” @realDonaldTrump 😂"
-"Classic #NeverTrump protester. She doesn't like Trump because he isn't a ""gemini"" 😂 https://t.co/vJrFakUVj7"
-@clmazin Lol! 😂😂
-@ModelNikeeLynn I dunno why he lies when the things he lies about are so easily disproven. Like saying Trump loves Obamacare. 🤔
-"@ModelNikeeLynn Lol, I heard about the last part, didn’t know Cruz claimed he didn’t know him! So funny!"
-My favorite RSBN track is playing waiting for the Trump rally. 🙂https://t.co/k1uYfQkT71
-@ModelNikeeLynn Did he say this today?
-@mitchellvii You’re dealing with people who think God killed Scalia to usher in Ted Cruz.
-@traveler002 Or he is an asshole that nobody likes.  @_HankRearden @tedcruz
-@NationalCrier Amazing. Thanks for sharing. Not often I hear this! @LoveuLynn @tedcruz
-@kinni00 That was fantastic! Thanks. @Morning_Joe @realDonaldTrump
-"@Mikey_Mongo He's going down swinging, lol."
-"@kinni00 Cool, I didn't know they said that! @Morning_Joe @realDonaldTrump"
-@Mistertbones Me too.
-"The problem for Cruz is that Trump's positions have been covered so extensively since day one of his campaign, everyone knows what they are."
-@_HankRearden In case anyone wants a link to the article! https://t.co/LjWxrqxOBN
-@mitchellvii Are you serious? Wow. @FoxNews
-@EWELLJUDITH I did not! I'm sure the clips will come out on the news feeds.
-@PuyaFiel It's so sad to watch. Such a base individual. @CNNPolitics
-Lyin' Ted Cruz's final play is to do the same thing the media has been doing to Trump for 10 months. I feel embarrassed for him.
-"Lyin' Ted Cruz is starting to sound like a lib. Poor, pathetic fellow.  https://t.co/S0oHdxuHDl"
-"""I watch how the women behave at his gigantic rallies in all parts of America and I don’t see much hatred...I see fevered adoration."" -Piers"
-"""I suspect Trump’s a lot more popular with women than people think, and Hillary a lot less so."" -Piers Morgan"
-"""Donald is charismatic, self confident and many women I meet swoon at the thought of a President Trump"" -Piers Morgan"
-"Whether it is teaming up with Kasich or naming Fiorina as VP, Ted Cruz is telling us the same thing, ""I can't beat Donald on my own"""
-"Piers Morgan: Donald Trump knows What Women Want, and it isn’t Hillary https://t.co/iUmxM7giWZ via @MailOnline"
-@Chickie815 LOL 😄 😄 That's really funny! @realDonaldTrump @mitchellvii @BoyajianRich @ericbolling
-“People who were supporting Kasich have been coming into the office to pick up Trump signs.” https://t.co/8AZBHagccu
-"@mitchellvii Also, I would imagine people are not too excited to vote for a lost candidate who just chose a VP."
-"@mitchellvii He also calls him ""Lucifer in the flesh"""
-"This has been the funniest election ever. The downfall of Low Energy Jeb, Little Marco, and Lyin’ Ted. Also lost candidates picking VPs! 😂"
-"@BetterCallTrump Lol, if you interpret it as comedy, it can actually be a stress reliever! 😂"
-"Remember the Trump rally starts at 1PM EST! Donald Trump Rally in Evansville, IN (4-28-16) https://t.co/vGhjqd2YsF via @YouTube"
-Cruz spinning this narrative of him/Carly vs Trump and the media is PATHETIC. Everyone knows the media has been against Trump since day one!
-@LoriMu2 Lol! @DefendingtheUSA
-CNN actually has Trump at 991 delegates. I don’t think anyone expected such great results from PA! https://t.co/j6vIEDNsxZ
-"With such a margin of victory in PA, it makes it much harder for the “uncommitted” delegates to vote against Trump."
-@LoriMu2 When? Recently? got a link?
-"@starsnstripes79 That's true. I read an article about Trump fans flooding uncommitted delegates with phone calls to ""do the right thing"" 😄"
-"@starsnstripes79 Still though, they can change from now until the convention...right?"
-@starsnstripes79 I'm surprised Google includes unbound delegates in that count.
-@starsnstripes79 Thanks
-"I'm no fan of John Boehner, but calling Ted Cruz ""Lucifer in the flesh""! 😂😂😂"
-"Now that says it all, folks. 😂 ""John Boehner: Ted Cruz Is A ‘Miserable Son Of A Bitch’' https://t.co/89wG1FiHaD https://t.co/2CvuPSUGTe"
-"@DB_Grimwalker Over 140 characters, no thanks. :)"
-@deadcat42 I don't even know.
-"@DB_Grimwalker If you seriously desire to discuss anything bible related, you can email me."
-@ChunkyTWshngtn 😄
-"@DB_Grimwalker Usually there are other reasons that affect why someone doesn't believe the Bible. Deaths, hypocrisy in Christians, etc."
-"@DB_Grimwalker Lol, that's why I don't debate on Twitter."
-@DB_Grimwalker Why?
-"@mitchellvii Speaking of Ben Carson, this was a very touching tweet by him. https://t.co/ki2tDVGEsK"
-@mitchellvii It's probably the most useless statistic that gets polled.
-@happydwarff Amen!
-"@DB_Grimwalker No ""evidence"" will convince you of that, lol. READ IT! That's how you become a believer in what it says."
-"@truthshoes It’s obvious to you, just like it says."
-"@DB_Grimwalker Then I cannot help you, we’re finished."
-@SebastianJRusso Thanks!
-"You know someone hates America when they scream, “fascist!” after someone shows even the slightest nationalistic attitude toward America."
-@DB_Grimwalker Read Romans Chapter 1:16-32.
-Would you rather have ISIS know Trump’s plan of attack or Charles Krauthammer offended? #smh
-@DB_Grimwalker Arguments won’t convince an atheist God exists. The bible says you know he exists and are prejudiced against him.
-"@gypsy1020 Wow, that was informative. Thank you!"
-@DB_Grimwalker I can tell when someone cares about truth and when someone is a scoffer not worth my time.
-@DB_Grimwalker I’m finished. Nice meeting you.
-"Cruz might as well be saying at the end of his ads, “I’m Lyin’ Ted Cruz and I approve these lies” because that’s all the people are hearing."
-@DB_Grimwalker one way = The Bible.
-@DB_Grimwalker Then stop talking to me if it’s absurd.
-@realDonaldTrump It’s too little too too late. Everyone knows Lyin’ Ted Cruz is a liar!
-@DB_Grimwalker You thinking it’s silly doesn’t mean it is. God is by definition a mystery to man.
-@DB_Grimwalker He didn’t.
-@DB_Grimwalker Not having this discussion. You ppl are way too intellectual for you own good. It’s not that hard to figure out.
-The jokes write themselves. 🙄 https://t.co/6HAvNeXo61
-@mitchellvii Cruz/Fiorina is the next #CruzSexScandal
-@mitchellvii This is the grand argument that invalidates everything they say.
-@DB_Grimwalker Gods existence is proved by the impossibility of the contrary.
-@DB_Grimwalker huh? @truthshoes @atheism_nogods
-@NMarco331 thanks!
-@DonaldjBismarck lol
-@TimAlexander429 That’s pretty much all we can do!
-The #MSM has been using the racist/bigot/hate accusations against Trump for many months. Why does Hillary think they will work?
-"@daylightdis Sweet, thanks! @michelle4trump @JohnKasich"
-@michelle4trump Take pictures and post them if you can.
-@michelle4trump Are you going?
-"Does anyone see this Cruz/Fiorina thing helping Cruz at all? If so, how?"
-"Who does Carly sound like? #TedCruz #LyinTed ""Bad company corrupts good morals"" 1 Cor 15:33 https://t.co/q4JhICMQ43 https://t.co/5S4h6angbx"
-"Both @RealBenCarson and @tedcruz both claim to be Christians, but the difference in character is literally night and day."
-"@americatrump16 Hehe, I didn't even notice."
-@waitup30 Trump is the only legitimate candidate left. Cruz/Kasich career politicians.
-@brown_alston Thanks!
-"@markddavidson On top of that intelligent, strong, witty, and most of all, loves America. @realDonaldTrump"
-"@markddavidson Outsider, Lack of PC, self funding, the usual stuff. :)  @realDonaldTrump"
-@joanneagnes25 Thanks!
-I just don't get why Fiorina and Cruz would make such outrageous claims that Trump is equal to Hillary. It just isn't believable. Bad liars.
-"""Donald Trump and Hillary Clinton are virtually indistinguishable in their positions"" -Carly
+https://t.co/EHAiqDTtET"
+@mitchellvii AZ delegate shenanigan effect.
+@mitchellvii I feel so bad for him being forced to go on the campaign trail with a lost candidate. 😔
+@_HankRearden Most delegates are from #CruzCrew. They probably run crime syndicates and drug cartels.
+Interpretation: Cruz’s only way to win is to disenfranchise voters. How can any VOTER support this man? #INPrimary https://t.co/Falm5YdDSt
+@_HankRearden They’d only be employed for another month or so. 😂
+@_HankRearden Cruz is doing this for nothing because Trump wins easily on 1st ballot. It’s despicable how Cruzbots defend his behavior tho.
+"The Arizona delegate tricks Cruz is pulling is only for the 2nd ballot, which won’t happen. https://t.co/BIdkJeY5bx https://t.co/9Dz5ByLghq"
+@maria_lupinacci Sounds about right!
+@_HankRearden Guaranteed.
+@realDonaldTrump https://t.co/jEcnFGkX2r
+@celiakw21 Probly tomorrow.
+@realDonaldTrump https://t.co/h3cM1NeP0S
+@BetterCallTrump lol
+"@Max_Henry18 Lol, it's Glenn Beck having a mental breakdown actually."
+@lsmythe6 Awesome! Thanks for sharing.
+"@feronialevia Ah, didn't know that. Usual surge of new voters favors Trump, but WI was an anomaly."
+"@joneslisa Yeah, I just read that many have already voted. https://t.co/LDaWanvb8C
 
-Poor Carly, the effects of hanging w/ Ted Cruz"
-@LoveuLynn It's the Trump effect. :)
-@petermchugh15 Yep! :(
-@petermchugh15 There always seems to be a candidate who runs that appeals to that type of crowd.
-@Tlore50 Thank you!
-@americatrump16 Thanks!
-"Today was my biggest Twitter day to date, 2580 likes, 1503 retweets, and 100 new followers. Thanks everyone!"
-"@realDonaldTrump Can't wait to officially be able to say, President Trump!"
-".@tedcruz, repent and do likewise. https://t.co/ki2tDVGEsK"
-@tomesimpson I didn't think so. @_HankRearden @katomart
-".@RealBenCarson Much respect for you, Mr Carson. You are an honorable man. @RealDonaldTrump @LoveuLynn"
-@americatrump16 Awesome! Great job! @_HankRearden
-@katomart I doubt he will answer me. @tomesimpson @_HankRearden
-"@_HankRearden I think Cruzbots like to be ridiculed, lol. @tomesimpson"
-"@tomesimpson Lol, please read the tweet again. Why can't you man up and admit Cruz lost w/ the voters? @_HankRearden @katomart"
-"@tomesimpson For an older guy, you act really childish. Why not man up and admit Cruz lost w/ the voters? @_HankRearden @katomart"
-"@CindySmyth5 Oh, they are out there, lol. @JOEMAMA526"
-@America1stAgain Thanks!
-"Cruzbots have compared Cruz to George Washington, Abraham Lincoln, and Ronald Reagan. Only a matter a time before they say he is Jesus."
-"@tomesimpson No, but I didn't have to be to know that Trump has more resemblance to Reagan than Ted Cruz. @_HankRearden @katomart @LGKITTEN"
-@tomesimpson That's a first man. Never had anyone compare Cruz to George Washington in his race to the WH. @_HankRearden @katomart @LGKITTEN
-"@kincannon_show, here is your joke tweet.
-
-@tomesimpson @_HankRearden @katomart @LGKITTEN"
-@kincannon_show 😄😄 @_HankRearden
-@tomesimpson Why doesn't the fact that Cruz lost have any affect on you? @_HankRearden @katomart @LGKITTEN
-"@Kritter812 Uhh, what?"
+@mitchellvii @realDonaldTrump"
+@CAforTrump2016 Don't thank me. I quoted a tweet from @EdWorthy10 :) @mitchellvii
+"Good for Trump? ""Early Voting Sets a Record in Indiana"" #INPrimary https://t.co/O9M17P0dnE https://t.co/KokoN1uUkv"
+"@mitchellvii It's interesting how these ""errors"" always seem to work against Trump. Just like voting machines never switch TO Trump. #smh"
+"Wow, amazing. This is the second video I've seen of Cruz's daughters shunning him. #CreepyCruz #IndianaPrimary  https://t.co/kaRx8Q7ldI"
+"@mitchellvii Heh, good one."
+"@endtaxgiveaways That is indeed Glenn Beck, the one and only. https://t.co/2Q0BAv8Cog"
+@MrsS0S He's a pathetic man. No respect for him at all.
+@mitchellvii We could use another Rocky Mountain Heist to seal the deal.
+"@SeventeenCurses Yeah. The Cruzers are desperate, as I would be too if I supported Cruz."
+@mitchellvii This was from today too. https://t.co/ZF5kvne0w5
+"@MkMadonnakin They think dems are sabotaging Trump because they ""know"" he will lose to HRC. Unbelievable the delusion of these ppl."
+@laura26__ Wow.
+@bjdcmom Definitely. @mitchellvii
+"@mitchellvii This is the only poll that Cruz is winning. I dunno where this supposed ""momentum"" for Cruz is coming from."
+This is Ted Cruz's number one supporter throwing a fit over Donald Trump. That's all I got to say. #IndianaPrimary https://t.co/GdojP2itnK
+@mitchellvii It'll be forgotten after the next group of polls get released.
+"@OLRDJ Ok, thanks for the talk. Nice to meet you."
+"@OLRDJ I told you Trump did really well in swing states, drawing lots of dems, record turnout, etc. He almost beat HRC in FL against 3 ppl."
+Why do Cruz supporters keep saying that democrats who voted for Trump in the primaries will go back to HRC in the GE?
+"@OLRDJ I told you facts about what is happening now, you told me theories about the future."
+"@OLRDJ Those are theories, not provable. Trump has been constantly proving ppl wrong."
+"@OLRDJ Trump has caused record GOP turnout, dems way down. He did great in swing states. Massive rallies, etc. HRC is going down."
+@OLRDJ Polls will change the day after he gets the nom.
+@OLRDJ CNN is an outlier? Good grief. You don't go by averages when counting pledged delegates.
+@OLRDJ 1002 is from CNN. https://t.co/j6vIEDNsxZ
+@_HankRearden Ouch. Very true! Wouldn't that be something? @jancarpel
+@OLRDJ I don't think it will. Trump has a pretty easy path after the PA delegate results. He is at 1002 now.
+"@OLRDJ Trump will likely be 400+ delegates ahead, 4 million+ votes. That isn't going against the will of the ppl?"
+@OLRDJ Answer my question.
+@OLRDJ You think Cruz beats Hillary by winning at a convention and going against the will of the ppl?
+@OLRDJ Why are you supporting Cruz if he can't win? Just wondering.
+"@OLRDJ I shared a legit poll with you. And learn how to speak to ppl, by the way."
+The only Indiana poll w/ Cruz ahead was over a 14 day period (before NY) &amp; 400 ppl sampled. #CruzCrew #INPrimary https://t.co/MmxGr5JAHi
+"@OLRDJ Only Trump-aid drinkers? What are you, 10 yrs old?"
+"@feronialevia I read that. Not gonna matter, its just 2nd ballot stuff. @yvonnewingett @mitchellvii @kincannon_show"
+@dannowicki Won't matter because there won't be a 2nd ballot. @JeffDeWitAZ

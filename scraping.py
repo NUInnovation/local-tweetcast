@@ -3,7 +3,9 @@ import tweepy
 import csv
 import json
 
-def scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folder, candidate_supporter_screen_names):
+def scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folder, candidate_supporter_screen_names_file):
+    candidate_supporter_screen_names = [line.rstrip('\n') for line in open(candidate_supporter_screen_names_file)]
+    print candidate_supporter_screen_names
     for candidate_supporter_screen_name in candidate_supporter_screen_names:
         tweetsfilepath = candidate_supporter_tweets_folder + '/' + candidate_supporter_screen_name + '.csv'
         if not os.path.isfile(tweetsfilepath):

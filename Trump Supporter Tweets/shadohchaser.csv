@@ -1,4 +1,109 @@
-"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""892DD8"", ""default_profile_image"": false, ""id"": 439614153, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/854873036/00ce031335c17e867b817e19f7ab78f1.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/378800000148117345/7bcb782a4c0385caa3ea0ff46b070464_normal.jpeg"", ""profile_sidebar_fill_color"": ""1D1D1D"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/10orSOAlAi"", ""indices"": [0, 23], ""expanded_url"": ""http://followback.com"", ""display_url"": ""followback.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2436, ""profile_sidebar_border_color"": ""68FA04"", ""id_str"": ""439614153"", ""profile_background_color"": ""8C8B91"", ""listed_count"": 23, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@tedcruz @FoxNews @CarlyFiorina shut up you snake \ud83d\udc0d"", ""is_quote_status"": false, ""in_reply_to_status_id"": 725853695406051329, ""id"": 725854256280948736, ""favorite_count"": 1, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 23022687, ""indices"": [0, 8], ""id_str"": ""23022687"", ""screen_name"": ""tedcruz"", ""name"": ""Ted Cruz""}, {""id"": 1367531, ""indices"": [9, 17], ""id_str"": ""1367531"", ""screen_name"": ""FoxNews"", ""name"": ""Fox News""}, {""id"": 65691824, ""indices"": [18, 31], ""id_str"": ""65691824"", ""screen_name"": ""CarlyFiorina"", ""name"": ""Carly Fiorina""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""FoxNews"", ""in_reply_to_user_id"": 1367531, ""retweet_count"": 0, ""id_str"": ""725854256280948736"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1367531"", ""lang"": ""en"", ""created_at"": ""Fri Apr 29 01:08:35 +0000 2016"", ""in_reply_to_status_id_str"": ""725853695406051329"", ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 3600, ""statuses_count"": 33012, ""description"": ""I don't care what you Feel | Don't blame me I'm just a Freak!"", ""friends_count"": 1098, ""location"": ""fuck off man, I'm busy "", ""profile_link_color"": ""D4D4D4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/378800000148117345/7bcb782a4c0385caa3ea0ff46b070464_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/439614153/1438561821"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/854873036/00ce031335c17e867b817e19f7ab78f1.png"", ""name"": ""shadohchaser"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 4310, ""screen_name"": ""shadohchaser"", ""notifications"": false, ""url"": ""https://t.co/10orSOAlAi"", ""created_at"": ""Sun Dec 18 00:37:34 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""London"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""892DD8"", ""default_profile_image"": false, ""id"": 439614153, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/854873036/00ce031335c17e867b817e19f7ab78f1.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/378800000148117345/7bcb782a4c0385caa3ea0ff46b070464_normal.jpeg"", ""profile_sidebar_fill_color"": ""1D1D1D"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/10orSOAlAi"", ""indices"": [0, 23], ""expanded_url"": ""http://followback.com"", ""display_url"": ""followback.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2456, ""profile_sidebar_border_color"": ""68FA04"", ""id_str"": ""439614153"", ""profile_background_color"": ""8C8B91"", ""listed_count"": 23, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@katyperry love u\ud83d\udc9a\ud83d\udc9b\ud83d\udc9c\ud83d\ude0a"", ""is_quote_status"": false, ""in_reply_to_status_id"": 726951881487073280, ""id"": 726951979516309504, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 21447363, ""indices"": [0, 10], ""id_str"": ""21447363"", ""screen_name"": ""katyperry"", ""name"": ""KATY PERRY""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""katyperry"", ""in_reply_to_user_id"": 21447363, ""retweet_count"": 0, ""id_str"": ""726951979516309504"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""21447363"", ""lang"": ""en"", ""created_at"": ""Mon May 02 01:50:32 +0000 2016"", ""in_reply_to_status_id_str"": ""726951881487073280"", ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 3600, ""statuses_count"": 33111, ""description"": ""I don't care what you Feel | Don't blame me I'm just a Freak!"", ""friends_count"": 1099, ""location"": ""fuck off man, I'm busy "", ""profile_link_color"": ""D4D4D4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/378800000148117345/7bcb782a4c0385caa3ea0ff46b070464_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/439614153/1438561821"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/854873036/00ce031335c17e867b817e19f7ab78f1.png"", ""name"": ""shadohchaser"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 4348, ""screen_name"": ""shadohchaser"", ""notifications"": false, ""url"": ""https://t.co/10orSOAlAi"", ""created_at"": ""Sun Dec 18 00:37:34 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""London"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@katyperry love u💚💛💜😊
+@BernieSanders I'm from Shillary's SuperPac I travel NYC in my Maybach check my style=Flashy..far from low-key &amp; I'm next Wall Street crook
+@tedcruz @CruzMillennial destroy us thats what this snake will do
+@HillaryClinton love u grandma 💗💟💜 😊but Trump is better than u 😭
+@HillaryClinton Grandma I wanna see you slap Trump repeatedly on stage &amp; pull his weave out with tremendous force 😬 pls do it!
+@HillaryClinton grandma you can be commander-in-chief like Leia &amp; I'll be like Kylo Ren your evil grandson I'll CHOP Bill with my lightsaber
+@HillaryClinton grandma You can be commander-in-chief like Leia &amp; I'll be like Kylo Ren your evil grandson
+@HillaryClinton You're a symbol of how a woman should carry herself with dignity ILYSM grandma💜💚💛😊😄
+@tedcruz @mike_pence shut up go work on those abs you look 4-months pregnant
+@HillaryClinton shut up grandma #WomenLoveTrump 😈 https://t.co/q9i1GseMsT
+@Paper_I_Doll thanks I put my heart &amp; soul in those words
+@BernieSanders shut up China is no.1 for manufacturing iPhone
+@realDonaldTrump You're the ONLY GOD Fighting for us the one in ⛪ won't SAVE US coz its inelegant..elegance is more important than suffering
+@realDonaldTrump Best in the WORLD!
+@realDonaldTrump love u 💜💟💗😊
+@BernieSanders Old Sport even if you took a '90s BOOMBox &amp; went Knock Knock Knockin' on Heaven's Door you still wouldn't win!
+@HillaryClinton summon Omega Shenron the Shadow Dragon only then will you have a chance Trump is a Super Saiyan God his hair all yellow 😲
+@tedcruz shut up I'm going to church
+@HillaryClinton love Church &amp; love u 💗💟💜😊
+@realDonaldTrump we will give you all the ENERGY from our SOUL to your Heart💗 only YOU can #MakeAmericaGreatAgain https://t.co/YEGtDsHeJy
+@SenSanders shut up I'm getting ready for Church
+@Mobil1TheGrid @alo_oficial @McLarenF1 Magic Alonso!!😎
+@McLarenF1 Magic Alonso!!
+@F1 gooo!!!
+@McLarenF1 @JensonButton @alo_oficial @orourkeF1 gooo!!!
+@thatssortaraven pretty lady you need a new boyfriend.. luckily for you I'm heavenly sent 😄😉😉 https://t.co/huShFoYrWI
+@9BlackCats '..Hello Alison I wanna hold your hand I haven't been the same man since I saw you coming in..' https://t.co/m0MpPubKLM
+@tedcruz shut up you snakes
+@HillaryClinton grandma Hug me I have a bad migraine coz of rhinitis 'its gettin dark to see feels like I'm Knockin On Heavens Door' 😭🙇😷
+@lucasdwr https://t.co/AQZrSikw0D
+@GardenerN21 @Skippersmojo @tkdmike @9BlackCats https://t.co/AQZrSikw0D
+@JohnKasich shut up you cheat
+@FoxxpawsJill @HEINSLERJAN @Skippersmojo @tkdmike @9BlackCats shut up hes a SUPER SAIYAN GOD https://t.co/YEGtDsHeJy https://t.co/sEpxM0U6fY
+@SenSanders shut up I have a migraine
+@tedcruz shut up I'm having lunch
+"@tedcruz you're the biggest prostitute of #Elections2016 all you done is paid &amp; slept people..you have 5,000 STDs by now! #CruzSexScandal"
+@Skippersmojo @9BlackCats https://t.co/huShFoYrWI
+@SenSanders I'm sponsored by SONY coz I'm like.no.other
+@BernieSanders @steelworkers shut up you scrub
+"@tedcruz shut up go text Amanda tell her ""I'm a scrub &amp; a thief"""
+@ScuderiaFerrari Maurizio = Liar
+@realDonaldTrump you're a Kryptonian GOD &amp; savior of humans pls use our Yellow🌞to recharge your Strength &amp; Wisdom to #MakeAmericaGreatAgain
+@Snowden you're the best
+@mclarenalonso 😭😭😭
+@SaraUnderwood https://t.co/CGWSlPqwbI
+@SkySportsF1 @LewisHamilton don't lie he left to work on his R n B album
+@SenSanders shut up I'm sipping organic green tea with lemon &amp;  honey
+@ScuderiaFerrari Maurizio = Liar &amp; Cheat you are +1.0 second behind not +0.100
+@F1 someone pls tell liar Maurizio they are +1 second behind &amp; not +0.100 LIAR &amp; CHEAT
+@SkySportsF1 no hes gone to work on his R n B album
+"@F1 another Mercedes 1,2 Ferrari 3rd...why even bother watching this shit"
+@McLarenF1 why??? 😤😤 have some shame!!
+@McLarenF1 MAGIC ALONSO!!
+@verge winBlows
+@JohnKasich just shut up you cheat
+@realDonaldTrump @AC360 Best in the World!
+@FoxNews @tedcruz snake
+@CarlyFiorina @realDonaldTrump shut up you witch
+@HillaryClinton love u 💜😊💗💝💟😄
+@tedcruz @VaughnHillyard someone throw eggs on his face pls
+@tedcruz @CarlyFiorina #NYCValues Defeated &amp; CRUSHED you we know how to spot a snake🐍😬 &amp; have real emotions https://t.co/NiJ2RWfN4P 💜😊
+@TuleTwilight https://t.co/BNBbXk0Elj
+@HillaryClinton Its a cold world full of cold ppl wearing 2-Faces but you're a sure sign of what feels right ILYSM 💚💛💜💗💝 grandma 😊😄
+@gloriaawright https://t.co/NiJ2RWfN4P
+@BernieSanders Big Pharma &amp; Wall Street
+@CarlyFiorina witch
+@tedcruz @Bridenstine4OK shut up we don't need you or your leigion of snakes
+"@HillaryClinton This fellow ain't that mellow if not for you these lames don't know how to talk to you Empress, Goddess, President ILYSM 💛💜😊"
+@realDonaldTrump we will BEAT the system no one can Stop you you're the Super Saiyan GOD
+@UdyrSux shut up go buy Audeze EL-8 headphones &amp; tube amplifier with genalex golden lion tube &amp; listen to this song https://t.co/NiJ2RWfN4P
+@tedcruz @mike_pence snake
+@JohnKasich I choose to jump off a cliff then vote for you cheat
+@Molarity1983 @AndrewMinDC shes my grandma 😬😬 &amp; hes my idol 😎 https://t.co/2tDiAcr2Xh
+@Molarity1983 @AndrewMinDC shut up shes my grandma https://t.co/F7CuCgVUDJ
+@JuicyGigolo n00b n00b say more n00b  https://t.co/F7CuCgVUDJ
+@Quora @HillaryClinton ILY 😄
+@BernieSanders you couldn't even be a President of the hood you're  hopeless Old Sport
+@tedcruz @mike_pence how many prostitutes did you supply him you snake
+@tedcruz @FoxNews @GovPenceIN shut up you voting for a snake
+@realDonaldTrump Best in the WORLD! 🌎🌍🌏
+@BernieSanders shut up I'm cleaning my room 😬
+https://t.co/QhXrQjWDrk https://t.co/CxK9IgHThs
+@JuicyGigolo where do I pretend I don't support him? you're a n00b waste of my time with 'your mom' references *yawn* pls keep yappin 😴
+@Molarity1983 I voting Trump &amp; Hillary both I have my 2 fake ID's I'm illegal
+@JohnKasich just go home
+@iceman7news wowow cutee 😄
+@JuicyGigolo shut up go &amp; put on some clothes
+@JuicyGigolo who wants a grandpa? you can have him
+@themjays19 hey man both
+@realDonaldTrump even though Hillary is like my grandma she's a Witch &amp; I love USA more so pls burn the witch &amp; #MakeAmericaGreatAgain
+@JohnKasich shut up you loser
+Best In The WORLD!🌎🌍🌏
+@tedcruz @MrJoshPerry cheat
+"@TxAg_Matt15 I destroyed it 
+https://t.co/LsW6PYjHdg
+
+https://t.co/NkrZAMgs4B
+
+but its not fun anymore no fun kicking the hopeless 😭"
+@TxAg_Matt15 he didn't pay them $15/hour but fired them! 😲😂
+@FoxNews fugg him
+#NOH8 or #EmbraceTheHate 😲
+@emgrundy @HillaryClinton ok ok this is like some grade school crap I want Rated R fights
+@tedcruz shut up
+@HillaryClinton love u 💛💚💜😄😊
 @tedcruz @FoxNews @CarlyFiorina shut up you snake 🐍
 @realDonaldTrump @foxandfriends I will set my alarm won't miss it!
 @Apotheosism_1 from where you buy it? you use cc or paypal?
@@ -102,134 +207,3 @@ John Kasich"
 @MAGICMADFAN is that it? more pls bring the abuse when you have no response to my question. Does Bernie guarantee Ed's freedom? byeee
 @JohnKasich @ForeignPolicy shut up you cheat you lost
 "@AlexisCorbin typical Sanders supporter when you don't have anything to back up claims call me a troll, abuse my mom or use foul language 😂😂"
-@sovanskie just shut up..you lost..soak in the pain &amp; feel the burn..don't cover it with integrity
-@slm1520 does your Jesus Bernie guarantee his freedom so he can stop living as a fugitive? You know you sound like a bootlicker byee 😂😂
-@TaMartinez much respect to you
-@MAGICMADFAN yap yap yap does he promise to let Ed come back to USA pls go &amp; lick Bernie's boots more you sheep make me sick!! disgusting
-@AlexisCorbin yap yap yap does he promise to let Ed come back to USA pls go &amp; lick Bernie's boots more you sheep make me sick!
-@SenSanders shut up I'm having breakfast
-@BernieSanders Can you &amp; your supporters pls take a marker &amp; write 'L' on your foreheads? I wanna Laugh looking at y'all
-@HillaryClinton love you.. you're the BEST! 💚💜💝💗😄😊
-@Snowden expose them!! especially that phoney do -gooder Sanders!! so much respect for you Ed
-@tedcruz Can you &amp; your supporters pls take a marker &amp; write 'L' on your foreheads? I wanna point a finger &amp; Laugh looking at y'all
-@WWERomanReigns don't like you much
-@WWEWrestlingNow no hes just shit @PERCYSWAN
-@therealgunitg just shut up..go &amp; cry..don't like you..blocked
-"☁ 👋🚀 ☁☁
-      ✨   BYEBYE*
-☁ ✨              🎈
-  ✨     ☁
- ✨
- ✨
-🌾✨💨   🏃 🏠🏢
-￣￣￣￣￣￣￣￣￣"
-@TomCruise @YouTube I love Oblivion its my favorite movie &amp; love you too 💜🙌💚😄
-@LimitlessCBS yes I love her 😊😄
-I'm tired but not sleepy https://t.co/Pmcc3i76aG
-@therealgunitg I don't know maybe coz the sweet ain't sweet without the sour
-"Yes! ""How can man die better: than facing fearful odds, for the ashes of his fathers, and the temples of his Gods."" https://t.co/BC6UjyPf1n"
-@DarkStream https://t.co/0tphrHsdI2
-@LimitlessEXP #youdaMan want you for President😎🙌😁
-https://t.co/DOBhZPWPOL
-@amandacarpenter you're a beautiful woman who exudes class &amp; sexiness 😊
-"@HillaryClinton 
-♡ⓛⓞⓥⓔ💜ⓨⓞⓤ♡
-🍸🍸😊😊😊😊🍸🍸
-🍸😊😊💓💓😊😊🍸
-🍸😊😊😊😊😊😊🍸
-🍸😊💖😊😊💖😊🍸
-🍸😊😊💖💖😊😊🍸
-🍸🍸😊😊😊😊🍸🍸
-🍸🍸🍸💚💛🍸🍸🍸"
-@BernieSanders @AP_Politics @AP shut up loser
-@HillaryClinton ok
-@HillaryClinton pls lemme Netflix grandma..
-@HillaryClinton shut up you witch don't irritate me stop sending so many tweets at once
-@HillaryClinton shut up now lemme watch Netflix tired of agreeing grandma don't make me pout 😤
-@HillaryClinton sending $400 tonight ILYSM 💗💝💜💟😊😄
-@HillaryClinton yes pls unify kick Sanders out let him run as an independent thief like Robin Hood he doesn't belong in big leagues
-@HillaryClinton ILYSM 💟💜💝💗😊😄 thanks for the bonus bitcoins love being in your Super PAC
-@SenSanders shut up you lost
-@realDonaldTrump next President
-@JohnKasich throughout your career you have lied &amp; eaten off people shameless parasite
-@JohnKasich shut up you cheat
-@HillaryClinton love u 💗💝💜💟😄😊
-@tedcruz shut up &amp; go home to your family
-@HillaryClinton buy us all chocolate milk from Hershey's we wanna celebrate😊😄
-@Pocketnow just quit Microshaft..even winBlows 10 sucks just cease to exist for the love of humanity!
-@HillaryClinton watch out here come Sanders butthurt supporters 😂😂
-@HillaryClinton You're the BEST! That bum Sanders had no chance. love you so much 💟💜💝💗 grandma 😊😄
-@TomCruise where are you?? why no tweet? 😭😭
-@realDonaldTrump If you win there'll always be a better day to look forward too.. #InTrumpWeTRUST
-@realDonaldTrump absolute Legend! #KneelBeforeTrump not Zod
-@realDonaldTrump I wanna go to Hershey's factory &amp; drink all the chocolate in celebration of victory!
-@realDonaldTrump Best in the World!!
-@wevemadeastart @tedcruz you're a beautiful woman..but probably only the 17th person today to vote for this snake 😲
-@BernieSanders You're NOT a good person. All politicians are Scum. I stand-by the Scums..NEVER a Pretentious 'do-gooder' #NeverSanders
-@FoxNews @SarahHuckabee keyword 'Hillary' no one gives a crap about that bum Sanders except his yap yap brainwashed supporters
-@SenSanders nope
-@HillaryClinton no discrimination to skin color...yess 💚💚
-@SenSanders shadohchaser should..
-@realDonaldTrump Thank-You Sir
-@BernieSanders Apologize to me on behalf of your supporters for disrespecting me Are You Understanding What I'm Saying To You Right Now!?
-@HillaryClinton Stand with u grandma💚💗💝💜💟😊
-@tedcruz too late Teddy I've focused my Energy towards Sanders coz theres no Fun in kicking someone who has no hope left &amp; can't squeal 😈
-@realDonaldTrump Yes SIR!
-"@SenSanders Quickly reply to Trump's tweet, say thank-you &amp; kiss his feet you peasant..The Great One just might let you be Vice President"
-@realDonaldTrump You're the BEST! Thank-You for blessing Rhode Island with your presence
-@realDonaldTrump Vote for this Man ONLY he can #MakeAmericaGreatAgain no other man
-@realDonaldTrump Vote Trump vote for Greatness!
-@bugbowl such a evil woman 😈
-https://t.co/OpEJSezMwZ
-@HillaryClinton I'm vote for you get my whole street to vote for you 50+ votes 😊😎
-@BernieSanders Real Men embrace their baldness but Sanders doesn't coz..
-https://t.co/F9NbnuWtBh
-@KrewellaJahan love u 💚😄
-@tedcruz @Jrangkallatch made a big mistake
-@HillaryClinton love u
-@realDonaldTrump I wish I was a part of your family &amp; not an orphan I'd do anything until my final breath to #MakeAmericaGreatAgain
-@realDonaldTrump he still won't make it hes a bum
-@BernieSanders shut up I'm getting a haircut its costing me $250
-@SenSanders Sanders has a cresent moon head &amp; refuses to go bald coz..
-@tedcruz @realDonaldTrump you're obsessed with him...he will shatter your ego into million of broken pieces you piece of trash
-@HillaryClinton I will..
-@HillaryClinton ILYSM 😊💟💜💝💗💚😄
-@HillaryClinton te amoo abuela.. tu eres mi corazon 💗💝💜💟😊
-@CarlyFiorina shut up you cheat
-@HillaryClinton #NOH8 love u grandma💚💟💜💗💝😊
-@HillaryClinton all hate from Sanders bum supporters they're classless peasants..your supporters excude Class like me I'm a Gentleman😊
-@LethalLisaxoxo Its a pity you ain't in front of me if you were I'd make you feel my shirt so you'd know what that is...its bf material 😉😄
-@realDonaldTrump @DonaldJTrumpJr @EricTrump Best In the World!
-@tedcruz Cruz should..
-@SenSanders look at that half-assed crescent moon head &amp; $5 suits..you have no class..bronx trash peasant!
-@BernieSanders You can't even afford a weave or hair transplant surgery like Trump nor do you have the testicular fortitude to go bald!
-"@HillaryClinton 
-💟💟💟💟💟💟💟💟
-🌸🌸📀📀📀📀🌸🌸
-🌸📀📀📀📀📀📀🌸
-📀📀🎓📀📀🎓📀📀
-📀📀🎓💚U🎓📀📀
-💼💼📀📀📀📀💼💼
-📀💼💼📀📀💼💼📀
-🌸📀💼💼💼💼📀🌸
-🌸🌸📀📀📀📀🌸🌸
-☀.HAPPY🌻SMILE.☀
-😃😃😃😃😃😃😃😃"
-@LethalLisaxoxo can't take my eyes off you..is your dad a preacher? cuz you a blessing 😊
-@realDonaldTrump First thing Trump will do after becoming President..
-@realDonaldTrump Best In The WORLD! You're Larger than LIFE itself
-@LethalLisaxoxo don't worry I'll shower again with you 😉
-@PERCYSWAN wowow Raw was so great last night..Shane'OMac..AJ Styles opening.. I'd be damned if he isn't champion at payback
-no replies to anyone coz I don't care what you feel
-"@tedcruz shut up I'm preparing my organic breakfast off egg whites, oats, strawberry &amp; soy milk"
-@BernieSanders shut up I just had a shower
-@realDonaldTrump DESTROY them snakes!!
-"I'm going to bed I'm tired 
-☁ 👋🚀 ☁☁
-      ✨   BYEBYE*
-☁ ✨              🎈
-  ✨     ☁
- ✨
- ✨
-🌾✨💨   🏃 🏠😴"
-@HillaryClinton Hillary should give
