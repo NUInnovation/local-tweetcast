@@ -1,13 +1,21 @@
 import tweepy
 import os
 from scraping import scrape_tweets
-from searching import import_obvious_supporter, get_obvious_supporter, add_tweets_to_elastic, get_number_of_obvious_supporters, \
-match_by_handle, match_by_blob
 import csv
 import copy
 import json
 import uuid
-from application import app
+from pprint import pprint
+from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_SECRET, ACCESS_TOKEN_KEY
+import botornot
+
+twitter_app_auth = {
+    'consumer_key': CONSUMER_KEY,
+    'consumer_secret': CONSUMER_SECRET,
+    'access_token': ACCESS_TOKEN_KEY,
+    'access_token_secret': ACCESS_TOKEN_SECRET,
+  }
+bon = botornot.BotOrNot(**twitter_app_auth)
 
 TRUMP_SUPPORTER_TWEETS_FOLDER = 'Trump Supporter Tweets'
 SANDERS_SUPPORTER_TWEETS_FOLDER = 'Sanders Supporter Tweets'
@@ -16,8 +24,8 @@ CLINTON_SUPPORTER_TWEETS_FOLDER = 'Clinton Supporter Tweets'
 
 WORD_COUNT_TWEETS_FOLDER = 'Word Counts'
 
-auth = tweepy.OAuthHandler(app.config['CONSUMER_KEY'], app.config['CONSUMER_SECRET'])
-auth.set_access_token(app.config['ACCESS_TOKEN_KEY'], app.config['ACCESS_TOKEN_SECRET'])
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(auth)
 
@@ -35,47 +43,11 @@ sanders = api.get_user(sanders_handle)
 
 candidates = [trump, clinton, cruz, sanders]
 
-clear_trump_supporter_screen_names = [
-    'michaelpshipley',
-    'wyomobe',
-    'jesskazen',
-    'JosephineMigli2',
-    'shadohchaser',
-    'Tarmas55',
-    'scalpatriot',
-    'asamjulian',
-    'DarkStream',
-]
-
-clear_sanders_supporter_screen_names = [
-    'CopinHagen',
-    'MediaPhiled',
-    'french_monica',
-    'LilyStarlette',
-    'Marnie_was_here',
-    'Thinkers4Bernie',
-    'AudreyGoz',
-    'MinervaAventine',
-    'sharon211',
-    'joavargas_1220',
-    'dsptchsfrmexile',
-    'TheTardisDoc',
-    'angelam314'
-]
-
-clear_cruz_supporter_screen_names = [
-
-]
-
-clear_clinton_supporter_screen_names = [
-
-]
-
 candidate_supporters = {
-    trump_handle: clear_trump_supporter_screen_names,
-    sanders_handle: clear_sanders_supporter_screen_names,
-    cruz_handle: clear_cruz_supporter_screen_names,
-    clinton_handle: clear_clinton_supporter_screen_names,
+    trump_handle: 'Trump Supporter Screen Names.txt',
+    sanders_handle: 'Sanders Supporter Screen Names.txt',
+    cruz_handle: 'Cruz Supporter Screen Names.txt',
+    clinton_handle: 'Clinton Supporter Screen Names.txt',
 }
 
 candidate_supporter_tweets_folders = {
@@ -88,7 +60,25 @@ candidate_supporter_tweets_folders = {
 def import_clear_supporters():
     for candidate_handle in candidate_handles:
         # scrape tweets also puts supporter metadata into csv file first line
-        scrape_tweets(app, api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
-        add_tweets_to_elastic(candidate_supporter_tweets_folders[candidate_handle], candidate_handle)
+        scrape_tweets(api, candidate_handle, candidate_supporter_tweets_folders[candidate_handle], candidate_supporters[candidate_handle])
 
-print match_by_blob('hello', 10)
+def import_retweeters_from_tweet(tweet_id, supporter_handle):
+    candidate_supporter_screen_names = [line.rstrip('\n') for line in open(candidate_supporters[supporter_handle])]
+    for retweet in api.retweets(tweet_id, count=100):
+        screen_name = retweet.author.screen_name
+        print 'checking if', screen_name, 'is a bot...'
+        if screen_name not in candidate_supporter_screen_names:
+            score = bon.check_account('@' + screen_name)['score']
+            if score < 0.65:
+                # this means its probably not a bot
+                with open(candidate_supporters[supporter_handle], 'a') as file:
+                    file.write(screen_name + '\n')
+            else:
+                print screen_name, 'is a bot! -', score
+
+
+
+# import_clear_supporters()
+# print match_by_handle(api, 'Parker9_', 10)
+# import_retweeters_from_tweet(713755536236228608, clinton_handle)
+# import_retweeters_from_tweet(709186515964862464, trump_handle)

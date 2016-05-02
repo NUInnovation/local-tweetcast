@@ -1,10 +1,175 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": null, ""id"": 703606205244162048, ""description"": """", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/710588149450334208/j5FVfEsA_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 19, ""protected"": false, ""id_str"": ""703606205244162048"", ""default_profile_image"": false, ""listed_count"": 3, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@rolandscahill @realDonaldTrump @nypost by that comment it seems to me you have a teeny tiny brain you're a fool"", ""is_quote_status"": false, ""in_reply_to_status_id"": 721094249350045698, ""id"": 723165956533567488, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [0, 14], ""screen_name"": ""rolandscahill"", ""id"": 19865053, ""name"": ""Roland Scahill"", ""id_str"": ""19865053""}, {""indices"": [15, 31], ""screen_name"": ""realDonaldTrump"", ""id"": 25073877, ""name"": ""Donald J. Trump"", ""id_str"": ""25073877""}, {""indices"": [32, 39], ""screen_name"": ""nypost"", ""id"": 17469289, ""name"": ""New York Post"", ""id_str"": ""17469289""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""rolandscahill"", ""id_str"": ""723165956533567488"", ""retweet_count"": 0, ""in_reply_to_user_id"": 19865053, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""19865053"", ""lang"": ""en"", ""created_at"": ""Thu Apr 21 15:06:14 +0000 2016"", ""in_reply_to_status_id_str"": ""721094249350045698"", ""place"": null}, ""lang"": ""en"", ""utc_offset"": null, ""statuses_count"": 9, ""profile_background_color"": ""F5F8FA"", ""friends_count"": 40, ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/710588149450334208/j5FVfEsA_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": null, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/703606205244162048/1456588504"", ""profile_background_image_url"": null, ""screen_name"": ""JosephineMigli2"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 199, ""name"": ""Josephine Migliano"", ""url"": null, ""created_at"": ""Sat Feb 27 15:42:46 +0000 2016"", ""contributors_enabled"": false, ""location"": """", ""profile_sidebar_border_color"": ""C0DEED"", ""default_profile"": true, ""following"": false}"
-@rolandscahill @realDonaldTrump @nypost by that comment it seems to me you have a teeny tiny brain you're a fool
-@bpolitics @tedcruz https://t.co/M5UBhKu35R
-@bpolitics @tedcruz Donald Trump supporters are loyal there's no way in hell we would ever vote for you
-@TeamTedCruz @tedcruz https://t.co/D5w4S5GNoX
-@Rene_gadeCowboy @petesmom2 @greta @FoxNews @DanaPerino the only one that's a con man is Cruz
-@sisk_jo @stormyweatherz @greta @FoxNews Cruz is like any other politicians he will do absolutely nothing for a country vote Trump
-@TANSTAAFL23 @BhawksGo and Ted Cruz is a lousy corrupt disgusting piece of you-know-what
-"@weeklystandard @tedcruz , Donald Trump is the only one that can fix this economy"
-Instead of trying to stop Trump people better smarten up and try to stop Bernie Sanders before he ends up destroying us
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 703606205244162048, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/710588149450334208/j5FVfEsA_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 22, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""703606205244162048"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 5, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""To everyone that is not a Trump supporter Donald Trump will be the next president of the United States live with it !!!"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726928159929675776, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""726928159929675776"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Mon May 02 00:15:53 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 172, ""description"": """", ""friends_count"": 41, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/710588149450334208/j5FVfEsA_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/703606205244162048/1456588504"", ""profile_background_image_url"": null, ""name"": ""Josephine Migliano"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 293, ""screen_name"": ""JosephineMigli2"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Feb 27 15:42:46 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+To everyone that is not a Trump supporter Donald Trump will be the next president of the United States live with it !!!
+A vote for Hillary is a vote for Obama another 4 years of disaster for this country
+Hillary cannot create jobs the only one that has experience about creating jobs is Donald Trump
+Hillary the most corrupt candidate that has ever ran  for president we'll just continue with Obama's policies disaster for our country
+Hillary will defend a woman's right to choose but she doesn't give any rights of the unborn baby the cold hearted Hillary
+Huffington Post mocking Trump bad journalism just MISINFORMATION will accomplish nothing make Trump stronger
+@JohnKasich that's not true just saw it this morning on TV Hillary Clinton and Donald Trump are in a tie
+@HuffingtonPost told CNN that they're going to mock Donald Trump said responsible journalism this is a lot of BS we're getting sick of it
+@SpartanMaker @link421614 @JessicaSandu @oreillyfactor come on don't be ridiculous that's a stupid statement
+@JessicaSandu @SpartanMaker @oreillyfactor you're kidding right Legacy he has none he destroyed America where the hell have you been
+@FoxNewsInsider @ffweekend Heidi Thinking Out Loud he is an immigrant only got his papers a little while ago  should go back to Canada
+@BB1fanTambra @EricFathead614 @tedcruz yeah right why is Raphael's records sealed shows you right there he's corrupt not fit to be president
+@tedcruz the gruesome twosome asking for money for their failing campaign in denial
+@dimebag5150 @greta @FortuneMagazine great common I totally agree with that
+@PleezRetweetMe @greta @FortuneMagazine I agree he has no room to mock anybody with his failed presidency
+@kevinsypolt1 @FoxNewsInsider @realDonaldTrump Donald Trump is only hope for this country will make a great president vote Trump
+@conservatismtlk @FoxNewsInsider Focus leader don't make me laugh Cruz is nothing but a con artist phony Deceiver pathological liar
+@asbelmontes Where Have You Been Trump and Hillary are tide
+@tedcruz @ThisWeekABC Indiana don't be taken in buy this Deceiver he's a wolf in sheep's clothing
+@DianeSymons @jean_laclair @tedcruz I don't like it he's not really an American only got his citizenship to run for president
+@DianeSymons @ThisWeekABC @ABC @tedcruz he only became a citizen not too long ago should not be running for president
+@meetthepress @tedcruz latest National polls they are neck-and-neck Cruz doesn't know what he's talking about
+@FoxNewsInsider @ffweekend immigrant she's a joke like her husband
+@latimes John Kasich vote for Kasich is a wasted vote go home Kasich you're a joke
+https://t.co/MrMLPJ8G4P
+Nikki Haley would be an excellent choice if Donald Trump selects her  for VP if not her then Ben Carson or Chris Christie
+@FaceTheNation @tedcruz @realDonaldTrump Cruz you spin everything especially about Donald Trump you are not fit to be president
+Hillary's private server could have been hacked jeopardizing America's security total irresponsible should not be running for president
+Hillary Clinton with that fake smile with that fake campaign will not change anything in this country vote Trump
+These protesters should start protesting against  Clinton for the email scandal she should get out of the race
+@kglass1957 @DRUDGE_REPORT
+@greta @FortuneMagazine mocks Trump Obama destroyed our country has no room to talk he's pathetic
+@DanScavino @DonaldJTrumpJr Donald Trump will make a great president  will turn this country around in the right direction
+Obama mocks Donald Trump at his dinner what a joke Obama has destroyed our country has no room to talk
+Saying Hillary &amp; Trump on the same side of a coin is  ridiculous Trump is nothing like that corrupt Hillary coin that's lying Ted statement
+Bernie supporters why would they go and vote for Hillary she was against all his policies she corrupt he wasn't
+Karen Finney you're all BS Hillary should be indicted running for the big house not the White House
+You can't blame Trump for the uninformed paid protesters blame the media protesters don't even know what they're protesting against
+Kasich Cruz you are finished get out stop wasting your supporters money
+@CNN @CNNPolitics Hillary  should be indicted Cruz liar corrupt dirty tricks Kasich no path only choice vote Trump save country
+@CNN @CNNPolitics this whole speech that he saying in this show is so desperate he's lying so much it makes you sick to your stomach
+@CNN @CNNPolitics said Donald Trump is fake what a joke you're nothing but a pathetic and disgusting despicable liar
+@CNN @CNNPolitics Trump didn't say transgenders should go into a woman's bathroom said leave it the way it is
+@FAIRImmigration Cruz on every political show lies about Donald Trump it's hard to watch Cruz so dishonest and corrupt
+@CNN @CNNPolitics well here we go Cruz is on the show and he is going to lie like hell knows Boehner Cruz was his lawyer
+@CNN @CNNPolitics with all her corruption she should not be running 4 president
+@CNN @CNNPolitics Trump foreign policy speech was fantastic of course Hillary going to find problems with it she's corrupt
+Hillary always laughs like a fool when  asked a questions she doesn't like she should be indicted a crook running for president
+Hillary talks about her track deals how about all your corruption a vote for Hillary is a vote for another 4 years of Obama disaster
+Hillary has been in politics for ever and she has done absolutely nothing for this country should be in the big house
+Hillary said I have a lot of experience with men getting off the reservation couldn't even control her husband getting off the reservation
+"@StephMcMurphy @tedcruz Cruz is not fit to be president lies all the time especially about Trump lies about John Boehner Cruz
+was his lawyer"
+"@kaysunshine1252 @asbelmontes @oreillyfactor , should be indicted   running for the big house not the White House"
+@hoyadave @Addicted2Politi every damn thing he said about Trump is untrue and he's been dirty campaigning in States dirty tricks
+@tedcruz and that slogan trusted Ted is ridiculous you are so dishonest you can't be trusted
+@tedcruz lying Ted that is so untrue and you know it  Trump is nothing like Hillary Donald is honest that's more than I can say for you
+@EricTrump @LaraLeaTrump @DonaldJTrumpJr @MrsVanessaTrump Lara Lea &amp; Vanessa Trump absolutely gorgeous
+@cbs11jack @tedcruz @realDonaldTrump @CBSDFW if true this was done when he was a businessman has nothing to do now running for president
+@tedcruz lying Ted California don't be taken in by this corrupt and dirty politician he will not work for you in Washington vote Trump
+@tedcruz this weasel lying Ted claimed he doesn't know John Boehner Google him he was John Boehner's lawyer just one of his many lies
+@tedcruz Ted Cruz again lying about Donald Trump this weasel will do and say anything don't be swayed by him
+Why isn't the media making anything out of this about John Boehner having Ted Cruz as his lawyer Cruz lies again
+Cruz by by far is the most lying candidate that we have ever encountered can't believe anything that comes out of his mouth
+Cruz lies about everything this is just one example about John Boehner that he didn't know him
+Ted Cruz was John Boehner's lawyer Cruz on on National Television try to deceive the voters about this
+WaPo: Ted Cruz Was John Boehner's Lawyer  https://t.co/xmbjOtTUGm #Newsmax via @Newsmax_Media
+@AuthorRJParker @seanhannity @tedcruz @CarlyFiorina agreed I didn't watch it either Cruz fiorina two losers they're finished
+@EmaGabi23 @seanhannity @tedcruz @CarlyFiorina exactly he twisted everything around and blames Trump give him enough rope to hang himself
+@ofccadjust @jamesspivey @seanhannity @tedcruz @CarlyFiorina I agree it's a joke they should end their campaign
+@TrumpinIndiana @seanhannity @tedcruz @CarlyFiorina good question but you'll never get a straight answer that's why she's his VP
+@seanhannity @tedcruz @CarlyFiorina who the hell cares
+@seanhannity @tedcruz @CarlyFiorina Hannity why do we care about Carly fiorina answering questions
+Ted Cruz and John Kasich have no path to be nominated they should get out of the race now and stop hanging on like two leeches
+@seanhannity Hannity why do you have  Cruz and fiorina on your show nobody cares they're finished
+@BernieSanders Bernie Sanders is finished and his supporters if they support Hillary they're going against all of Bernie Sanders policies
+@seanhannity @tedcruz Ted Cruz VP would not be fit to be president if something happened to Cruz disasterous
+@seanhannity @CarlyFiorina @tedcruz @HillaryClinton Donald Trump said the same thing about Hillary
+@seanhannity @tedcruz @johnboehner Ted Cruz lying does know John Boehner Ted Cruz was John Boehner's lawyer for short time
+@stuartpstevens @brithume @steveholland1 why would he have to win the illegals they can't vote also he's doing very well with all Races
+@seanhannity @tedcruz @CarlyFiorina @realDonaldTrump this is ridiculous take on Trump they're finished it's time for them to get out
+@seanhannity @tedcruz Hillary Clinton is on the same side of the coin as Obama she cannot fix this problem vote Trump
+@seanhannity @tedcruz but the only candidate that could fix this situation is Trump politicians useless
+@jesshop23 @tedcruz nobody cares what Ted Cruz does he's finished
+@asbelmontes Hillary Clinton has a lot of baggage and is definitely corrupt and not fit to be president  don't need another 4 years of Obama
+@asbelmontes @blake__holman74 @oreillyfactor Trump tells the truth these people free ride is over
+@oreilly_updates O'Reilly Ted Cruz was John Boehner's lawyer at one time so Cruz is lying why aren't you saying this on your show
+Hillary said I have a lot of experience when men go off the reservation how about her husband he was off several times Hillary a joke
+Fiorina says a vote for John Kasich just throwing your phone away but let's face it Cruz is throwing your vote away too
+@TheFiveOnFox always watch the 5 never knew that Williams was so ignorant bias against Trump
+"@TheFiveOnFox , Juan Williams is acting like a real idiot on the five about the protesters looks like he's for this"
+@TheFiveOnFox Juan Williams what is wrong with you I don't believe anything that you're saying today
+@CNN @CNNPolitics unless you get indicted
+@dragnwagn @NeilTurner_ @tedcruz supporters of Cruz are going around with blinders on
+@dragnwagn @tedcruz @CarlyFiorina @seanhannity @FoxNews your a joke wasted money
+"@Vets4Bernie @_mark_with_a_K  Clinton if your wife is too old to remember and
+she's tired how the hell do you expect her to run White House"
+That's why nobody respects the media showing protesters so many other important things in this world showing a bunch of thugs  want trouble
+Why don't you stop showing the protesters it's not news bunch of thugs what is wrong with the media
+@IngrahamAngle what the hell  wrong with the American people always protesting against Trump why don't you protest against  criminal Hillary
+@tedcruz @CarlyFiorina @seanhannity @FoxNews Hannity what's wrong with you why are you having Cruz and Carly on your show they are finished
+@BBCBreaking @BBCNews all a bunch of paid protesters what idiots all they want is trouble who is paying them
+@FallonGlick @tedcruz who cares go home Ted Cruz what are hanging on for you're finished
+@CNN look at all those uninformed idiots outside just want trouble most protesters are paid to protest against him
+@CNN great speech mr. Trump the next president of the United state
+@CNN Hillary will say and do anything to win don't believe her she is a very corrupt candidate
+https://t.co/Hre8yTWyQT
+@aynbluefish @DRUDGE_REPORT Cruz is incapable of governing anything especially the White House
+@MitchTanase @DRUDGE_REPORT @akarl_smith they'll remember he didn't endorse Trump and endorse the loser Cruz
+Politico not credible their statements against Donald Trump is not credible total bias against Trump pro-hillary Trump will be president
+@seanhannity cute puppy enjoy him
+@CNN why is he voting for Cruz he is losing and should get out of the race makes no sense
+@TyrsDisciple @DemsRRealRacist https://t.co/OEcsrMq8zc
+@AtheistWWonka @realDonaldTrump she won't win too much baggage to corrupt vote Trump
+@TheDonaldNews @realDonaldTrump agreed Hillary is so corrupt and should not be running for president
+@aghoukassian @realDonaldTrump you're a little mixed up there aren't you it's lying Ted  running a dirty campaign
+@Molarity1983 @shadohchaser @realDonaldTrump Hillary shouldn't be running for the White House she should be running for the big house
+@donnabrazile @CNN Hillary shouldn't even be running for president investigated by the FBI Hillary is corrupt
+@JOMainEvent it's obvious CNN is bias against Trump very unprofessional
+@PatDollard Library this guy is a Madman losing it because Donald Trump is winning
+@Ausbiz @realDonaldTrump  lying Ted get out no chance and take that corrupt VP with you
+@Addicted2Politi @realDonaldTrump Trump will keep his promises and make this country great again
+@realDrumpf @realDonaldTrump if Howard Dean was like Donald Trump he would have won give me a break
+@SurfPHX @AnnCoulter @mamagolden66 @realDonaldTrump love this comment
+@CherylLynneRose @AnnCoulter @thetomzone @Ricky_Vaughn99 this guy should get out of the race he's disgusting not presidential
+@FoxNews @foxandfriends why is he endorsing this loser no path to the nomination
+Now they're saying that  Trump is danger to this world they will try any dirty trick to discredit him we are not buying this vote Trump
+@DemsRRealRacist @AnnCoulter Carly fiorina you are such a corrupt candidate your perfect with Cruz both corrupt
+@tlilje1 @LodiSilverado @DemsRRealRacist https://t.co/J0AaPntS5A
+@TERRYinTROY @DemsRRealRacist @steph93065 I agree he should get the hell out of this race loser
+@BobDoleViagra @DemsRRealRacist another Trump hater vote Trump save this country
+@TyrsDisciple @DemsRRealRacist what a disgusting despicable comment and you call yourself an American vote Trump
+@DemsRRealRacist @AnnCoulter your comment means nothing his speech was amazing only one that's going to help this country
+In Indiana lying Ted trying every dirty trick to try to discredit Donald Trump news flash lying Ted  we're not buying it vote Trump
+Lying Ted mention Isis Trump speech Ted you shouldn't tell Isis how you're going to defeat them Trump is right Ted would tell them
+Wow he is lying big time again about Trump  foreign policy speech Trump speech was amazing
+@ProgressOutlook @TheSquireman https://t.co/R5sSwvTFkh
+@ProgressOutlook @TheSquireman https://t.co/d0m47mdmGf
+@ProgressOutlook @TheSquireman @Trump Trump is not a liar Ted Cruz is a pathological liar
+@DonHogue3 @Jewsruletheworl @tedcruz @MikeLeeforUtah God you gotta be kidding God doesn't like a liar it's one of the Commandments
+@tedcruz @MikeLeeforUtah @YouTube just drop out you're finished
+https://t.co/OU6UgaAeDV
+https://t.co/bw7ZEcXY7l
+https://t.co/gwNy5QStTP
+https://t.co/V9gckUezT8
+@foxandfriends this guy is unreal he goes on national television and lies about not knowing John Boehner
+"@FoxNews @tedcruz @CarlyFiorina , Ted Cruz what's like a madman on Kelly's file wouldn't give her a chance to talk he looks desperate"
+@NC4TedCruz2016 Ted Cruz wouldn't know the truth if it hit him in the face and then he goes around with a Bible what a hypocrite
+@NC4TedCruz2016 he talks about Donald yelling tonight he was yelling like a madman not presidential
+@NC4TedCruz2016 Cruz is so desperate all he does is lie it's hard to listen to him
+@NC4TedCruz2016 TaylorMade that's all Cruz is doing his lying on Megyn Kelly show this guy is disgusting
+@NC4TedCruz2016 looks like Ted Cruz is nervous he looks desperate wouldn't give Kelly a chance to speak has to get his lies in
+It's ironic when Ted gets caught lying he turns it all around and always mentions Trump Cruz starting to believe his own lies
+Top Cruz team member speaks out against his candidate's 'repeated lies' https://t.co/AdzTaBOys2 via @DCExaminer
+@seanhannity @tedcruz Ted Cruz is not fit to be president he would not work for us and never keep his promises vote Trump
+@AuthorRJParker @seanhannity yeah that's a joke never met the guy and he was his lawyer this guy is such a pathological liar
+@seanhannity @tedcruz Ted Cruz is like a kid when he does something wrong he blames the other guy this guy is dangerous
+@seanhannity @tedcruz the lies that come out of this guy's mouth is amazing that's why they call him Lucifer
+@seanhannity @tedcruz so there you are folks Ted Cruz is Lucifer in the flesh is that what you want for president not me corrupt
+@seanhannity @tedcruz Cruz hated could never get anything done in the senate or the house they won't work with him hated
+@seanhannity @tedcruz Cruz lying about Boehner he knows him everybody in Washington hates him nobody likes this guy
+@seanhannity @tedcruz this guy is corrupt like I've been trying to tell you he lies about everything now he's lying about John Boehner
+@seanhannity @tedcruz John Boehner is Republican Cruz is hated by everyone wouldn't be able to work with the house and the Senate
+@magnifier661 @realDonaldTrump I beg to differ Trump will win
+@YahyaJohn @realDonaldTrump Cruz corrupt Hillary being investigated Trump can be trusted
+@realDrumpf @realDonaldTrump he is ahead in delegates and votes give me a break
+@JohnKasich @washingtonpost you're not going to get the nomination at convention give up
+@JohnKasich @washingtonpost  who cares he's losing get out of the race
+@oreillyfactor Donald Trump made an amazing speech today on foreign policy
+https://t.co/t24neuCASE
+Donald Trump sweeps five Northeast states https://t.co/ROCHUqnX64 via @USATODAY
+Donald Trump's National polls just hit to 50%
+@kej57jones @DRUDGE_REPORT @DailyMirror Trump from the beginning says no to illegals and refugees he was right
+@RayIrwin085 @RousetheMasses @TorSjoberg14 @NeilTurner_ @leilaibi https://t.co/xXtR5B7LHg

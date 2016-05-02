@@ -1,116 +1,101 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": null, ""id"": 707936100845817856, ""description"": ""Not influenced by party lines or media spins and blackouts."", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719963545035669504/uEfeddCO_normal.jpg"", ""profile_sidebar_fill_color"": ""C0DFEC"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1015, ""protected"": false, ""id_str"": ""707936100845817856"", ""default_profile_image"": false, ""listed_count"": 37, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @NewyorkWeissman: @JeanetteJing @Teapublicanways @GodandtheBear @dovesandletters @Bernlennials @Libertea2012 #ElectionFraud101 #NY https\u2026"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 723285993110032384, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [3, 19], ""screen_name"": ""NewyorkWeissman"", ""id"": 2475599276, ""name"": ""Michelle"", ""id_str"": ""2475599276""}, {""indices"": [21, 34], ""screen_name"": ""JeanetteJing"", ""id"": 1558510549, ""name"": ""Jeanette Sandernista"", ""id_str"": ""1558510549""}, {""indices"": [35, 51], ""screen_name"": ""Teapublicanways"", ""id"": 2608043178, ""name"": ""Sam Adams"", ""id_str"": ""2608043178""}, {""indices"": [52, 66], ""screen_name"": ""GodandtheBear"", ""id"": 3230944180, ""name"": ""GodandtheBear"", ""id_str"": ""3230944180""}, {""indices"": [67, 83], ""screen_name"": ""dovesandletters"", ""id"": 2525820541, ""name"": ""La belle Hamilton"", ""id_str"": ""2525820541""}, {""indices"": [84, 97], ""screen_name"": ""Bernlennials"", ""id"": 3337804853, ""name"": ""Millennials 4 Bernie"", ""id_str"": ""3337804853""}, {""indices"": [98, 111], ""screen_name"": ""Libertea2012"", ""id"": 607558430, ""name"": ""The Progressive Mind"", ""id_str"": ""607558430""}], ""hashtags"": [{""indices"": [112, 129], ""text"": ""ElectionFraud101""}, {""indices"": [130, 133], ""text"": ""NY""}], ""urls"": [{""url"": ""https://t.co/KSkKiLG2uS"", ""indices"": [139, 140], ""expanded_url"": ""https://twitter.com/junkerrn/status/722612075290177536"", ""display_url"": ""twitter.com/junkerrn/statu\u2026""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723285993110032384"", ""retweet_count"": 3, ""in_reply_to_user_id"": null, ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@JeanetteJing @Teapublicanways @GodandtheBear @dovesandletters @Bernlennials @Libertea2012 #ElectionFraud101 #NY https://t.co/KSkKiLG2uS"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 723285718802509824, ""favorite_count"": 1, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""quoted_status_id"": 722612075290177536, ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [0, 13], ""screen_name"": ""JeanetteJing"", ""id"": 1558510549, ""name"": ""Jeanette Sandernista"", ""id_str"": ""1558510549""}, {""indices"": [14, 30], ""screen_name"": ""Teapublicanways"", ""id"": 2608043178, ""name"": ""Sam Adams"", ""id_str"": ""2608043178""}, {""indices"": [31, 45], ""screen_name"": ""GodandtheBear"", ""id"": 3230944180, ""name"": ""GodandtheBear"", ""id_str"": ""3230944180""}, {""indices"": [46, 62], ""screen_name"": ""dovesandletters"", ""id"": 2525820541, ""name"": ""La belle Hamilton"", ""id_str"": ""2525820541""}, {""indices"": [63, 76], ""screen_name"": ""Bernlennials"", ""id"": 3337804853, ""name"": ""Millennials 4 Bernie"", ""id_str"": ""3337804853""}, {""indices"": [77, 90], ""screen_name"": ""Libertea2012"", ""id"": 607558430, ""name"": ""The Progressive Mind"", ""id_str"": ""607558430""}], ""hashtags"": [{""indices"": [91, 108], ""text"": ""ElectionFraud101""}, {""indices"": [109, 112], ""text"": ""NY""}], ""urls"": [{""url"": ""https://t.co/KSkKiLG2uS"", ""indices"": [113, 136], ""expanded_url"": ""https://twitter.com/junkerrn/status/722612075290177536"", ""display_url"": ""twitter.com/junkerrn/statu\u2026""}]}, ""in_reply_to_screen_name"": ""JeanetteJing"", ""id_str"": ""723285718802509824"", ""retweet_count"": 3, ""in_reply_to_user_id"": 1558510549, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1558510549"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Thu Apr 21 23:02:08 +0000 2016"", ""quoted_status_id_str"": ""722612075290177536"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Thu Apr 21 23:03:13 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""lang"": ""en"", ""utc_offset"": null, ""statuses_count"": 4435, ""profile_background_color"": ""022330"", ""friends_count"": 550, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719963545035669504/uEfeddCO_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme15/bg.png"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/707936100845817856/1458531176"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme15/bg.png"", ""screen_name"": ""Thinkers4Bernie"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 6067, ""name"": ""Lori"", ""url"": null, ""created_at"": ""Thu Mar 10 14:28:14 +0000 2016"", ""contributors_enabled"": false, ""location"": """", ""profile_sidebar_border_color"": ""A8C7F7"", ""default_profile"": false, ""following"": false}"
-"If you were lucky enough not to be purged from Brooklyn's voter rolls, you had the privilege of dealing w/this. https://t.co/W2Sr0HeLoc"
-@AlisonSpalding2 Every day I detest her more.
-"@WarWomensRights @missingahzu LOL. Well, at least we're not waiting around for an assassination like she was in 2008 against Obama."
-"Why did Hillary Clinton vote against a measure to prevent groundwater pollution with carcinogen MTBE? Hint: $
-https://t.co/w6F1P6t86Q"
-I want you to know I went to great lengths NOT to cite @dailybeast's coverage of this cuz I refuse to promote them. https://t.co/uiDeTtk0PY
-.@HillaryClinton @BernieSanders - We demand that you honor our votes and see to it that this audit is impartial. https://t.co/kegGvwAJVW
-Chaos in NY Polls: Brooklyn Poll Worker Caught Committing Probable Voter Fraud Felony https://t.co/eS3dnjYzzU - nice job @Project_Veritas
-3 issues that could haunt Hillary Clinton across rural America https://t.co/Jsq1ho0wny
-@HillaryClinton I wish I could understand why you voted against this amendment to ban MTBE that contaminates H2O. https://t.co/wXjBuiD4iT
-"@SalamMorcos @funkinatrix @billclinton Bill might ""almost"" apologize for that some day."
-Hillary’s primary success is a sham... via @HAGOODMANAUTHOR https://t.co/uBu7dU6mt5 https://t.co/r2kmXjg2KC
-Firms that paid for Clinton speeches have US gov't interests https://t.co/wSrkXC6loo - No invested interest? Let's think about that.
-@JordanChariton Not to mention us older people who have seen this oligarchy crap for decades. Win by cheating &amp; slander? Blue can bleed.
-"@jmaehre I'm sure HRC could, if they could trust she didn't have a conflict of interest."
-"Hey Democrats - Forbes advises you buy into aerospace &amp; defense stocks if Hillary wins. What does that tell you? Oh, right - you don't CARE."
-Has @HillaryClinton had the decency to condemn her aide's offensive behavior the other night? #DidntThinkSo
-@rs130 @latimes @Destinyuhva Hillary Dems could care less about Citizens United.
-#NYVoterSuppression #NYElectionFraud https://t.co/hGH1jdgm5D https://t.co/KhrCiGrINx
-I will fight them tooth and nail while continuing to regularly contribute to Bernie's campaign.  https://t.co/glJTi5E9KU
-I have yet to hear a single HRC supporter express concern re: voter disenfranchisement in AZ or NY. I feel immensely betrayed by my party.
-@JaniceGloster @rosevine3 @CoreyRobin Independent.
-@glopol_analysis @rosevine3 Thanks! Will watch.
-@scottmstringer Why is there no answer to our question regarding unbiased oversight?
-"@glopol_analysis @rosevine3 To clarify further, let's also post: https://t.co/wR4dsc4dW4"
-"@glopol_analysis @rosevine3 I stand corrected. I should have put ""mistake"" in quotes! Or rather, ""mistake"" evolved to ""bizop"""
-".@RollingStone - nice try. I cancelled subscription, won't be returning. https://t.co/f4tTbFW424"
-@resist_r None dare call it conspiracy.
-@Thinkers4Bernie https://t.co/2WjGJfsO81
-From 'How Hillary Clinton Became a War Hawk' https://t.co/Z0lUvcCUil https://t.co/r76faOzKcD
-@jakobgr72 Gotta love VT!
-Protest lodged over secrecy in Clinton email case https://t.co/wRW0RdbCvt
-"@jakobgr72 I used to live there, great place. :-)"
-I woke up angry again. #votersuppression #Oligarchy #justice #democracy #democrats #DNC #media #REVOLUTION
-Just an FYI - here's an example of the political climate in Vermont: https://t.co/Xw45vvSKkd
-"F**k Sanders, says Clinton aide, bragging after massive voter purges and irregularities in NY primary https://t.co/iBpgT4KbQN - #soproud"
-@SpaceCheef @Canada4Bernie @Bernie_Facts If you can even vote.
-"My biggest issue with an HRC presidency. Tough choice, SCOTUS, or the rest of the world: How Hillary Became a Hawk https://t.co/Z0lUvcCUil"
-Hillary represents the very worst of the party https://t.co/SfVqaUNYJR
-I'm sure they will. https://t.co/xkeYaqSJlg
-https://t.co/YCXG7hq9s1
-@Thinkers4Bernie I'm just giving her the benefit of the doubt that it was only horrendous judgment and not something more insidious.
-"Attention Democrats: Remember, there was a reason George W's motorcade was pelted with eggs. The oligarchy chose him, too."
-Nothing to see here. We're complacent with our oligarchy. https://t.co/EkBXW4QcFs
-"WTH are we still using these touch screen machines, America? Start this at about 24 minutes.
-https://t.co/XusDfZXvAO"
-Revisiting this. https://t.co/rWynnPrGl3
-The GOP didn't make up the fact that HRC as SOS put the country at the mercy of her home-brewed un-encrypted server. JUDGMENT
-@charlamanesbane @davidplouffe They refuse to even consider the reality (and national embarrassment) of her being under FBI investigation.
-"""It's time to look at Iraq as a business opportunity."" - Hillary Clinton https://t.co/wR4dsc4dW4"
-.@davidplouffe Calls Sanders a Fraud? Pft. https://t.co/1sluHJFOcu https://t.co/8HvG4oBmJw
-@Thinkers4Bernie Cry me a river.
-"But giving them choice when SCOTUS is as stake, HRC approval in the tank, IF she doesn't have enough pledged delegates. That's outrageous?"
-"@Thinkers4Bernie Nobody from media OR HRC camp, including my fellow Dems gave a shit about the injustice of SDs being bought."
-"@Thinkers4Bernie Where was the outrage when the race started, most American's had never heard of Bernie, no debates &amp; media reported SDs?"
-It's an interesting social experiment seeing HRC side begin 2 consider injustice of concept of SDs choosing election https://t.co/sL9bHiCDgR
-@abowersock @PauseNet @Elect_Justice
-"Rhode Island Just Closed 66% of Polling Places.
-https://t.co/wAY7dQPjWW
-@TheYoungTurks @JordanChariton @cenkuygur @Elect_Justice"
-"Outstanding thoughts from @MylesDyer - Bernie Sanders: 5 reasons why there is a path to victory
-https://t.co/ANi77o5ykS"
-No words. https://t.co/6OJOWfJz9p
-"Today I'm being asked to settle, unite AND take a chance on SCOTUS? Time to put our thinking caps on Dems! https://t.co/CR36IMwyhK"
-"@RevoltPolitic @missingahzu Seriously. We didn't even bother trending it. In light of massive #electionfraud, it's just more BS."
-@sanderswillwin @peenyweeny1218 Awesome.
-#WaysToUniteUsAll  https://t.co/TRuDGY8g8T
-"""If your family is in trouble I help you, If my family is in trouble, you help me"" 
---Bernie Sanders
-
-#WaysToUniteUsAll"
-"Regardless of politics, if we were neighbors w/ house on fire or tragedy we'd help each other. Doesn't change my vote tho! #WaysToUniteUsAll"
-"@KristyIynn @grwoobie @HillaryClinton I didn't watch the speech, and I never will :-)"
-Here we have Fortune advising us to buy into aerospace &amp; defense stocks if HRC is elected. https://t.co/BAfIsRWHBv
-@TheTomasRios @crushingbort Why don't I get this?
-I'd love to find an effective way to educate CT voters on Hillary's ability to morph from pro-gun to anti-gun presidential candidate.
-@MAGICMADFAN @WeatherWill2 Unprecedented. Truly a failure of a candidate. With the establishment support she has? Still to fail like this?
-From CNN so they naturally add in spins about nothing being wrong with the speeches. But interesting: https://t.co/ojYrvrZI45
-"More dead yesterday? Yes, 13 more civilians dead. What a disastrous, bloody, unending mistake. https://t.co/qOJdXgWr4D"
-@Thinkers4Bernie Geez - almost missed the obvious hashtag here. #Happy420
-"How can any progressive oppose legalizing pot? This is like opposing gay marriage in 2012, no brainer.  https://t.co/lIb9AEgfl8"
-.@scottmstringer (HRC delegate) NYC Comptroller wants to hear your #NYVoterSuppression story. https://t.co/v6YRWg5tu1 … #NYElectionFraud
-"@FiercelyZen Whoops, i thought they were for real. Deleting tweet, I TRY not to go there."
-@cooluser51 @ekatso Except maybe that she voted for it w/out bothering to read the intel first.
-@ButterMeetJam @CTobinTO Hang in there!
-Hillary Clinton on the campaign trail in 2008 against Obama. https://t.co/nnwzPdfj5w
-Bernie Sanders rallies a raucous crowd at Penn State rally https://t.co/DyLjmrCtmN
-@tupotch @cenkuygur @Deir_in_DC The People's Party. I'm in.
-"Top economist, UN advisor and climate activist: ""Clinton is a danger to world peace"" https://t.co/3RAw9KxwYd"
-@mcmoynihan Have you corrected your slanderous accusation publicly yet with an apology?
-@NoahShachtman Have you apologized for this slander yet?
-@justinjm1 Have you apologized for contributing to this slander yet? @ShaunKing @kbriquelet
-@tthomaslew76 @onestangehorse @JeanetteJing @BarackObama The sacrifices made to unite blue can have devastating consequences.
-@WPJohnWagner So glad they are getting a chance to rest.
-"@goodbyethirdway I had HRC supporter tell me yesterday voter suppression in primaries ""doesn't count"" because all Dems vote blue in the end."
-@dave_nuwer @IBDinvestors LOL
-@dave_nuwer https://t.co/qf5DZUVqFe
-This. https://t.co/jIjnaaG9eQ
-The New York City primary was so disastrous that it triggered an investigation​ https://t.co/Yntgt8Ytlq
-"@scottmstringer @ThisIsFusion Again, how can we trust transparency in process with your conflict of interest? We need an unbiased 3rd party."
-"Ha ha, shall we infiltrate?  https://t.co/xWdZb7iToD"
-@rooibach @TammyKosiancic The court wouldn't have given court order if they thought the voter didn't have right to vote.
-"@rooibach @TammyKosiancic Scott, my point is there is solid evidence of disenfranchisement. The vote changing thing is also in ?, no doubt."
-@Object_InSpace So REGISTERED DEMOCRATS yesterday that had to obtain a court order to vote don't count to you?
-God help us. https://t.co/wPCIPbkgKo
-"Seriously, what is WRONG with this country? https://t.co/cECvZthxXc"
-"In the last 8 states, Bernie has won 261 of 284 counties. HRC won 23. https://t.co/Ol8dB0Croe"
-Hillary Clinton lying for 13 minutes straight. https://t.co/l6weHSRpai
-"After electing Bernie, I look forward to actively participating in the creation of ""The People's Party."""
-That comment convinces me of a whole lot of things. #NeverHillary #BernieOrBust  https://t.co/z9QO5zdrI2
-In non political fronts (sort of)... if the Bruins even THINK of trading Bergeron I will lose my mind.
-@davidsirota @antihustler @TheFingNews @NickMerrill #NotBuyingIt
-"@davidsirota @antihustler @TheFingNews @NickMerrill This is part of their  “Disqualify him, defeat him, unite the party later"" strategy."
-"@axomamma Like it or not, if you want HRC to be viable you will NEED Indie votes. CYA."
-"@tybrown3 Good points. However, much of the Dem party and Independents dislike her with a passion. It will be challenging to unite."
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 707936100845817856, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme15/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719963545035669504/uEfeddCO_normal.jpg"", ""profile_sidebar_fill_color"": ""C0DFEC"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1235, ""profile_sidebar_border_color"": ""A8C7F7"", ""id_str"": ""707936100845817856"", ""profile_background_color"": ""022330"", ""listed_count"": 48, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @joesegal: Had people from 18 - 80 yrs at our CA CD30 Caucus for Bernie Sanders delegate election. Most common words used..Love/Compassi\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726952876296253440, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 16548484, ""indices"": [3, 12], ""id_str"": ""16548484"", ""screen_name"": ""joesegal"", ""name"": ""Joseph Segal""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 14, ""id_str"": ""726952876296253440"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Had people from 18 - 80 yrs at our CA CD30 Caucus for Bernie Sanders delegate election. Most common words used..Love/Compassion/Integrity"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726930101393195008, ""favorite_count"": 19, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 14, ""id_str"": ""726930101393195008"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Mon May 02 00:23:36 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Mon May 02 01:54:06 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 5442, ""description"": ""Not influenced by party lines or media spins and blackouts. Bernie Sanders delegate. Not a bro, not a bot. #HumansFirst"", ""friends_count"": 644, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719963545035669504/uEfeddCO_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/707936100845817856/1458531176"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme15/bg.png"", ""name"": ""Lori"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 7252, ""screen_name"": ""Thinkers4Bernie"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Mar 10 14:28:14 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@Bill_Cimbrelo @TheresaSchroe14 awesome. #boycottcnn
+If you haven't seen this yet - you must. Now. Today! https://t.co/TMVaGLPvyd
+".@MMFlint I finally had the chance to watch, ""Where to Invade Next"" &amp; am left with so much hope &amp; inspiration. Thank you a million times."
+Video Shows Clintons Conspiring with Paul Ryan And GOP For Medicare Cuts [Video] https://t.co/GtW7omPMHQ
+@jjmcphatter I blocked this guy. Not worthy of our energy.
+Hillary Clinton’s Bumpy Road To The White House Will Get Rougher In Days To Come [Report] https://t.co/SUUWOs2eOZ
+@Momof2inDE @meetnpatatas No. My answer sounds like me saying I'm voting for Bernie.
+@Momof2inDE @meetnpatatas No. That is why I am voting for Bernie.
+"Under Hillary’s Energy Plan, Communities of Color Would Be Fracked Over https://t.co/hNgCeOPQVA"
+"Do Hillary supporters love interventionism, fracking, and off shore tax loopholes or does the media do an awesome job avoiding substance?"
+The Chevron Communiqués https://t.co/SOPuZZp1Ui #fracking
+Hillary is notoriously late evolving on progressive causes. Can we afford to wait for her on #climatechange? #fracking #eco #green
+.@larrywilmore's #PanamaPapers joke was priceless. #WHCD #punintended
+The #PanamaPapers Are Exactly Why Hillary Clinton Can’t Be President https://t.co/Dabw95go1l
+There is a key difference between HillaryOrBust in 08 and #BernieOrBust in 2016. Bernie supporters are faced w/ Hillary's record.
+@RobShattuckAL06 Nice!
+@Thinkers4Bernie https://t.co/qNJFMXHUE4
+"Hillary Clinton #deathpenalty shame: While more states move away from capital punishment, she refuses https://t.co/njl2DaYEjo"
+Hillary Clinton's indefensible stance on the death penalty. https://t.co/Iu0liR4bgd
+"Hillary Clinton Cheers Biotechers, Backing GMOs and Federal Help https://t.co/DnqN6bMvfc"
+Hillary Clinton Goes to Bat for GMOs at Biotech Conference https://t.co/3riShlbnFx https://t.co/hNVnaqzQPE
+Why Hillary Clinton’s “Strongest Issue” Is Actually Her Biggest Farce https://t.co/PXWQC2xuVO
+Let’s Talk About Hillary Clinton and Saudi Arabia https://t.co/cjohGPeMuo https://t.co/hcohOAIo6f
+Adding Up the Costs of Hillary Clinton’s Wars https://t.co/HMrdalRWuP
+"While Saudi Arabia &amp; Boeing poured $ into Clinton FND, SOS Clinton approved massive sales of Boeing fighter jets... https://t.co/cfQ6ENZ6Rb"
+Saudi’s Exploding Christmas Gifts From Hillary Clinton https://t.co/gb6NptMjpu
+Emails Show Hillary Clinton Aides Celebrating F-15 Jet Fighter Sales to Saudi Arabia: “Good News” https://t.co/QrGaQhGJj5
+I have no idea why any humanitarian candidate could support cluster bombs. How could Hillary? #FeelTheBern
+Hillary Clinton approved massive arms sales to Saudi govt that were used in a brutal bombing against Yemin.
+"Against WORLD opinion #HillaryClinton, as Secretary of State, in 2009 supported an illegal coup in #Honduras."
+"Since 1973, 156 people have been exonerated from death row. Let that sink in. They were innocent. #deathpenalty #Bernie2016"
+Bernie had the decency to vote against the #patriotact as well as speak out against it. https://t.co/OzkUvUUY0b
+"""I am proud to say that Henry #Kissinger is not my friend.” - #BernieSanders"
+HRC expressed her support (&amp; received a $335k speaking fee) for #GMO crops and crop biotech at the #Biotech convention in 2014
+"@ClintonGlobal promotes #Monsanto, the maker of RoundUp® and RoundUp Ready® seeds. #eco #green #environment"
+Hillary isn't sure why millennials don't like her? Maybe it has something to do with not being real eager to fight and die in her wars.
+It's a bizarre event. Painful at points to see the discomfort. America is weird. Panama Papers joke ruled. https://t.co/UUaiVdTnHm
+Over 20k people have contributed to Bernie today! Please help us blow the roof off before the midnight deadline! https://t.co/B4QJEUM3b6
+"Let's contemplate that Team Hillary feels she's been FORCED 2 the left enough already. What does that mean, really? https://t.co/rYJAUlh2Fi"
+"@Serpentine202 @march4progress @Salon I love that Brattleboro, Vermont has a warrant for their arrest :-)"
+@BernieVolunteer @ThankYouBernie Love it!
+I just contributed. Join me? https://t.co/LMzkn61vGA
+"If we get a Trump president, it's HRC voters we can thank. I'm dead serious."
+"@Thinkers4Bernie That gives me faith that everyone isn't in bed with Clinton, some people sincerely don't know."
+"Yesterday I called out a reporter who included super delegates in her totals. She apologized, admitted to error and changed the article."
+"Want Endless War? Love the U.S. Empire? Well, Hillary Clinton’s Your Choice https://t.co/nMWFb9mcp8"
+Hillary Clinton's appetite for war https://t.co/jeN8Dpu6wY
+"Hillary Clinton breaks with Obama, threatens war to enforce Iran deal https://t.co/go4R4w59Hk"
+I believe if many Hillary Clinton supporters understood her military policies they would be aghast. https://t.co/zgREWfJ5Dk
+@Vets4Bernie @antihustler @saracohennyc This really pisses me off.
+"Lots to unpack here. Let's start with Hillary admitting her foreign policy is not progressive.
+https://t.co/32g7oz9L1t"
+I don't often share Breitbart -- but when I do it's because... https://t.co/HMPEr339mI
+"@subliminal_cat @JeanetteJing and ""those hard working white Americans"""
+@twittposter @JeanetteJing Bernie.
+"@subliminal_cat @JeanetteJing Woman card is revoked when you use slurs like #bringthemtoheel #OffTheReservation, Gandhi gas station..."
+That happy moment when @JeanetteJing draws attention to your tweet for Bernie &amp; finally gets it attention. https://t.co/TzktQfXmhR Thanks!
+@GodandtheBear @Sammyboy1216 keyword there: forced
+"If you have made comments like #bringthemtoheel, Gandhi running gas station, #offthereservation, how can you play the woman card?"
+Sorry #UFO enthusiasts -- I just read that Hillary said she may break her promise to unveil #Area51 records.
+Hillary Clinton and Wall Street’s Neoliberal War on Latin America https://t.co/QtyIfobcnK
+@MalyndaNyc @Midwest4Bernie @bpolitics The muck is like quick sand.
+"The fact that the media is covering HRC's #OffTheReservation as if it was a quippy, strong response... Please get a backbone MSM, or a soul."
+@MalyndaNyc @Midwest4Bernie @bpolitics LOL.
+@mrnastytime01 We've got to keep fighting the good fight.
+@ninaturner With good reason. https://t.co/yPTkAeCZRa
+"I just have to ask. How much do Trump or Hillary care about America, the minorities, the middle class if they are evading taxes?"
+@Thinkers4Bernie And follow @LeeCamp who is doing a kick ass job at keeping us aware and outraged.
+@Thinkers4Bernie This is no GOP conspiracy folks. C'mon -- WAKE UP!
+"After touting estate tax, Bill and Hillary Clinton seize on loopholes https://t.co/POGQJhsGFA"
+Trump &amp; Clinton Share Delaware Address Known for Tax Loophole -- https://t.co/FgTxFPPMty -- Hello?
+"@Thinkers4Bernie These seem like things, even if you're gung ho on your candidate, you know -- they'd raise an eyebrow."
+@Thinkers4Bernie Or sharing the same Deleware address as Trump known for helping companies avoid hundreds of millions of dollars in taxes.
+It's the little things that blow me away. How HRC supporters don't bat an eyelash at the Clinton's stashing $ in the Cayman Islands...
+"""Un-stupid youself."" -- @Greg_Palast 
+#electionfraud #votersuppression"
+"If you like your #electionfraud served up w/ some humor to help you stomach it - grab a coffee, enjoy, get informed. https://t.co/2C7JMt3aFA"
+This isn't sour grapes. It's anti-American to not care. Thanks @Greg_Palast for documenting &amp; sharing. https://t.co/3zhJAPunOv
+"@BerniesHomie Reminds me of Greenspan's ""froth""
+https://t.co/NEdZpfFV8m"
+@anthonyv934 please delete. Uncool.
+"@TimBartender pretty sure u didn't mean to tweet this... That li.paper app automated it, u might want to check."
+@MontriciaHubba1 @Liberalthelorax What a crazy election cycle.
+@antisocialista @djwoolverton No worries. I do. But it's just not right.
+I'm #WillingToFight on behalf of my Mother-in-Law who keeps her heat too low &amp; goes without too much after working full time her whole life.
+@nenedid Many use the phrase with little thought or understanding. We should be able to expect more from our leaders.
+@ThePyat You're right! I removed it because I don't want to give that impression at all!
+@Thinkers4Bernie Just checking: https://t.co/ED9GTeMmMy
+I hope @TheOliverStone will turn this quagmire into a movie one day and help us make sense of the multiple angles. https://t.co/IGhkEcsOL8
+@Mellynjess @YouTube I remember. I miss @KeithOlbermann.
+@politeactivism @BeTheBern They would be hailed as a hero.
+True story. https://t.co/jFq9srAndc
+@dustin_temple10 I'm not sure of these people see a reflection in the mirror any longer.
+@dustin_temple10 I love how everything Peter Daou pushes out is from the Brock owned Blue Nation Review.
+"Clinton Slams Trump 4 Praising Dictators, But Has Praised Dictatorial Regimes That Donated To Her Family Foundation https://t.co/bjQpSEONW9"
+I officially won't be watching it. https://t.co/DMxG5oZAPu
+@BeTheBern You would think but then there is this: https://t.co/e60LLUaSip https://t.co/Yqk20tHHP7
+Bernie Sanders Challenges The Democratic Party To Keep Its Soul https://t.co/sILu2pXjoi
+"@TheBpDShow Again, demeaning. This campaign is so tone deaf. #punintended"
+@NavjotPal_ @skyoversc https://t.co/o5MhNJVIZz

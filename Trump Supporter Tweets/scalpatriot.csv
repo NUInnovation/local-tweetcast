@@ -1,134 +1,135 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": ""Pacific Time (US & Canada)"", ""id"": 131746121, ""description"": ""#TRUMP2016 God bless our country and protect Israel. May we protect our way of life against enemies foreign and domestic and may all knees bow to You."", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/722622243474255872/OeKdYRxp_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 7151, ""protected"": false, ""id_str"": ""131746121"", ""default_profile_image"": false, ""listed_count"": 82, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @SouthLoneStar: Fox News just released their new GOP national poll\nTrump is leading! https://t.co/3AQJXL4Lmx"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723281545134395393, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [3, 17], ""screen_name"": ""SouthLoneStar"", ""id"": 4355797094, ""name"": ""South Lone Star"", ""id_str"": ""4355797094""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 4355797094, ""source_status_id_str"": ""723221219982512129"", ""expanded_url"": ""http://twitter.com/SouthLoneStar/status/723221219982512129/photo/1"", ""display_url"": ""pic.twitter.com/3AQJXL4Lmx"", ""url"": ""https://t.co/3AQJXL4Lmx"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""source_user_id_str"": ""4355797094"", ""source_status_id"": 723221219982512129, ""id_str"": ""723221187493548032"", ""sizes"": {""small"": {""h"": 192, ""w"": 340, ""resize"": ""fit""}, ""large"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""medium"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [88, 111], ""type"": ""photo"", ""id"": 723221187493548032, ""media_url"": ""http://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723281545134395393"", ""retweet_count"": 96, ""in_reply_to_user_id"": null, ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Fox News just released their new GOP national poll\nTrump is leading! https://t.co/3AQJXL4Lmx"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723221219982512129, ""favorite_count"": 78, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/SouthLoneStar/status/723221219982512129/photo/1"", ""sizes"": {""small"": {""h"": 192, ""w"": 340, ""resize"": ""fit""}, ""large"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""medium"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/3AQJXL4Lmx"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""id_str"": ""723221187493548032"", ""indices"": [69, 92], ""media_url"": ""http://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""type"": ""photo"", ""id"": 723221187493548032, ""display_url"": ""pic.twitter.com/3AQJXL4Lmx""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723221219982512129"", ""retweet_count"": 96, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 18:45:50 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/SouthLoneStar/status/723221219982512129/photo/1"", ""sizes"": {""small"": {""h"": 192, ""w"": 340, ""resize"": ""fit""}, ""large"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""medium"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/3AQJXL4Lmx"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""id_str"": ""723221187493548032"", ""indices"": [69, 92], ""media_url"": ""http://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""type"": ""photo"", ""id"": 723221187493548032, ""display_url"": ""pic.twitter.com/3AQJXL4Lmx""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 22:45:32 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4355797094, ""source_status_id_str"": ""723221219982512129"", ""expanded_url"": ""http://twitter.com/SouthLoneStar/status/723221219982512129/photo/1"", ""display_url"": ""pic.twitter.com/3AQJXL4Lmx"", ""url"": ""https://t.co/3AQJXL4Lmx"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg"", ""source_user_id_str"": ""4355797094"", ""source_status_id"": 723221219982512129, ""id_str"": ""723221187493548032"", ""sizes"": {""small"": {""h"": 192, ""w"": 340, ""resize"": ""fit""}, ""large"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""medium"": {""h"": 338, ""w"": 600, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [88, 111], ""type"": ""photo"", ""id"": 723221187493548032, ""media_url"": ""http://pbs.twimg.com/media/Cgll1paW0AAUGpx.jpg""}]}}, ""lang"": ""en"", ""utc_offset"": -25200, ""statuses_count"": 22653, ""profile_background_color"": ""C0DEED"", ""friends_count"": 6999, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/722622243474255872/OeKdYRxp_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/131746121/1460992912"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""screen_name"": ""scalpatriot"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 4785, ""name"": ""Southern Cal Patriot"", ""url"": null, ""created_at"": ""Sun Apr 11 05:52:57 +0000 2010"", ""contributors_enabled"": false, ""location"": ""California, USA"", ""profile_sidebar_border_color"": ""C0DEED"", ""default_profile"": true, ""following"": false}"
-@Patriot762x51mm He passed away unexpectedly
-How unexpected. Rest in peace  https://t.co/KjM5pKJcio
-@katscags62  it's equal or worse in California.
-@BarbaraJensen1 @Callisto1947 @katscags62 @CA4TRUMP Be prepared for the far left labor unions and teacher unions to come out in force here
-We need a strong comeback after eight years of a symbolic and worthless Obama presidency and Trump is the one.  https://t.co/QA7RUrmkhF
-@kathleenbieleck @SquidsLighters That's what mothers used to tell their daughters before they were married. Society was a lot better off too
-@rsultzba @DrMartyFox @col_nj @walidshoebat Of course it is and it's also common sense. Can't solve the problem unless you stop and assess.
-@SquidsLighters We cannot legislate based on people's psychology. But we CAN legislate based on their biology.
-@clmazin @003a04f8c2054b7 The only thing Ted can do at this point is TRY to prevent America from overhauling its corrupt Republican Party.
-It's so simple. Keep the penises away from the vaginas.  https://t.co/6XrrjbpLE8
-@lobes4business and delivering talking points from the Senate floor doesn't make one an expert either
-@ronaldmanning6 because if they deny him the domination at 1237 there will be a mass exodus of the party like never seen before
-@ronaldmanning6 I hope he gets 1237. They will deny him the nomination and it will inspire Republicans to support him as an independent
-@scalpatriot  if he doesn't get 1237 that will be the last we hear of Donald Trump and Ted Cruz.
-@scalpatriot  They don't care if he gets 1237. If he doesn't they avoid blame of being biased against us voters.
-"If the RNC is going to decide who the Republican nominee is, why bother having an election at all? Just hoping Trump won't get 1237?"
-@jaysandheat13 @eagle_president is a symbol of of America stupidity to the rest of the world now
-@jaysandheat13 @eagle_president he was a symbolic president in term 1 and special interests and Soros secured him term 2
-@jaysandheat13 @eagle_president Because Obama is a symbolic president only. His agenda doesn't represent the values of America
-Donald Trump is a modern day Paul Revere. Anyone else would never withstand the dirty influence of political donors who shape Washington
-If we elect anyone other than Trump we are allowing political bribery and blackmailing to persist as a way of life in Washington.
-Only someone who is already wealthy has the will to end political bribery in Washington. That is why Washington is terrified of Trump
-Senators are the last people who are going to support ending political bribery because their lifestyles depend on that money.
-Our senators are supposed to be like postal workers. They're supposed to deliver the people's voice to Washington. But they have been bribed
-Basically our government has turned their low-paid representative jobs into prestigious careers by accepting special interest bribe money
-We cast our vote but politicians are paid off and bribed to influence their decision making. That is not America.
-It will take electing someone like Trump to free our country of the overwhelming influence of special interest money in policymaking.
-That is such a sad statement about America in 2015. Up to us to break the ownership of donors on elected officials https://t.co/6tBuqa7rQm
-https://t.co/FRpR1w3AL2
-@LesgartCPA @phil200269 @tedcruz @realDonaldTrump Qwll said. That's why he's called #BigheadTed
-@MickBlair54 @politico And anyone who disagrees with it will be labeled a racist. Yeah we are really free at last.
-It IS over like Mark Levin's lame career https://t.co/98a3hNOlNS
-Hey GOPe: you don't get to change the rules of the game midstream. That's unethical.
-@Republikim1 @Patrioticgirl86 I beat you to it. I don't debate zombies
-Car Cameron is like a giddy little girl who loves to stir shit up. Keep polishing the blue hair boys shoes Carl.
-Cruz concedes there's no path for him to get 1237. Now give up BigHeadTed. The GOPe will NEVER nominate your lying ass sucker
-@JeanieWilliams @davidpwil @LegendaryTrump That's why I call him #BigHeadTed
-"@puppymnkey @missbelle4ever @MoffittJill Seriously, spend your time attacking Bernie. If he can give Hillary a challenge she'll get killed"
-@puppymnkey @missbelle4ever @MoffittJill Hillarys whole party is made up of old washed up angry gals like you whose ballroom days are over
-Cruz is saying trump got 2x delegates in NY w 1/2 votes. Fact Trump NY 523k votes(ish) 92 delegates. Cruz TX 1.2m votes(ish) 104 delegates
-@fpatterson1050 @realDonaldTrump That's exactly what Hillary is doing and her supporters are like farts: loud and obnoxious but meaningless
-"Even 8 year know Hillary is THE most unlikeable and untrustworthy candidate running. My God lady, is this your best? https://t.co/V99CV1iHhc"
-@puppymnkey @missbelle4ever @MoffittJill Ma'am your comments are so misguided that I'm convinced you were born on another planet.
-@michaelbeatty3 #BigHeadTed
-#BigHeadTed's career as a presidential candidate is over folks. He can't win now and would never win in a contested  https://t.co/ZCFv66lGSP
-Ted Cruz is in full spoiler mode. He can't win so all he can do is try to wreck the field for his competition https://t.co/qjn6gm4179
-Trump says he will make America great again. Cruz says we will have a contested election. My money is on Trump.  https://t.co/NQD4KQSxsy
-@rcanales @CALA_1111 @gatewaypundit You're damned right! Don't let up folks. He sure as hell wouldn't
-@focambolesco @Patrioticgirl86 Fultard Luz'ers
-I'd rather have Trump occasionally make off color remarks to get the media's attention than support Cruz who has issues telling the truth
-@mysteriousfact @Charles07527697 bad advice. Zig zag just makes the distance between it and you shorter. Run like hell straight
-@FiveRights She's just doing what she was taught by Al Sharpton and Jesse Jockstrap
-@Chloe2229 As he says appropriately if he doesn't win it's all a big waste of time and money for him.
-Yep that's what the Cruz camp is doing today  https://t.co/PDs5f4gavL
-@Patrioticgirl86 I'll respect you when you and other never trump luz'ers accept its over
-@TeeEyeM @Patrioticgirl86 Wow.  You came up with that yourself? Nice job NeverTed
-You go girl Hillary! Stick it to the American people. They deserve to be screwed over for another 8 years right?  https://t.co/DrWuM1cqtS
-If Trump didn't have the financial means to run for president America would be totally screwed
-Trumps been remarkably presidential considering he's running on his own dime. Pay to run your own campaign you get to say what you believe.
-@bftravers522 @lyz_estrada @DonaldjBismarck Trump owns her peace of mind already and he hasn't even addressed her. It's beautiful
-@rbd738_nancy Seether in your hatred it's satisfying to see your resentment suck the life out of you
-@rbd738_nancy Trump has entertained the idiots enough it's time for him to quit this race to bed and make America America again
-@rbd738_nancy The only time Ted Cruz gets any media attention is when Trump stands next to him. Why would he help Lyin Ted
-@rbd738_nancy why should he debate with somebody who only gets 12% of the vote in New York and who is a filthy scum lying politician
-@vannsmole but I said months ago California is a psycho Street and we're going to need help to make America great again on the West Coast
-@vannsmole she doesn't get to decide who comes and goes in her city it's not her friggin city
-@vannsmole and it's not hers Siri she is just holding out elected position she's not the queen of the area we taxpayers the city
-How dare her she is elected official https://t.co/858H3pH7qb
-It's ok to cry. I understand how disappointing it is to discover he isn't the man he claimed to be https://t.co/6qt9d7IE9t
-I would say Donald Trump was for more presidential than Hillary in her long tirade last night. Trump is a uniter.  https://t.co/irBToCbdQJ
-"Speaking of acting presidential, Donald Trump was gracious and didn't ramble on pontificating for an hour like Ted Cruz does when he wins"
-The common ground we have is we both believe Washington is corrupt and America needs to come first.  https://t.co/Omg6ak2MoJ
-If you're angry at Paul Ryan and his agenda you're really angry at the Washington establishment because they chose him for that position.
-@MilitaryRosary @nyuhearmenow @HillaryClinton A $600 haircut on Hillary Clinton is just like putting lipstick on a pig
-Paul Ryan was chosen by the GOPe. They chose him and he's making the decisions they want. Ryan illustrates the kind of values the GOPe has.
-"@ThePeoplesBacon @ThePatriot143 If you actually listen to him, Trump hasn't mocked anybody who didn't deserve it. Ted is a liar."
-What people don't get is Ted Cruz is an attorney and he thrives on being in adversarial positions with everyone. Normal people seek harmony
-Didn't Trey Gowdy support Cruz? Now he's withdrawing and distancing himself entirely   https://t.co/1Uf8O0KybF
-Washington gave up on America but Trump didn't.  As Americans see the possibility of making America great again they are waking up
-@scalpatriot I remember a year ago when this started people said he would be great but he's not really serious about running. He's proving
-The votes are going to roll in for Trump as America sees his path to the White House. No one thought there was hope for America until him
-@Dlw20161950 @perry1949 Move forward to Canada suckers
-The Cruz people don't seem to accept is that America truly wants Trump but didn't know if he would get the votes. He's proving he will
-@wpjenna @LaurelCatherine @pbump Anything is possible to throw this election if you use enough bush family money to buy political influence
-"To paraphrase a line from the movie Barfly, ""I don't hate Cruz. I just like better when he's not around."""
-"Donald Trump is the ""blue-collar billionaire""."
-@kvictoria1103 BWAHAHAHAHA!!!
-Haha! We won 90+ delegates and you won NONE. Not one! Bwahahaha!!!!
-Go ahead Cruz spend millions of dollars trying to defeat Trump. You're just wasting the Bush family's money
-All this oversensitivity when Trump wins is an indication of how fragile and desperate liberal people are.
-Check out Fox. After each of these primaries they always have a trump hater in the panel and not a trump supporter. They're so biased!
-"When these folks are targeted, don't f'ing complain about how they're being victimized. People like this WILL pay https://t.co/pnTVtyu43b"
-@jtaylor_111 I have my own ideas but I suspect you have a theory
-Cmon Trump stop playing with your food. Eat the son of a bitch Cruz so we ca get to work on America
-Cruz campaign actually believes that if this race went to a contested election the GOP would get behind Cruz. No way sucka's.
-Fox would love this to go to a contested election because it's good for their viewership.
-The majority of the Republican Party can't stand Ted Cruz and will NEVER consolidate behind him
-Trump stomped on Cruz's head and Fox is giving Cruz a voice to try to undermine him. Proves Fox actually for the democraps
-@scalpatriot seriously what's the point of giving them legal status as long as more can just wander into our country and work for cash?
-Where is all the men in that Hillary audience? Oh I know they're at home breast-feeding the children
-The one good thing about sharia law is that Hillary Clinton would have to shut the hell up
-I wonder how much she paid that so-called diversity audience that is like a prop behind her. Nine out of 10 female more than half are black
-Vote for Hillary because George Soros isn't running!
-Hey Hillary nice job making shit up about trumps positions
-Hey Hillary what is the point of passing comprehensive immigration reform as long as people can trespass into our country? Why bother???
-Hillary's speech was no doubt written by some guy who duct tapes his manhood between his cheeks and wears makeup.
-"Hey Hillary, we aren't supposed to deport people who are trespassers to our country?  You are the problem with America"
-Hillary Clinton is the neighbor lady who yells to stay off her lawn and you end up doing a burn out on it the first opportunity
-Hey Ted! BOOOOM you serial adultering piece of trash https://t.co/wXkinaQtdv
-What the media are not anticipating is that there is a sizable amount of Bernie supporters who would support trump before Hillary
-@MissMeliss078 @LindaSuhler California has a lot of small business people who've taken a beating with Mexican trespassers and outsourcing
-@MissMeliss078 @LindaSuhler Cruz is the one who doesn't fit the personality and the profile of a conservative Californian
-@MissMeliss078 @LindaSuhler California is a mixture of government workers union members left wing Progressives and rugged individuals.
-It's a lot more fun to be on the side that's winning. I've been riding the Trump train since he made his announcement. Rock on!
-If you think Trump is killing it in New York he will do the same thing in California.
-"When FukCruz won irrelevant Wisconsin, media was so happy it was nauseating. Trump is killing it in NY and they'll make excuses"
-@scalpatriot Amanda Carpenter I love to see her frustrated seeing Ted at 12% ha ha ha ha
-Hey CNN you're crazy you think Hillary's going to be able to unite all those Bernie supporters who hate her gutts?
-I love seeing the pendants on CNN gagging on trumps huge win in New York. Already they are suffering and making excuses
-Bwahahahahahaha!!!! F you Ted! https://t.co/04mhqF5eK6
-@bfigueredo @Trump2Win @RynoOnAir @gcain63 @FoxNews Just made it up
-@MaryAnneMcKenn4 I truly feel sorry for families with young girls. I would go out of my mind if a freak could share a bathroom with them
-@Trump2Win @RynoOnAir @gcain63 @FoxNews He's a smug chucklefuk
-If you have a dick you're a man even if you dress like a girl. Period.
-That's how I feel. I support Trump's agenda and it has nothing to do with being republican  https://t.co/E5Nxfv9YdO
-@Trump2Win @RynoOnAir @gcain63 @FoxNews Carl Cameron is a biased clown who is a spokeshole for Lindsey Graham and the inside crowd
-Watch how the MSM signals what the results will be long before the polls are closed. You can tell how corrupt things are
-All day the MSM has been pushing the narrative that women don't like Trump. They just keep pounding. I want to see them eat those words
-Its torture to listen to the MSM today. These f'ing pundits are so biased and outspoken about it.
-@mary_scots @Midgespeaks @sart48 @rjkok2 @rafshmatko We can have this conversation after Cruz drops out
-@seanhannity @jules1965_ @SenTedCruz @realDonaldTrump @teddyschleifer @tedcruz People DO. He hopes they don't.
-@RepublicanPunk @PearlJam Left Coast Logic
-@ES_QUEL_ETO_ @WilliamsLawPLLC Trump ahead strong lead
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 131746121, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725713193637548033/gBNSPEJi_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 7194, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""131746121"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 82, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Anyone else think Fiorina fell intentionally so she could abandon the Cruz titanic and get off?"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726956090349350913, ""favorite_count"": 9, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""726956090349350913"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Mon May 02 02:06:52 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 23108, ""description"": ""#TRUMP2016 God bless our country and protect Israel. May we protect our way of life against enemies foreign and domestic and may all knees bow to You."", ""friends_count"": 7015, ""location"": ""California, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725713193637548033/gBNSPEJi_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/131746121/1460992912"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Southern Cal Patriot"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 4928, ""screen_name"": ""scalpatriot"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Apr 11 05:52:57 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Anyone else think Fiorina fell intentionally so she could abandon the Cruz titanic and get off?
+@USAlivestrong @Doug_Giles When you've got nothing to say that will persuade try going topless. Especially if you're nothing to look at
+Hum a humma... Crickets! https://t.co/DOFeuRCSby
+"@nytpolitics @UTHornsRawk Not, No, Nope, Fck No!"
+@Carl1Jimenez @LRbullies @realDonaldTrump No my friend. You are an American and you're my brother!
+That's friggin embarrassing even for pathetic Ted  https://t.co/20uKxv6gmZ
+@PartingThots @LexingtonBobby And his wife just keeps waving too. Such nice gentle Christians! More like typical bad lawyers
+@rharrisonfries Rainman Karl
+Obama already ran dumbass https://t.co/uhno0C3XwF
+@cat_1012000 :-)
+BWAHAHAHAHA https://t.co/AkE8YTRvUc
+We All know how women think. We all have a mother and you're DEFINATELY a mother... https://t.co/Xr5WNofVQP
+@FredZeppelin12 @GIBBYNA She's the angry lady next door that rewened your childhood. When she died the neighborhood had a block party.
+@Drudge_Report_ @LOYALtoTRUMP As they should! As they should.
+That will be the very start of a turnaround for military recovery. I can't wait for some real leadership https://t.co/MfT3NzXel3
+@conservatismtlk @Poppy_Fields1 Enjoy your hate hater
+@ABCPolitics Good for you brother. Showing leadership
+@Maximus_Paulus @MiceeMouse @Jeanette4Trump I hope she wasn't hurt. She is too old and frail to be out campaigning.
+I hope everyone watches this and reflects on it. Anti American activists; I hope you're deported as soon as possible https://t.co/LdQ2NYI71O
+Your candidate has zero chance so all you're doing is trying to prevent the candidate who does.  https://t.co/62inh0m1pK
+@NormaConnors @cat_1012000 @DianeOl64825469 It's probably because you're getting your news on CNN in soundbites
+@ChrisKyle02 I'm in. All the way.
+When you have rats in your house you need to seal off the entrances and keep them out or they will take over https://t.co/jKAkjBYcfE
+@DannyVolcik @di8285502 They don't care. They'll care when we have the presidency and the wall is up though
+This guy is a douche. Buh bye https://t.co/7aiLWzPZqV
+@drewmistak @ClickyBuzz Keep it up assholes. You're helping us identify the enemy
+"@scalpatriot And he isn't even tired from relentless campaigning, interviews, rallies. It's a gift God is giving America to save our ass"
+"If Trump has the courage to stand against 17 candidates, media, the Pope, the President I have confidence he will do what he has promised."
+@GeorgeWill One of these days the newspaper will report on page 30 a blurb about how this guy hung himself with his striped necktie.
+Words from a scared little old man who has lived inside the safe white priveledged Bush plantation too long https://t.co/mU8kYmN16P
+"@martian_munk @GovtsTheProblem In her retarded mind, she's standing up and she's using her whole body. We see just flabby arms flailing"
+@Women4Trump @wisdomfromage @CalebHarrison2 Dont waste your energy trying to reason with people who already have their agenda set in stone
+"When Trump gets 1237 and the RNC do not give him the nod, what do we do? Prepare now because I see trouble https://t.co/b5M7XdV0GG"
+@LindaSuhler @FrenchForTrump Italians don't put up with these scumbags. Good for them. They have a spine unlike our loser in chief
+@chazermann26 @residentfFL Is anyone surprised that we have traitorous treacherous sons of bitches in Washington? Clean the house!!
+Boom! Welcome https://t.co/D03gGUeIC7
+@debbiegar2 @VanJones68 @CNN @KatrinaPierson Can't see one when they are one.
+"@col_nj On behalf of real Americans nationwide, Denver go fu k yourself"
+@BlissTabitha @beer_pig CruzFuk personifies everything we hate about a bad lawyer.
+@VanJones68 @CNN @KatrinaPierson Yuck. Glad to know Van Jones will fade into history as playing a part in the Great Mistake. Czar. Bwahaha
+@OnlyHotyP At this point who cares? They'll say anything to try to find ANYONE who will support them.
+@BooBreeze @The_Mad_Rebel @GatesRobin BWAHAHAHA
+@The_Mad_Rebel @sarobards No class
+@GatesRobin @BooBreeze @sarobards @The_Mad_Rebel Get used to it. Sure better than a Muslim president or a psycho liberal Hillary
+@ClassySnobbb @CPapaFunk Apparently being unlikeable isn't a negative considering that the two frontrunner's me are both rated unlikeable
+@sarobards I look forward to the Cruz-retards suffering for the next 8 years. They're so nasty
+@marklevinshow @FoxNews I don't often agree with Will but Ted's Dead folks
+@AmyMek @ArRuple Coward backwards ignorant son of a bitch
+@FoxNewsInsider @sandiv11 @THEHermanCain These are Mexican citizens just having a fiesta. That's how they behave
+Those closest to DropDeadTed are repulsed by him including his mom https://t.co/TQWy4MpLBv
+"When you're supporting the candidate who's losing in polling nationwide, it's time to consider  you've been betting on the loser in the race"
+@BuddyTheElf2016 people like to support the winner
+@RojerAils @EndorsementsGOP @Lorrainegandol2 Back away from your keyboard and go back to watching your kiddie porn
+@wwwilsonX We are pruning the party to make it healthy again
+Hey Lindsey: Trump isn't killing the Republican Party. He's cleaning house from all the corrupt deadweight losers https://t.co/Z0FM8HMK6i
+@laura_stietz BWAHAHAHAHA
+@sarobards @_CFJ_ #dropdeadted
+@LexingtonBobby @FoxNews @realDonaldTrump That would be a jobs creator and also help balance trade.
+Our kids are cuter and they belong here. Get the fuck out and take your illegitimate parents with you https://t.co/21UPu7tiaA
+@Live_Free_orDie @realDenaldTrump @AnnCoulter @DRUDGE_REPORT What have you succeeded at beside hiding your balls between your butt cheeks?
+"@rescuetracker81 @joasta And when they were in jail, real Americans would severely punish them for being anti American sons of dog bitches"
+"@rescuetracker81 @joasta When America WAS great, we would never have tolerated this. The police would have broken this up and arrested all"
+@rockababy21 @TheTrumpLady It affects our quality of life and property values on all levels
+@DontStalkRegina @AnnCoulter @tponews @tedcruz #DropDeadTed
+@Live_Free_orDie @AnnCoulter @DRUDGE_REPORT This isn't a popularity contest. This is a capability contest. He wins resoundingly in skill
+@StatesPoll And Trump hasn't even started against her! When we see the two side by side she will look really bad. Bernie was no challenge
+We could use a big win. California has been suffering for years under shit leadership and an open border https://t.co/1qa5Ae8env
+@InGodIDoTrust Yawn
+@JohnKStahlUSA @R_del_Mar Hillary only knows how to create racial and political division. She is truly a soulless power lusting politislut
+Andrea is one of the only fair and balanced people on Faux. I hate that station  https://t.co/8bD03wi8Xu
+Sounds reasonable  https://t.co/W169YucQck
+"Uh, no thanks! Let us know when our next president Donald Trump will be on again https://t.co/iVHISGgwLp"
+@dianepe44651138 Build the wall. Mexicans are lazy. They won't bother trying to climb. They'll give up and take a siesta.
+@rtoberl @nypost Glad to see you're angry folks. We've been angry about you eroding our economy and overcrowding our cities.
+@dianepe44651138 No need. They dont have any money so they have no resources to fight
+@mikemkemke @ImagineAnna @wildcatcrazyone Take your flag and shove it
+@coastin42 @MiceeMouse @col_nj No but I understand there were plenty of tacos
+I agree! We would make their coastline resort property and the poor Mexicans could be the maids and gardeners https://t.co/BOKeNBAYqB
+Just another day in Southern California. Looks like cinco de mayo. Los illegals having a great time before the wall https://t.co/VplaxdLMpS
+That's called flip flopping and is stereotypical of Washington politicians  https://t.co/kvJegBpUDZ
+@JaredWyand Enough coddling these retards. Kick their f'ing ass out of here back to Tijuana where they can be ass fked by donkeys
+What she's saying is an act of war. She's claiming to take possession. That deserves a proper response  https://t.co/qgS57fmcuF
+@ccochrell @TheBriefing2016 @HillaryClinton Brutal!!
+They claim stop hate but they're the haters. They hate Americans defending our country and they belong in Mexico https://t.co/j2Elw8R7ES
+Fcking beaner https://t.co/zck3cS4DRB
+@Ella_Boo_Bella @Hank45678 @Cernovich Junior college students whose parents are products of the public school system
+@col_nj @mybodyworks2010 I don't hear Hillary denouncing violence and voter intimidation. He only victims are women in her world
+Your 1st amendment right doesn't supersede my 1st amendment right. Bullying is a recipe for an ass-kicking https://t.co/oqaLJjRkXO
+Good idea https://t.co/LPoEywwQhR
+Hey Mexicanos:  https://t.co/rtiE8lSbSz
+What the fuck Obama? Wouldn't it be easier to go kick the shit out of Isis than absorb all these refugees? https://t.co/msjhH4sioz
+@honeysiota @CaliforniaGOP45 This peaceful protest was endorsed by Gloria Molina and the Los Angeles board of supervisors no doubt
+This isnt a protest. This is a fiesta for these fuckhead wetbacks https://t.co/tcskHeqS2R
+children of wetback trespassers angry that someone is finally looking at the lawlessness that Washington has ignored https://t.co/5AW8asbn8M
+Jake Tapper is a fcking douche https://t.co/p7m6bQrcgT
+Shine the light brightly. Let the truth shine and illuminate all the devious forces trying to deteriorate the US https://t.co/BaTvnGHhQ0
+"See, the thing is, America DOES come first. You can be sad about it but it's OUR country.  https://t.co/MF49MDeM49"
+@ThePatriot143 This CAN be reversed if we act now to secure our border. Doing nothing is guaranteeing America becomes a shithole like Mexico
+This is not anti-Trump. These are Mexican citizens who know they don't belong. They have no allegiance to America. https://t.co/deM8MvrH7k
+@CaptbeauX Yep. They're telling us their allegiance is with Mexico-not the US. This isn't protest. This is rioting by Mexican citizens
+@scalpatriot Deport their ass and build that wall!
+Hey America: remember me? https://t.co/KLo40j66Kt
+Gang violence has been a long standing problem in California. Trump is just shining a spotlight on it.  https://t.co/LGTk8plipo
+The more than bnoxuous mexican protesters are the more it affirms that closing the border is the right thing to do
+This is the face of the problems we face as a nation. Fortunately we have an independent minded Trump to face it https://t.co/O7YlgRDdvB
+Yes. Now you understand what we are dealing with here in California  https://t.co/IwdhlerLsh
+@missynorris411 even they are embarrassed for us
+@roblefeber @JaredWyand California is a prime example.
+"Cruz keeps leaning in different people as a crutch to try to keep going. Cmon Donald, take him (and us American people) out of his misery"
+"@ISIS_B_Gone @hale4jesus @RealJohnnyZ @TWA2Garp @tomesimpson @ChuckNellis Yep, two cartoon characters"
+BOOOOM https://t.co/Z3CbXFTi1P
+@ABPolitical I couldn't do it. He does it day after day. I'm admire his resolve for sure
+We need a really strong recovery and securing our border to withstand the burden of the millenial generation on America in the coming years
+"If Obama gets a fence to make his house safe from terrorists, we do too. Build that wall. Now!"
+@immigrant4trump wetbacks have been making a good living in Southern California for decades. We have a micro economy here.
+The one good thing about this current news cycle is we don't hear about Obama. But it makes me a little nervous. He never just does nothing
+Aww Ted. You mad? https://t.co/zrKAfvdaO7
+Ted Cruz is so transparent how he accused trump in attacking Hillery trying to make the woman issue work for him. Boehner's right about Cruz
+This is what we get with democratic presidents https://t.co/D84VEBoIFH
+It's pathetic that Carly is getting a rise out of Twitter more than Cruz. She bombed and he is doing worse
+Cruz knows he's dead and would drop out but he has nothing else to do. Going around bullshitting IS his only skill https://t.co/FvJgy0tK4O
+THIS is America  https://t.co/sY7DOhuGS2
+@PatriotJames7 Congrats Carly on becoming the first transgender fantasy vp.
+I support Donald Trump because he is willing and able to run as the voice of America. He is us with money. https://t.co/Wd6RmXcoa2
+@CityGirl_SD @mitchellvii @LindaSuhler no way
+@Jorge_Miyar @jCar89000 I revel in the fact that you will be suffering for the next 8+ years as the walls squeeze in on you America-haters
+BWAHAHAHA https://t.co/ocLJqJU1Np
+@zesty_trump Donald trump tackled your ugly face and you're out of the game so shut the hell up
+At the start of the campaign the senators sounded informed but as time goes on Trump sounds more informed. Their points were from briefings
+@sunnykcollins Karl Rove depends on staying in the good graces of the Bush family like a trust fund baby
+@ImJuliCaldwell I don't think so. They're both severely unlikeable beasts
+THIS is the face of a patriotic and prosperous America https://t.co/W2YBatzj7G
+America: THIS is not who we are https://t.co/C6uCKbQA8J
+America: THIS is not who we are https://t.co/eYwOu95MDM

@@ -1,115 +1,93 @@
 import os
 import json
-# import pprint
 import csv
 import uuid
-from pyelasticsearch import ElasticSearch, exceptions
+import copy
 from collections import Counter
-# pp = pprint.PrettyPrinter(indent = 4)
+import logging
+from gensim import utils, corpora, models, similarities
+from collections import defaultdict
+from pprint import pprint
+from api import candidate_supporter_tweets_folders, candidate_handles, candidate_supporters
+from random import shuffle
 
-es = ElasticSearch('http://localhost:9200/')
+# logging for gensim
+# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-# def get_max_obvious_supporter_id():
-#     query = {
-#       'filter': {
-#         'type' : {
-#           'value' : 'obvioussupporter'
-#         }
-#       },
-#       'sort': {
-#         '_id': {
-#           'order': 'desc'
-#         }
-#       },
-#       'size': 1
-#     }
-#     try:
-#         max_id = es.search(query, index='localtweetcast')['hits']['hits'][0]['_id']
-#     except exceptions.ElasticHttpNotFoundError as err:
-#         if err[1] == 'index_not_found_exception':
-#             # we haven't added anything yet
-#             max_id = 0
-#         else:
-#             raise Exception('Unexpected ElasticSearch Error')
-#     return int(max_id)
+def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, path_to_tweets_csv):
+    # corpus should be a list (of lists), and dictionary must be a gensim dictionary
+    block_of_tweets = ''
+    with open(path_to_tweets_csv) as tweetsfile:
+        tweetreader = csv.reader(tweetsfile)
+        metadata = tweetreader.next()
+        for tweetrow in tweetreader:
+            tweetstring = tweetrow[0]
+            block_of_tweets += tweetstring
+    clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+    text = [word for word in clean_block_of_tweets.lower().split()]
+    id_to_path_dict[len(corpus)] = path_to_tweets_csv
+    dictionary.add_documents([text])
+    corpus.append(dictionary.doc2bow(text))
+    return dictionary, corpus, id_to_path_dict
 
-def import_obvious_supporter(supporter_name, supporter_handle, supporter_location, id, candidate_handle, supporter_tweets):
-    es.index('localtweetcast',
-             'obvioussupporter',
-             {'supporter_name': supporter_name, 'supporter_handle': supporter_handle, 'supporter_location': supporter_location, 'candidate_handle': candidate_handle, 'supporter_tweets': supporter_tweets}, id=id)
+def test_tfidf(training_set_size_fraction, k_neighbors):
+    training_set = []
+    testing_set = []
 
-def get_obvious_supporter(supporter_handle):
-    return es.search('supporter_handle:' + supporter_handle, index='localtweetcast')
+    for candidate_handle in candidate_handles:
+        candidate_folder = candidate_supporter_tweets_folders[candidate_handle]
+        dirlist = os.listdir(candidate_folder)
+        dirlist = [file for file in dirlist if file.endswith('.csv')]
+        shuffle(dirlist)
+        for i in range(len(dirlist)):
+            filepath = os.path.join(candidate_folder, dirlist[i])
+            if i <= len(dirlist) * training_set_size_fraction:
+                training_set.append(filepath)
+            else:
+                testing_set.append(filepath)
 
-def get_number_of_obvious_supporters():
-    emptyquery = {
-    'filter': {
-        'type': {
-            'value': 'obvioussupporter'
-            }
-        }
-    }
-    return int(es.count(emptyquery, index='localtweetcast', doc_type='obvioussupporter')['count'])
+    corpus = []
+    id_to_path_dict = {}
+    dictionary = corpora.Dictionary()
 
-def add_tweets_to_elastic(directory, candidate_handle):
-    list_dir = os.listdir(directory)
-    # init_max_id = get_max_obvious_supporter_id()
-    # cur_id = init_max_id
-    for file in list_dir:
-        if file.endswith('.csv'):
-            data_to_copy = []
-            metadata_to_change = {}
-            with open(os.path.join(directory, file), 'r') as readfile:
-                data = csv.reader(readfile)
-                metadata_json_row = data.next()
-                metadata = json.loads(metadata_json_row[0])
-                metadata_to_change = metadata
-                if metadata['imported_to_elastic'] == False:
+    for training_filepath in training_set:
+        dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
 
-                    tweets = []
-                    for tweetrow in data:
-                        tweets.append(tweetrow[0])
-                        data_to_copy.append(tweetrow)
-                    tweets_as_one_string = ''.join(tweets)
-                    supporter_name = metadata['name']
-                    supporter_handle = os.path.splitext(file)[0]
-                    supporter_location = metadata['location']
-                    new_id = str(uuid.uuid4())
-                    import_obvious_supporter(supporter_name, supporter_handle, supporter_location, new_id, candidate_handle, tweets_as_one_string)
-                    metadata_to_change['imported_to_elastic'] = True
-                    with open(os.path.join(directory, file), 'w') as newfile:
-                        newwriter = csv.writer(newfile)
-                        newwriter.writerow([json.dumps(metadata_to_change)])
-                        newwriter.writerows(data_to_copy)
-                    print 'imported user with handle', supporter_handle, 'and id', new_id
+    tfidf = models.TfidfModel(corpus)
+    tfidf_corpus = tfidf[corpus]
+    index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
 
-def match_by_blob(blob_of_tweets, k_neighbors):
-    query = {
-            'query': {
-            "match_phrase": {
-                "supporter_tweets": blob_of_tweets
-            }
-        }
-    }
-    print es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')
-    hitcandidates = [hit['_source']['candidate_handle'] for hit in es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['hits']]
-    hitcandidates = hitcandidates[:k_neighbors]
-    mode_candidate = Counter(hitcandidates).most_common()[0][0]
-    candidate_count = Counter(hitcandidates).most_common()[0][1]
-    other_candidate_count = Counter(hitcandidates).most_common()[1][1]
-    print es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')
-    return mode_candidate, candidate_count, other_candidate_count, es.search('supporter_tweets:'+blob_of_tweets, index='localtweetcast')['hits']['total']
+    rightcount = 0
+    wrongcount = 0
 
-def match_by_handle(api, handle, k_neighbors):
-    user_tweets = []
-    for tweet in api.user_timeline(screen_name = handle, include_rts=False, count = 200):
-        user_tweets.append(tweet.text.encode("UTF-8"))
-    user_tweets_blob = str(' '.join(user_tweets))
-    return match_by_blob(user_tweets_blob, k_neighbors)
+    for testing_filepath in testing_set:
+        block_of_tweets = ''
+        with open(testing_filepath) as tweetsfile:
+            tweetreader = csv.reader(tweetsfile)
+            metadata = tweetreader.next()
+            for tweetrow in tweetreader:
+                tweetstring = tweetrow[0]
+                block_of_tweets += tweetstring
+        clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+        text = [word for word in clean_block_of_tweets.lower().split()]
 
-# print match("""We need a strong comeback after eight years of a symbolic and worthless Obama presidency and Trump is the one.
-# @kathleenbieleck @SquidsLighters That's what mothers used to tell their daughters before they were married. Society was a lot better off too""", 5)
-# print match("""Assumption based upon an antiquated form of #feminism. #genderstereotypes determine sensitivity? #UsNotMe #gunsense https://t.co/OCE6otwYWb
-# "@politico So divisive to make ""everything a woman's issue."" Understand impetus, but trauma of #gunviolence doesn't discriminate. #UsNotMe"
-# @kilihn @arzE At this point the enemy is any judge/official who could open the #NYPrimary but doesn't. #DemPrimary #DemocracySpring #NYC
-# """, 6)
+        doc_to_check = text
+        vec_bow = dictionary.doc2bow(doc_to_check)
+        vec_tfidf = tfidf[vec_bow] # convert the query to TDIDF space
+        sortedresult = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))], key=lambda x: x[1], reverse=True)
+        mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
+        if mode == testing_filepath.split('/')[0]:
+            rightcount += 1
+        else:
+            wrongcount += 1
+    return rightcount / float(rightcount + wrongcount)
+testdict = {}
+for i in range(3, 30):
+    testdict[i] = test_tfidf(0.3, i)
+
+pprint(testdict)
+
+
+# sims = index[tfidf_corpus]
+
+# pprint(list(enumerate(sims)))

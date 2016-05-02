@@ -1,4 +1,70 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""time_zone"": ""Eastern Time (US & Canada)"", ""id"": 310650385, ""description"": ""Political Science Student; Progressive; Die-Hard Floydian; Criminal Justice Reform; Suicide Prevention; Casualty of the War on Drugs #LegalizeIt #Bernie2016"", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/716400141763284992/AdjvhITd_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""is_translator"": false, ""geo_enabled"": true, ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 355, ""protected"": false, ""id_str"": ""310650385"", ""default_profile_image"": false, ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Reading, PA \u2764\ufe0f's @berniesanders #FeelTheBern #PAprimary #PAforBernie\u2026 https://t.co/Gc7oOTEwpP"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723285318129057794, ""favorite_count"": 1, ""source"": ""<a href=\""http://instagram.com\"" rel=\""nofollow\"">Instagram</a>"", ""retweeted"": false, ""coordinates"": {""type"": ""Point"", ""coordinates"": [-75.92324254, 40.33484395]}, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [17, 31], ""screen_name"": ""BernieSanders"", ""id"": 216776631, ""name"": ""Bernie Sanders"", ""id_str"": ""216776631""}], ""hashtags"": [{""indices"": [32, 44], ""text"": ""FeelTheBern""}, {""indices"": [45, 55], ""text"": ""PAprimary""}, {""indices"": [56, 68], ""text"": ""PAforBernie""}], ""urls"": [{""url"": ""https://t.co/Gc7oOTEwpP"", ""indices"": [70, 93], ""expanded_url"": ""https://www.instagram.com/p/BEet8YpRJnqbTEM-WrGYaGK3ywsDcQhCCJPJ3E0/"", ""display_url"": ""instagram.com/p/BEet8YpRJnqb\u2026""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723285318129057794"", ""retweet_count"": 0, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": {""type"": ""Point"", ""coordinates"": [40.33484395, -75.92324254]}, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 23:00:32 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""country_code"": ""US"", ""url"": ""https://api.twitter.com/1.1/geo/id/3e94c70e7a8a35d3.json"", ""country"": ""United States"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-75.95954, 40.29676], [-75.890503, 40.29676], [-75.890503, 40.371477], [-75.95954, 40.371477]]]}, ""contained_within"": [], ""full_name"": ""Reading, PA"", ""attributes"": {}, ""id"": ""3e94c70e7a8a35d3"", ""name"": ""Reading""}}, ""lang"": ""en"", ""utc_offset"": -14400, ""statuses_count"": 1798, ""profile_background_color"": ""C0DEED"", ""friends_count"": 955, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/716400141763284992/AdjvhITd_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/310650385/1381465115"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""screen_name"": ""french_monica"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 2911, ""name"": ""Monica French"", ""url"": null, ""created_at"": ""Sat Jun 04 03:34:05 +0000 2011"", ""contributors_enabled"": false, ""location"": ""Pennsylvania"", ""profile_sidebar_border_color"": ""C0DEED"", ""default_profile"": true, ""following"": false}"
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 310650385, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/724297541244870658/X3ogkU0N_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 378, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""310650385"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""#TheBibleHasTaughtMe Man will cling to anything so long as it excuses his most egregious qualities while exuding an air of moral authority"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726903798254473217, ""favorite_count"": 3, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 20], ""text"": ""TheBibleHasTaughtMe""}], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1, ""id_str"": ""726903798254473217"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Sun May 01 22:39:05 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""Pennsylvania, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-80.519851, 39.719801], [-74.689517, 39.719801], [-74.689517, 42.516072], [-80.519851, 42.516072]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""dd9c503d6c35364b"", ""name"": ""Pennsylvania""}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 1895, ""description"": ""Political Science Student; Progressive; Die-Hard Floydian; Criminal Justice Reform; Suicide Prevention; Casualty of the War on Drugs #LegalizeIt #Bernie2016"", ""friends_count"": 1005, ""location"": ""Pennsylvania"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/724297541244870658/X3ogkU0N_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/310650385/1381465115"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Monica French"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3039, ""screen_name"": ""french_monica"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jun 04 03:34:05 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+#TheBibleHasTaughtMe Man will cling to anything so long as it excuses his most egregious qualities while exuding an air of moral authority
+"About to watch Michael Ware's ""Only the Dead See the End of the War"""
+@HuffingtonPost any time they feel I've been inconvenienced (and I never complain about anything because I know they work hard)
+@HuffingtonPost Most companies are not nearly as generous with customer complaints–the baristas at my Starbucks give me free drink coupons
+@HuffingtonPost @Starbucks policies are centered around satisfying the customer–just speak with a manager &amp; they will aim to solve the issue
+.@HillaryClinton is a hawk and will only exacerbate our problems abroad #ImWithHer https://t.co/aBDgewMFiP
+Sanders is actually winning https://t.co/7BPWdXZqsp Our leverage with the Democratic Party will grow exponentially thanks to @BernieSanders
+These are the horrific consequences of being engaged in an endless war. #DoctorsWithoutBorders  https://t.co/tHxX475Ti0
+This is the best way to #DumpDebbie—support her primary opponent @Tim_Canova #BernieOrBust  https://t.co/qCrc7tx9u0
+@progressivekick (which we desperately need) and get rid of Debbie in the DNC and in the US House.
+@progressivekick wins the primary will have the seat-Supporting @Tim_Canova kills 2 birds with 1 stone–elect a great progressive to Congress
+"@progressivekick contributions to his campaign from people all over the country (myself included)–DWS's district is solid blue, so whoever"
+@progressivekick would be to support her amazing primary opponent @Tim_Canova who has endorsed Bernie. Tim has received tens of thousands of
+"@progressivekick Sadly, Pres Obama endorsed her in the upcoming primary race to retain her seat. Perhaps a better way to get rid of Debbie"
+"@DenisonBe chance against Dem establishment pick, Katie McGinty. PA lost when @JohnFetterman wasn't elected to face Sen. Toomey in the fall."
+@DenisonBe I must say that many BS supporters in PA voted for Sestak–the only reason I can assume is because they thought he had a better
+"@DenisonBe attention on this game changing race–since we've all but lost the primary, the BS campaign/voters must focus on down ticket races"
+"@DenisonBe brilliant primary opponent of Debbie Wasserman Schultz–Debbie's name makes most progressives cringe, yet there has been little"
+"@DenisonBe Congress in order to realistically expect his agenda to be passed–I've been patiently waiting for BS to endorse @Tim_Canova, the"
+"@DenisonBe I voted for Bernie &amp; Fetterman on Tues &amp; I agree with this article–more than anything, Bernie needed likeminded members in"
+.@tedcruz had his ass handed to him by @realDonaldTrump &amp; somehow thinks his next best move is to declare #CarlyFiorina his VP pick!?! 😂😂😂
+Despite depressing #PAprimary results—Bernie won Berks County thanks to the dedication of this group @berksforbernie https://t.co/fPepYJxJzt
+I'm loving the Election Results updates by @guardian #PrimaryDay #PAprimary https://t.co/oWou0IpF5d
+#PAprimary #PAforBernie #PrimaryDay #iVotedForBernie https://t.co/c8Mc7q9JUM
+What a surprise–Hillary switches sides again while Bernie has remained consistent all along #PAprimary #WhoIsHillary https://t.co/k2zQPqg8xj
+#VoterSuppression #VoterIntimidation  #PAprimary #PAforBernie #CTPrimary #DEPrimary #MDPrimary #RIPrimary  https://t.co/G99n9A2jWF
+#PAprimary #MDPrimary #DEPrimary #CTPrimary #RIPrimary #PAforBernie #PrimaryDay #GOTVforBernie  https://t.co/UOofwxbk5l
+#PAprimary #PrimaryDay #PAforBernie  https://t.co/9DhlgmyiHn
+Report #VoterSuppression in #PAprimary—call 1-866-OUR-VOTE—Fight back–Be informed–Knowledge is power!🇺🇸 #PAforBernie https://t.co/9D9UNsJ7an
+Info on #VoterSuppression in PA—Fight back by being informed—Knowledge is power! #PAprimary #PAforBernie #PrimaryDay https://t.co/9tiUCa1hsl
+#PAprimary Voters—If you experience #VoterSuppression find help at https://t.co/TQ53fzN58D or call 1-855-SEVENTY https://t.co/oq0QLEhhhd
+@LiberalLaTchr @Comfortfromhome @ninaturner @BernieSanders ❤️😉
+#Pennsylvania Friends–if you need help finding your polling location text PA to 82623 #PAforBernie #PAprimary https://t.co/H80zeovMW7
+@Comfortfromhome @LiberalLaTchr @ninaturner @BernieSanders You have my word that I won't be leaving my precinct until my vote is cast!
+"It's our turn to vote, #Pennsylvania! Let's return a victory for @BernieSanders! #PAprimary #PrimaryDay #PAforBernie https://t.co/HdN5Djz3I9"
+"It's the night before #PAprimary—My votes will go to @JoshShapiroPA for PA AG, @JohnFetterman for US Senate, @BernieSanders for POTUS"
+#PAprimary #PAforBernie  https://t.co/D3AtKw78dQ
+"@Poltz23 Hey Marc, hope all is well–was wondering how the UK received our President—he speaks &amp; writes so eloquently https://t.co/W2E69xMTph"
+I commend @GovernorVA for ending the disenfranchisement in VA—this needs to occur in all 50 states #VoterSuppression https://t.co/IirN5cRAsJ
+It is not surprising that Charles Koch would be willing to vote for corporatist Hillary #PAprimary #PrimaryDay  https://t.co/L2dQ96trRO
+"Just when you think that HRC &amp; DNC couldn't get any more corrupt...and worse yet, this doesn't bother any HRC voters https://t.co/hn9pwJdnvd"
+Ted Cruz's Senate office turns Muslim constituents away https://t.co/LSm4iiidjT by @ZaidJilani
+We ❤️ you @mrdannyglover! Thank you for your commitment to change. #FeelTheBern #NotMeUs #PAforBernie #PAprimary  https://t.co/WTW0TScWV3
+@Citizenpmroy sure where I stand on how Bernie should respond–however I do believe it's imperative that he respond based on facts &amp; evidence
+"@Citizenpmroy We most likely agree on issues of importance, but because we don't agree on this, we're not on the same side? And I'm not even"
+@Citizenpmroy Your arrogance is unbecoming &amp; you are too defensive to see that I'm on your side—my only motive was understanding your plight
+"@Citizenpmroy I want BS to be Pres more than anything, but we can't just hijack the election...we will have become what we despise."
+@Citizenpmroy actually registered as I's or those who simply share the I's ideology—I just don't think that people are thinking this through
+"@Citizenpmroy &amp; legitimate sources on the voter suppression. Also, when you say I's outnumber D's are you talking about those who are"
+@Citizenpmroy I know how to Google–I also know that you can't trust most of the nonsense on the Internet—I thought maybe you had trustworthy
+"@Citizenpmroy &amp; Bernie runs 3rd party, neither HRC nor BS will earn enough votes/delegates to win &amp; the election will go to the Republicans."
+"@Citizenpmroy They make it complicated to serve their own interests (party insiders)—I get what you're saying, but if HRC is the Dem nominee"
+@Citizenpmroy solid proof of this crime–he would look foolish accusing her without proof.
+@Citizenpmroy &amp; I want to research this—what are your sources? It is my opinion that we can't expect Bernie to call HRC out unless he has
+"@Citizenpmroy question is this-how do you see a path forward if Bernie doesn't win the nomination? Also, I've heard about voter suppression"
+"@Citizenpmroy asking this not to be argumentative, but because I love Bernie &amp; I try to keep my mind open to new information &amp; ideas-my"
+"@Citizenpmroy I agree with @ABswl16—I'm an avid Bernie supporter &amp; I want nothing more than to see him win, but we have to be realistic—I'm"
+@jestei I agree—the ambiguous &amp; arcane rules that vary state to state only serve to elevate party insiders.
+@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept perpetuating ignorance.
+"@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept barrage of profane, baseless &amp; nonsensical attacks—stop"
+@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept diminish the power of meaningful discourse through a
+"@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept inclusion of rational analysis on disagreements, users"
+@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept facilitating thoughtful discussion on an issue with the
+@yaaaashunty @scribetherapist @ggreenwald @rosariodawson @ShaunKing @the_intercept You illustrate the problem with social media—instead of
+Getting ready to hit the streets and put in a few more volunteer… https://t.co/H86WawKdf8
+Tell your members of Congress to protect medical marijuana states from federal interference. https://t.co/F88NVEZMPr #StopTheHarm
 "Reading, PA ❤️'s @berniesanders #FeelTheBern #PAprimary #PAforBernie… https://t.co/Gc7oOTEwpP"
 @NationalNurses You guys are rock stars in this campaign—We ❤️ you all &amp; appreciate your hard work &amp; dedication to the cause #Nurses4Bernie
 "Thank you for coming to Reading, PA @BernieSanders! We have your back! #PAforBernie #PAprimary  https://t.co/c5UlhuipAG"
@@ -73,72 +139,3 @@ I actually read my first #TrumanCapote novel in prison... #FamilyGuy @SethMacFar
 @bayarea_bias @JeanetteJing @POTUS HRC also does this with the Afr-Am mothers of police shooting/gun violence victims–it's shameful to
 "@KenSnyder_ @Starbucks Haha! No, today I had to replenish my coffee supply for my Starbucks Verismo. I make vanilla lattes @ home!"
 @Starbucks Thank you so much for the new reward system! I already earned a reward with my purchases today #StarbucksRewards ❤️☕️❤️
-".@HillaryClinton ""evolves"" on issues ONLY when it's politically expedient for her to do so. #stopandfrisk #NYPrimary https://t.co/ynQUshm17l"
-Thank you Wyoming! Let's keep the momentum going: https://t.co/o0jWgscMNu #WYCaucus #WyomingCaucus #NYPrimary https://t.co/0Bf7f7ld7j
-"@worldhumanist @BernieSanders Aww, thank you so much!😉❤️🇺🇸"
-@klbofthewest @BernieSanders Thank you! I love the support!😉❤️🇺🇸
-@BirdManOfAustin @BernieSanders Thank you so much!!! 😉❤️🇺🇸
-@GypsySyx @BernieSanders sign found a good home!❤️😉🇺🇸
-"@GypsySyx @BernieSanders happen next in this circus of an election. I hope you're correct because I can rest assured, knowing that my Bernie"
-"@GypsySyx @BernieSanders Earth, perhaps while chanting ""Trump, Trump;"" 😂 I'm joking about the chanting, but you never really know what will"
-@GypsySyx @BernieSanders I truly hope that's the case–my first thought was of a disgruntled Republican angrily ripping it out of the frozen
-@LianaCorr @BernieSanders @Quicksilver2723 Thank you!❤️
-"@MaritimerNB @BernieSanders Thanks!❤️ If nothing else, this election has been a lesson on resilience!"
-Someone took my @BernieSanders yard sign—so I bought two more! No one will silence my voice. #PAforBernie #WYCaucus https://t.co/Wi70hPI9lR
-The worst thing about April #snow is that it's all wet &amp; slushy. #Pennsylvania https://t.co/j1vFYdiIAw
-"I have to admit, I'm somewhat enjoying this April snow ❄️☃❄️☃❄️"
-"Absolute truth–don't believe the hype that corporatist ""news"" outlets are selling about @BernieSanders #PAforBernie  https://t.co/sCNGSCAixX"
-@TylerPedigoKY Your website is great! I especially enjoyed your section on political theory. I'll definitely be bookmarking your page.
-We are on the right side of history and we WILL continue to fight for a better America. #BernieTODAY #NotMeUs  https://t.co/1yNMxZAWqi
-Supervised consumption services are a great way to combat overdose &amp; inform addicts @DrugPolicyOrg #opiateaddiction  https://t.co/bC2fOCZIt8
-@sluggahjells The worst part about these bills was their punitive response to nonviolent drug felons trying to get help &amp; change their lives
-@stereotips_co @HeforShe I try to raise my son with these points in mind.
-@LuisBustamannte keep up the good work!
-"@LuisBustamannte Yes! Trust me, I won't forget! Our local group is working hard to tip the scales in Bernie's favor. Nice talking with you &amp;"
-@LuisBustamannte same page. 😉
-@LuisBustamannte future of our country with a fascist &amp; a religious zealot running on the right &amp; the SCOTUS at stake. Glad we're on the
-"@LuisBustamannte to Trump or Cruz. I want major change just as much as other Bernie supporters, but this election is too important to the"
-"@LuisBustamannte I totally agree. I would hate to have to cast a vote for Hillary, but I refuse to be complicit in handing the country over"
-@LuisBustamannte Bernie supporters are talking about not voting for HRC if she wins. What's your take on that?
-"@LuisBustamannte not mind that later down the line, this election is too important to be pulling up meaningless college essays. A lot of"
-"@LuisBustamannte They are ridiculous. What I fear is that, with all this tension, our party will split just as the R's are. While I might"
-@fussylooksowhat @LuisBustamannte @LoriSums your vitriol for those who deserve it?
-"@fussylooksowhat @LuisBustamannte @LoriSums having a valid opinion. With all of the serious issues affecting our country, why don't you save"
-@fussylooksowhat @LuisBustamannte @LoriSums make gender an issue? I thought feminists wanted an equal platform-not to disparage a man for
-@fussylooksowhat @LuisBustamannte @LoriSums Stop acting like he can't have an opinion on this because he's a man. Why are you even trying to
-"@LoriSums @LuisBustamannte @fussylooksowhat values. If you really want to make a difference, go harass a real misogynist, like Donald Trump"
-@LoriSums @LuisBustamannte @fussylooksowhat his career are not those of a misogynistic man. He's a champion of civil rights and progressive
-@LoriSums @LuisBustamannte @fussylooksowhat do I have to explain this on an elementary level? You know very well that Bernie's actions over
-"@LoriSums @LuisBustamannte @fussylooksowhat the authors have a ""gross creative fantasy"" to participate in the scenarios they've devised? Why"
-@LoriSums @LuisBustamannte @fussylooksowhat book in which a woman is raped or there are other examples of violence? Do you also think that
-@LoriSums @LuisBustamannte @fussylooksowhat with a brain will not be phased by you absurd accusations. Have you ever seen a movie or read a
-@LoriSums @fussylooksowhat You two are insane. This is such a pathetic attempt to disqualify Bernie when his momentum is building. Anyone
-@LuisBustamannte @fussylooksowhat at straws. I can't take anyone seriously who would accuse Bernie Sanders of being a misogynist. Get real!😉
-@LuisBustamannte @fussylooksowhat Thanks! It's such a silly thing to bring up  as a reason not to vote for Bernie-I think they're grasping
-Fact Check: Hillary Clinton on Bernie Sanders's Views on the Paris Climate Accord https://t.co/kOcLgHVbXJ Hillary needs to stop lying.
-"Thank you...this is petty &amp; I want candidates that will focus on issues, not trying to smear each other. https://t.co/LO0lRlx1q7"
-@fussylooksowhat @LuisBustamannte indication of his character or his ability to be a successful President is nonsense.
-"@fussylooksowhat @LuisBustamannte quite a few ""dark"" pieces that could be misconstrued if taken out of context. To say that BS's essay is an"
-@fussylooksowhat @LuisBustamannte completely normal for young people to experiment with different ideas through writing. I personally wrote
-@fussylooksowhat @LuisBustamannte So you're going to judge him on 1 piece of fictional writing from college?!? That's nonsensical. It's
-@LuisBustamannte @fussylooksowhat It's absurd that people are trying to take this out of context &amp; misrepresent what it really is. I agree.
-#NYPrimary #PAPrimary #WYCaucus  https://t.co/4mTPjKi9tt
-We need more dedicated public servants like @Tim_Canova and less corporatist career politicians like Debbie Wasserman Schultz @DWStweets
-@Tim_Canova Hello from Pennsylvania! I'm inspired &amp; excited by your campaign –that's why I decided to donate! You have my full support!
-@KellyMaryBob123 @BernieSanders Who will quit their jobs if Bernie wins? I'm not sure what you're talking about.
-@Poltz23 side of the world!😊 I hope to talk to you soon!
-@Poltz23 I'm sorry–I didn't mean to go to such a dark place...I'm just feeling a bit sad today. I hope you're having a better day on your
-@Poltz23 in my those lyrics since I lost Mike–only anguish &amp; regret.
-"@Poltz23 over an hour from me &amp; I was able to get tickets for Mike for Xmas-it was one of the best nights of my life. Sadly, I find no peace"
-"@Poltz23 me is Mike, my beloved soul mate. When Roger Waters did The Wall World Tour in 2012, he came to Philadelphia, which is a little"
-"@Poltz23 relating to other people, but Roger gets it. He allows me to feel normal in my own skin–the only other person who's done that for"
-@Poltz23 especially Roger Waters (another lovely liberal who endorses Bernie Sanders)-his lyrics speak to me. I have often struggled with
-"@Poltz23 anymore-Mike &amp; I shared a mutual passion for Pink Floyd (another British gem😉)-I cannot even tell you how much I ❤️ Pink Floyd,"
-"@Poltz23 during my morning commutes after Mike died–it kept me from going crazy in my head, since it's very difficult to listen to music"
-@Poltz23 John Oliver &amp; Bill Maher that keep me sane during these circus-like elections. I actually started listening to Bill Maher on iTunes
-"@Poltz23 I just googled him &amp; watched a few videos–he's hilarious! I'll have to search for more of his work. It's comedians like Brooker,"
-.@HillaryClinton sure is arrogant for a woman with an undeniable record of dishonesty and corruption. https://t.co/fNLKxSKYlv
-Welcome to the 'City of Brotherly Love' @BernieSanders! We love you! #PAforBernie #Philadelphia #PennsylvaniaPrimary #BernieInPhilly #Philly
-@The7thSymphony all credibility if Trump wins the election. I just want the world to know that most Americans are repulsed by Trump.
-@The7thSymphony embarrassed of my fellow Americans who continue to support this idiot. We look like fools on the global stage. We will lose
-@The7thSymphony can you believe that he talked about using nuclear weapons on ISIS?!? That man is absolutely unfit for office. I'm
