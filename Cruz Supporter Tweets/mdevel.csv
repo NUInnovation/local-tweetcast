@@ -1,0 +1,55 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 203949705, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/712015265253433344/7Ss--V3A_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/9QivSdXr1T"", ""indices"": [0, 23], ""expanded_url"": ""http://tedcruz.org"", ""display_url"": ""tedcruz.org""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1179, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""203949705"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 16, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WaverSox: Indiana, please cast your vote for the only conservative in the race. @tedcruz #CruzCrew #INPrimary #CRUZial https://t.co/NnQ\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727241549017432068, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1108302338, ""indices"": [3, 12], ""id_str"": ""1108302338"", ""screen_name"": ""WaverSox"", ""name"": ""Heather""}, {""id"": 23022687, ""indices"": [84, 92], ""id_str"": ""23022687"", ""screen_name"": ""tedcruz"", ""name"": ""Ted Cruz""}], ""hashtags"": [{""indices"": [93, 102], ""text"": ""CruzCrew""}, {""indices"": [103, 113], ""text"": ""INPrimary""}, {""indices"": [114, 122], ""text"": ""CRUZial""}], ""urls"": [], ""media"": [{""source_user_id"": 1108302338, ""source_status_id_str"": ""726208814240829440"", ""expanded_url"": ""http://twitter.com/WaverSox/status/726208814240829440/photo/1"", ""display_url"": ""pic.twitter.com/NnQZ6Ur8jZ"", ""url"": ""https://t.co/NnQZ6Ur8jZ"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg"", ""source_user_id_str"": ""1108302338"", ""source_status_id"": 726208814240829440, ""id_str"": ""726208809576714241"", ""sizes"": {""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 1000}, ""small"": {""h"": 272, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [123, 140], ""type"": ""photo"", ""id"": 726208809576714241, ""media_url"": ""http://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 136, ""id_str"": ""727241549017432068"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Indiana, please cast your vote for the only conservative in the race. @tedcruz #CruzCrew #INPrimary #CRUZial https://t.co/NnQZ6Ur8jZ"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726208814240829440, ""favorite_count"": 135, ""source"": ""<a href=\""http://tapbots.com/tweetbot\"" rel=\""nofollow\"">Tweetbot for i\u039fS</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 23022687, ""indices"": [70, 78], ""id_str"": ""23022687"", ""screen_name"": ""tedcruz"", ""name"": ""Ted Cruz""}], ""hashtags"": [{""indices"": [79, 88], ""text"": ""CruzCrew""}, {""indices"": [89, 99], ""text"": ""INPrimary""}, {""indices"": [100, 108], ""text"": ""CRUZial""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/WaverSox/status/726208814240829440/photo/1"", ""display_url"": ""pic.twitter.com/NnQZ6Ur8jZ"", ""url"": ""https://t.co/NnQZ6Ur8jZ"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg"", ""id_str"": ""726208809576714241"", ""sizes"": {""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 1000}, ""small"": {""h"": 272, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 726208809576714241, ""media_url"": ""http://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 136, ""id_str"": ""726208814240829440"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 00:37:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WaverSox/status/726208814240829440/photo/1"", ""display_url"": ""pic.twitter.com/NnQZ6Ur8jZ"", ""url"": ""https://t.co/NnQZ6Ur8jZ"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg"", ""id_str"": ""726208809576714241"", ""sizes"": {""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 1000}, ""small"": {""h"": 272, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 726208809576714241, ""media_url"": ""http://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 21:01:11 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1108302338, ""source_status_id_str"": ""726208814240829440"", ""expanded_url"": ""http://twitter.com/WaverSox/status/726208814240829440/photo/1"", ""display_url"": ""pic.twitter.com/NnQZ6Ur8jZ"", ""url"": ""https://t.co/NnQZ6Ur8jZ"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg"", ""source_user_id_str"": ""1108302338"", ""source_status_id"": 726208814240829440, ""id_str"": ""726208809576714241"", ""sizes"": {""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 1000}, ""small"": {""h"": 272, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [123, 140], ""type"": ""photo"", ""id"": 726208809576714241, ""media_url"": ""http://pbs.twimg.com/media/ChQDEI-UUAEYO-G.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1353, ""description"": ""Married father of two #Conservative\r\n #Christian #Constitution #1A #2A #CruzCrew #NeverTrump  #pitbull owner and advocate #goblue ..Expert in bird law..."", ""friends_count"": 1541, ""location"": ""Michigan, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/712015265253433344/7Ss--V3A_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/203949705/1461804573"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Marc D"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3922, ""screen_name"": ""mdevel"", ""notifications"": false, ""url"": ""https://t.co/9QivSdXr1T"", ""created_at"": ""Sun Oct 17 15:32:56 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Ha ha ! Awesome! https://t.co/b2MAjpFXwo
+@RussSegner this is a GREAT idea!!
+"#CruzCarly for Jobs, Freedom, and Security - See the new TV ad and help it air in Indiana: https://t.co/i1PvA0PlyO"
+How many followers do you get everyday? I got 72 in the last week. Growing daily with https://t.co/29flwvhSB4
+"Spot on! 
+ #CarlyFiorina #CruzFiorina #CruzCrew https://t.co/kj9ArIZzCv"
+@CruzinAhead  @flaunttnualf
+"@flaunttnualf @neo99934 keep telling yourself ""it's only a dream"" LMAO"
+@neo99934 @flaunttnualf I know Trump is afraid of strong women so he is shaking in his boots about #CarlyFiorina !#CruzCarly
+@neo99934 Yes faux news is a complete joke...it was all I ever watched! I haven't watched it in months and deleted the app off of my phone !
+https://t.co/o2FbVuUOy3 via @youtube
+"YES !
+#CarlyFiorina
+#CruzFiorina2016 
+#CarlyForVP"
+https://t.co/KT40Jo4HEH
+"@iowacruzgirl @Reince 
+#NeverTrump is not just words....it a MOVEMENT!  #NEVERTRUMP"
+@Reince #NeverTrump https://t.co/OydOV3MXH0
+"Saw a whole display of plates, napkins and tablecloths with the AMERICAN FLAG . ALL are made in china.  We need to STOP buying this garbage!"
+"Growing and engaging with the right tweeps - gained 72 new followers in the past week, courtesy https://t.co/29flwvhSB4"
+https://t.co/EPApgaqnhq
+We are #CruzCrew ! https://t.co/xpqJ6lVlJm
+Winner winner chicken dinner ! https://t.co/nh3tC9Pp2c
+I gained 92 followers in the last week. You? Know your stats and grow with https://t.co/29flwvhSB4
+https://t.co/imUs96lzKh
+@claydirtman @rightwingger @FusionNews @ThisIsFusion  There is soooo much wrong with this man!
+https://t.co/wbNgav8vhG via @youtube
+This is great! https://t.co/Jb06tbkPPg
+131 amazing followers in the last week and there will be more tomorrow. Growing with https://t.co/29flwvhSB4
+#DropOutKasich https://t.co/2wU491mI9C
+It's a child not a choice https://t.co/dx6Le4FZFE
+"We are more than ready!! 
+#ChooseCruz
+#CruzCrew
+#NeverTrump https://t.co/p3faGtDo5t"
+#UniteWithCruz  #CruzCrew https://t.co/Mosuggir2L
+I’m proud to stand with @heidiscruz and @tedcruz against #SleazyDonald’s attacks! #TeamHeidi https://t.co/6G8Ep9SJLC
+@glossontech @LatinosforCruz @RESJR_2016 @realDenaldTrump @realDonaldTrump Hard to tell the difference between them!
+Let's all do this !!     #TrumpBlackout https://t.co/wnKmbRh7ru
+Thus is what I like about @tedcruz I feel like he stands WITH US and FOR US ... #CruzCrew #choosecruz #NeverTrump https://t.co/Qixicb2NVj
+@Mysticeagle1 @PrdBlckRpblican I am waiting also to hear this breaking news!
+"John Oliver on Trumps ""wall""  hilarious !!  
+ https://t.co/jxyhMwzvTs"
+I’m ready to engage with my 141 new followers in the past week. I know them via https://t.co/29flwvhSB4
+@JaniceTXBlessed I will follow anyone who supports @tedcruz ! let's  RATTLE the windows and SHAKE the foundation! ! #CruzCrew #NeverTrump
+LOL !  https://t.co/C6zG53fSrc
+Join Gov. @ScottWalker in supporting Ted Cruz for President --&gt; https://t.co/geb7pNA0KE #ChooseCruz #CruzCrew https://t.co/fGFxjVmmZ7
+Yes ! Come on down!! https://t.co/aTQ1SJhqKz
+I will not use #TrumpLovesPecker and I hope no one else will use #TrumpLovesPecker or Rt #TrumpLovesPecker  https://t.co/7NqijeBBvy
+@aubrynathome @TriciaNC1 @realDonaldTrump If #TrumpLovesPecker does that mean #PeckerLovesTrump?
+I’m proud to stand with @heidiscruz and @tedcruz against #SleazyDonald’s attacks! #TeamHeidi https://t.co/qqHBHhWU2P
+@GOPTejana @realDonaldTrump He will make a really good deal with them!
+@JamesRitch1 It's like Aesop's fable the tortoise and the hare!

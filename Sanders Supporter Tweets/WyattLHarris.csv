@@ -1,0 +1,129 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 118591921, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000169503938/9EFh7cPC.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725666575420772352/X1Uh1NV0_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 137, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""118591921"", ""profile_background_color"": ""000000"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BuzzFeed: Beyonc\u00e9 is selling \u201cBoycott Beyonc\u00e9\u201d shirts because she gives no fucks https://t.co/cKt2OO3dzO https://t.co/SQN1R1NApD"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726906245999796224, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 5695632, ""indices"": [3, 12], ""id_str"": ""5695632"", ""screen_name"": ""BuzzFeed"", ""name"": ""BuzzFeed""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/cKt2OO3dzO"", ""indices"": [85, 108], ""expanded_url"": ""http://bzfd.it/1QD9nw3"", ""display_url"": ""bzfd.it/1QD9nw3""}], ""media"": [{""source_user_id"": 5695632, ""source_status_id_str"": ""726884656205828096"", ""expanded_url"": ""http://twitter.com/BuzzFeed/status/726884656205828096/photo/1"", ""display_url"": ""pic.twitter.com/SQN1R1NApD"", ""url"": ""https://t.co/SQN1R1NApD"", ""media_url_https"": ""https://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg"", ""source_user_id_str"": ""5695632"", ""source_status_id"": 726884656205828096, ""id_str"": ""726156624457408512"", ""sizes"": {""small"": {""h"": 396, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 726156624457408512, ""media_url"": ""http://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 385, ""id_str"": ""726906245999796224"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Beyonc\u00e9 is selling \u201cBoycott Beyonc\u00e9\u201d shirts because she gives no fucks https://t.co/cKt2OO3dzO https://t.co/SQN1R1NApD"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726884656205828096, ""favorite_count"": 1009, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/cKt2OO3dzO"", ""indices"": [71, 94], ""expanded_url"": ""http://bzfd.it/1QD9nw3"", ""display_url"": ""bzfd.it/1QD9nw3""}], ""media"": [{""expanded_url"": ""http://twitter.com/BuzzFeed/status/726884656205828096/photo/1"", ""display_url"": ""pic.twitter.com/SQN1R1NApD"", ""url"": ""https://t.co/SQN1R1NApD"", ""media_url_https"": ""https://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg"", ""id_str"": ""726156624457408512"", ""sizes"": {""small"": {""h"": 396, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""photo"", ""id"": 726156624457408512, ""media_url"": ""http://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 385, ""id_str"": ""726884656205828096"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 21:23:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BuzzFeed/status/726884656205828096/photo/1"", ""display_url"": ""pic.twitter.com/SQN1R1NApD"", ""url"": ""https://t.co/SQN1R1NApD"", ""media_url_https"": ""https://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg"", ""id_str"": ""726156624457408512"", ""sizes"": {""small"": {""h"": 396, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""photo"", ""id"": 726156624457408512, ""media_url"": ""http://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 22:48:48 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 5695632, ""source_status_id_str"": ""726884656205828096"", ""expanded_url"": ""http://twitter.com/BuzzFeed/status/726884656205828096/photo/1"", ""display_url"": ""pic.twitter.com/SQN1R1NApD"", ""url"": ""https://t.co/SQN1R1NApD"", ""media_url_https"": ""https://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg"", ""source_user_id_str"": ""5695632"", ""source_status_id"": 726884656205828096, ""id_str"": ""726156624457408512"", ""sizes"": {""small"": {""h"": 396, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 698, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 726156624457408512, ""media_url"": ""http://pbs.twimg.com/media/ChPTmkQUoAASVof.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 966, ""description"": """", ""friends_count"": 138, ""location"": ""Laramie, Wyoming"", ""profile_link_color"": ""2FC2EF"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725666575420772352/X1Uh1NV0_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/118591921/1433654961"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000169503938/9EFh7cPC.jpeg"", ""name"": ""Wyatt Harris"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1225, ""screen_name"": ""WyattLHarris"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Mar 01 04:44:38 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@Natasha5560 fucking preach
+When you're the only one not old enough to go in a dispensary so you hang out at a gas station alone. 😭😅
+@Cortlan_ @Natasha5560 @madeladams that's why she's my friend
+Walking across campus during student government elections is actually the worst thing ever. Leave me alone please.
+My teacher came through and didn't include the section that I have no idea how to do on the exam. Props to you Cindy. You my girl.
+I love getting marked off on a quiz for doing too much work. College man. College.
+I just want to live in a world where people don't put heart eye emojis next to pictures of athletic shoes being worn in every day garb.
+About to send my rent check for next month and my land lord still hasn't even deposited my check for April. 😑
+I can't wait to graduate so I can have time off to go to Coachella. I'm coming for you baby. @Natasha5560 better join.
+@TheHoodVines @FightCIubs @Cortlan_
+May can't come any faster. End of the school year and I get to go to disclosure again. So excited!
+"I keep finding myself saying shit like ""I think I have enough time for a nap tomorrow, I'm really excited."" My life is very sad."
+Sitting in my car singing The Music Of The Night from Phantom of the Opera and realized I was crying. What the fuck?
+Made the brave choice to not wash or dry shamp my hair today. Never felt more nasty in my life and that's really saying something.
+@BossAssHumor @Natasha5560
+@Cortlan_ @BabyAnimalPics 😭😭😭 oh my god
+Lol @jeliohernandez https://t.co/37j8k8AWxt
+@Cortlan_ this is too real 😂👌🏻💯
+@Rokstarr75 holla at your boy
+I just have a really hard time being nice to you if you post annoying shit arguing about Chevy vs Ford. Execute yourselves folks.
+Every time I go into the freshman dorms I get flashbacks to the worst year of my life. Fuck all of that.
+Drunk me has this rude habit of turning off my wifi and ruining my life.
+There's never been a problem that dry shampoo couldn't fix.
+Don't talk about my aglet like he isn't here right now.
+Straight boys love their ugly plaid shorts so much they don't even let negative temperatures and snow stop them from wearing them.
+@madiriotgirl I can't handle him today.
+My deal breaker is if a man has bad shoes. It's a real concern.
+@kenshero13 don't
+@kenshero13 our lives with each other  https://t.co/TAQmp8fjWY
+The biggest asshole move is to make plans and not even have the decency to cancel or let you know if you can't follow through. 👌🏻
+@Cortlan_ and @kenshero13 took my purse so they could sneak food into the movie theatre. #Imaproperwoman
+I get off work at ten tonight. I don't think Walmart understands that's my bed time every night.
+@Cortlan_ preach
+@jeliohernandez must really not care since you spelled his name wrong. 😬
+Works sucks. Take me back to @HARDWELL https://t.co/ezhXrWDyTm
+Next time I'll be braver. I'll be my own savior.
+I fixed my car today. And actually crying tears of joy because I did something right for once.
+Nobody in the crowd understood my love for @MatthewKoma. It was fucking beautiful.
+My biggest regret is not fighting people to get to @MatthewKoma when he came to the audience tonight.
+So excited for round two of decadence tonight. However the thought of showering and getting dressed is too damn much.
+For fucking real https://t.co/6EsSqU5GZp
+@madiriotgirl @jeliohernandez 😂😂😩😩😭😭
+@jeliohernandez @madiriotgirl oh she's got jokes I see.
+@madiriotgirl @jeliohernandez I don't even want to play with y'all at decadence tomorrow anymore haha
+@madiriotgirl @jeliohernandez MADI NO
+@madiriotgirl YOU'RE A SPECIAL KIND OF EVIL
+@jeliohernandez they are when they're attached to your bitch ass.
+@jeliohernandez I didn't think you wanted me to respond to that haha
+@jeliohernandez makes small children swear to intimidate me. What a guy!
+@Natasha5560 a hoe never gets cold
+No boss I'm sorry I can't stay late. Pikachu was fighting Magmar in a volcano and I really need to see what happens. Hope you understand.
+"Decided to go grocery shopping after work. Ended up just getting assorted cheeses, breads and butters. All I really need in life."
+"I'm sick, tired and stressed out over school. But it's all alright because my parka is going to be here today. 😍🙃"
+@Homoposts @Cortlan_ @jeliohernandez
+@madiriotgirl it's so sad how much I relate to this
+@TheWeirdVines @Crm720
+#actualrelationshipgoals https://t.co/h2m4txRcqU
+"And the ""I didn't do a damn thing for school over break"" panic begins. 😅"
+Hopelessly devoted to you.
+@SouthernHomo @Crm720
+There isn't a damn person on campus and here I am still not having decent wifi. 😑
+"You know it's been a long week when you get home, fall asleep in all your clothes including your coat and wake up 14 hours later."
+Every single time I check my tracking on my package it has been pushed back another day. Maybe I should stop looking. Thanks @FedEx
+I wonder if people that see me walking across campus know I'm  listening to Hannah Montana. #guiltypleasure
+"@Cortlan_ farts really loud against the hardwood floor.
+""I had to move my thong for that one so you guys could hear it."""
+I love sitting in my room hearing @Cortlan_'s laughs bc she's doing something weird as fuck to the cat or dog.
+"The only reason @jeliohernandez watches American Horror Story with me is bc he wants to make fun of my queen, Lady Gaga to me. Little bitch."
+"My Marketing teacher who hates pop music trying to compliment Maroon 5.
+""....Adam Levine, he's very... Chiseled."""
+Leave for Denver in a bit and I haven't a thing to wear. MUST go shopping soon.
+@Natasha5560 found me in a giant crowd from decadence last year. https://t.co/QQiQisH4RG
+"I wanted to watch an episode on Netflix before work, then I remembered I'm gross and haven't showered in days. Fuuuuu"
+Nobody at work will sing Wildest Dreams with me when it comes on the radio. I WANT TO QUIT NOW
+@jeliohernandez  https://t.co/T5n4S9jE3c
+"I know when that hotline bling, that can only mean one thing. @DrakeNYC http://t.co/a5oQoiVSlp"
+"Didn't go to class Wednesday, woke up early to find out today's class is online and I can sleep for an extra hour. PRAISE"
+I low key hate my days off I need to be doing something.
+"""I don't want Netflix and Chill. I want IMAX and Climax."""
+Having the boyfriends Google Play account info might be the best thing that's ever happened to me.
+@jeliohernandez @Homoposts 😂😂😷😷😂😂 I'm dying
+"It's sad to think I could have gotten a 95% on my exam if I hadn't messed up most of the True or False questions. It was 50, 50. WTF"
+What a shitty fucking day.
+"It's great to be in a great place again, the only problem with being happy and smiling constantly is people asking you why."
+@_CollegeHumor_ @madiriotgirl only so much worse
+@Cortlan_ @kenshero13 y'all are savage
+@bailey_crompton I'm dying. 😂👌🏻👌🏻
+Winehouse and Chill is not something to be taken lightly apparently.
+Thank the good lord  https://t.co/sBaUWq8JZ8
+Favorite part about being in the College of Business is that they have chargers on every desk. Never have to actually be prepared.
+Seriously all I look forward to lately is going home and cuddling my dog and existing near my best friends.
+@jeliohernandez we get it you don't like vaginas
+My teacher just said she doesn't like pasta. I'm about ready to stand up and walk out her damn class. Who the fuck.
+So far over nights are not my cup of tea. STRAIGHT snoozing in class rn.
+"When a guy you dated posts on Facebook and literally claims he is ""completely, irrevocably, undyingly heterosexual."" 😂😂😂 WTF HAPPENED"
+@jeliohernandez 😂😂
+@jeliohernandez most bad ass episode.
+How we dry Dookie after his bath. http://t.co/bKBEGjkd41
+College is about lending your house to your friends to either get laid or to take hella nudes.
+@WyattLHarris like he did this himself http://t.co/mGPKTQQhuh
+My dog is so strange. He insists on sleeping under the covers with you.
+All I've been waiting for all day is to go home and do school work while watching the Kardashians.
+Kim gets it. #AllBlackEverything  https://t.co/Jwdsi1zek5
+@Natasha5560 @GlobalDanceFest yaaaaaaas!!!
+Painting my ceiling is actually the most painful thing I've ever experienced.
+When both your Friday classes are canceled and you don't have to work.😄☺️😍
+@Cortlan_ and I are four feet from each other and we send photos and tag each other in things to not have to move our arms to show our phone
+Left Laramie at 5:30am. Got to Evanston at 10am. Leave for Bear Lake at 10:30am. Love my life with @kenshero13 and @Cortlan_
+In a few minutes I'll be turning 20 at Walmart. #turnup
+@madiriotgirl ❤️❤️
+@mertz_31 can I please keep Daisy forever? I'm in love. 😍
+@Natasha5560 bae 😍😍😍 but also are you saying I'm usually not??
+@kenshero13 jokes miss I didn't change clothes for two days or wear deodorant.
+Day two of living with @kenshero13. Many regrets. So many smells. 😂😷😬
+"I love seeing people's snap stories of them doing crazy shit and I'm like ""well I spend 12 hours at walmart."""
+@Natasha5560 @MedievaI_React that scrotum is coming in like a wrecking ball.
+@sashaloyola57 I'm literally dying your hair is TOOOOOO cute.
+Feeling pretty confident today. #powerpantsuit
+@sashaloyola57 may I join?? 😍😍
+I was so confused there were people in my yard and sirens going off. Just a parade. http://t.co/ShHSyOdz3K
+@madiriotgirl followed all your orders sooo not my fault. 😂😂
+Best part about my whole day is that I just got my new couch I ordered and it's amazing! 😍😍😍
+I love when dumb asses are always complaining about being broke but they act like pay day is magical and blow it all in two days.
+@Natasha5560 😂😭😂😭😂 I can't. Hahahah
+God I love my tinder matches. 😂😂 http://t.co/tRXhYZtc7r
+"I said ""bomb ass"" on yik yak and they asked me if I was posting a threat. Yik yak don't play. 😬"
+@Cortlan_ just got on lunch there better be some left!!
+@sweetjexiums @jeliohernandez Lolol. Rojelio is never getting married.

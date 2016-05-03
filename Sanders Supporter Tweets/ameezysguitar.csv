@@ -1,0 +1,70 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""5D0160"", ""default_profile_image"": false, ""id"": 1084541654, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000055910337/a7261a7e018ad56fc6364770bc3372c7.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/726303866610839552/zJMlJ4Co_normal.jpg"", ""profile_sidebar_fill_color"": ""220C1B"", ""entities"": {""description"": {""urls"": [{""url"": ""https://t.co/2B1YApLM35"", ""indices"": [0, 23], ""expanded_url"": ""http://smarturl.it/JBPurpose"", ""display_url"": ""smarturl.it/JBPurpose""}, {""url"": ""https://t.co/jga0QQBIht"", ""indices"": [24, 47], ""expanded_url"": ""http://soundcloud.com/austinmahoneof"", ""display_url"": ""soundcloud.com/austinmahoneof""}]}}, ""followers_count"": 447, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""1084541654"", ""profile_background_color"": ""FFF5FF"", ""listed_count"": 6, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @PiaUpdates: Pia Mia on how to get over a heartbreak: https://t.co/uNXW48W4DI"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726304483412611072, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2546462394, ""indices"": [3, 14], ""id_str"": ""2546462394"", ""screen_name"": ""PiaUpdates"", ""name"": ""Pia Mia News""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 2546462394, ""source_status_id_str"": ""725464068744687617"", ""expanded_url"": ""http://twitter.com/PiaUpdates/status/725464068744687617/photo/1"", ""display_url"": ""pic.twitter.com/uNXW48W4DI"", ""url"": ""https://t.co/uNXW48W4DI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg"", ""source_user_id_str"": ""2546462394"", ""source_status_id"": 725464068744687617, ""id_str"": ""725464055801065472"", ""sizes"": {""small"": {""h"": 426, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 801, ""resize"": ""fit"", ""w"": 639}, ""medium"": {""h"": 752, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [57, 80], ""type"": ""photo"", ""id"": 725464055801065472, ""media_url"": ""http://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 293, ""id_str"": ""726304483412611072"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Pia Mia on how to get over a heartbreak: https://t.co/uNXW48W4DI"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725464068744687617, ""favorite_count"": 761, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/PiaUpdates/status/725464068744687617/photo/1"", ""display_url"": ""pic.twitter.com/uNXW48W4DI"", ""url"": ""https://t.co/uNXW48W4DI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg"", ""id_str"": ""725464055801065472"", ""sizes"": {""small"": {""h"": 426, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 801, ""resize"": ""fit"", ""w"": 639}, ""medium"": {""h"": 752, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [41, 64], ""type"": ""photo"", ""id"": 725464055801065472, ""media_url"": ""http://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 293, ""id_str"": ""725464068744687617"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 27 23:18:07 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/PiaUpdates/status/725464068744687617/photo/1"", ""display_url"": ""pic.twitter.com/uNXW48W4DI"", ""url"": ""https://t.co/uNXW48W4DI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg"", ""id_str"": ""725464055801065472"", ""sizes"": {""small"": {""h"": 426, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 801, ""resize"": ""fit"", ""w"": 639}, ""medium"": {""h"": 752, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [41, 64], ""type"": ""photo"", ""id"": 725464055801065472, ""media_url"": ""http://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 06:57:37 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2546462394, ""source_status_id_str"": ""725464068744687617"", ""expanded_url"": ""http://twitter.com/PiaUpdates/status/725464068744687617/photo/1"", ""display_url"": ""pic.twitter.com/uNXW48W4DI"", ""url"": ""https://t.co/uNXW48W4DI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg"", ""source_user_id_str"": ""2546462394"", ""source_status_id"": 725464068744687617, ""id_str"": ""725464055801065472"", ""sizes"": {""small"": {""h"": 426, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 801, ""resize"": ""fit"", ""w"": 639}, ""medium"": {""h"": 752, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [57, 80], ""type"": ""photo"", ""id"": 725464055801065472, ""media_url"": ""http://pbs.twimg.com/media/ChFdtw9WMAANPqr.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 5401, ""description"": ""https://t.co/2B1YApLM35 https://t.co/jga0QQBIht\u2026"", ""friends_count"": 402, ""location"": ""a m e e z y & k i d r a u h l"", ""profile_link_color"": ""9266CC"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/726303866610839552/zJMlJ4Co_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1084541654/1461998978"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000055910337/a7261a7e018ad56fc6364770bc3372c7.jpeg"", ""name"": ""\u2020 Ari \u2744\ufe0f"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 4065, ""screen_name"": ""ameezysguitar"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Jan 13 00:33:20 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": ""Arizona"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@justinbieber will always be a beautiful human being, hair short or long. #RIPJustinHair ❤️🙂"
+@ameezysguitar currently
+good vibes listening to Kendrick
+honestly super depressed rn 😩 https://t.co/RG9AQzwfbF
+my everything.. 😔❤️ https://t.co/7n41l2BdqI
+❤️ https://t.co/4luFRI5yiZ
+where's a friend when you need one?
+I'm drowning in your love I can't breathe
+❤️❤️❤️❤️❤️❤️ https://t.co/EgfdUuu2fq
+bby daddy ❤️💦 https://t.co/t9rYLNzAkS
+"I want a burger, shake w/ onion rings ❤️😩"
+@DailySexSupply @Marquis02545654
+@DailySexSupply @Marquis02545654
+@DailySexSupply @Marquis02545654
+@DailySexSupply @Marquis02545654
+@DailySexSupply @Marquis02545654
+@NBABeLike can never not repost this lmao
+I love all of you ❤️😘
+I'm so inactive 🙃 sorry
+pull up on a kid 🤔
+2:20 am lol I need to go to bed 🙄💯
+baby father 😩❤️💦 https://t.co/YhFn7GX4Om
+@AustinMahone you stay at the gym 24/7 I swear 😂
+😂😂😂😂 https://t.co/8VmdJKEjGe
+great it's raining 🙄
+I'll always be a fan of @hopsin no matter what 💯👏😌
+I wish I was at coachella
+I need to go to a concert like rnrn
+I feel like boo boo
+@AustinMahone always 😒💯
+whoa... whoaaaaa https://t.co/RNBaZKnjJr
+lord knows
+#fbf #tb #bangabanga @AustinMahone https://t.co/fwwrMLPDJ2
+kinda want to cry but idk..
+so proud 😌👏 https://t.co/oGjhSqmrdc
+"@hopsin all the ILL Minds, I Need Help, Am I Psycho"
+Pt. 2 @AustinMahone keep chasing dreams baby boy 😘😍 can't wait to see you become more great &amp; successful #shootusdown
+Pt. 1 @AustinMahone Happy Birthday My King 😘💞👑 I would've said it earlier but I was busy but ur the loml &amp; you mean the world to me 💯
+çelifie https://t.co/bICaaPR908
+I haven't had consistent sleep for like 5 to 6 days &amp; my phone broke 😭
+she like twirley swirley in my vanilla coop...
+same lol especially around strangers “@DTFMAH0NE: I'm so socially awkward omf”
+I'm never leaving.. 🌝 #WeAreHereForYouJustin https://t.co/RDNWBKCKb5
+let me know where I stand 😀
+yess 😂😂😭 https://t.co/86DwuEGWZX
+I love my curls 🌼🌞
+as long as he has a smile on his face &amp; is healthy.. idc #werehereforyoujustin
+I honestly felt like he was going to cancel the tour.. https://t.co/qF3RExIY2B
+💞✊ #I'llShowYou #PURPOSETOUR @justinbieber https://t.co/t69rEzIhRY
+@justinbieber I'll never leave your side 💞 https://t.co/Hu2z7SUHwa
+what the fuck ? https://t.co/W7NjrSKMqB
+@PunkBiebah did you already upgrade your package?
+@justinbieber #PURPOSETOUR https://t.co/8qUD9DIjHf
+@CHEZINHOE @biebsft4idiots ohhh well he posted something on IG saying he wasn't doing M&amp;G anymore
+@justinbieber I just want you to be happy 😏 but I will meet you one day in reality 💞 I love you. 💍
+I think I'm going to cry...
+@CHEZINHOE @biebsft4idiots did you see his post on IG? he's getting drained &amp; depressed
+I can't believe he's not doing M&amp;G anymore.. 😫😭
+@PunkBiebah did you see he's not doing M&amp;G anymore 😭😭😭
+I've definitely gave up.. &amp; no one cares.. that's cool
+I feel like I'm dying 😭😭
+I hate when my data is slow... like wtf 😑
+my stomach is in my chest 😅😭
+my phone is dryer than the Sahara Dessert 😂😂
+I really want some mozzarella sticks 😍😭😫
+I'm so over retarded people 😂
+no one gives me love lol okey
+evan peters can get it tbh 😍😭😕🙈🔥💦💞💍 https://t.co/zlWnonmdVE
+i heart eyes this 🐶 https://t.co/OD2JIF4iYW

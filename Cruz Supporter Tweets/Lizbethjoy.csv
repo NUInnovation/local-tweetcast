@@ -1,0 +1,91 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 40288453, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/705934389176217600/3eWivbbC_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 3122, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""40288453"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 136, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @FranklinMan25: Did you ever hear of being a \""Servant Leader?\"" Ted Cruz has. We don't need an angry dictator like Trump! #Indiana https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727304741131153409, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4197944297, ""indices"": [3, 17], ""id_str"": ""4197944297"", ""screen_name"": ""FranklinMan25"", ""name"": ""Franklin-NYorker4Ted""}], ""hashtags"": [{""indices"": [124, 132], ""text"": ""Indiana""}], ""urls"": [], ""media"": [{""source_user_id"": 4197944297, ""source_status_id_str"": ""727287808189186048"", ""expanded_url"": ""http://twitter.com/FranklinMan25/status/727287808189186048/photo/1"", ""display_url"": ""pic.twitter.com/ZqQ96oOFZY"", ""url"": ""https://t.co/ZqQ96oOFZY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg"", ""source_user_id_str"": ""4197944297"", ""source_status_id"": 727287808189186048, ""id_str"": ""727287803999080448"", ""sizes"": {""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 714, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 418, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 727287803999080448, ""media_url"": ""http://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""727304741131153409"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Did you ever hear of being a \""Servant Leader?\"" Ted Cruz has. We don't need an angry dictator like Trump! #Indiana https://t.co/ZqQ96oOFZY"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727287808189186048, ""favorite_count"": 6, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [105, 113], ""text"": ""Indiana""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/FranklinMan25/status/727287808189186048/photo/1"", ""display_url"": ""pic.twitter.com/ZqQ96oOFZY"", ""url"": ""https://t.co/ZqQ96oOFZY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg"", ""id_str"": ""727287803999080448"", ""sizes"": {""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 714, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 418, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 727287803999080448, ""media_url"": ""http://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""727287808189186048"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 00:05:00 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/FranklinMan25/status/727287808189186048/photo/1"", ""display_url"": ""pic.twitter.com/ZqQ96oOFZY"", ""url"": ""https://t.co/ZqQ96oOFZY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg"", ""id_str"": ""727287803999080448"", ""sizes"": {""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 714, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 418, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 727287803999080448, ""media_url"": ""http://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 01:12:17 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4197944297, ""source_status_id_str"": ""727287808189186048"", ""expanded_url"": ""http://twitter.com/FranklinMan25/status/727287808189186048/photo/1"", ""display_url"": ""pic.twitter.com/ZqQ96oOFZY"", ""url"": ""https://t.co/ZqQ96oOFZY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg"", ""source_user_id_str"": ""4197944297"", ""source_status_id"": 727287808189186048, ""id_str"": ""727287803999080448"", ""sizes"": {""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 714, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 418, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 727287803999080448, ""media_url"": ""http://pbs.twimg.com/media/ChfYZ4bW0AA1qBq.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 58813, ""description"": ""Christian. Conservative. God bless America & Israel. Israel is forever!  I pray in faith everyday Psalm 91 over Ted Cruz, our next POTUS."", ""friends_count"": 3076, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/705934389176217600/3eWivbbC_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/40288453/1455813642"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Lizbeth"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8806, ""screen_name"": ""Lizbethjoy"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri May 15 17:31:52 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@LibertyProjects @BuzzFeedAndrew 
+
+Trump = abusive to anyone he deems worthy of his scorn, mocking, cursing &amp; will turn on his own family"
+"@AnnStokes55 @MSNBC 
+
+Trump has little regard for The Constitution and The Holy Bible and for people."
+"@WillyGlen @Chamberlain1973 
+
+@realDonaldTrump = demon possessed, narcissistic, reprobate pervert
+
+ @townhallcom"
+"@AnnStokes55 @Youxia88 @PJMedia_com 
+Most everyone is extremely repulsed by arrogant narcissistic BillionaireGoliath pervert."
+"Fiorina, Force Multiplier  It will be historic in the story of GoliathBillionaire v Cruz
+https://t.co/taQNQVVp70 #Election via @pjmedia_com"
+"@Cruise4Cruz 
+
+Defeated Trump campaign ship hit the iceberg and is sinking. Trump is rearranging the deck chairs as he mocks &amp; curses."
+"@MaryPatriotNews @JohnStossel @ShepNewsTeam @DanaPerino @YouTube 
+It will; this well-done video reveals Trump's repulsive rotten core."
+"@MaryPatriotNews @JohnStossel @ShepNewsTeam @DanaPerino @YouTube 
+
+Powerful testimony against a very evil 
+billionaire Goliath."
+"@ROC4Cruz. 
+Erratic agenda of the childish senile pervert billionaire"
+"@JoyOverbeck1 @shirleyjean1776 @NRO @tedcruz @townhallcom 
+GoliathBillionaire has dead roots despite his huge majestic-looking tree. Timber!"
+"@MaryPatriotNews @CNN @politico @WSJ @FT @dcexaminer @NYMag @YouTube  
+Goliath Billionaire is defeated before his fall as that other Goliath"
+Gov. Pence To Campaign With Cruz In Indiana https://t.co/usBslXl3iK via @dailycaller
+"@Beylotte @mspinkify @awzurcher @tedcruz 
+Dont trust the media for they report what they want for biased reasons mostly
+Cruz is next POTUS"
+"@KendallMigues 
+
+Hillary &amp; Trump are alike - both evil."
+"@TedCruzTopNws @Pjw20161951 
+
+Excellent endorsement by Gov. Pence for Cruz.
+Trump's Pres candidacy is self-cursed &amp; doomed. Some know!"
+"@PatrickSvitek 
+
+GoliathBillionaire Tree appears mighty but his roots are dead so he soon will fall &amp; nothing can be done but get out of way"
+"@BuzzFeedAndrew 
+
+BillionaireGoliath is highly repulsive to huge majority."
+"@guypbenson 
+
+Majority extremely repulsed by childish senile perverted BillionaireGoliath."
+"@StopTrumpPAC 
+Trump is already defeated and will soon fall with great rejoicing and will never get to November. 
+Cruz is our next POTUS"
+"@LilMissRightie
+ 
+Huge majority are extremely repulsed by elderly pervert GoliathBillionaire"
+"@DavidWhitDennis @TheMikeReidShow @FiveThirtyEight 
+GoliathBillionaire is already defeated &amp;will fall just as sure as that other Goliath did"
+"@MATTIPOYSTI @PennLive 
+Yes they can"
+"@NobamaDotCom @CyndiRocks1 @AllieinMO @kleegrubaugh 
+
+Evil called good"
+"@CyndiRocks1 @NobamaDotCom @AllieinMO @kleegrubaugh 
+
+GoliathBillionaire-style childish senile putdown."
+"@NobamaDotCom @AllieinMO @kleegrubaugh 
+BillionaireGoliath is defeated as was Goliath when David spoke in faith before that Goliath fell too"
+"@kleegrubaugh 
+
+Praise God! Many people are praying in faith Bible verse blessings for Cruz.  Will continue thru Cruz' Presidency!"
+"@bloodless_coup @redsteeze 
+
+Donald wants to bask in glory after his huge defeat by whining for rest of life ""Ted stole Presidency from me"""
+"@DrMartyFox @_CFJ_ @DrSueDVM @tgradous @ChuckNellis @tomesimpson @ChrisLoesch @CACruzCrew 
+
+Except for majority who dont fall for Fox"
+"@andersonranchtx @Wes_St_Clair 
+
+Majority totally repulsed by the childish elderly senile pervert Goliath billionaire."
+"@BartMcCoy5 @SteveDeaceShow @SweetFreedom29 
+The defeated GoliathBillionaire Tree looks majestic but his roots are dead &amp; he will soon fall."
+"@zesty_rightwing 
+GoliathBillionaireTree may look majestic but his roots are dead and he is about to fall."
+"@SteveDeaceShow @SweetFreedom29 @BartMcCoy5 
+Goliath was defeated before he fell so is the BillionaireGoliath defeated before his fall"
+"@isikmoon @wordpressdotcom 
+Goliath was defeated when David spoke in faith to him before he fell. Defeated GoliathBillionaire soon to fall."
+"@isikmoon @wordpressdotcom 
+Goliath was defeated the moment David spoke in faith to mocking Goliath bdfore he fell"

@@ -1,0 +1,137 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 27060462, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/712860529388351488/53FaX2AF_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 185, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""27060462"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 8, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Gardeningdiva11: This is why I still believe we have a chance to defeat the Clinton machine. #StillSanders #NeverHillary https://t.co/G\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727162092411736064, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 295233722, ""indices"": [3, 19], ""id_str"": ""295233722"", ""screen_name"": ""Gardeningdiva11"", ""name"": ""SCBoomers4Bernie""}], ""hashtags"": [{""indices"": [97, 110], ""text"": ""StillSanders""}, {""indices"": [111, 124], ""text"": ""NeverHillary""}], ""urls"": [], ""media"": [{""source_user_id"": 295233722, ""source_status_id_str"": ""727142513161687040"", ""expanded_url"": ""http://twitter.com/Gardeningdiva11/status/727142513161687040/photo/1"", ""display_url"": ""pic.twitter.com/G77bVCLQo7"", ""url"": ""https://t.co/G77bVCLQo7"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg"", ""source_user_id_str"": ""295233722"", ""source_status_id"": 727142513161687040, ""id_str"": ""727142512742289410"", ""sizes"": {""small"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [125, 140], ""type"": ""photo"", ""id"": 727142512742289410, ""media_url"": ""http://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 163, ""id_str"": ""727162092411736064"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""This is why I still believe we have a chance to defeat the Clinton machine. #StillSanders #NeverHillary https://t.co/G77bVCLQo7"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727142513161687040, ""favorite_count"": 210, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [76, 89], ""text"": ""StillSanders""}, {""indices"": [90, 103], ""text"": ""NeverHillary""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Gardeningdiva11/status/727142513161687040/photo/1"", ""display_url"": ""pic.twitter.com/G77bVCLQo7"", ""url"": ""https://t.co/G77bVCLQo7"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg"", ""id_str"": ""727142512742289410"", ""sizes"": {""small"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [104, 127], ""type"": ""photo"", ""id"": 727142512742289410, ""media_url"": ""http://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 163, ""id_str"": ""727142513161687040"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 14:27:39 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Gardeningdiva11/status/727142513161687040/photo/1"", ""display_url"": ""pic.twitter.com/G77bVCLQo7"", ""url"": ""https://t.co/G77bVCLQo7"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg"", ""id_str"": ""727142512742289410"", ""sizes"": {""small"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [104, 127], ""type"": ""photo"", ""id"": 727142512742289410, ""media_url"": ""http://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 15:45:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 295233722, ""source_status_id_str"": ""727142513161687040"", ""expanded_url"": ""http://twitter.com/Gardeningdiva11/status/727142513161687040/photo/1"", ""display_url"": ""pic.twitter.com/G77bVCLQo7"", ""url"": ""https://t.co/G77bVCLQo7"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg"", ""source_user_id_str"": ""295233722"", ""source_status_id"": 727142513161687040, ""id_str"": ""727142512742289410"", ""sizes"": {""small"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 323}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [125, 140], ""type"": ""photo"", ""id"": 727142512742289410, ""media_url"": ""http://pbs.twimg.com/media/ChdUQ0UW0AIeV7F.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1042, ""description"": ""Right now, I am MAINLY going to use this account to educate people about Bernie Sanders. Please be open-minded. \u263a"", ""friends_count"": 55, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/712860529388351488/53FaX2AF_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/27060462/1458793817"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Kali"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8004, ""screen_name"": ""ilakster"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Mar 27 18:11:33 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@ProAmericana @ThatExLiberal @WhitestRabbit_ What an intelligent response. 😐😂 Sad little human you are.
+😂 https://t.co/rhGr5W7eva
+"@ThatExLiberal @WhitestRabbit_ You ignore science and any explanation other than ""race""."
+"@ThatExLiberal @WhitestRabbit_ People are people. Humans are humans. You need science, dude. I'm done with this conversation."
+"@ThatExLiberal @ProAmericana @WhitestRabbit_ Like I said, research beyond the simple answer that you have come to believe."
+@ThatExLiberal @WhitestRabbit_ Look more into why things may be the way they are instead of writing it off as race.
+"@ThatExLiberal @WhitestRabbit_ If that's true, I don't know, but there are many facts that it could be. I don't jump on someone's race."
+@ThatExLiberal @WhitestRabbit_ There are other factors that contribute to what has happened.
+@ThatExLiberal @WhitestRabbit_ You should really look at more factors than just whether or not people have been slaves at some point
+@ThatExLiberal @ProAmericana @WhitestRabbit_ Do you see what factors contribute to low IQ?
+@ThatExLiberal @WhitestRabbit_ https://t.co/TuLT0bNUxZ
+@WhitestRabbit_ You are ignorant as fuck.
+"@ThatExLiberal @ProAmericana @WhitestRabbit_ consider history and how recent things have gone down in this country. ie. Slavery, segregation"
+@ThatExLiberal @ProAmericana @WhitestRabbit_ have to do with someone's skin color. Correlation isn't necessarily causation. In this case...
+@ThatExLiberal @ProAmericana @WhitestRabbit_ There are a lot of things that contribute to certain statistics you might see that don't...
+"@ThatExLiberal @ProAmericana @WhitestRabbit_ Show me proof. Plus, you really aren't considering the history of treatment of their community"
+@ThatExLiberal @ProAmericana @WhitestRabbit_ And people with differences are worse people? Ridiculous.
+"@ThatExLiberal @ProAmericana @WhitestRabbit_ Continue to prove your ignorance to me, yes. Keep talking out of your ass."
+@WhitestRabbit_ Do you even know the science behind why people have different skin colors?
+"@WhitestRabbit_ Haha! Yes, go to some talking points that you have heard enough times to begin to believe."
+@ProAmericana @WhitestRabbit_ Haha. Prove it? No thanks. I don't go around finding people to question. I just happen to see this post.
+@ProAmericana @WhitestRabbit_ LOL. You people are nut cases. You think that because YOU base things on race that everyone else does too.
+"@WhitestRabbit_ If I am brainwashed, then at least I am not hurting anyone from it. You, though, perpetuate hate and division. Good for you😐"
+"@WhitestRabbit_ Wow, you're ridiculous. No, I commented because I just happen to see your post when I was looking through trending hashtags"
+"#WhatTheyDontWantUsToKnow Bernie is the strongest candidate, by far, to face the Republican in November."
+"@WhitestRabbit_ Who brainwashed you? Are your parents bigots, as well?"
+@WhitestRabbit_ I KNOW I would. Don't act like you know me better than I know myself. Your post is ignorant. Doesn't matter who posts it.
+@WhitestRabbit_ Yes.
+@WhitestRabbit_ how fucking ignorant are you??
+Yes!! https://t.co/BaBrdmbfXH
+#BernieOrStein #NeverHillary  https://t.co/0p4IoLNPz4
+I'm ready! #FeelTheBern #StillSanders  https://t.co/5LXUm5MrKP
+@People4Bernie @NashvilleDeuce #ReleaseTheTranscripts
+Sign this petition and RT! #StillSanders #BernieOrBust #NeverHillary  https://t.co/ZqopjXxZoo
+What can @HillaryClinton say in the general election vs. @realDonaldTrump when he tells her to #ReleaseTheTranscripts ??🤔🤔🤔
+https://t.co/FwoY0bIla0
+Help @BernieSanders win every state today by getting people out to vote now! #PhoneBank #Canvass #GOTV #FeelTheBern https://t.co/m2cJyi7bqO
+@ThankYouBernie Awesome! Love her!!
+#ItsARevolution #GOTV #PhoneBank #Bernie #FeelTheBern ---&gt;https://t.co/m2cJyi7bqO https://t.co/qjcFk4tWRm
+Help #GOTV for Bernie today! Make calls from your home: https://t.co/FwoY0bIla0 #ElectionDay #FeelTheBern  https://t.co/gtuA9hktBc
+@ChuckModi1 @MSNBC He has also talked about how he would work with states to bring down the prison population.
+Make calls to these states to #GOTV for Bernie! https://t.co/m2cJyi7bqO https://t.co/XivpeElvwh
+#iVoted #FeelTheBern  https://t.co/N60GtmPOlV
+@StephDsays Ignore corruption. That's helping us all. 🙄
+@StephDsays Keep believing that everything bad about Hillary is just a Republican lie. Stay ignorant.
+@lawlesseyes @HillaryClinton LOL. What do you think Bernie could possibly be hiding with his tax returns? Ridiculous.
+@StephDsays Anyone who supports Hillary over Bernie is ignorant/naive.
+Still waiting for @HillaryClinton to #ReleaseTheTranscripts #ThingsBernieHates
+"@Honey17011 ""enthusiastically?"""
+@StephDsays And you are showing how uninformed you are.
+"@fawfulfan He does give to charity. And Hillary's ""charity"" is a bunch of bullshit."
+@edgeoforever You're ignorant.
+@IrishMason what!?!?
+"Corruption, money in politics, greedy people, liars. #ThingsBernieHates"
+@HillarysMen Are you kidding me!? Ridiculous.
+"Every call makes a difference! Get on the phones, Berners!! #FeelTheBern #StillSanders https://t.co/m2cJyi7bqO"
+Fat chance that we will ever support you after all your smears! #BernieOrBust #StillSanders  https://t.co/abmQgSx40Y
+#FeelTheBernCali #Bernie2016 #California  https://t.co/ACp2tiZx2Q
+https://t.co/m2cJyi7bqO
+https://t.co/FwoY0bIla0
+Berners!! Help #GOTV for @BernieSanders by phone banking! It's fun and easy! Most people that I've talked to in PA are Bernie supporters!
+PLEASE HELP BERNIE ANY WAY YOU CAN! https://t.co/m2cJyi7bqO #StillSanders #GOTV  https://t.co/8No24szMzH
+I am making calls with friends! Just on Twitter to spread the word! Help Bernie win! #FeelTheBern #GOTV https://t.co/nyIxODgnYa
+Help @BernieSanders win! Do your part! https://t.co/Psg2vbgZBQ #NotMeUs #GOTV #FeelTheBern
+----&gt;https://t.co/m2cJyi7bqO
+Going to a phone-banking party tomorrow! Make calls for @BernieSanders this weekend! We have to work harder! #NotMeUs #StillSanders
+@LarryT1940 @AnnCoulter what's wrong with Harriet Tubman?
+@JimRousch @shempenny @NelsonMandela Your party loyalty is ridiculous.
+Be inspired. Watch and share VOTE FOR US.  #voteBernie #voteforus #votetogether #BernieSanders  #NyPrimary #berNY https://t.co/Hw1j6JYl51
+#StillSanders  https://t.co/GDOZeqihgk
+URGENT! #NYprimary #PrimaryDay #FeelTheBern  https://t.co/2CJKsFJbyu
+#PrimaryDay #NYprimary  https://t.co/FrrzTScM1A
+@BernieSanders https://t.co/m2cJyi7bqO
+Call New York to remind people to get out and vote for @BernieSanders! #GOTV #NYPrimary #PrimaryDay https://t.co/FwoY0bIla0
+"#NYPrimary #NYforBernie Go, go, go! 😊✊ https://t.co/Yt0prebayo"
+#NYPrimary  https://t.co/6wlOUvqRAl
+"#NYPrimary GO, vote for Bernie, NY! 😊 And bring as many people as you can to vote for him, too. #FeelTheBern  https://t.co/xqzQsKRxbD"
+#GOTV #NYPrimary  https://t.co/NQl35SUgpy
+45 minutes left to call New York for @BernieSanders!! Let's #GOTV Berners!!! #NYPrimary #TakeNYbyPhone
+#NYPrimary #BernieSandersForPresident  https://t.co/DVHpohCtnU
+@Drichard1968 @RiseUpProg @HFA @HillaryClinton You sound like a Republican.
+"Washigton legislative caucus, here we come! #FeelTheBern #NotMeUs https://t.co/4UW9jZ6KEL"
+On my way to my Legislative Caucus in Washington state as an alternate delegate for @BernieSanders! 😊✊ #BernieSanders #FeelTheBern
+😂✊ #DineWiththe99 #FeelTheBern  https://t.co/l0oSADuwOO
+YES!! @shailenewoodley #WeGotThis #FeelTheBern  https://t.co/BMwLBSE2yF
+"Let's #TakeNYbyPhone and #GOTV4Bernie!! Let's go,Berners!! ✊✊✊ https://t.co/oGcM4oesDc"
+Are you helping @BernieSanders #GOTV this weekend? Want to?? Start phone banking to New York and other states now! https://t.co/m2cJyi7bqO
+#MarchForBernie today in #NYC 😊✊ https://t.co/w3uMK50Ll4
+#TakeNYbyPhone  https://t.co/xezh3H6lyN
+Donate to Bernie! Any amount is worth it! 😊✊ https://t.co/h4pcf2f606
+#DemDebate #BrooklynDebate  https://t.co/EbrG03nCQm
+We believe that we will win!@BernieSanders #DemDebate #BrooklynDebate
+@HillaryClinton We can't afford NOT to have a political revolution!
+@BernieSanders on the crime bill: https://t.co/qbTZyxpRIj #DemDebate #BrooklynDebate
+#DemDebate
+Because you're a Democrat! @HillaryClinton #ReleaseTheTranscripts
+@HillaryClinton #ReleaseTheTranscripts
+#DemDebate https://t.co/VtJ4BPhsHq
+"Yeah, this is funny. She is doing just the opposite. #DemDebate @HillaryClinton  https://t.co/kW20QaO2L4"
+#EqualPayDay  https://t.co/eaUk0CdWPc
+@skorpyos @cenkuygur @kai_newkirk @MsJodieEvans @fmlappe @Umiselah What's your point?
+@ardenjones478 @LK_Megan Have you even watched the speech? DO you know what an omnibus bill is?
+@ardenjones478 @LK_Megan https://t.co/aFtapI9A4u Words DO matter.
+"@ardenjones478 @LK_Megan Never said it was her fault, but it IS her who went out and spoke so highly of it. Bernie did the opposite."
+@BarbaraBoxer How about NO. Hillary's flavor would always be changing.
+@ardenjones478 @LK_Megan Yes. What's your point?
+"@LK_Megan @ardenjones478 @TwiTati @funkinatrix Yeah, apparently that doesn't matter to them."
+"@TwiTati @ardenjones478 @LK_Megan @funkinatrix Things are a lot more complicated than that, but apparently you don't understand that."
+@ardenjones478 @LK_Megan @TwiTati @funkinatrix So you DON'T know what an omnibus bill is. Okay. Bye.
+@ardenjones478 @LK_Megan @TwiTati @funkinatrix Have you watched the speech? Do you know what an omnibus bill is? https://t.co/aFtapI9A4u
+#HillarySoQualified She sends @billclinton out to embarrass himself.  https://t.co/00fvjhYUf6
+#HillarySoQualified  https://t.co/WLO6LPijLf
+#HillarySoQualified She has to lie about @BernieSanders record to make herself sound better. 😂
+THIS! #NewYorkValues #BernieSanders  https://t.co/qC1MFm7KJz
+@HillaryClinton #BernieOrBust  https://t.co/Oevyqq85pH
+@Fabrico5 At least we are trying to do something about the rigged system. What you're doing serves no purpose.
+"@Fabrico5 Hahaha! So, what is your grand solution, oh wise one? 😂😂 You have been convinced hat your vote doesn't matter just like THEY want"
+@tom_lewisville @Fabrico5 Do you know what Pedophiliac means??
+"@Fabrico5 You are too stupid. Sit on your couch and keep complaining on Twitter to get things done, you loser."
+@Fabrico5 We are pissed and attempting to get as many people involved to change this system so it isn't rigged against us.
+"@Fabrico5 rally protest outside CNN HQ in California with thousands of people. Many of us have cancelled our cable, if we hadn't already..."
+@Fabrico5 You really do not understand Bernie supporters. We are AGAINST the mainstream media and we are calling out it's BS! We just had a
+"@tom_lewisville @Fabrico5 Oh, Jesus, ""pedophiliac""? Are kidding me?"
+@Fabrico5 Because Bernie knows how to be pragmatic. I will vote for @DrJillStein if Bernie doesn't get the nomination. #BernieOrBust
+"@Fabrico5 @tom_lewisville Do you know what little amount of people vote in our country?? THAT is how they control us, you dipshits."
+"@Fabrico5 @tom_lewisville Yeah, voting doesn't matter. That's why there are always laws being passed to make it harder."
+"@tom_lewisville @Fabrico5 Hahahaha! Coming from a Republican, that 's rich!"
+@Fabrico5 What is your solution? Don't vote? Don't care? Sit around and call everyone else sheep?
+"@Fabrico5 No ONE person is going to ""save us"", but Bernie's NOT bought off and that's a great start.The people are the ones who make change"
+@Fabrico5 Bernie supporters ARE not going to vote for HRC. We don't like any of these corporate puppets! Bernie is real deal.
+"If you're going to attack @BernieSanders, you will push #BernieOrBust ! Keep it up, and get voted out!  https://t.co/6D0cGRfzJQ"
+"This is a lie. @BernieSanders didn't say that! &amp; when have guns being ""negligently made"" contributed to a shooting? https://t.co/nA8jvzCISv"
+Why the hell should the manufacturer be held accountable for someone illegally using their product???? WHY!? https://t.co/OpRb8jCGOJ
+#panamapapers @HillaryClinton  https://t.co/W8p6SevpN9
+Smarmy little rat. https://t.co/u1YnIdmbdx
+@BernieSanders 2011 ---&gt;https://t.co/2fwUNqbycG #PanamaPapers #PanamaTrade

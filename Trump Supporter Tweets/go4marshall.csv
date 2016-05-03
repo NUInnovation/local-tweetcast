@@ -1,0 +1,119 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 705446574328057856, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719904612715753472/SDRPCYq-_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/UgqB8AkrAk"", ""indices"": [0, 23], ""expanded_url"": ""http://elhaih.wordpress.com"", ""display_url"": ""elhaih.wordpress.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 5495, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""705446574328057856"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 65, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @JerrySa57233934: @SouthLoneStar https://t.co/EPB5B5Ia2p"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727284347368251393, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4338733993, ""indices"": [3, 19], ""id_str"": ""4338733993"", ""screen_name"": ""JerrySa57233934"", ""name"": ""Jerry Sanders""}, {""id"": 4355797094, ""indices"": [21, 35], ""id_str"": ""4355797094"", ""screen_name"": ""SouthLoneStar"", ""name"": ""South Lone Star""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 4338733993, ""source_status_id_str"": ""727284155881385986"", ""expanded_url"": ""http://twitter.com/JerrySa57233934/status/727284155881385986/photo/1"", ""display_url"": ""pic.twitter.com/EPB5B5Ia2p"", ""url"": ""https://t.co/EPB5B5Ia2p"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg"", ""source_user_id_str"": ""4338733993"", ""source_status_id"": 727284155881385986, ""id_str"": ""727284151464792065"", ""sizes"": {""large"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""small"": {""h"": 498, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [36, 59], ""type"": ""photo"", ""id"": 727284151464792065, ""media_url"": ""http://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""727284347368251393"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@SouthLoneStar https://t.co/EPB5B5Ia2p"", ""is_quote_status"": false, ""in_reply_to_status_id"": 727216140426969088, ""id"": 727284155881385986, ""favorite_count"": 3, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4355797094, ""indices"": [0, 14], ""id_str"": ""4355797094"", ""screen_name"": ""SouthLoneStar"", ""name"": ""South Lone Star""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/JerrySa57233934/status/727284155881385986/photo/1"", ""display_url"": ""pic.twitter.com/EPB5B5Ia2p"", ""url"": ""https://t.co/EPB5B5Ia2p"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg"", ""id_str"": ""727284151464792065"", ""sizes"": {""large"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""small"": {""h"": 498, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 727284151464792065, ""media_url"": ""http://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg""}]}, ""in_reply_to_screen_name"": ""SouthLoneStar"", ""in_reply_to_user_id"": 4355797094, ""retweet_count"": 4, ""id_str"": ""727284155881385986"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""4355797094"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 23:50:29 +0000 2016"", ""in_reply_to_status_id_str"": ""727216140426969088"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/JerrySa57233934/status/727284155881385986/photo/1"", ""display_url"": ""pic.twitter.com/EPB5B5Ia2p"", ""url"": ""https://t.co/EPB5B5Ia2p"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg"", ""id_str"": ""727284151464792065"", ""sizes"": {""large"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""small"": {""h"": 498, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 727284151464792065, ""media_url"": ""http://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 23:51:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4338733993, ""source_status_id_str"": ""727284155881385986"", ""expanded_url"": ""http://twitter.com/JerrySa57233934/status/727284155881385986/photo/1"", ""display_url"": ""pic.twitter.com/EPB5B5Ia2p"", ""url"": ""https://t.co/EPB5B5Ia2p"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg"", ""source_user_id_str"": ""4338733993"", ""source_status_id"": 727284155881385986, ""id_str"": ""727284151464792065"", ""sizes"": {""large"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""small"": {""h"": 498, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 454}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [36, 59], ""type"": ""photo"", ""id"": 727284151464792065, ""media_url"": ""http://pbs.twimg.com/media/ChfVFRrUkAEPQ0n.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 10063, ""description"": ""DONALD TRUMP 2016"", ""friends_count"": 5999, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719904612715753472/SDRPCYq-_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/705446574328057856/1458395100"", ""profile_background_image_url"": null, ""name"": ""get' on  TRUMP TRAIN"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 6302, ""screen_name"": ""go4marshall"", ""notifications"": false, ""url"": ""https://t.co/UgqB8AkrAk"", ""created_at"": ""Thu Mar 03 17:35:44 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""America/New_York"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+https://t.co/Kf9ldKJ8vr
+"More people die in Toyota Prius each year than GUN DEATHS.
+
+More people die from a hammer each year than GUN DEATHS
+ https://t.co/CB2rm2gD8K"
+https://t.co/FHedTDh7Qi
+"Why No National Conversation About Leftist Violence?: 
+
+https://t.co/oYvWjxZHqa"
+Watch for VOTER FRAUD. https://t.co/UA9dyXdwW7
+https://t.co/AJZlZ6mar4
+https://t.co/qR1HWYQ52X
+"A lot, when an American Ambassador is tortured to death at your hands. https://t.co/0F6nUjsX2R"
+Cruzifer had to return for a phone op. https://t.co/DmgqRofDJ1
+He had to return for a photo op. https://t.co/DmgqRofDJ1
+@FoxNews you loose. Boycott still on. @AndreaTantaros https://t.co/VzeqTyBNsm
+"Shocking NEW California Primary Poll:   Trump 54%,   Cruz only 20%
+
+Breitbart https://t.co/XYsFOSTQcG"
+@HFA @HillarysAmerica @Hillary4Florida @billclinton @ClintonFdn @ChelseaClinton @HillaryforNH @WJCLibrary https://t.co/Oss7iLjJnD
+"TED thinks we will vote for him...
+NEVER, NOT EVER, IMPOSSIBLE, WILL NOT HAPPEN
+NOT IN THIS LIFETIME
+DROP DEAD TED. https://t.co/BtfhbJFcNC"
+"CONTESTED CONVENTION?
+
+2nd BALLOT
+REPUBLICAN TRUMP
+becomes
+INDEPENDENT TRUMP
+
+Do not split our party over pride. https://t.co/CkNcPpputV"
+"Oooh! She already played it
+She announced
+50% women in her cabinets
+Or 98% transvestites
+
+Gotta keep Bill satisfied https://t.co/hstYkxooIm"
+https://t.co/xaNXR8KjTJ
+"Anti-Trump Focus @ Many US May Day Marches
+
+At least they have a good likeness of TRUMP at their anti- TRUMP RALLEY
+
+https://t.co/QI6Wd7y4OI"
+"Rand Paul Rips Paul Ryan: 
+GOP Convention Rules 
+'Haven't Been Written Yet' 
+
+https://t.co/ymiBNvrXuC #Newsmax via @Newsmax_Media"
+https://t.co/RvHFN74cXP
+https://t.co/zr12JRYzBb
+https://t.co/Gq3bMeRgpY
+https://t.co/LeJMRMhbwW
+https://t.co/SL5F9vGdn5
+"TRUMP BEATING HILLARY
+
+https://t.co/MG3OR5BxOv"
+"U.S. Puts China, Japan on New Watch List for FX Practices
+
+ https://t.co/vjbrbm0fK7 via @business"
+More TRUMP Supporters at CRUZE RALLEY than those for Cruzifer https://t.co/Wjp4JKhnSj
+https://t.co/f6hw927jzA
+"@newtgingrich FOR  V.P.
+
+Brilliant man. Let's give him a GO!
+
+@realDonaldTrump
+@DanScavino
+@KatrinaPierson
+@VW2016 https://t.co/zB4hdJVXBR"
+I'm already following all three :) https://t.co/jVxD9KweKt
+Now that was funny. https://t.co/Zh27NasjXo
+#Brexit is the solution. https://t.co/iSeIzj2dZQ
+"Silly TED.
+Chuck Todd To Ted Cruz: 
+""Republican Voters Are The Ones Rejecting You, 
+This Is Not A Media Conspiracy""
+
+https://t.co/3RzLtuOCJh"
+"Asking Paul Ryan to Appoint Ethics Office Chairman Leadership Position Unfilled for Over One Year
+
+ https://t.co/pEEU0SNWME"
+Woo Hoo. BOYCOTT is working. https://t.co/woSMNJQ3NT
+"""Michelle, print more money"" https://t.co/5hGhbezCac"
+"TX Sentr Rick Perry endorses TRUMP not CRUZifer.
+
+This Has ROCKED The Lyin' Ted Cruz Campaign 
+
+https://t.co/BxgMKGeIDu via @maxlydic"
+"Hilarious, way to go TED Nugent! https://t.co/IC2SkKbrfI"
+"Illegal Alien Convicted of Murder After Stabbing Father of Two to Death, Ripping Out His Liver - Breitbart https://t.co/FgFMyZSMvX"
+"Let's all watch the exact moment Ted Cruz loses a voter during one of his own rallies 
+
+(video) https://t.co/mRw8mcZ8uT"
+"WATCH: A Trump Supporter Walks Through Hell 
+
+https://t.co/EwJ6rDBp9l"
+"Really, it's just cannon fodder for the other side. https://t.co/jn7CPKXA6p"
+"RT
+DONE https://t.co/9GqTLWEe2w"
+"CRUZifer kicks out a 10 yr old out of his RALLEY.
+
+'CRUZ is such a looser.
+
+https://t.co/h0bRDxNUlF"
+"CRUZifer has no future in GOP.
+
+YAY!
+
+https://t.co/rbAvCizhu5"
+"Bloomberg calls Sanders and TRUMP
+.        ""DEMAGOGUES""
+
+Well, thank you.
+I'll cancel my subscription to your mag.
+
+https://t.co/uAENoMubBN"
+https://t.co/58px1zJvsP

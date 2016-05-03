@@ -1,0 +1,176 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 8731932, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/24703382/Victory_is_mine__normal.jpg"", ""profile_sidebar_fill_color"": ""E0FF92"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 445, ""profile_sidebar_border_color"": ""87BC44"", ""id_str"": ""8731932"", ""profile_background_color"": ""9AE4E8"", ""listed_count"": 22, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @jimmy_dore: Bernie won majority of counties &amp; lost NY by les than 200K.  NY has 3 MILLION Independent Voters not allowed 2 vote. https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723216725638934529, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 98992586, ""indices"": [3, 14], ""id_str"": ""98992586"", ""screen_name"": ""jimmy_dore"", ""name"": ""Jimmy Dore""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 98992586, ""source_status_id_str"": ""722907341742452736"", ""expanded_url"": ""http://twitter.com/jimmy_dore/status/722907341742452736/photo/1"", ""display_url"": ""pic.twitter.com/s1QIArEbzj"", ""url"": ""https://t.co/s1QIArEbzj"", ""media_url_https"": ""https://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg"", ""source_user_id_str"": ""98992586"", ""source_status_id"": 722907341742452736, ""id_str"": ""722907340366721024"", ""sizes"": {""large"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 722907340366721024, ""media_url"": ""http://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1230, ""id_str"": ""723216725638934529"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Bernie won majority of counties &amp; lost NY by les than 200K.  NY has 3 MILLION Independent Voters not allowed 2 vote. https://t.co/s1QIArEbzj"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 722907341742452736, ""favorite_count"": 1638, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/jimmy_dore/status/722907341742452736/photo/1"", ""display_url"": ""pic.twitter.com/s1QIArEbzj"", ""url"": ""https://t.co/s1QIArEbzj"", ""media_url_https"": ""https://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg"", ""id_str"": ""722907340366721024"", ""sizes"": {""large"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 144], ""type"": ""photo"", ""id"": 722907340366721024, ""media_url"": ""http://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1230, ""id_str"": ""722907341742452736"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 20 21:58:35 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/jimmy_dore/status/722907341742452736/photo/1"", ""display_url"": ""pic.twitter.com/s1QIArEbzj"", ""url"": ""https://t.co/s1QIArEbzj"", ""media_url_https"": ""https://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg"", ""id_str"": ""722907340366721024"", ""sizes"": {""large"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 144], ""type"": ""photo"", ""id"": 722907340366721024, ""media_url"": ""http://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 18:27:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 98992586, ""source_status_id_str"": ""722907341742452736"", ""expanded_url"": ""http://twitter.com/jimmy_dore/status/722907341742452736/photo/1"", ""display_url"": ""pic.twitter.com/s1QIArEbzj"", ""url"": ""https://t.co/s1QIArEbzj"", ""media_url_https"": ""https://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg"", ""source_user_id_str"": ""98992586"", ""source_status_id"": 722907341742452736, ""id_str"": ""722907340366721024"", ""sizes"": {""large"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 722907340366721024, ""media_url"": ""http://pbs.twimg.com/media/CghIZVwUsAASAs7.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -21600, ""statuses_count"": 1251, ""description"": ""Biomechanical Intelligent Nocturnal Judo Android."", ""friends_count"": 2084, ""location"": ""Space."", ""profile_link_color"": ""0000FF"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/24703382/Victory_is_mine__normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Benjamin Hansen"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1955, ""screen_name"": ""Binja"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Sep 07 20:08:18 +0000 2007"", ""contributors_enabled"": false, ""time_zone"": ""Mountain Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+#WhichHillary  https://t.co/4KfXWmy4cF
+#BernieSandersForPresident2016  https://t.co/QtOJo38oVg
+#BernieSandersForPresident2016  https://t.co/h9WuUwjpgI
+#FeelTheBern #BernieSandersForPresident2016 #WeAreBernie #UsNotMe  https://t.co/Iq7Z0lBu7Z
+#bethemedia #FeelTheBern #AmericaTogether #BernieSandersForPresident2016 #BernieSandersRevolution #NewYorkBarelyNews https://t.co/NKYoIQ7uAH
+".@NPR @iamsambee @FullFrontalSamB @nprfreshair  I'm a fan but why did you leave out that Hillary interrupted Bernie before he ""shushed"" her?"
+#BernieSandersForPresident2016 #FeelTheBern #Americatogether  https://t.co/x9iYaUJzrq
+#FeelTheBern #NotMeUs #Americatogether #BernieSandersForPresident2016  https://t.co/HlfDZOwoyt
+#FeelTheBern #LetJillDebate #ToneDownForWhat #BernieSandersForPresident2016  https://t.co/Cy1J49O8s5
+https://t.co/DcBnVzPuxS #BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether
+@ImThunderStroke @Parker9_ @AP https://t.co/DcBnVzPuxS
+#BernieSandersAllTheWay #StillSanders #FeelTheBern https://t.co/RZ8MlDugFG
+#StillSanders #FeelTheBern #BernieinSeattle #NotMeUs #WeNotMe #BernieSanders #AmericaTogether  https://t.co/vQfRL8CA9E
+#StillSanders #BernieSandersForPresident2016 #FeelTheBern  https://t.co/R252TtrYu0
+#StillSanders  https://t.co/BaWSjM3Kvv
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs https://t.co/yijtI2IXHf
+",@RepMarcyKaptur    Thanks for your endorsement of @BernieSanders !  Nice to know there are leaders who stick to their ideals!"
+#BernieSandersForPresident2016  https://t.co/i3lPeAelIi
+#BernieSandersForPresident2016 #AmericaTogether #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/6uRl0V5E3g
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016 #AmericaTogether https://t.co/gjKmry2hDW
+#FeelTheBern #WeAreBernie #AmericaTogether #NotMeUs #BernieSandersForPresident2016   https://t.co/PSD5ZRcu9K
+#FeelTheBern #WeAreBernie #AmericaTogether #NotMeUs #BernieSandersForPresident2016  https://t.co/V6Gu0KonT8
+#BernieSandersForPresident2016 #FeelTheBern  https://t.co/Wyxd4E1aG5
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/WRj5A8erYr
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/kq4qBlt6eV
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016 #AmericaTogether https://t.co/9u1vWU5zfy
+#BernieSandersForPresident2016 #FeelTheBern #NotMeUs #WeAreBernie  https://t.co/QLkE1mHv8t
+#FeelTheBern #WeAreBernie #AmericaTogether #NotMeUs #BernieSanders4President2016  https://t.co/sn6aXyyMoe
+#WeAreBernie #FeelTheBern #BernieSanders4President2016 #americatogether  https://t.co/XLc0jsN3pC
+#BernieSanders4President2016  https://t.co/VXbDVLoP01
+#BernieSandersForPresident2016 #BernieTsunami #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether https://t.co/u3DBwVg9lg
+#FeelTheBern #WeAreBernie #BernieSandersForPresident2016 #BernieSandersMovement #AmericaTogether #NotMeUs  https://t.co/bXRBMWS5P8
+#BernieSandersForPresident2016 #FeelTheBern https://t.co/clCJzy2zw2
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether https://t.co/iJ9m0ADJRj
+#BernieSandersForPresident2016 #FeelTheBern #SuperTuesday #GetOutTheVote #NotMeUs #WeAreBernie #AmericaTogether  https://t.co/zfhI0HtRGW
+"Help Bernie get to 40 million dollars for this month!  #SuperMonday
+
+#FeelTheBern #WeAreBernie #BernieSanders
+https://t.co/FmoiJ5uEX2"
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether   https://t.co/qQprmVwg2D
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether  https://t.co/mOifPu3NvN
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether   https://t.co/RFaYW1fPVs
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether https://t.co/WMTjAg8UyO
+"@wearjustice @BernieSanders Heh, Great botting and all, but this quote doesn't really work by itself :D Very mysterious tho."
+#BernieSandersForPresident2016  https://t.co/PlDHlyqrV3
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSanders4President2016 #AmericaTogether #ReleaseTheTranscripts  https://t.co/YIDSdqosYL
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSanders2016 #AmericaTogether  https://t.co/WDhYqt6G2F
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSanders2016 #AmericaTogether  https://t.co/y9sB4Ukjv3
+#FeelTheBern #AmericaTogether #WeAreBernie #NotMeUs #BernieSandersForPresident2016 #BLM  https://t.co/UAagmDyjMH
+#HillaryLies  https://t.co/OCj5fmbXS9
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs #AmericaTogether https://t.co/Katm4k3uAZ
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016 #AmericaTogether  https://t.co/uH2nl0cFBT
+#BernieSandersForPresident2016  https://t.co/gBgancoQLc
+#BernieSandersForPresident2016 #WeAreBernie #NotMeUs #FeelTheBern  https://t.co/h4tnoPkub5
+#AmericaTogether #WeAreBernie #FeelTheBern #NotMeUs #BernieSandersForPresident2016  https://t.co/8BSibHEQDU
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016 #AmericaTogether  https://t.co/g8Yk80iZOr
+#AmericaTogether #FeelTheBern #BernieSandersForPresident2016 #WeAreBernie #NotMeUs https://t.co/AbwVllFVUR
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSanders https://t.co/hPRnUDIq10
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSandersForPresident2016 #BernieSanders #BernieStrong  https://t.co/UfDWIjT11B
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs   https://t.co/1zI6C84q0s
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs   https://t.co/ZrctdxGGpG
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs   https://t.co/i4GJQ8tpMR
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs  https://t.co/UeNd5NABiK
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs   https://t.co/uaKirZqrra
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs   https://t.co/sDqO5HGeq2
+#WeAreBernie #BernieSandersForPresident2016 #FeelTheBern #NotMeUs  https://t.co/sw0oDc3lub
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/JQOCQxCXM6
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs https://t.co/Kq8ip66o2g
+#BernieSandersForPresident2016 #FeelTheBern https://t.co/mldKqUiZLe
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/KSf5YBrVbp
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/431yvRp8Hm
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016   https://t.co/AHg1bPvSDU
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/u4meSTcxwg
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/TWKJgqG1qO
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSandersForPresident2016  https://t.co/7xfCWEmmsm
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/21NSMtOoBd
+#FeelTheBern #WeAreBernie #NotMeUs #StormTheDNC #FireDebbie #BernieSandersForPresident2016  https://t.co/WQhWQbTlMF
+#BernieSandersForPresident2016 #FeelTheBern #NotMeUs #WeAreBernie https://t.co/eXML2Nm4UX
+#BlackLivesMatter  https://t.co/QyiJ8QkpuF
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs https://t.co/C19lU6TBQC
+#BernieSandersForPresident2016 #FeelTheBern  https://t.co/TRj2Swpx3W
+#FeelTheBern #BernieSandersForPresident2016 #WeAreBernie #NotMeUs https://t.co/ezj02Ff8iG
+#BernieSandersForPresident2016  https://t.co/PlhmSX6gpb
+#NotMeUs #FeelTheBern #WeAreBernie #BernieSandersForPresident2016  https://t.co/pcDmlJsI4F
+#FlintWaterCrisis #BernieSandersForPresident2016 #WeAreBernie #FeelTheBern https://t.co/gNyWVhaQ9f
+"@UilleccDubh @BIKOINC @ninaturner ....Read my other tweet, check the links.  This is documented stuff, not my assumptions."
+#StormTheDNC #FireDebbie #BernieSandersForPresident2016 #WeAreBernie #NotMeUs #FeelTheBern #ReleaseTheTranscripts  https://t.co/kSf9ePR7Hl
+#StormTheDNC #FireDebbie #BernieSandersForPresident2016 #WeAreBernie #NotMeUs #FeelTheBern #ReleaseTheTranscripts  https://t.co/VzscUgGhUb
+@BIKOINC @ninaturner 2/2 must pass omnibus spending bill. https://t.co/XigCrpa3nL https://t.co/sJ4uWqHTIh
+@BIKOINC @ninaturner He felt he had to vote for it because it also contained the violence against women act and assault weapons ban. 1/2
+#BernieSandersForPresident2016 #WeAreBernie #FeelTheBern #NotMeUs  https://t.co/aAsQ0AX5k2
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSandersForPresident2016 #StormTheDNC #FireDebbie  https://t.co/QkjOMOodKl
+#caucusforbernie #FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/E4Br8DgeYE
+"@NewsyLindsey @KasimReed @NewDay Kasim doesn't know anything.  Aint over til it's over, this ain't a coronation."
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/JO4NB3V3fY
+#BernieSandersForPresident2016 #WeAreBernie #NotMeUs #FeelTheBern #FactsNotAttacks https://t.co/xfQMXViimN
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/XqKNwnWotj
+#FeelTheBern #BernieSandersForPresident2016 #WeAreBernie #NotMeUs #StormTheDNC https://t.co/RTvzr2T8WT
+#NotMeUs #WeAreBernieSanders #FeelTheBern #BernieSandersForPresident2016 #FactsNotAttacks   https://t.co/yFEMalwG2T
+#NotMeUs #WeAreBernieSanders #FeelTheBern #BernieSandersForPresident2016 #FactsNotAttacks   https://t.co/yxbD3fxhdR
+#NotMeUs #WeAreBernieSanders #FeelTheBern #BernieSandersForPresident2016 #FactsNotAttacks https://t.co/lSHu2F26wH
+#FeelTheBern #BernieSandersForPresident2016 #WeAreBernie #NotMeUs  https://t.co/EOIC9LzCNu
+"@LovesTheJust @slumgodty Actually, upon reflection, not the worst.   Just... uh.. not good."
+"@LovesTheJust @slumgodty the anonymity of the internet can definitely bring out the worst in people, unfortunately."
+"@slumgodty @SharonLockwood8 That's not surprising to me, actually."
+"@LovesTheJust @slumgodty Ty's page makes him seem like a hideous troll.  As a Bernie supporter, I'm sorry about the tone deaf trolls."
+@aaron_commey @slumgodty @CharlesMBlow https://t.co/sJ4uWqHTIh https://t.co/XigCrpa3nL
+"@slumgodty @SharonLockwood8 Ty, as a Bernie supporter, I'm going to recommend you stop talking now.  You're not helping."
+@CharlesMBlow As a Bernie supporter I'm sorry for the tone-deaf Bernie supporters and Trolls.
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/OxuIBJtIMm
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/iIYpb1KmdH
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernie #NotMeUs https://t.co/DWScxZr7HI
+#berniesandersforpresident #FeelTheBern #WeAreBernie #NotMeUs https://t.co/XdCAI8kZAi
+#berniesandersforpresident #FeelTheBern #NotMeUs #WeAreBernie https://t.co/DGoT6ysQI8
+#BernieSanders2016 #FeelTheBern #WeAreBernie #NotMeUs https://t.co/fYEJUT1ohk
+#NotMeUs #FeelTheBern #WeAreBernie #berniesandersforpresident  https://t.co/Yf2OzFnZPm
+#berniesandersforpresident #FeelTheBern #NotMeUs #WeAreBernieSanders  https://t.co/DRjLwkgfcW
+#berniesandersforpresident  https://t.co/9gpklHTUjH
+#WeAreBernie #FeelTheBern #NotMeUs #berniesandersforpresident  https://t.co/chVZdKclpP
+#berniesandersforpresident #FeelTheBern #NotMeUs #WeAreBernieSanders   https://t.co/CKRFfD1mlJ
+#berniesandersforpresident #FeelTheBern #NotMeUs #WeAreBernieSanders  https://t.co/5gPaXXWz2D
+#WeAreBernieSanders #FeelTheBern #NotMeUs #berniesandersforpresident  https://t.co/1pgSflxPhH
+#berniesandersforpresident #FeelTheBern #WeAreBernie #NotMeUs https://t.co/J9ZAITq32x
+#BernieSandersForPresident #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/DGLjYDXzzE
+#BernieSandersForPresident #FeelTheBern #WeAreBernie #NotMeUs https://t.co/Sc2rK1ClV7
+#BernieSandersForPresident2016 #FeelTheBern #WeAreBernieSanders #NotMeUs  https://t.co/282EnToSY0
+#NotMeUs #WeAreBernieSanders #FeelTheBern #BernieSandersForPresident2016  https://t.co/MqQlIR9OUs
+#FeelTheBern #WeAreBernieSanders #NotMeUs #BernieSandersForPresident2016  https://t.co/hMZHFZS9pY
+#FeelTheBern #WeAreBernieSanders #BernieSandersForPresident2016 #NotMeUs https://t.co/f7czK8pxbc Vote for a leader with integrity!
+#BernieSandersForPresident2016 #FeelTheBern #NotMeUs #WeAreBernieSanders https://t.co/ebNEfxOYls
+#BernieSandersForPresident2016 #WeAreBernie #NotMeUs #FeelTheBern  https://t.co/rbUT5a4VIU
+#BernieSandersForPresident2016 #WeAreBernieSanders #NotMeUs #FeelTheBern https://t.co/eEKM09MuVA
+#BernieSandersForPresident2016  https://t.co/NPUMd4Ajx8
+#WeAreBernieSanders #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/mEGL3wqwbo
+#WeAreBernieSanders #FeelTheBern #BernieSandersForPresident #NotMeUs https://t.co/GLKgDQEzL7
+#WeAreBernieSanders #FeelTheBern #StormTheDNC #NotMeUs #BernieSandersForPresident  https://t.co/pGcvtlta28
+#BernieSandersForPresident #WeAreBernieSanders #NotMeUs #FeelTheBern  https://t.co/llq9NDnCE0
+#FeelTheBern #WeAreBernieSanders #NotMeUs #BernieSandersForPresident  https://t.co/jSoExfDYbd
+#WeAreBernieSanders #FeelTheBern #NotMeUs #BernieSandersForPresident   https://t.co/mJrxlzpLmD
+#WeAreBernieSanders #FeelTheBern #NotMeUs #BernieSandersForPresident  https://t.co/PWZiiG0Tpw
+#WeAreBernie #FeelTheBern #NotMeUs #BernieSandersForPresident  https://t.co/XyXv2XpWAx
+#BernieSandersForPresident #FeelTheBern #WeAreBernie #FeelTheBern https://t.co/nlEuAAhNCG
+#BernieSandersForPresident #NotMeUs #WeAreBernie #FeelTheBern  https://t.co/v2mw1lkRjd
+#BernieSandersForPresident #WeAreBernie #FeelTheBern #NotMeUs https://t.co/J2j2G9bLQK
+#BernieSandersForPresident2016 #FeelTheBern #NotMeUs #FeelTheBern  https://t.co/sucGFh2tk2
+#BernieSandersForPresident #FeelTheBern #NotMeUs #WeAreBernie https://t.co/oErXCZqrot
+#BernieSandersForPresident #FeelTheBern #NotMeUs #WeAreBernie https://t.co/mvojaFDnAF
+#ReleaseTheTranscripts  https://t.co/tys6SuaprR
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/r8y2d203IQ
+#FeelTheBern #WeAreBernie #NotMeUs #BernieSandersForPresident2016  https://t.co/iyqfBQUIs7
+#NotMeUs #BernieSandersForPresident2016 #FeelTheBern #WeAreBernie https://t.co/1UFzpL8fPW
+#BernieSandersForPresident2016 #NotMeUs #FeelTheBern  https://t.co/8bEBtI0DSj
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/zVaWzBnmn3
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSandersForPresident2016  https://t.co/W25jBm0haX
+#NotMeUs #FeelTheBern #WeAreBernie #BernieSandersForPresident2016  https://t.co/qZuVG9bWnm
+#NotMeUs #WeAreBernie #FeelTheBern #BernieSandersForPresident2016  https://t.co/lrjF8zbB9U
+Nurses united isn't a super-pac.  It's a union.  There is a massive difference. https://t.co/ELJcQ7y4O3
+#FeelTheBern #NotMeUs #WeAreBernie #BernieSandersForPresident  https://t.co/ScN51CYdfT
+#FeelTheBern #BernieSandersForPresident2016  https://t.co/h7aMS2eyMd
+"@pontiph @VanJones68 @BernieSanders @HillaryClinton @TonyRomoDaGod wat? Van Jones is a pretty cool dude, who's really fair to Bernie."
+#BernieSandersForPresident #FeelTheBern #WeAreBernie #NotMeUs https://t.co/kaJZyCEKAp
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident  https://t.co/MB7syfuxln
+#FeelTheBern #BernieSandersForPresident  https://t.co/mUZlzGF7dl
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016 https://t.co/kxdnOJ4nCO
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/82bI61UzxW
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016  https://t.co/D1M0ssKA9E
+#WeAreBernie #NotMeUs #FeelTheBern #BernieSandersForPresident2016 https://t.co/Mw6D7QRybo
+#WeAreBernie #CaucusWithBernie #FeelTheBern #BernieSandersForPresident #NotMeUs https://t.co/uagQQpsPGz
+#WeAreBernie #BernieSandersForPresident  https://t.co/G77OnuyhwT
+"@cjthefineartist @AnitaFinlay @HillaryClinton  Would you want Carly Fiorina in office, ""for Shirley Chisholm""?"
+#BernieSandersForPresident #FeelTheBern #CaucusWithBernie #WeAreBernie #NotMeUs https://t.co/tVjtHgI2m6
+#CaucusWithBernie #FeelTheBern #BernieSandersForPresident #NotMeUs #WeAreBernie https://t.co/cFXxlmzplS
+#BernieSandersForPresident2016 #CaucusWithBernie #FeelTheBern #WeAreBernie #NotMeUs  https://t.co/WgumdsULhh
+#BernieSandersForPresident2016 #CaucusWithBernie #FeelTheBern #WeAreBernie #NotMeUs https://t.co/tIWi1VI8lI
+#CaucusWithBernie  https://t.co/m47JwbCQ61
