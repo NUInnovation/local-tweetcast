@@ -1,47 +1,77 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
 
-<html>
-    <head>
-        <title>Local Tweetcast</title>
-    </head>
-    <div align="center">
-    <body>
-        {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-                <ul>
-                    {% for message in messages %}
-                        <li>{{ message[1] }}</li>
-                    {% endfor %}
-                </ul>
-            {% endif %}
-        {% endwith %}
-        <div class="site-wrapper">
-            <div class="site-wrapper-inner">
-                <div class="cover-container">
-                    <div class="masthead clearfix">
-                        <h1 class="masthead-brand">Local Tweetcast</h1>
-                    </div>
-                    <div class="inner cover">
-                        TweetCast Your Vote<br>
-                        What would happen if Twitter decided the 2016 election?<br>
-                        Enter a location to check out its  policial preferences!<br>
-                        <form action="" method="post">
-                            {{ form.csrf }}
-                 
-                            <div class="input text">
-                                {{ form.name.label }} {{ form.name }}
-                            </div>
-                 
-                            <div class="input submit">
-                                <input type="submit" value="Submit" />
-                            </div>
-                        </form>
-                        </div>
-                    </div>
-                </div>
+    <title>Cover Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
+    
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='hello.css') }}" />  
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Local Tweetcast</h3>
+              
             </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">TweetCast Your Vote</h1>
+            <p class="lead">What would happen if Twitter decided the 2016 election? Enter a location to check out its political preferences!</p>
+            <p class="lead">
+                <form action="" method="post">
+                    {{ form.csrf }}
+         
+                    <div class="input text">
+                        {{ form.name.label }} {{ form.name }}
+                    </div>
+                    <br>
+                    <div class="input submit">
+                        <input type="submit" value="Submit" class="btn btn-lg btn-default">
+                    </div>
+                </form>              
+            </p>
+          </div>
         </div>
-    </body>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+      </div>
+
     </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    
+  </body>
 </html>
