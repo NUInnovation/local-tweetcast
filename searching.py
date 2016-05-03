@@ -66,6 +66,7 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
     for testing_filepath in testing_set:
         block_of_tweets = ''
         with open(testing_filepath) as tweetsfile:
+            print 'adding', testing_filepath, 'to testing set...'
             tweetreader = csv.reader(tweetsfile)
             metadata = tweetreader.next()
             for tweetrow in tweetreader:
@@ -111,13 +112,9 @@ def predict_candidate(blob_of_tweets, k_neighbors):
     for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
         if folder_name == mode:
             return candidate_handle
-testdict = {}
-# for i in range(3, 30):
-testdict[7] = test_tfidf(0.3, 7)
 
-pprint(testdict)
+testing_dict = {}
+for kn in range(4, 18):
+    testing_dict[kn] = test_tfidf(0.7, kn)
 
-
-# sims = index[tfidf_corpus]
-
-# pprint(list(enumerate(sims)))
+pprint(testing_dict)

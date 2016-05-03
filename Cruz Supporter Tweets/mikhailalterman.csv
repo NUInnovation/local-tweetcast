@@ -1,0 +1,79 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 65691569, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/646345225351360513/VfkNWKsd_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/ZvUG6eu1N2"", ""indices"": [0, 23], ""expanded_url"": ""http://www.legalinsurrection.com"", ""display_url"": ""legalinsurrection.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 237, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""65691569"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 14, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @ScottBLG: 62%-GOP Voted AgainstTrump\n40%-GOP inHome NE \""Can't\"" Vote 4Him\nUnelectable w/These Unfavorables\n#INPrimary #CruzCrew https://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726994146817380352, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 713213745, ""indices"": [3, 12], ""id_str"": ""713213745"", ""screen_name"": ""ScottBLG"", ""name"": ""Scott""}], ""hashtags"": [{""indices"": [110, 120], ""text"": ""INPrimary""}, {""indices"": [121, 130], ""text"": ""CruzCrew""}], ""urls"": [], ""media"": [{""source_user_id"": 713213745, ""source_status_id_str"": ""726964160114900992"", ""expanded_url"": ""http://twitter.com/ScottBLG/status/726964160114900992/photo/1"", ""display_url"": ""pic.twitter.com/f5nRXVQ87r"", ""url"": ""https://t.co/f5nRXVQ87r"", ""media_url_https"": ""https://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg"", ""source_user_id_str"": ""713213745"", ""source_status_id"": 726964160114900992, ""id_str"": ""726964159288471552"", ""sizes"": {""large"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726964159288471552, ""media_url"": ""http://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 134, ""id_str"": ""726994146817380352"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""62%-GOP Voted AgainstTrump\n40%-GOP inHome NE \""Can't\"" Vote 4Him\nUnelectable w/These Unfavorables\n#INPrimary #CruzCrew https://t.co/f5nRXVQ87r"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726964160114900992, ""favorite_count"": 94, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [96, 106], ""text"": ""INPrimary""}, {""indices"": [107, 116], ""text"": ""CruzCrew""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/ScottBLG/status/726964160114900992/photo/1"", ""display_url"": ""pic.twitter.com/f5nRXVQ87r"", ""url"": ""https://t.co/f5nRXVQ87r"", ""media_url_https"": ""https://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg"", ""id_str"": ""726964159288471552"", ""sizes"": {""large"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 726964159288471552, ""media_url"": ""http://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 134, ""id_str"": ""726964160114900992"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 02:38:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/ScottBLG/status/726964160114900992/photo/1"", ""display_url"": ""pic.twitter.com/f5nRXVQ87r"", ""url"": ""https://t.co/f5nRXVQ87r"", ""media_url_https"": ""https://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg"", ""id_str"": ""726964159288471552"", ""sizes"": {""large"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 726964159288471552, ""media_url"": ""http://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 04:38:06 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 713213745, ""source_status_id_str"": ""726964160114900992"", ""expanded_url"": ""http://twitter.com/ScottBLG/status/726964160114900992/photo/1"", ""display_url"": ""pic.twitter.com/f5nRXVQ87r"", ""url"": ""https://t.co/f5nRXVQ87r"", ""media_url_https"": ""https://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg"", ""source_user_id_str"": ""713213745"", ""source_status_id"": 726964160114900992, ""id_str"": ""726964159288471552"", ""sizes"": {""large"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 726964159288471552, ""media_url"": ""http://pbs.twimg.com/media/ChayDR7UcAABSaQ.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 2426, ""description"": ""My favoriting of tweets usually means I read it and probably back posting it"", ""friends_count"": 332, ""location"": ""44122"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/646345225351360513/VfkNWKsd_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/65691569/1442935684"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Mikhail Alterman"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8725, ""screen_name"": ""mikhailalterman"", ""notifications"": false, ""url"": ""https://t.co/ZvUG6eu1N2"", ""created_at"": ""Fri Aug 14 17:49:28 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@sandra8301 @GovPenceIN #Delusional Trump supporters. I'm in Ohio, the low information independent voters HATE him. https://t.co/6U22tNPqv3"
+Bobby Knight lets Drumpf (orig. family name) crowd know who he doesn’t ‘give a damn’ about Republicans [video] https://t.co/uHH6pakBBf
+@CGasparino @nypost Missing video: https://t.co/V7aQ6IvgEm
+"@sandra8301 @GovPenceIN will go down in reelection flames if Trump is the nominee. Drumpf is so hated - polls show Hillary wins UT, MS, etc"
+@FirstLadyIN @GovPenceIN Two choices for Gov.Pence: weigh in on Cruz or go down in reelection flames by ignoring the GOP primary
+The Definitive Roundup of Trump’s Scandals and Business Failures https://t.co/l6VHJ1FNlj #businessoperations
+@wtam1100 @realDonaldTrump @billwillswtam Weren't we told this was another Kasich map to win? How's it only Cruz's loss? Cruz spent $0 there
+@crnylife @BoSnerdley why give them web traffic?
+"@tonykatz @jimgeraghty Kasich is helping Trump by staying in; keeps dividing the few scraps of not-Trump media coverage. WI, MI, Kasich map?"
+@BoSnerdley Why are you tweeting things from that leftist cesspool?  Couldn't find anything non-commie to tweet?
+@rachelfromohio What does a televangelist sound like? Non-christians don't know
+@johnhan79583770 @BradThor Cruz gets no airtime. Since WI it's been wall to wall Trump and his topics of choice.
+@BradThor I'd vote for Rodney D.! https://t.co/rOqtsyymHc
+"@ChiefRidiculous @KatTimpf @AndreaTantaros Forget the big words, Trump supporters need to start understanding facts. https://t.co/PAqRq7ITiu"
+@ChiefRidiculous @KatTimpf @AndreaTantaros Trump supporters obviously can't comprehend any constitution stuff. https://t.co/Uv139l91xw
+"@geman_glm Idiocy of the highest order. Trump is putting on a show, lying, acting and you are throwing a tantrum: Facts don't matter!"
+"@nohilary Oh, look, a Trump supporter pretending to care about facts, math, complaining about insults."
+"@nohilary @NJGirl4Trump You are not getting 1237, not even in the most Trumpiest projections. See Hugh Hewitt's overly generous Trump math"
+"@nohilary Delusional, just like the Democratic party supporters from which Drumpf bequeathed"
+"@NJGirl4Trump @nohilary Prepare to lose the nomination in CLE where I live, get ready to go back to Drumpf's home in the Democratic party"
+"@KatTimpf @AndreaTantaros Starting in 2016, no self-respecting conservative will buy books from Trumpkins. #NeverTrump"
+"@PhilDavis_CG @WaitingInBagdad Why would it?  This was not a strategy but agreement on resources in 3 states, MD is not one of them."
+"@nohilary MT, not MN"
+@nohilary Drumpf got over 50% in NY only. You are more delusional than most Trumpkins if you think he will get NY results all over
+"@nohilary Oh, it's a lot more than 55. Drumpf will get swept in MN, NE, SD, etc."
+@nohilary @DonAlt_Right Changing values? Trump had three opposing views on abortion in three hours
+@nohilary Trump won't get 1237 and he certainly will lose in Cleveland in July. Start rehearsing whining now
+"@CEEAGAG And you plan to win with Drumpf and such support in Nov, right?  Sounds convincing, where do I switch from Cruz?"
+"@DonAlt_Right @nohilary  Trump is an unrepentant life long Democrat, a sore whining loser"
+"@seasidebeauty7 Trump is an unrepentant life long Democrat, a sore whining loser"
+@nohilary #Delusional
+@nohilary So you admit that the system is rigged for the sore whining loser Trump?
+"@CEEAGAG You don't believe in anything, you are an automated Trumpkin bot , donating to Clinton"
+@nohilary Are you the sore losing Trumpkin going to come to Cleveland where I live to watch Drumpf get annihilated?
+"@CEEAGAG @stilloldduck Yeah, so let's nominate a life long Democrat who stands for nothing except his own publicity. #NeverTrump"
+"@nohilary Cruz got 1.2 mill votes in TX, the Hillary donor got 1/2 mill in NY. Drumpf got more delegates. And more people were running in TX"
+"@seasidebeauty7 Lyin Trumpkin bot.   Cruz got more votes in WI than Drumpf in NY, but the liberal Drumpf got more delegates. Rigged!!"
+"@geman_glm Delusional Trumpkins.  Cruz got more votes in WI than Drumpf in NY, but the liberal Drumpf got more delegates. Rigged!!"
+"@BobbyLew007  Cruz got more votes in WI than Drumpf in NY, but the liberal Drumpf got more delegates. Rigged!!"
+@JerryArk Whatever. You are about as believable as automated Trumpkin bots
+"@nohilary Lying Trumpkins. Cruz got more votes in WI than Drumpf in NY, but the liberal Drumpf got more delegates. Rigged!!"
+@Junie17 Trumpkin sore loser. Start whining about rules
+@CEEAGAG @jennanjack @stilloldduck @townhallcom What's so opportunist about Cruz? His constant up hill battles for conservative principles?
+"@JewhadiTM @GovernorVA Trump gave this VA Democrat  $25,000+. Vote accordingly. #NeverTrump"
+@FoxBusiness Why is this Trumpist lying picture and story running in FoxBusiness?
+@scottienhughes Cruz is very competent but he couldn't know about Kasich's incompetence ahead of time. Automated Trumpkin bots are mad
+@larryelder non-sense. McConnell blocked any real repeal. Cruz fought it while Trump funded anti-repeal Obamacare crowd. #NeverTrump
+@JimmyTusheets @larryelder Hillary can't get lower. But Trump will get ultra negative coverage if he becomes the nominee. No more free media
+#INprimary https://t.co/5EcWdnWZi5
+"@larryelder no, he is NOT.  It's one poll , a complete outlier. Another one came out and he is not close at all."
+"@BCDreyer @chrisgeidner I hope something terrible happens to you, signed - straight purple man."
+@tonykatz Well worth discussing in detail: https://t.co/fLE9so9cHh  #INprimary
+@tonykatz @93wibc @ByronYork @SykesCharlie @kerpen No attacks? How's life long Democrat Trump supposed to debate? No making up stuff too?
+"@larryelder No, but I will never ever vote for Drumpf. I will never vote for the modern day Dem party. I will vote though, as always."
+#JewishCleveland  https://t.co/WPpJJnMT8c
+@CheriJacobus She was a Republican and he was a Democrat
+@barstoolsports Hopefully he does it live on @theblaze television
+@Daroff Why are you re-tweeting this non-sense? Especially from the brains and the fan of #IranCare.  #WastingTime
+#Election2016 #CruzCrew  https://t.co/mqmWc5Alxc
+"@sunshine9461 @realDoneldTrump 'They' should have kicked you out, back to the Democrat party where LyingDonald has been all his life,get it?"
+#NYPrimary  https://t.co/60gF2mX1Yr
+#NYPrimary #IsraelNews  https://t.co/KK9260qPsj
+Trump confuses 7/11 with 9/11. #NYPrimary #CruzCrew  https://t.co/Scil8IHOd1
+Intelligence and lunacy https://t.co/IpcuMyK44a
+"@mikeyavo Cruz is smarter than your idiotic automated Drumpf algorithm. Choke on it, then get treated for Obamacare"
+@mikeyavo Cruz is way more smart than the twice-voted for Obama Democrat Drumpf. Something you the automated bot won't understand. Choker
+@mikeyavo Cruz always outperforms and LosingDonald always chokes when it's one on one. Majority of GOP hate the life-long Democrat
+"@thesavvy @mikeyavo He is an automated LosingDonald bot, he/it doesn't read stuff."
+#BlackLivesMatter #Elections2016  https://t.co/oFZCyFIJTj
+@jasonahart @JohnKasich @MSNBC Obamacare fan is now falling behind Cruz in NY
+"@mikeyavo what polls? Drumpf got 37% of the vote but 45% of the delegates, cheater.  LosingDonald is a life long Democrat"
+@thesavvy @mikeyavo  Record turnouts in WY and elsewhere but LosingDonald is lying about no votes being cast. Trump choked
+#NYPrimary #JewishVote  https://t.co/uo7UFQ6vFN
+#NYPrimary  https://t.co/wtjQSAEfbc
+@ClevelandScene Extremely good time! The show went far beyond all expectations.
+@ClevelandScene great show!
+#NYPrimary #Election2016  https://t.co/K4qOAgQpXe
+No #greta

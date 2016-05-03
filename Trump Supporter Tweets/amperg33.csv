@@ -1,0 +1,56 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""3C3940"", ""default_profile_image"": false, ""id"": 76514412, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme4/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/627873264220553216/VMcrxyRC_normal.png"", ""profile_sidebar_fill_color"": ""95E8EC"", ""entities"": {""description"": {""urls"": [{""url"": ""https://t.co/JK9XVERBn9"", ""indices"": [79, 102], ""expanded_url"": ""http://youtu.be/lswB6q2t_6c"", ""display_url"": ""youtu.be/lswB6q2t_6c""}, {""url"": ""https://t.co/06yT2FY7pu"", ""indices"": [104, 127], ""expanded_url"": ""http://youtu.be/JB259lgEorA"", ""display_url"": ""youtu.be/JB259lgEorA""}]}}, ""followers_count"": 3110, ""profile_sidebar_border_color"": ""5ED4DC"", ""id_str"": ""76514412"", ""profile_background_color"": ""0099B9"", ""listed_count"": 94, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@acb4values @CalmNcanny @dredberry @CheriJacobus https://t.co/SovoRV5OeK"", ""is_quote_status"": false, ""in_reply_to_status_id"": 727279655900696576, ""id"": 727280737221746690, ""favorite_count"": 1, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 127049815, ""indices"": [0, 11], ""id_str"": ""127049815"", ""screen_name"": ""acb4values"", ""name"": ""acb4cruz""}, {""id"": 595250319, ""indices"": [12, 23], ""id_str"": ""595250319"", ""screen_name"": ""CalmNcanny"", ""name"": ""CalmNcanny""}, {""id"": 610132216, ""indices"": [24, 34], ""id_str"": ""610132216"", ""screen_name"": ""dredberry"", ""name"": ""Ed Berry""}, {""id"": 467726691, ""indices"": [35, 48], ""id_str"": ""467726691"", ""screen_name"": ""CheriJacobus"", ""name"": ""Cheri Jacobus""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/amperg33/status/727280737221746690/photo/1"", ""display_url"": ""pic.twitter.com/SovoRV5OeK"", ""url"": ""https://t.co/SovoRV5OeK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfR-LSWIAAVYx6.jpg"", ""id_str"": ""727280730955456512"", ""sizes"": {""large"": {""h"": 577, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [49, 72], ""type"": ""photo"", ""id"": 727280730955456512, ""media_url"": ""http://pbs.twimg.com/media/ChfR-LSWIAAVYx6.jpg""}]}, ""in_reply_to_screen_name"": ""acb4values"", ""in_reply_to_user_id"": 127049815, ""retweet_count"": 1, ""id_str"": ""727280737221746690"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""127049815"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 23:36:54 +0000 2016"", ""in_reply_to_status_id_str"": ""727279655900696576"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/amperg33/status/727280737221746690/photo/1"", ""display_url"": ""pic.twitter.com/SovoRV5OeK"", ""url"": ""https://t.co/SovoRV5OeK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfR-LSWIAAVYx6.jpg"", ""id_str"": ""727280730955456512"", ""sizes"": {""large"": {""h"": 577, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 192, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [49, 72], ""type"": ""photo"", ""id"": 727280730955456512, ""media_url"": ""http://pbs.twimg.com/media/ChfR-LSWIAAVYx6.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 62776, ""description"": ""I love Math. Everybody has a plan till they get punched in the face. - M.Tyson https://t.co/JK9XVERBn9. https://t.co/06yT2FY7pu"", ""friends_count"": 2982, ""location"": ""south sea"", ""profile_link_color"": ""0099B9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/627873264220553216/VMcrxyRC_normal.png"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/76514412/1438376530"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme4/bg.gif"", ""name"": ""amanda pergola"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 28639, ""screen_name"": ""amperg33"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Sep 23 01:10:22 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@acb4values @CalmNcanny @dredberry @CheriJacobus https://t.co/SovoRV5OeK
+Indiana seal the deal tomorrow ❤️🇺🇸 Trump16
+Vote @realDonaldTrump https://t.co/t1g6NTdrt7
+https://t.co/gqFykgO0VO
+Give me Trump or give me death💥
+#LyingTed  https://t.co/80r6tynoL4
+@WAGNERGIRLE @jechoot1 @JohnKasich https://t.co/idJnFFIagO
+Trump is one though son of a gun! Loveitttt! https://t.co/p3xG7fOYr0
+😳😳😳OMG the worst thing I have ever seen in a candidate! https://t.co/Qsg9iWDiL4
+@rushlimbaugh r u afraid that Trump will solve our problems and u will be out of a job? #lyinLimbaugh
+1000 % correct! https://t.co/X7s8eEilU9
+@PaulAMarketos @tony_sanky Cruz has done nothing for we the ppl- get over it!
+Yesssss good bye #LyingTed  https://t.co/E3gtnE4dAg
+Omg I just turned @rushlimbaugh on after several weeks and I am in shock he has become 100% delusional with Cruz shilling !Absolutely gross!
+Cruz has sunk to the level of rabid deranged Beck. https://t.co/nKTCMjKON8
+These are dreamers! Kick them OUT!!!!! https://t.co/1WvusJZCYu
+@JoelG_88 @piersmorgan everybody is more decent that's for sure
+Bahahahahahaha perfection!!! https://t.co/U21PXJhpZm
+Yessssssssssssss💥💥💥💥💥👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽❤️❤️❤️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 https://t.co/2ApOODTPyF
+@backyardconserv @MelissaTweets https://t.co/PFyCBQRJjW
+Wow awesomeeee https://t.co/bMokUNEODq
+Yessssssssssss💥💥💥 https://t.co/BHps8OYaBN
+@Samstwitch @Scrufey21 as they should
+Yesssssss go Germany!! https://t.co/JErU1iAXAT
+Holy crap! https://t.co/lKzHkphkgz
+@MissLizzyNJ hahaha who would have thank it 😂😂😂😂
+😳😳😳what is this??? https://t.co/4bBAl0BYyy
+https://t.co/sGdifgvMoP
+This whole episode was hands down THE coolest thing I have ever seen!! @realDonaldTrump  https://t.co/sGdifgvMoP
+@juliaioffe Hey pompous media cow- the times when u get to viciously smear and attack ppl without consequences are OVER! Get used to it liar
+#LyingTed  https://t.co/YdnvYKZxJI
+Let this crazy cow know that she won't be able to smear ppl without consequences anymore!!!! https://t.co/Bg5wZuK6aa
+Good👍🏽 https://t.co/VvBm2X9tgf
+@NickEgoroff too late! We have all seen what a corrupt ass he is
+@jangd56 @Missy_Kidd ewwwwww
+@JilliSizzle @RealDonalTrump @FoxNewsSunday Wallace is such an ugly little hateful troll!😆
+Omg!!😳😳😳wow is this real??? https://t.co/VCNa0cGkr0
+@sobobrova44896 @philmonaco67 https://t.co/5cueDOBdVa
+@MickBlair54 @BreitbartNews guess what we the ppl don't give a crap about your corrupt party! https://t.co/XhSUiWPBG5
+@glennbeck @juliaioffe @GideonResnick @OKnox https://t.co/346kILmIEc
+Hey Beck don't forget to take your meds otherwise u start fantasizing about stabbing ppl again!😜😜😜 https://t.co/BLvXEMCRve
+Oh get over yourself! If u smear ppl they will not roll over and die! These days r over pompous media turd! https://t.co/GpnM5wY0x3
+Hey ppl this is the stupid ass who thinks she can smear Melania's parents and cries when ppl fight back! LIBEL!💥 https://t.co/ybR8gic8Wg
+@kimberly010960 @sandgnatlawson @FiveRights https://t.co/SAHy4GrMvD
+@noprezzie2012 https://t.co/qqF7XTVJTy
+@petefrt https://t.co/BJMKjMilyJ
+At this point I hate GOP establishment and neocons even more than the moronic leftists! And that saying something 💥
+@VivaLaAmes @grants4usa pathetic
+@LeeUlery @petefrt DC is a corrupt HeLLHOLE! We need Trump there to drain the swamp!!😡
+What the HELL is going on here??????????? https://t.co/CtxMfSxNgQ
+@StatesPoll @trumpcountry no he does and he SHOULD!!!
+@khammaker9 no the Horns are there! The U of lUzifer😳
+@BigDuhie1955 @GregorySherry5 why is there not more publicity about this????? We need to get the info out there!!! This is heinous!😡😡😡
+@LeeUlery @petefrt correct! He knew about Obama's/Hilary's support of Isis in Syria!!!
+I LOVE this soooo much😂😂😂 https://t.co/HNtzckCNA7

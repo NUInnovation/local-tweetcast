@@ -1,0 +1,93 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3665010436, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/723581079941091328/fyLtufxx_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 235, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3665010436"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @realDonaldTrump: I will defeat Crooked Hillary Clinton on 11/8/2016. #Trump2016\n#MakeAmericaGreatAgain https://t.co/HtwD1FGn9e"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727209988712726529, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [3, 19], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [{""indices"": [73, 83], ""text"": ""Trump2016""}, {""indices"": [84, 106], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""source_user_id"": 25073877, ""source_status_id_str"": ""727169840776118272"", ""expanded_url"": ""http://twitter.com/realDonaldTrump/status/727169840776118272/photo/1"", ""display_url"": ""pic.twitter.com/HtwD1FGn9e"", ""url"": ""https://t.co/HtwD1FGn9e"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg"", ""source_user_id_str"": ""25073877"", ""source_status_id"": 727169840776118272, ""id_str"": ""727169818856689665"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [107, 130], ""type"": ""photo"", ""id"": 727169818856689665, ""media_url"": ""http://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8367, ""id_str"": ""727209988712726529"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""I will defeat Crooked Hillary Clinton on 11/8/2016. #Trump2016\n#MakeAmericaGreatAgain https://t.co/HtwD1FGn9e"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727169840776118272, ""favorite_count"": 20422, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [52, 62], ""text"": ""Trump2016""}, {""indices"": [63, 85], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/realDonaldTrump/status/727169840776118272/photo/1"", ""display_url"": ""pic.twitter.com/HtwD1FGn9e"", ""url"": ""https://t.co/HtwD1FGn9e"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg"", ""id_str"": ""727169818856689665"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [86, 109], ""type"": ""photo"", ""id"": 727169818856689665, ""media_url"": ""http://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8367, ""id_str"": ""727169840776118272"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 16:16:14 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""Indianapolis, IN"", ""url"": ""https://api.twitter.com/1.1/geo/id/018929347840059e.json"", ""country"": ""United States"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-86.348441, 39.631677], [-85.937404, 39.631677], [-85.937404, 39.927448], [-86.348441, 39.927448]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""018929347840059e"", ""name"": ""Indianapolis""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/realDonaldTrump/status/727169840776118272/photo/1"", ""display_url"": ""pic.twitter.com/HtwD1FGn9e"", ""url"": ""https://t.co/HtwD1FGn9e"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg"", ""id_str"": ""727169818856689665"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [86, 109], ""type"": ""photo"", ""id"": 727169818856689665, ""media_url"": ""http://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 18:55:46 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 25073877, ""source_status_id_str"": ""727169840776118272"", ""expanded_url"": ""http://twitter.com/realDonaldTrump/status/727169840776118272/photo/1"", ""display_url"": ""pic.twitter.com/HtwD1FGn9e"", ""url"": ""https://t.co/HtwD1FGn9e"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg"", ""source_user_id_str"": ""25073877"", ""source_status_id"": 727169840776118272, ""id_str"": ""727169818856689665"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [107, 130], ""type"": ""photo"", ""id"": 727169818856689665, ""media_url"": ""http://pbs.twimg.com/media/ChdtGPhWkAEab3f.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 2227, ""description"": ""Trump Train will only vote for Trump!!!"", ""friends_count"": 138, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/723581079941091328/fyLtufxx_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3665010436/1461799793"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""M. Stephens"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1391, ""screen_name"": ""stockpicker151"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Sep 15 14:56:35 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@TrumpD2016 @rosemarylowe105 @realDonaldTrump and the Trump Train begins to run down crooked Hillary. Get her Trump
+@teed_chris @coreystrickla10 that's not a wall that's a wind blocker wait till they see the Trump  wall!!!!
+@DontStalkRegina @seanhannity yea Cruz says I would spank my kid for fibbing if that's the case I would get a big paddle for Cruzs ass.
+@TheresaMechele @ChocChip52 yes with 30 days in jail u don't like the flag &amp; country get the fuck out
+@AllyTaft @realDonaldTrump she does nothing for minorities never proven a thing to help with jobs or military
+@umpire43 @mary_scots @_HankRearden @asamjulian Cruz is a moron
+@Tree65Jackson yes the trump train needs to focus on minorities for the GE We are for all the people jobs and security
+@Midgespeaks @cainfam22 @tedcruz Ted Cruz is such a wack job by the time he quits the race people are going to look at him like a looney
+@vandives oh game of thrones John stark came back to life
+@vandives what do u mean
+@muzikgirl11 @realDonaldTrump  don't worry we will find something for you to do 😎😎😎
+@TrumpTrain8 @Brooke_dheaaa go get em when it comes to elections Sunday's are like Mondays Go Trump
+@VivaLaAmes @saskamare @TruthFeedNews OMG lmao
+@Always_Trump yea go Trump
+@TrumpOnly4me @saskamare @Sanjay25_ yea Indiana see how fast Cruz Cruzes he hears he might lose run right outta your state
+@umpire43 @saskamare Indiana keep working hard keep pushing make it count
+@RichardWeaving @aduanebrown this says it all folks
+@DanScavino @aduanebrown u think about when did we ever see great stuff like this in the past years let's do Indy show the love
+@49f8f38790164c4 they know the free ride is over when Trump gets in screw them and give the $$$ to actual Americans if they need help
+@CLewandowski_ @aduanebrown @realDonaldTrump folks keep pushing right thru Tuesday in Indiana it's not done until it's done keep pushing
+@CarlyFiorina God those faces of liars &amp; thieves can always pick them off they that little snicker smile like I'm ripping u off. Losers
+@CarlyFiorina Ted Cruz is a backstabber
+@CarlyFiorina u are the same Lyin' thieving job killing $$$ sucker GOPe asslicker as Cruz &amp; the rest of them only 1 for USA Trump!!!!
+@realDonaldTrump hey downs poll called a list the Cruz campaign gave them what losers @tedcruz lmao
+@realDonaldTrump do not believe the downs poll Indiana it is a fixed poll from the GOPe they are spending $$$ again trying to steal election
+@realDonaldTrump @tedcruz so the stealing continues all voters for upcoming states do not vote for a crook and liar Trump has our backs!!!
+@Campaign_Trump @aduanebrown sue the shit out of them
+@FiveRights @rosemarylowe105 yea they will be heading back get em out get em out go trump
+@07harleyultra @CNN way to go and Thank you Trump Train
+@realDonaldTrump @HillaryClinton yea great job killary and Obama don't leave any troops In Iraq Baghdad in Riots. Proud huh
+@RealBenCarson @EndorsementsGOP and the whole thing is Hillary awe all you poor people vote for me just like Obama did they do it even worse
+@AllyTaft @RyanRain39 Ally ur a rip😂😂😂😂
+@realDonaldTrump @LexingtonBobby @FoxNews @tedcruz push hard Donald Cruz is a snake and crooked Hillary is even worse.
+@Gina660 @CNNPolitics @DanScavino yea those two are assholes for killing the cat let's hunt them see how they like it.
+@mks8864 @LOYALtoTRUMP @WayneDupreeShow @tedcruz once again Cruz was Lyin' about Trump this dude has mental issues
+@DonaldJTrumpJr @coreystrickla10 @MrsVanessaTrump @CNN Don u have plenty of fans don't forget it.
+@Tree65Jackson @VivaLaAmes man Bobby you crack me up lol booger eating Cruz and his scarecrow sidekick Carly
+@AnnCauley @ChrisChristie Chris Obama tries to force them on you have the troopers lock em up u run jersey not Obama screw him
+@AnnCauley @ChrisChristie way to Chris don't let those creeps in jersey you know there will be trouble
+@realDonaldTrump @BOSSYtxmar55 yea go Trump Train
+@PatriciaBride @saskamare @AlwaysActions @tedcruz @HillaryClinton people watch this video it says it all Do not vote for R or D vote Trump
+@AllenWest lmao
+@cmichaeld2004 the coppers need to bring ice in with some buses good place to round up illegals do that once those protestors will die off
+@RayBurkhart1 @FoxNews wow wall cost 10 billion beef up border patrol 5 billion quick deportation methods 15 Billion save 90billion get out
+@lizzym420 @BOSSYtxmar55 we are doing our best not to by voting for Trump
+@FoxNews @EndorsementsGOP @realDonaldTrump wtf is Obama doing these thugs should be deported asap when we catch em. Vote Trump
+@TrumpTracks @honeybunchesof8 @realDonaldTrump this is 100% true Indiana if u vote Cruz u will vote for a person who gave away jobs
+@DiamondandSilk @coreystrickla10 @realDonaldTrump actually those freeriding shitbags are trying to take our country over USA is not 3 world
+@BuddyTheElf2016 @EndorsementsGOP yea Cali keep up the good work. Go Trump
+@vandives sounds great
+@mitchellvii @Ajax2847 it's a fake poll they did it trump to in Florida too Indiana hit the phones hard we have to make it happen
+@realDonaldTrump yes they should be handled like thugs and these flag burners should go to jail 30 days. Get em Yrump
+@mitchellvii @Kotcha301 I follow  Kotcha be up the great work push hard Go Trump
+@Tree65Jackson Trump is the man Zero Cost for for best deal maker what's better than that.
+@realDonaldTrump Indiana time to put the gas pedal to the floor and work the Trump vote like no tomorrow Go Indy for the people Go Trump
+@NeilTurner_ @realDonaldTrump democrat use it for votes but funny minorities got less with Obama than Bush also they owe more $$ w/Obama
+@realDonaldTrump @AC360 Trump get back to Indy fire those plane engines up and yes nice show by Anderson
+@DonaldJTrumpJr @KatrinaPierson let's go Don Jr starting hitting Indy hard 3 days to go fight like dogs on steak for the votes Go Trump
+@jenilynn1001 @49f8f38790164c4 @FoxNews @tedcruz @seanhannity maybe u should have told Cruz we don't like him and we said hit the road
+@natashalarebel @HillaryClinton is a baby killer soldier killer $$$ grubbing Lyin' bullshiter that's the bottom line
+@brothersnarmsUS @LOYALtoTRUMP @TweetBrettMac my thoughts I think they are stupid &amp; lost their in cali start walking you can get to Mexico
+@ASatyanarayanan @LOYALtoTRUMP trump doesn't win ge I believe it's on like donkey kong the people are giving fair warning we are tired of it
+@jmdonsi @Brooke_dheaaa @trackerem @seanhannity another fox show I will no longer watch pathetic loser news channel has a bunch of crooks on
+@jmdonsi @Brooke_dheaaa @trackerem yea 1 million for a puny I'll vote for Cruz but I like Trump ha
+@realDonaldTrump @tedcruz oh by the way they can take the Mexican flag stick it up their ass and get the frig out of our country
+@realDonaldTrump @tedcruz vote for us party unite and let trump get to work no joke or we are going to have big problems Indy vote trump
+@realDonaldTrump @tedcruz the dems including Obama want illegals and immigrants in here to have them vote they tell them we let u come
+@realDonaldTrump @tedcruz Ted you listening get out so Trump can go after Hillary if she gets in so do terrorist.
+@hrtablaze no problem Go Trump
+@DebAlwaystrump @garway95 ha so true it is they have a say Cruz is dumber than the rock he is what's dumber than a rock!!!!!!???????
+@realDonaldTrump @tedcruz watch out Indy Cruz is a tricky liar don't let him slide in with his lies and GOPe crap vote for the people trump
+@GOPjenna @tedcruz @CarlyFiorina @seanhannity I just shut hannity right off can't stand those GOPe $$ suckers what asslickers
+@realDonaldTrump Trump u are the man for the people u said u were going to speak and u didn't care what it took way to go man.
+@LindaSuhler @shirleyvc725 yes tic toc tic toc goodbye free riders
+@Biracial_Chick @aduanebrown yes that is a president overcome &amp; adapt go Trump Go Indiana
+@NBCNightlyNews @aduanebrown @HallieJackson @realDonaldTrump Trump is the man just think what he will do for  us.
+@micah_micahk @TheRealJazzzy @realDonaldTrump @DanScavino @KatrinaPierson yea and Cruz said who cares about the North
+@FedUpAmerican5 @saskamare @MF_Ball oh yea &amp; Hillary all for em maybe the illegals should go stay at Hillarys
+@MilitaryEarth @TEAM_COMMANDER now I'm betting on those boys stand with Trump because Trump stands with them.
+@iGlobalPay @rosemarylowe105 don't worry they will heading out soon enough People who are here legally work with our values the other dont
+@AriFleischer @rosemarylowe105 keep it up protestors u might just unite a huge ass kicking if they keep beating on the Trump supporters
+@realDonaldTrump hell they get better benefits than our citizens do these fuckers are outta here hire more judges and deport them faster.
+@realDonaldTrump the whole reason the animals are protesting is because they know their free ride of benefits is over come Trump!!!!
+@realDonaldTrump @tedcruz Cruz is running around begging people for endorsements Trump they call him Indiana vote with the people. Not GOPe
+@realDonaldTrump @tedcruz don't forget Indiana is not far enough from the border with Mexico trust me Cruz will not stop the mess he is Lyin
+@realDonaldTrump @tedcruz I would take Knight endorsement any day over pence knight is a real average American. Cruz lays with the GOPe.
+@realDonaldTrump @tedcruz folks it doesn't make a diff. Who endorses Cruz people dont like him he's a liar &amp; backstabber Indy work hard
+@Ajax2847 @HoustonforTrump ca convention for trump than back to Indy
+@fabrightwing @LOYALtoTRUMP @HillaryClinton don't forget these are the kind of people that want Hillary because that's what she stands for!
+@mann_cmann1008 @jackson3pack @marklevinshow you must not know Bobby knight that well retard
+@Tree65Jackson that's usually the way it goes change is hard for some but than you have ur usual bunch of crybabies too.
+@Campaign_Trump @coreystrickla10 @realDonaldTrump @DanScavino yea that was a wild pumped up crowd glad to see all walks of life for Trump

@@ -1,0 +1,35 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 705130343209295872, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/705131641023373312/n7dZwKJr_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 349, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""705130343209295872"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 425, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @QueLeer: #YoSoyDeAqu\u00ed y me encanta acompa\u00f1ar mi lectura con un \""guayoyito\"". https://t.co/9EViWOcQ8U"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727267566050250752, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 102840899, ""indices"": [3, 11], ""id_str"": ""102840899"", ""screen_name"": ""QueLeer"", ""name"": ""\u00bfQu\u00e9Leer?""}], ""hashtags"": [{""indices"": [13, 25], ""text"": ""YoSoyDeAqu\u00ed""}], ""urls"": [], ""media"": [{""source_user_id"": 102840899, ""source_status_id_str"": ""727251375927779328"", ""expanded_url"": ""http://twitter.com/QueLeer/status/727251375927779328/photo/1"", ""display_url"": ""pic.twitter.com/9EViWOcQ8U"", ""url"": ""https://t.co/9EViWOcQ8U"", ""media_url_https"": ""https://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg"", ""source_user_id_str"": ""102840899"", ""source_status_id"": 727251375927779328, ""id_str"": ""727251375487221760"", ""sizes"": {""large"": {""h"": 344, ""resize"": ""fit"", ""w"": 640}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 323, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 727251375487221760, ""media_url"": ""http://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 9, ""id_str"": ""727267566050250752"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""#YoSoyDeAqu\u00ed y me encanta acompa\u00f1ar mi lectura con un \""guayoyito\"". https://t.co/9EViWOcQ8U"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727251375927779328, ""favorite_count"": 19, ""source"": ""<a href=\""http://www.hootsuite.com\"" rel=\""nofollow\"">Hootsuite</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 12], ""text"": ""YoSoyDeAqu\u00ed""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/QueLeer/status/727251375927779328/photo/1"", ""display_url"": ""pic.twitter.com/9EViWOcQ8U"", ""url"": ""https://t.co/9EViWOcQ8U"", ""media_url_https"": ""https://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg"", ""id_str"": ""727251375487221760"", ""sizes"": {""large"": {""h"": 344, ""resize"": ""fit"", ""w"": 640}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 323, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [67, 90], ""type"": ""photo"", ""id"": 727251375487221760, ""media_url"": ""http://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 9, ""id_str"": ""727251375927779328"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""es"", ""created_at"": ""Mon May 02 21:40:14 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/QueLeer/status/727251375927779328/photo/1"", ""display_url"": ""pic.twitter.com/9EViWOcQ8U"", ""url"": ""https://t.co/9EViWOcQ8U"", ""media_url_https"": ""https://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg"", ""id_str"": ""727251375487221760"", ""sizes"": {""large"": {""h"": 344, ""resize"": ""fit"", ""w"": 640}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 323, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [67, 90], ""type"": ""photo"", ""id"": 727251375487221760, ""media_url"": ""http://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""es"", ""created_at"": ""Mon May 02 22:44:34 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 102840899, ""source_status_id_str"": ""727251375927779328"", ""expanded_url"": ""http://twitter.com/QueLeer/status/727251375927779328/photo/1"", ""display_url"": ""pic.twitter.com/9EViWOcQ8U"", ""url"": ""https://t.co/9EViWOcQ8U"", ""media_url_https"": ""https://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg"", ""source_user_id_str"": ""102840899"", ""source_status_id"": 727251375927779328, ""id_str"": ""727251375487221760"", ""sizes"": {""large"": {""h"": 344, ""resize"": ""fit"", ""w"": 640}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 323, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 727251375487221760, ""media_url"": ""http://pbs.twimg.com/media/Che3RdpUgAAksdD.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 21357, ""description"": """", ""friends_count"": 24, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/705131641023373312/n7dZwKJr_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": null, ""name"": ""alicia flores"", ""lang"": ""es"", ""profile_background_tile"": false, ""favourites_count"": 20594, ""screen_name"": ""aliciafloresc21"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Mar 02 20:39:09 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+La extraña belleza de Panerai en Milán https://t.co/CsPsBbKPIz from https://t.co/H9LtPFkXAu vía @Flipboard
+"@Diego_Arria 
+#DICHOESTÀ
+#ESTÀHECHO
+#DIOSESTÀ
+#ANUESTROLADO
+#AMEN"
+Globovision https://t.co/TkcOktixWd
+"@aliciafloresc21 
+#CONFIRMADO
+#ENTREGARONLASFIRMAS
+#6A.M.
+#EVITANDOPROBLEMAS
+#0CAOS
+#CNERECIBIÒ
+#TERCERAVEZ
+#CNELEGAL
+#PRESIDENTAlegal"
+"@ElNacionalWeb 
+@aliciafloresc21 
+#UnHUEVO
+#LOL"
+"@EGBecerra 
+#ExcelenteNovela
+#CasiAgotada"
+"@EnriqueGªBecerra
+#Autor
+#ElSecretoDeLaCatedral
+#ExcelenteNovela
+#PrimeraEdiciòn
+#AgotadaTotalmente
+#Recomendada
+#porMuchos
+#FelizDìa"

@@ -1,0 +1,80 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2988739294, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/646404241075007488/H9CvLbhP_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/0bDmitLjWu"", ""indices"": [0, 22], ""expanded_url"": ""http://ananimecalledboku.tumblr.com"", ""display_url"": ""ananimecalledboku.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 64, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2988739294"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @worddiction: https://t.co/4smu81lX8Z"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726839379080048640, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 454939382, ""indices"": [3, 15], ""id_str"": ""454939382"", ""screen_name"": ""worddiction"", ""name"": ""worddiction""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 2354128850, ""source_status_id_str"": ""716844503739588609"", ""expanded_url"": ""http://twitter.com/PoemsPorn/status/716844503739588609/photo/1"", ""display_url"": ""pic.twitter.com/4smu81lX8Z"", ""url"": ""https://t.co/4smu81lX8Z"", ""media_url_https"": ""https://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg"", ""source_user_id_str"": ""2354128850"", ""source_status_id"": 716844503739588609, ""id_str"": ""716844503487930368"", ""sizes"": {""large"": {""h"": 557, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 253, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 446, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 716844503487930368, ""media_url"": ""http://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 243, ""id_str"": ""726839379080048640"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""https://t.co/4smu81lX8Z"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726565623116009472, ""favorite_count"": 557, ""source"": ""<a href=\""http://bufferapp.com\"" rel=\""nofollow\"">Buffer</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 2354128850, ""source_status_id_str"": ""716844503739588609"", ""expanded_url"": ""http://twitter.com/PoemsPorn/status/716844503739588609/photo/1"", ""display_url"": ""pic.twitter.com/4smu81lX8Z"", ""url"": ""https://t.co/4smu81lX8Z"", ""media_url_https"": ""https://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg"", ""source_user_id_str"": ""2354128850"", ""source_status_id"": 716844503739588609, ""id_str"": ""716844503487930368"", ""sizes"": {""large"": {""h"": 557, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 253, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 446, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 716844503487930368, ""media_url"": ""http://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 243, ""id_str"": ""726565623116009472"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 01 00:15:18 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2354128850, ""source_status_id_str"": ""716844503739588609"", ""expanded_url"": ""http://twitter.com/PoemsPorn/status/716844503739588609/photo/1"", ""display_url"": ""pic.twitter.com/4smu81lX8Z"", ""url"": ""https://t.co/4smu81lX8Z"", ""media_url_https"": ""https://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg"", ""source_user_id_str"": ""2354128850"", ""source_status_id"": 716844503739588609, ""id_str"": ""716844503487930368"", ""sizes"": {""large"": {""h"": 557, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 253, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 446, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 716844503487930368, ""media_url"": ""http://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 01 18:23:06 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2354128850, ""source_status_id_str"": ""716844503739588609"", ""expanded_url"": ""http://twitter.com/PoemsPorn/status/716844503739588609/photo/1"", ""display_url"": ""pic.twitter.com/4smu81lX8Z"", ""url"": ""https://t.co/4smu81lX8Z"", ""media_url_https"": ""https://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg"", ""source_user_id_str"": ""2354128850"", ""source_status_id"": 716844503739588609, ""id_str"": ""716844503487930368"", ""sizes"": {""large"": {""h"": 557, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 253, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 446, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 716844503487930368, ""media_url"": ""http://pbs.twimg.com/media/CfK-RyWW4AAfVo0.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1275, ""description"": ""Hey I'm Finny! 21/WA [this Twitter will contain mentions of drug use so if that is something that bothers you please do not follow!]"", ""friends_count"": 226, ""location"": ""Seattle, WA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/646404241075007488/H9CvLbhP_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2988739294/1424920853"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Finnigan Gregory"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2692, ""screen_name"": ""FinniganGregory"", ""notifications"": false, ""url"": ""http://t.co/0bDmitLjWu"", ""created_at"": ""Wed Jan 21 03:01:17 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@bpderen  https://t.co/RdNDwdsvQd
+Tfw you like a million of some1s tweets because u didn't realize you were still on their page;; haha let me die #awkward
+@themickispecial aww bb I would have
+@saucepantsu KITKAT NO
+@ddlovato I'm so sorry ; v;
+@SnoopDogg !!!! https://t.co/cEXdSvdxHF
+I met @SnoopDogg today and he laughed when I showed him the tweet we dressed for and Lyz and I took pictures and he was really cool!!
+@SnoopDogg Be ready for a hella bomb surprise!! Can't wait to meet you at Have A Heart!!
+@saucepantsu ITS TOO DAMN HOT
+@saucepantsu N O
+@5161x same reason I unfollowed her
+@JUDiJAiKRAZi damn son
+@thediaryofluna hey lovely!! Happy to see you on Twitter!!
+I PAINTED FOR THE SECOND TIME EVER AND ITS AMAZING???? WTF #StevenUniverse #painting #art https://t.co/o3BCTVttWI
+(Omg the text was auto gen'd is this forreal??) Anxiously waiting for my #Okariino wallpaper from @TargetStyle https://t.co/iCOOpN46cw
+@bpderen  https://t.co/Ehqx54pVAS
+"@JUDiJAiKRAZi if you ever come to Seattle, Burger Town in renton has the BEEEEEEST burgers they're so good"
+@brit_ferrari Girl lemme tell you it's so much more worth it when you do it w someone who's 💯 w u
+@Blu1x Blu... das gay 😳😆😳😆😇
+"@brit_ferrari fuckin same tho I'm laughing so much 
+Old Facebook more like Moldy FB amirite??"
+@bpderen destroy all minions tbh
+"@Blu1x then take a nap, girl!"
+@JUDiJAiKRAZi I found you miss new booty~🙏🏽👌🏼🙏🏽 https://t.co/TurzpKJBCE
+LRT @bpderen
+@inverticity you matter so much; I hope you're okay ; v;
+https://t.co/GfJmbqpRhn
+LRT damn...
+@egoraptor Arin u got it mixed up w 420 b r u h #unculturedswine #weedconnoisseur #thisisajoke
+@PlinaGanucheau your dude is adorable
+@JUDiJAiKRAZi It's rly hard to have wild ass emotions and learning more about BPD helped me cope so much!
+@JUDiJAiKRAZi Hey! I was wondering if you ever looked into Borderline? It's 1:20 people and a lot of what you deal with sounds like my stuff
+@Blu1x why parents gotta be like that?? Have some chill and just talk about the weather bruh
+@JUDiJAiKRAZi WHAT A CUTE PUP!!! AAAAA
+@BabyDada123 @Blu1x girl did you mean me every day? I show all my friends how fly Blu is by havin them watch 12❣
+@JUDiJAiKRAZi (c) make yourself and them happy by being with all of them!
+"@JUDiJAiKRAZi So like... Idk if you love them all and wouldn't love any of them less even if you committed to one of them, then why not(c)"
+"@JUDiJAiKRAZi It's really easy to force yourself into a monogamous box where you ""have to choose one"" and it doesn't have to be that way"
+"@JUDiJAiKRAZi be polyamorous! Talk to them and see if they would be okay with sharing you, communicate any jealousy issues that may arise!"
+@JUDiJAiKRAZi Judi darlin there's nothing wrong with being like you. It just means you can be prepared to help support that child 💯%!!
+"@saucepantsu just all that... *sweating* ppppounding,,,"
+@saucepantsu I can't fuckin believe Kat's daddio is sHREK
+@5161x tru luv
+"@Blu1x @InsideAysia Blu you about to get your ass spanked if you keep messin w Aysia, HAHAHA!! #jkilyall"
+"@InsideAysia Hey! Just want you to know you're important and loved!! I hope you're having an awesome day, Aysia❣💚 You're a sweetheart!"
+LRT @bpderen DUDE
+"@ddlovato count on you to keep yourself up with your own music, haha. Try to sleep though; you're a busy one and need to keep healthy! &lt;3333"
+@Blu1x But satisfaction brought it back ;3
+"@Blu1x I admire you for your flaws as well as your talents, and I love your perspective on a lot of different stuff, y'know?"
+@Blu1x I understand if you think I'm just some thirsty bitch because I ain't even met you irl but that's just cause we ain't got the chance!
+@Blu1x I'm rewatching #Season12 of #BGC and honestly I wish that we could talk because I hella jive with a lot of your struggles
+Is this Alphys? https://t.co/yuIoPahtnW
+@CodePiruruku fUCK
+Fuck #Conscomingup #goddamn #HorseShapedHickie https://t.co/HRmDPj1nI0
+@Blu1x gurl you hardly look past 24 stfu hahaha 👅👅🍰🎂 Happy Birthday to my favorite Bad Girl!
+Being an adult is really hard
+@ddlovato I'm sorry for ranting about this but we can't afford to have someone like her in office and I'm a huge fan of you so it kills me
+@ddlovato Bernie stood with Martin Luther King Jr. and fought for what's right even at the expense of his own safety; he fights for us all
+@ddlovato people like me are literally struggling because of her shady actions in the past and even now
+@ddlovato You're a huge inspiration in my life and I don't wanna see you fall into the trap of voting for someone who's money motivated
+"@ddlovato I'm all about female empowerment but Hillary Clinton is so dishonest and self-motivated, we don't need someone like that"
+@ddlovato Demi real talk you should honestly look more into #BernieSanders
+@bpderen y not? https://t.co/59EZiCeW1m
+@bpderen you know you love me~ https://t.co/4svXtq3Xp2
+@bpderen https://t.co/w5bLfTCnA5
+@bpderen https://t.co/lsYD3woqF1
+@bpderen I thought about u while taking a shit that's how much I love u
+@bpderen I miss u
+Jk I'm okay I'm just upset because I have the shits
+Damnnnnnn Finni back at it again with the depression and self-deprecation!
+@Blu1x that's some short notice holy shit
+Does anyone even miss me lol
+@saucepantsu I have an iPhone 5s and its pretty bomb
+@lkebukuro YOURE MY FAVORITE HOMOLORD
+@lkebukuro I LOVE U I MISS UR ENTIRE EVERYTHING
+@bpderen LRT IS IZAYA
+Took 450mg THC and smoked a couple bowls. Rip in pieces hahhha
+LRT hey it's @bpderen
+@JUDiJAiKRAZi you look like Marilyn Monroe!!

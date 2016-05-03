@@ -1,0 +1,61 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4700477725, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/710115234468352002/YXq5oZvw_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2113, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4700477725"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 70, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @thelegacy09: @piercearrow33 @NPR https://t.co/5XiuLL9s4B"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727291863250685957, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 60694055, ""indices"": [3, 15], ""id_str"": ""60694055"", ""screen_name"": ""thelegacy09"", ""name"": ""Mary""}, {""id"": 38976017, ""indices"": [17, 31], ""id_str"": ""38976017"", ""screen_name"": ""piercearrow33"", ""name"": ""Captain Kilowatt""}, {""id"": 5392522, ""indices"": [32, 36], ""id_str"": ""5392522"", ""screen_name"": ""NPR"", ""name"": ""NPR""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 60694055, ""source_status_id_str"": ""727197001889157120"", ""expanded_url"": ""http://twitter.com/thelegacy09/status/727197001889157120/photo/1"", ""display_url"": ""pic.twitter.com/5XiuLL9s4B"", ""url"": ""https://t.co/5XiuLL9s4B"", ""media_url_https"": ""https://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg"", ""source_user_id_str"": ""60694055"", ""source_status_id"": 727197001889157120, ""id_str"": ""727197000974749696"", ""sizes"": {""large"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""small"": {""h"": 415, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [37, 60], ""type"": ""photo"", ""id"": 727197000974749696, ""media_url"": ""http://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 18, ""id_str"": ""727291863250685957"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@piercearrow33 @NPR https://t.co/5XiuLL9s4B"", ""is_quote_status"": false, ""in_reply_to_status_id"": 727194121765527552, ""id"": 727197001889157120, ""favorite_count"": 14, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 38976017, ""indices"": [0, 14], ""id_str"": ""38976017"", ""screen_name"": ""piercearrow33"", ""name"": ""Captain Kilowatt""}, {""id"": 5392522, ""indices"": [15, 19], ""id_str"": ""5392522"", ""screen_name"": ""NPR"", ""name"": ""NPR""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/thelegacy09/status/727197001889157120/photo/1"", ""display_url"": ""pic.twitter.com/5XiuLL9s4B"", ""url"": ""https://t.co/5XiuLL9s4B"", ""media_url_https"": ""https://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg"", ""id_str"": ""727197000974749696"", ""sizes"": {""large"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""small"": {""h"": 415, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [20, 43], ""type"": ""photo"", ""id"": 727197000974749696, ""media_url"": ""http://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg""}]}, ""in_reply_to_screen_name"": ""piercearrow33"", ""in_reply_to_user_id"": 38976017, ""retweet_count"": 18, ""id_str"": ""727197001889157120"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""38976017"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 18:04:10 +0000 2016"", ""in_reply_to_status_id_str"": ""727194121765527552"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/thelegacy09/status/727197001889157120/photo/1"", ""display_url"": ""pic.twitter.com/5XiuLL9s4B"", ""url"": ""https://t.co/5XiuLL9s4B"", ""media_url_https"": ""https://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg"", ""id_str"": ""727197000974749696"", ""sizes"": {""large"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""small"": {""h"": 415, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [20, 43], ""type"": ""photo"", ""id"": 727197000974749696, ""media_url"": ""http://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Tue May 03 00:21:07 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 60694055, ""source_status_id_str"": ""727197001889157120"", ""expanded_url"": ""http://twitter.com/thelegacy09/status/727197001889157120/photo/1"", ""display_url"": ""pic.twitter.com/5XiuLL9s4B"", ""url"": ""https://t.co/5XiuLL9s4B"", ""media_url_https"": ""https://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg"", ""source_user_id_str"": ""60694055"", ""source_status_id"": 727197001889157120, ""id_str"": ""727197000974749696"", ""sizes"": {""large"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""small"": {""h"": 415, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 369}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [37, 60], ""type"": ""photo"", ""id"": 727197000974749696, ""media_url"": ""http://pbs.twimg.com/media/CheF0czUUAAZFRi.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 48220, ""description"": ""We need a common sense president, that is not beholden to donors, special interests, and lobbyists. A true executive for the interests of all Americans."", ""friends_count"": 1119, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/710115234468352002/YXq5oZvw_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4700477725/1458139639"", ""profile_background_image_url"": null, ""name"": ""Tony Sanky"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 34369, ""screen_name"": ""tony_sanky"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Jan 03 04:17:42 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"Cruz supporters were antiestablishment, but Cruz fooled them to support the establishment they so much hated  https://t.co/dKEpZvc2xh"
+"U did not pay enough attention, as it appears he fooled U!  https://t.co/dKEpZvc2xh"
+Trump is a truly remarkable individual https://t.co/xi9HDE6lvP
+Awesome video!  https://t.co/dOzPH6MdBI
+@IngridItt4  https://t.co/dOzPH6MdBI
+@IngridItt4  https://t.co/WHTfgpX48J
+Lucky u! Congrats!  https://t.co/jalgWerJdM
+"No one has had more media attacks than Trump, but he managed the media like a pro https://t.co/8hOwwcWcbM"
+@RLeePip @WDFx2EU @mikepfingston2 Lyin TED always has some kind OMG excuse
+@Stray_Cat_M @aflaherty73 @colleengourd @HaleyTessIsis @jtmoney1981&lt;---maybe @RichardTBurnett accidentally blocked u
+@jtmoney1981 @Stray_Cat_M @aflaherty73 @colleengourd @HaleyTessIsis u must be blocked by @RichardTBurnett
+"@Stray_Cat_M @jtmoney1981 @aflaherty73 @colleengourd @HaleyTessIsis yes, I don't get it either, please can u explain?"
+"Funny how Cruz is lying, and twisting facts with these folks too, shameless  https://t.co/93MarAnG0F"
+@grandmaj2 @john_bonvardo he's like a bad cold that won't go away
+"@Patrici15767099 @Campaign_Trump Cruz's campaign is all fake and a lie, all of it,"
+"Wow, everything cruz is fake and rehearsed  https://t.co/URdAsdAIVf"
+"@Patrici15767099 @Campaign_Trump wow, everything Cruz does is fake and rehearsed"
+Lyin TED is Lying and Twisting facts  https://t.co/qFTf4bEk5F
+@MichaelCalvert9 @GovMikeHuckabee @majordomo https://t.co/FZEOIdhIc4
+@MichaelCalvert9 @GovMikeHuckabee @majordomo https://t.co/lROGGrME2H
+@MichaelCalvert9 @GovMikeHuckabee @majordomo https://t.co/cmRGibQR4V
+@MichaelCalvert9 @GovMikeHuckabee @majordomo https://t.co/enIDw84IZM
+@Donnydinker @GovMikeHuckabee https://t.co/IQcFVE0Qso
+@Donnydinker @GovMikeHuckabee look at #8 https://t.co/JpnAWLAiFc
+@Donnydinker @GovMikeHuckabee wake up folks! https://t.co/zXLxy79AGp
+@Donnydinker @GovMikeHuckabee https://t.co/iUDer3BP2z
+"LYIN TED, he was even lying to these guys  https://t.co/8rSzS306hL"
+"Most views have been the same, some have evolved, no different than Reagan https://t.co/KpLKG3BxI0"
+Cruz has done nothing for conservatives except for talking BS  https://t.co/zCNdmGxDio
+Cruz has done nothing  https://t.co/zCNdmGxDio
+"U mean how he helped Reagan get elected twice, helped Bush Sr. Helped MCCain and Romney. Not sure U have the facts  https://t.co/b3D5PncOgf"
+"I don't know, at the rate Cruz is going he may just beat him@ https://t.co/0GwdhiTgTR"
+"So what? What matters R his views, they're diametrically opposed to Hillary's  https://t.co/vS8f3M32WR"
+U want to talk about ethics? Cruz is the most unethical person I have ever seen in public life  https://t.co/9tmUy01pq2
+"It was not very much, and apparently it was for the foundation. He fully Supported Romney and McCain  https://t.co/KNBtvWs71R"
+The Truth About Ted Cruz @caltanzee  https://t.co/MJds1iTrww
+Cruz vs McConnell was a false flag attack @caltanzee  https://t.co/S5b1kh8ZPS
+Cruz PACs Paid Talk Radio Insider $8 Million Dollars – @caltanzee  https://t.co/IqzSe817D0
+Ted and Heidi Cruz – An Introduction @caltanzee  https://t.co/N02ZtiavVM
+"Cruz pretended to fight obamacare, when he knew What the outcome was going to be  https://t.co/D2WQCDKvtE"
+"Cruz is a globalist bush neocon, it is clear by the folks he is surrounded by  https://t.co/D2WQCDKvtE"
+"Cruz pretended to fight McConnell, when it was actually a false flag attack.  https://t.co/D2WQCDKvtE"
+"Cruz has pretended to be an outsider, when it is completely the opposite.  https://t.co/D2WQCDKvtE"
+"It is worse to deceive, and pretend Ur for something else, like Cruz has done.  https://t.co/D2WQCDKvtE"
+@PaulAMarketos https://t.co/cPwQlNYrkR
+"Trump is a businessman, they have to get things done, speaking well if someone doesn't mean one shares views.  https://t.co/D2WQCDKvtE"
+Ted Cruz Lies SIX Times in Under Four Minutes! @caltanzee  https://t.co/y5MFLqxFPS
+Ted Cruz Lies TEN Times in Under FIVE Minutes! @caltanzee  https://t.co/fp8kJimQAZ
+"That's what Cruz lies about, it sure sounds like u have not heard him speak https://t.co/D2WQCDKvtE"
+"Her name is on it, Architect is pretty accurate, this lady is not a secretary at the CFR, she is fully in it  https://t.co/V7PpxjegQh"
+"This meme is based on facts! Not sure why deny the facts, Heidi was in the CFR and worked on the NAU https://t.co/r6rsd47wAj"
+"We've known Trump for 40 years, for the most part, same message since interview in 1980 and subsequent ones https://t.co/r6rsd47wAj"
+"Bless ur heart, classic insulting Nevertrump response, no argument!  https://t.co/ws0gd1oHd0"
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/L4AG9LR1vf
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/UQnPyoIOl1
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/KeR9NBc2rh
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/s7gonY6wpH
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/UWqfUMWq4G
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/92NB3uJAHM
+@teaksoldier @john_kraak @Scully64 @mitchellvii https://t.co/deyHGcL2WD

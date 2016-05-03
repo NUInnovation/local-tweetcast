@@ -1,0 +1,113 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 1441113806, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/461564163525840896/0i6-EEtm_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/AjCiUwFLyD"", ""indices"": [0, 22], ""expanded_url"": ""http://tinyurl.com/mpe5dqb"", ""display_url"": ""tinyurl.com/mpe5dqb""}]}, ""description"": {""urls"": [{""url"": ""http://t.co/tmnJliJ92e"", ""indices"": [110, 132], ""expanded_url"": ""http://tinyurl.com/voicesofthevets"", ""display_url"": ""tinyurl.com/voicesofthevets""}]}}, ""followers_count"": 6274, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""1441113806"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 156, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @MrToddStarkey: #SemperFiMonday  @CharlesLM3 @MarineRecon0321 @valorofamarine @USMCJuanCarlos @ColdWarVet1975 @4yourvets @TeamAussiePups\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727117248440070144, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2369853892, ""indices"": [3, 17], ""id_str"": ""2369853892"", ""screen_name"": ""MrToddStarkey"", ""name"": ""Todd Starkey""}, {""id"": 1583706036, ""indices"": [36, 47], ""id_str"": ""1583706036"", ""screen_name"": ""CharlesLM3"", ""name"": ""chuck""}, {""id"": 1561472899, ""indices"": [48, 64], ""id_str"": ""1561472899"", ""screen_name"": ""MarineRecon0321"", ""name"": ""USMCRECON""}, {""id"": 1561423087, ""indices"": [65, 80], ""id_str"": ""1561423087"", ""screen_name"": ""valorofamarine"", ""name"": ""HOTAKI""}, {""id"": 1510427534, ""indices"": [81, 96], ""id_str"": ""1510427534"", ""screen_name"": ""USMCJuanCarlos"", ""name"": ""#NoProgressive's""}, {""id"": 1450324590, ""indices"": [97, 112], ""id_str"": ""1450324590"", ""screen_name"": ""ColdWarVet1975"", ""name"": ""TP1957""}, {""id"": 1441113806, ""indices"": [113, 123], ""id_str"": ""1441113806"", ""screen_name"": ""4yourvets"", ""name"": ""4yourvets""}, {""id"": 1349911075, ""indices"": [124, 139], ""id_str"": ""1349911075"", ""screen_name"": ""TeamAussiePups"", ""name"": ""Cindy""}, {""id"": 1327861206, ""indices"": [139, 140], ""id_str"": ""1327861206"", ""screen_name"": ""wwdisme"", ""name"": ""Bill Dawson""}], ""hashtags"": [{""indices"": [19, 34], ""text"": ""SemperFiMonday""}], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""727117248440070144"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""#SemperFiMonday  @CharlesLM3 @MarineRecon0321 @valorofamarine @USMCJuanCarlos @ColdWarVet1975 @4yourvets @TeamAussiePups @wwdisme"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727115265142562816, ""favorite_count"": 4, ""source"": ""<a href=\""https://market.android.com/details?id=com.msi.followhelper\"" rel=\""nofollow\"">Android Follow Friday Assistant</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1583706036, ""indices"": [17, 28], ""id_str"": ""1583706036"", ""screen_name"": ""CharlesLM3"", ""name"": ""chuck""}, {""id"": 1561472899, ""indices"": [29, 45], ""id_str"": ""1561472899"", ""screen_name"": ""MarineRecon0321"", ""name"": ""USMCRECON""}, {""id"": 1561423087, ""indices"": [46, 61], ""id_str"": ""1561423087"", ""screen_name"": ""valorofamarine"", ""name"": ""HOTAKI""}, {""id"": 1510427534, ""indices"": [62, 77], ""id_str"": ""1510427534"", ""screen_name"": ""USMCJuanCarlos"", ""name"": ""#NoProgressive's""}, {""id"": 1450324590, ""indices"": [78, 93], ""id_str"": ""1450324590"", ""screen_name"": ""ColdWarVet1975"", ""name"": ""TP1957""}, {""id"": 1441113806, ""indices"": [94, 104], ""id_str"": ""1441113806"", ""screen_name"": ""4yourvets"", ""name"": ""4yourvets""}, {""id"": 1349911075, ""indices"": [105, 120], ""id_str"": ""1349911075"", ""screen_name"": ""TeamAussiePups"", ""name"": ""Cindy""}, {""id"": 1327861206, ""indices"": [121, 129], ""id_str"": ""1327861206"", ""screen_name"": ""wwdisme"", ""name"": ""Bill Dawson""}], ""hashtags"": [{""indices"": [0, 15], ""text"": ""SemperFiMonday""}], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""727115265142562816"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""und"", ""created_at"": ""Mon May 02 12:39:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""und"", ""created_at"": ""Mon May 02 12:47:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -21600, ""statuses_count"": 27435, ""description"": ""Disabled Veteran, Family Man, Singer, Songwriter, Entertainer, Volunteer, Former Host Of Voices Of The Vets ( http://t.co/tmnJliJ92e) . #justunfollow"", ""friends_count"": 6704, ""location"": ""Helena, Montana"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/461564163525840896/0i6-EEtm_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1441113806/1398880373"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""4yourvets"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 15286, ""screen_name"": ""4yourvets"", ""notifications"": false, ""url"": ""http://t.co/AjCiUwFLyD"", ""created_at"": ""Sun May 19 12:51:15 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": ""Mountain Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@MrToddStarkey @CharlesLM3 @MarineRecon0321 @valorofamarine @USMCJuanCarlos @ColdWarVet1975 @TeamAussiePups @wwdisme #SemperFiMonday
+@catwahler @SoundCloud GM Cathy TYVM for your Continued &amp;Outstanding Support of America's Heroes!
+@JVC341 @popstherock33 @dave_usmc @DarrelBow #MilitaryMonday Semper Fi Marines Devil Dogs until we Die
+@LobomundoUno @USMCJuanCarlos @MadDog20470 @JohnVassNascar @bobf46186 @Mike_USPatriot @RobMcCarthyJr  GM brother #MilitaryMonday GBTA&amp;USA
+"@WilliamMScherer thanks for follow God bless U&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@foxandfriendsFNC  Amazing bho  to STUPID WRITE own BS has Trump haters WRITE crap on  Trump show's BIG IGNORANT&amp;INCOMPETENT IDIOT bho is
+"@foxandfriendsFNC  ASSHOLES with R country in DIRE STRAITS 21trill debt 95mill unemployed, 51mill FS 308K vet's neglected died&amp;bho LAUGHING"
+"@DANCE99FLA my pleasure this one my most requested song  Father I Couldn't Be Prouder #np on #SoundCloud
+https://t.co/Ro1SJ6Wdxv"
+@DailyZeekulizer @TheFederalist1 China&amp;all R ENEMIES DONT RESPECT OR FEAR USA  bho hrc DISMANTLE DEPLETED&amp;DESTROYED&amp;DEMORALISE R MILITARY
+"@SpecialKMB1969 @CNBC Mr Trump  don't let bho hrc dems&amp;msm HIRED THUGS"" Intimidate him&amp;if DOESN'T STOP&amp;hrc will start getting SAME PROTEST"
+@SpecialKMB1969 @CNBC if ANGRY VIOLENT MOB DOING THIS AT hrc RALLY hrc&amp;bho run&amp;hide&amp;lie like BENGHAZI&amp;bho butt wipe msm  LIE GIVE THEM COVER
+@ffweekend Tucker quit calling hrc bho&amp;dems HIRED 11MIL VANDALS THUGS RIOTERS&amp;ILLEGAL ALIENS PROTESTERS&amp;why aren't COPS USE TEAR GAS ON THEM
+"@ffweekend Elections R RIGGED how bho was ELECTED dems""CONTROL"" msm school's universities&amp;professors newspaper hollywood 11M illegals voting"
+@ffweekend THUGS R PAID BY hrc bho dems&amp;msm intimidate Trump voters LYING BUTCHER BENGHAZI hrc WHORE WINS MILITARY DONT TRUST&amp;WONT SERVE hrc
+@darkhorsenews while DUMB ASS bho DOESN'T CARE he's MORE WORRIED ABOUT GLOBAL WARMING NONSENSE
+"@darkhorsenews thanks for follow God bless U &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@catwahler @SoundCloud TY Cathy for Support have great weekend
+@PEACETHAHARDWAY @GunnetteP SADLY bho's DISMANTLING&amp;DEMORALIZING&amp;DEPLETION OF R MILITARY&amp;BUILT UP OF Chinas&amp;Russia don't RESPECT or Fear bho
+@kdealaey @FoxNews STOLE Bill$ FROM VETERAN'S BUDGET reason 308K VETS BETRAYED&amp;DIED WAITING CARE WHILE bho hrc dems CARE&amp;HOUSE isis refugees
+@steph93065 @Patriotic_Me @Tamaraw68415067 @guypbenson NO ONE TRUST lying msm ANYMORE plenty HONEST&amp; INFORMED INDEPENDENT REPORTERS ON NET
+@GunnetteP @Cameron_Gray  America's Heroes Rolling over in their Graves WHAT bho hrc&amp;dems&amp; DISHONEST HIRED GUN msm DIVIDED&amp;DESTROYED USA
+@vmpcott @NahBabyNah @nickmontell @smleinart @tedcruz @thedailybeast TRUMP DIDN'T SERVE But HE DID SAME ALMOST EVERY DEM&amp; GOP REP&amp;SEN DID
+@vmpcott @nickmontell @NahBabyNah @smleinart @tedcruz @YouTube Video 2008&amp;BEFORE hrc SOS&amp;4MURDERED ABANDONED&amp;SILENCED 33SURVIVORS BENGHAZI
+"@Cameron_Gray @GunnetteP YEP hrc bho's BEST WEAPON&amp;BIGGEST THREATto USA LYING butt wipe msm hrc bho HIRED""THUG'S"" DISRUPT&amp;DESTROY&amp;VANDALIZE"
+"@America'snewsroom Quit calling these Animal's Protesters THEIR HIRED THUGS ""TERRORIST"" BEING PAID BY hrc bho soros hollywood TO STOP TRUMP"
+"@America'snewsroom Will Ferrell ""SCUMBAG"" WORTHLESS NO TALENT POS U WILL SUFFER  SAME karma WILL PAY U VISIT INFLICT U WITH ALZHEIMER'S"
+@America'snewsroom Women 4 CROOKED hrc ABANDONED 36 Benghazi&amp;LOST IRAQ NEGLECT&amp;KILLED DENIED CARE308K Vets NO ONE TRUST OR SERVE Lying hrc
+@CavalryLife my pleasure brother all us Veteran's Unit&amp;Stand Together&amp; Support R Troops Serving&amp;Veterans ABANDONED&amp;NEGLECTED by bho hrc&amp;dems
+"@bugnurse970 thanks for favorite God bless you&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@sharon4marie my pleasure was Honor&amp;Privilege serve R Great country!
+@JohnFromCranber @kyliving @BreitbartNews We saw hrc COMPLETE INCOMPETENCE hrc is cofounder&amp;bho of ISIS their RETREAT&amp;LOSS IRAQ VICTORY
+@foxandfriendsFNC bho LEGACY WORSE PRESIDENT DIVIDED USA Lost War Iraq 20tril Debt 95mil unemployed 50mil FS BETRAY 308Kvets neglected&amp;died
+"@NahBabyNah @nickmontell 
+@smleinart @vmpcott @tedcruz He LOVES R TROOPS&amp;will bring JUSTICE SANITY&amp;LAW ORDER BACK when bho&amp;hrc STAND TRAIL"
+@JVER1 @AwakeDeborah @BreitbartNews DISGRACEFUL &amp;CRIMINAL bho hrc dems ABANDONED&amp;RESPONSIBLE 308K Veteran's DIE ACCOUNTABLE WAITING CARE&amp;NO
+"@BrianOxmanRadio thanks for follow God bless U&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@CavalryLife #thanks4yourservice &amp;follow I salute you another one of America's Heroes GBY&amp;USA #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@sharon4marie thanks for your OUTSTANDING LOVE&amp; support of America's Heroes God bless you &amp;USA #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@nickmontell @NahBabyNah @smleinart @vmpcott @tedcruz BS, Trump Hold bho&amp;hrc ACCOUNTABLE TREASON&amp;DESERTION UNDER FIRE&amp;LYING CONGRESS&amp;AMERICA"
+@JVER1 @AwakeDeborah @BreitbartNews 8yrs bho hrc STEALING VA MONEY&amp;USE MAKING SURE ILLEGAL ALIENS&amp;ISIS REFUGEES R FED&amp;CARE as 308K Vets died
+"@nobamanoway thanks for favorite God bless U &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@catwahler @SoundCloud TY Cathy My love Country&amp;fellow Veterans is my way Sharing&amp;Caring&amp;Raising Moral&amp;Pride of Disabled American Heroes
+@DanielGennaoui thanks for follow God bless you
+"@DroletLinnie thanks for Favorite God bless U &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@catwahler @SoundCloud GE Cathy TY Support I gave my 1680th show Ft Harrison Mt VA hospital 21yrs VOLUNTEERING ENTERTAINING AMERICA'S HEROES
+@specialreport bho LOST R TROOPS VICTORY Retreat Iraq 2011 Against Advice R Generals LEAVE 5KTROOPS bho FIRED GENERALS&amp; 5K Troops Back Iraq
+"@MKANTONIO1 @IndeCardio on bho hrc WATCH 308,000 VETERANS DIED NEGLECTED&amp;ABANDONED DENIED MED CARE&amp;instead TREATED illegals&amp;refugees FIRST"
+@BradleeDean1 Sadly He Already Has PRAY FOR bho Regime hrc&amp;dems WAR ON R MILITARY DISMANTLE DEMORALISED DEPLETED IT PUT USA DIRE STRAITS
+"@America'snewsroom  hrc NEGATIVES R INCOMPETENCE, LYING, DESERTION UNDER FIRE, 308K VETS DIED NEGLECT ON HER WATCH &amp;TRUMPS R HES SUCCESSFUL"
+"@RonnieRSR1 #thanks4yourservice I salute you another one of America's Heroes God bless you &amp;USA #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@sprattsky64 @BigDave74Tex @RichardOBryan 40yrs Liberal Loonies WAR ON AMERICA BAN FAITH,PLEDGE,DISCIPLINE PUNISHMENT&amp;DESTROYED R SCHOOLS"
+"@bluediver28 thanks for follow God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@Blue_Plus_Green thanks for follow God bless U&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@newazgop thanks for follow God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@jlhb45 @porfie_moreno @Charlie12thACS @WaynesThePain @CelticCoyote @navy8r @angs38d @ETTalkShow @ernest_thurston @cbrownx GM Joyce TY!!
+@stevewightman1 RIP USArmy SFC Edward Daniel Reilly Jr
+@FarmerGirl1967 @chuckwoolery @Sahof1 @washingtonpost Your absolutely Right there a long list
+@FarmerGirl1967 @TheFive EXACTLY
+@c5hardtop1999 @AlysiaStern Reason America in DIRE STRAITS bho RUNS FBI CIA HOMELAND SECURITY&amp;HIRED   ENEMY ISLAMIC EXTREMEST HELP RUN THEM
+@chuckwoolery @Sahof1 @washingtonpost because hrc is ABOVE LAW&amp;lynch&amp; DOJ bho ORDERED not to INDICT hrc because bho Coconspirator Same Crime
+"@FarmerGirl1967 #thanks4yourservice proud daughter of another one of America's Heroes GBY&amp;USA #np on #SoundCloud
+https://t.co/ZjfESE3s6G"
+"@X3Breeze @FarmerGirl1967 @PatKell63655699 bho hrc&amp;dems DOING WHAT THEY DO BEST""FAILURE""7yrs Divide&amp;Hate&amp;Exporting jobsAlready put us there"
+@FarmerGirl1967 @Sahof1 @YahooNews more proof bho hrc&amp;dems LYING about&amp;Covering Up Truth bho hrc&amp;Dems COMPLETE FAILED POLICY$20trillion Debt
+"@Sahof1 thanks for favorite God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESE3s6G"
+@stranahan @TheAtlantic What Middle Class! bho hrc&amp;dems Eliminated Middle Class TAXED TO DEATH 2 pay Welfare&amp;Hand outs 4 illegals&amp;refugee
+@foxandfriendsFNC  I'd love C Trump Elected President only way to CLEAN OUT SEWERS OF over paid no talent Military&amp;Veteran HATING SCUM
+@foxandfriendsFNC who'd vote a LYING GREEDY SELFISH DESERTING UNDER FIRE VETERAN NEGLECTING SCANDALOUS&amp;KILLING COVER UP COWARD! THE Enemy
+"@SoloMegaBeatz thanks for follow God bless U &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESE3s6G"
+"@bdmowell thanks for follow God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESE3s6G"
+"@ETTalkShow #thanks4yourservice Semper Fi Marine I salute you America's Heroes God bless you&amp;USA  #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@ernest_thurston #thanks4yourservice I salute you another one of America's Heroes GBY&amp;USA #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@jlhb45 @porfie_moreno @Charlie12thACS @WaynesThePain @CelticCoyote @navy8r @angs38d @ETTalkShow @ernest_thurston @cbrownx #MM Americas best
+@SouthLoneStar @steveveling hrc bho&amp;dems CALL THEM NEW DEMORAT VOTERS
+"@FCVetVillage on bho's watch 2mill Homeless Vets, 308K Died Waiting Care &amp;bho gives11mill illegals&amp;2mill isis homes&amp;care BEFORE  VETERAN'S"
+@JohnKStahlUSA @KarrattiPaul Nothing to finish bho ALREADY SUNK USA Dismantle&amp;Demoralised&amp;DEPLETED R MILITARY&amp;ARMED&amp;PAID R ENEMIES ARMIES
+@Elgianne @USFreedomArmy @oceanbcake because there's no longer  HONEST&amp;FAIR OR LEGITIMATE DOJ&amp;  AG lynch PARDISAN&amp;OWNED&amp;UNDER by bho ORDER'S
+@USFreedomArmy @oceanbcake Yep bho Most Dishonest Corrupted Cheating Secretive&amp;Unconstitutional Country DIVIDING&amp;DESTROYING America ever had
+@eeynouf because bho INCOMPETENCE if America makes it to Election same R Military do happen if DESERTING UNDER FIRE CROOKED hillary WINS
+@thefive  isis has WON incompetent lying POS bho would've left 5000 troops Iraq he now put back instead of RETREATING their wouldn't be isis
+"@america'snewsroom Putin, Kim,&amp;Lee PLAYED&amp;ORDERED bho&amp;hrc IN EVERY ASPECT DISMANTLE R MILITARY&amp;IRAN keep its NUKES&amp; WANT hrc next PRESIDENT"
+@LobomundoUno @ForeverAMarine @RichardOBryan @bobf46186 @JohnVassNascar GM brother #MilitaryMonday Americas Best #thanks4yourservice GBY&amp;USA
+@Boazziz bho hrc&amp;demorats Already Dismantle&amp;Demoralised&amp;Destroyed R Military&amp;if they Disarm America WERE TOAST CHINA RUSSIA N KOREA INVADES
+"@peterjwacks thanks for follow God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@Pammov889 thanks for favorite God bless you &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+@stevewightman1 @Pammov889 RIP USArmy SP4 Albert Burciaga
+"@heard4congress thanks for follow God bless U&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@JackieTheJudge thanks for follow God bless U&amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"
+"@LadiesRoomLIVE thanks for follow God bless U &amp;USA watch over R troops harms way America's Heroes #np on #SoundCloud
+https://t.co/ZjfESDLQI6"

@@ -1,0 +1,87 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 244353098, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725545248621891584/5Ep8ldT5_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 578, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""244353098"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 42, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @253UDUB: Sunday vibes. https://t.co/g7CXTgDLaU"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726982328140984320, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 481032546, ""indices"": [3, 11], ""id_str"": ""481032546"", ""screen_name"": ""253UDUB"", ""name"": ""Shimo""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 481032546, ""source_status_id_str"": ""726920933231841280"", ""expanded_url"": ""http://twitter.com/253UDUB/status/726920933231841280/photo/1"", ""display_url"": ""pic.twitter.com/g7CXTgDLaU"", ""url"": ""https://t.co/g7CXTgDLaU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg"", ""source_user_id_str"": ""481032546"", ""source_status_id"": 726920933231841280, ""id_str"": ""726920835533926400"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [27, 50], ""type"": ""photo"", ""id"": 726920835533926400, ""media_url"": ""http://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""726982328140984320"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Sunday vibes. https://t.co/g7CXTgDLaU"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726920933231841280, ""favorite_count"": 4, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/253UDUB/status/726920933231841280/photo/1"", ""display_url"": ""pic.twitter.com/g7CXTgDLaU"", ""url"": ""https://t.co/g7CXTgDLaU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg"", ""id_str"": ""726920835533926400"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 726920835533926400, ""media_url"": ""http://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""726920933231841280"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 23:47:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/253UDUB/status/726920933231841280/photo/1"", ""display_url"": ""pic.twitter.com/g7CXTgDLaU"", ""url"": ""https://t.co/g7CXTgDLaU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg"", ""id_str"": ""726920835533926400"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 726920835533926400, ""media_url"": ""http://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 03:51:08 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 481032546, ""source_status_id_str"": ""726920933231841280"", ""expanded_url"": ""http://twitter.com/253UDUB/status/726920933231841280/photo/1"", ""display_url"": ""pic.twitter.com/g7CXTgDLaU"", ""url"": ""https://t.co/g7CXTgDLaU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg"", ""source_user_id_str"": ""481032546"", ""source_status_id"": 726920933231841280, ""id_str"": ""726920835533926400"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [27, 50], ""type"": ""photo"", ""id"": 726920835533926400, ""media_url"": ""http://pbs.twimg.com/media/ChaKpgXUcAAYkcZ.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 24614, ""description"": """", ""friends_count"": 509, ""location"": ""Washington"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725545248621891584/5Ep8ldT5_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/244353098/1456286921"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Michelle"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 4658, ""screen_name"": ""_MichelleIsMe_"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jan 29 03:37:07 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"I really recommend Under the Same Moon on Netflix! Incredibly sad, but well acted, and accurate."
+@savstramowski @TinyAcorns @Pinterest haha we may have to give it a while
+@savstramowski @TinyAcorns @Pinterest ok thank you!
+@TinyAcorns @savstramowski @Pinterest hopefully they fix whatever glitch is going on.
+"@savstramowski @Pinterest I'm having the same problem on multiple devices, says log in authorization fail"
+David beats Goliath: Peru locals force US company to scrap multibillion-dollar mining project https://t.co/3N2Ei26cfR
+@seattleprime @SeattleHumane thank you! 😊
+We adopted this beautiful boy today from @SeattleHumane! He's a 3 year old Collie mix ❤️ https://t.co/8ZGtcealIa
+"@brad_evans3 @Zakuani11 what'd you do Brad?! Steal his seat, forget his birthday?"
+Well isn't that interesting.. #HillaryClinton #BernieSanders https://t.co/Fw0OdZBVmM
+If voting with provisional ballot don't claim to be democrat if you never were one #BernieSanders #FeelTheBern  https://t.co/BHOhb9jHlv
+@TyParkerS @BernieSanders yes! Please keep spreading the word! Also please consider phone banking to let those voters know!
+@BernieSanders if not a registered Democrat ask for a provisional ballot and VOTE. Waiting on judge ruling that would count those votes.
+#BernieSanders #FeelTheBern  https://t.co/vKFLpweqtX
+@jazzorion @dhodgs @antmay @moisturizeds GOOOOOD I can't fucking stand her!
+@Gaychel22 that sounds like a nightmare in my opinion haha
+Important for tomorrow's primary in NY #BernieSanders #FeelTheBern #NewYorkPrimary https://t.co/40IRPdSMiP
+Don't underestimate us #FeelsTheBern  https://t.co/SeR1UkjABo
+Love Trumps Hate | Bernie Sanders https://t.co/0alopCOqyb
+@jonharrisonsb I have so many cases of undeveloped film it breaks my heart...
+"Spike Lee's ""Wake Up"" | Bernie Sanders #FeelTheBern #BernieSanders  https://t.co/8Uu90h7nzC"
+"Just finished phone banking for Bernie, intimidating at first but definitely glad I reached some voters in Oregon! #PhoneBankForBernie"
+@danisnotonfire well I am proud of this screenshot...@AmazingPhil @SprinkleofGlitr https://t.co/uENAadW1CP
+"Bernie Sanders - ""We The People"" https://t.co/X2QfpREhFg"
+"@jonharrisonsb these are seriously so beautiful Jon! I love black and white photography, probably more than color."
+"Why am I so horrible at painting my nails? I just tried some simple nail art, and got varnish all over my pillow and hands...BLASPHEMY."
+Media Silent as Massive Protest in D.C. Fills Jails Beyond Capacity https://t.co/POz6sIN9xj
+.@CaptainAmerica I stand with #TeamCap. #TweetMe https://t.co/0E10jyR9aX
+@jonharrisonsb I have a love hate relationship with that movie
+For those whose don't believe in Bernie: Grassroots Ad: Bernie's Message Told By Past Leaders #BernieSanders  https://t.co/cbf5ZHivWj
+Haha most casual goal celebration ever
+Well....ok.
+Make History | Bernie Sanders #FeelTheBern #BernieSanders  https://t.co/X0ULhYPpQZ
+@_MichelleIsMe_ https://t.co/ApaTsfUm76
+"Nothing on Twitter yet, but CNN projects Bernie as the winner of Wyoming caucus. #BernieSanders #WyomingCaucus"
+Wow....what a pathetic attempt to thwart Bernies momentum. Starting to sweat Hillary?   https://t.co/PBcyW3gmuV
+NOOOOO: The Walking Dead: Glenn killed by Negan  https://t.co/nGTR2NARhw
+A Clinton Superdelegate Just Admitted That Hillary Lied About Bernie and Guns (VIDEO) https://t.co/A2DzFLKsVt
+"Super weird going from an iPhone 4 to a 6, it seems huge."
+"@509Kingofkings @Gaychel22 not sure what the conversations about, but I like the supernatural gif 😁"
+"@Gaychel22 yup, I'm there."
+@Gaychel22 he's obviously not well prepared and add the fact that he doesn't actually want to be president? We're screwed if he's elected.
+"@Gaychel22 lol but she talks about how the plan was just to get him far enough to prove he could do it, not because he wants to president."
+Trump strategist explains why she quit his campaign: 'Trump only cares about Trump' https://t.co/TGFPrc1V6V
+@jazzorion wait! So Carol and Morgan and the people who helped them are still out there right? What if they go help the group?..
+@Gaychel22 my too!!! I always wondered why I couldn't even look at a bee hive (besides the obvious reason).
+"@jazzorion not upset, just bummed we had all that awesome build up and tension to lead to a cliffhanger. Obviously we know why they did it."
+"An hour of build up for that?...come on, seriously? #TWDFinale"
+Should probably stay off Twitter until after TWD finale....almost spoiled it for myself after just 5 minutes.
+@CindyVVideo @HillaryClinton how did Bernie steal the delegates? Simply put not enough Hillary delegates showed...that's hardly stealing.
+"Lol exactly, how dare they. #FeelTheBern  https://t.co/8HDzYDGkrO"
+We finally get a win and I only make it home in time to watch the last minute...(at least I got a goody bag) #SoManyKidParties
+"@NYDailyNews @Gaychel22 ""possible"" hate crime?..."
+@_MichelleIsMe_ seriously though I've applied to 10 different places....
+"Why won't no one hire me?!! I'm sane, punctual, WHAT MORE DO THEY WANT?"
+I think this episode solidifies Sam as the most bad a** Winchester..@jarpad
+@BernieSanders this needs to be an official ad https://t.co/IERQNBtUFj
+The most moving and inspirational political ad you will likely ever see... #BernieSanders  https://t.co/IERQNBtUFj
+"Yup, favorite thing on the internet... https://t.co/E8mnnj9nBm"
+Just takes a minute https://t.co/mEAajjDUFC
+"@Shvkxir @JustSolo22 honestly, guys having to pay for everything is such a stupid cliche. What year is it?"
+Something good for the rest of you to wake up to #HIcaucus  https://t.co/rMCJAbrXoM
+"Hats off to everyone who got out to vote, waited in lines, and participated in the grueling #HIcaucus"
+"Full sweep, goodnight everyone. #FeelTheBern  https://t.co/2lvqpjTT90"
+Ha! https://t.co/dyej4sZFjw
+Anyone want a cup of coffee?.. #HIcaucus
+Oh come on https://t.co/2HBdi4lGZh
+https://t.co/fD0I2sGElI
+@Ajianita I only have this one https://t.co/vuO1kjhodh
+@dhodgs @DevolutionMan final results should come in 3 am EST
+@twaggs apparently results won't come in until 1-2 am
+@SeattleJ213 with a sizable gut
+What's going on in Hawaii? Nothing on the news or social media? #caucus
+Washington!!!! https://t.co/I3z9ClbydH
+@SeattleOnside same here! It was my first time. Love hearing that young adults are participating!
+First time ever participating in a Caucus and I'm very glad I did. I hope you all did as well! #iCaucused #WAForBernie
+Roll your asses out of bed and go VOTE. #WAcaucus
+Stand Together --Bernie Sanders https://t.co/TwhmeDHiPX via @YouTube
+Don't forget to go out and vote tomorrow!! #WAcaucus
+"@_MichelleIsMe_ it just happened again today, so essentially going through a pretty crappy day..."
+"I keep getting attached to dogs at the shelter, but they all get adopted before I can get to them. It seriously sucks to get your hopes up.."
+This Saturday! https://t.co/0KMrp38VR8
+A reminder that the Washington State Democratic caucus is THIS Saturday at 10 am.
+"If you're looking for a Netflix recommendation I really loved The Last Days. That is, if you're ok with subtitles."
+"@Gaychel22 of course Rachel, we're sending all of that with love your way."
+"Look at you Vampire Weekend, making me love you more. https://t.co/P2En9zFrCV"

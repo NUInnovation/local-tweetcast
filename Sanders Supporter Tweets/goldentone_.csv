@@ -1,0 +1,141 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4499790759, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/711770032779370496/BrzUNH93_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 157, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4499790759"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @moisemorancy: Brotha Malcolm time! http://t.co/LFZBL5RJA7"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727242443079348224, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 273285129, ""indices"": [3, 16], ""id_str"": ""273285129"", ""screen_name"": ""moisemorancy"", ""name"": ""Moise Morancy""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 341824263, ""source_status_id_str"": ""606636567747162112"", ""expanded_url"": ""http://twitter.com/leyyLuna/status/606636567747162112/video/1"", ""display_url"": ""pic.twitter.com/LFZBL5RJA7"", ""url"": ""http://t.co/LFZBL5RJA7"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg"", ""source_user_id_str"": ""341824263"", ""source_status_id"": 606636567747162112, ""id_str"": ""606635298382938112"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""small"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [39, 61], ""type"": ""photo"", ""id"": 606635298382938112, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 558, ""id_str"": ""727242443079348224"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Brotha Malcolm time! http://t.co/LFZBL5RJA7"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 607552987058348033, ""favorite_count"": 515, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 341824263, ""source_status_id_str"": ""606636567747162112"", ""expanded_url"": ""http://twitter.com/leyyLuna/status/606636567747162112/video/1"", ""display_url"": ""pic.twitter.com/LFZBL5RJA7"", ""url"": ""http://t.co/LFZBL5RJA7"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg"", ""source_user_id_str"": ""341824263"", ""source_status_id"": 606636567747162112, ""id_str"": ""606635298382938112"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""small"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [21, 43], ""type"": ""photo"", ""id"": 606635298382938112, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 558, ""id_str"": ""607552987058348033"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun Jun 07 14:21:34 +0000 2015"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 341824263, ""source_status_id_str"": ""606636567747162112"", ""expanded_url"": ""http://twitter.com/leyyLuna/status/606636567747162112/video/1"", ""display_url"": ""pic.twitter.com/LFZBL5RJA7"", ""url"": ""http://t.co/LFZBL5RJA7"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg"", ""source_user_id_str"": ""341824263"", ""source_status_id"": 606636567747162112, ""video_info"": {""aspect_ratio"": [14, 25], ""duration_millis"": 30027, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/vid/178x320/f514pwF5jtcMaY-s.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/pl/KHY8OxqhFl76LH59.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/pl/KHY8OxqhFl76LH59.mpd"", ""content_type"": ""application/dash+xml""}]}, ""id_str"": ""606635298382938112"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""small"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [21, 43], ""type"": ""video"", ""id"": 606635298382938112, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 21:04:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 341824263, ""source_status_id_str"": ""606636567747162112"", ""expanded_url"": ""http://twitter.com/leyyLuna/status/606636567747162112/video/1"", ""display_url"": ""pic.twitter.com/LFZBL5RJA7"", ""url"": ""http://t.co/LFZBL5RJA7"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg"", ""source_user_id_str"": ""341824263"", ""source_status_id"": 606636567747162112, ""video_info"": {""aspect_ratio"": [14, 25], ""duration_millis"": 30027, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/vid/178x320/f514pwF5jtcMaY-s.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/pl/KHY8OxqhFl76LH59.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/606635298382938112/pu/pl/KHY8OxqhFl76LH59.mpd"", ""content_type"": ""application/dash+xml""}]}, ""id_str"": ""606635298382938112"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""small"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 224}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [39, 61], ""type"": ""video"", ""id"": 606635298382938112, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/606635298382938112/pu/img/ESiCJxJ7_AiI9SD1.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 740, ""description"": """", ""friends_count"": 169, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/711770032779370496/BrzUNH93_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4499790759/1450419730"", ""profile_background_image_url"": null, ""name"": ""Tre'Von Powe"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 468, ""screen_name"": ""goldentone_"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Dec 16 05:52:31 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@MarcusAusten rt
+LIFEEEEEE https://t.co/KzxWmPdCOB
+Hahahahahaha https://t.co/RnVImQoJao
+That's actually fresh @russwest44  https://t.co/KxrY57Rg2o
+And her boyfriend a bitch call'm tyler perry
+She trick for a dollar bill
+@kristsalad I left a while ago! But yeah it's ridiculous 😪
+@kristsalad nope :/ they're going on rolling schedule now.
+@kristsalad okay good! See yah there 👌🏾
+@kristsalad I'm not even running today! 😪😪😪😪 I'm injured I'll be watching though!
+Care
+"@0_Juice_0 @WeDressCuter  it's okay I think I'll get through it, just love her man 😮"
+@0_Juice_0 @WeDressCuter mans out here roasting niggas for being attentive boyfriends 🤔
+"Calm my mind and just read, readdddd"
+@TravisMilbrandt @wwutfxc ayyyyyye!
+Make you feel it
+Hell yes!  https://t.co/VP8bvsmdQ9
+You can catch me in the lounge all four of these days  https://t.co/sOKkXfWdfr
+Sad  https://t.co/5ARUSinHO4
+I miss all my tac niggas
+@0_Juice_0 gets no love now 🤔
+@YesJulz it
+@YesJulz nahhh don't do
+@0_Juice_0 @Christian69MUAH @_TrapDiesel @WhiteJustus I wore that same shit all the time hahaha
+@kristsalad not before I can say hi first 😎
+@kristsalad ayyyyyyyyyyyee thanks girlllllll!! I saw you today ( I was staring) but you didn't look at me so I didn't say wassup!
+It'll never be the same
+@PorQueSenorita hahahahahaha!
+About to get fancy Ron
+"@kristsalad do it at Wilson lol, when I'm making millions I'll be coming back to Wilson to be the track coach"
+From a place where gun shots keep you up more than a whining dog
+Kid
+Stream of conciseness tweets
+Dead ass
+"Your parents didn't love you, it shows by the way you act"
+What yah mean rich
+Ole slithern ass
+🐍🐍🐍🐍
+Got snakes here
+@AndrakeWest @R_foster15 roblobster my nigga
+And when you said you loved me I knew you meant it
+New outlook on somethings now
+"Same number, who's this?"
+My tweets
+"New number, who's this?"
+Lmaoooo https://t.co/Avq7WlihAR
+Sons got a casual for on but thinks he's the freshest thing since Colgate
+Don't wanna deal the naggin girl
+"I need someone I can hold on, lyssiepoo where you at baby"
+"Look me in my eyes, I know what you see. That's me"
+Tweet no text
+Think Ima keep to myself these days
+"And Nikaya, I love you baby girl ❤️"
+"Shout out to my family, my little bro, moms, grandma and my uncle. Always been there, they've all struggle with me"
+"Nah I'm just foolin, I just we can ALL embrace ALL our natural qualities"
+White girls wanna be black so bad getting spray tans making them 10 shades darker
+Black girls wanna be white so bad with that blonde hair/ extentions and white foundation
+Momma hittin my phone askin how I've been
+"You'll never understand, you weren't there, you're not me"
+@WestCoastSoles @YesJulz @dopeboyFIEND lmao rt
+Rs  https://t.co/NOJNlc6ig9
+You bums are real corny
+"Everything bothers me, everyone bothers me"
+@mikey_victory how long are you gonna be there?
+@mikey_victory you're probably the greatest human being on earth! Is there someway we can meet now?
+@mikey_victory OMMMMMMGGGG!!!!!!!
+This boy breathe hotter that freshly microwaved ramen noodle water
+This dude Alex just got a shout out from flotrack  https://t.co/g96GFprXjo
+@SHABBAARAANKS @AirItOutNick lmao wtf!!!!
+"@AveStef29 Avery got the knowledge, his ass is probably b12 deficient, didn't get enough from supplemented cows he eats."
+I hope the man feels dumb
+Claimed his dietitianist girlfriend said so 🤔🤔🤔
+YOU KNOW YAH BOI HAD TO SAY SOMETHING
+This dumb ass just said veganism can kill you
+@0_Juice_0 lol 😭😪🙄
+Lmao western girls love trucker hats
+Might finish my book today :/
+I have something I'll die for
+"I'm sayin, sad though because females develop these insecurities based off the filtered lifestyles of ig females  https://t.co/Umeu5hjcC9"
+"Don't be impressed with these females on ig, that's not them"
+@JaydenFinesse my man J out here Killin it!
+If someone was to ever disrespect Alyssa.... Just know that's on sight
+@Lana_Jaee #pause
+It's all love Carlos
+About to get in that booty hahah
+@Lana_Jaee pass that nigga this way for a couple days 😈
+This dudes pathetic
+Female next time eatin something dank
+You're submissive
+"Not ugly not cute, your face is interesting"
+""" Come tell me I look good, don't just look at me """
+What's the significance of the black church to contemporary African Americans? @NAACP
+"I think, a lot"
+My grades and track = SMH
+🤔🙄 https://t.co/wG55g1KGcl
+#blackexcellence  https://t.co/qQ6FX215E3
+"Little boy, watches the womanization  of his mother and grows up expected to be able to love a woman. All he's ever seen is pain"
+"I'd be the dirt, just natural  https://t.co/BNd2gNRNJW"
+Icy son  https://t.co/zo5CVQFA5K
+@goldentone_ bread?.... Lmao wassup college student
+Yah mama was probably a doo doo mama back in the day
+Bellingham has a different bread of doo doo mamas
+I'm glad Alyssa isn't like you stinky doo doo females out here
+@SHABBAARAANKS @WSHHFANS lil stedman 🙏🏾
+"You the homie you the baddest girl, can you be my nigga"
+Hair line is as much of a throw back as that's so Raven  https://t.co/HH1iIIMNqJ
+This make me want to cry how amazing this is  https://t.co/xDkre7K71i
+@Lana_Jaee right? Like this man walked up too me and told me that bs lol
+On a quest of individuality
+Love
+""" Tre'Von you look so mad, why don't you ever smile """
+There are no heroes where I'm from
+Dead ass like 6 or 8 man
+As a kid I thought I was one conciseness in a world based around
+I just want to save the world man
+I will be great
+@Lana_Jaee I know lol straight fire
+#snapappreciation https://t.co/fQdLF4bKl5
+Getting a 4.0 the quarter
+"You bums stay gassin these dusty ass females, chill my guy"
+That's love man  https://t.co/R1fZu96P2w
+People jeans be looking like they gottem up with Edward scissor hands
+"Girl your shits poppin, fuck that booger eater  https://t.co/Fq4ScmAdYl"
+Everyone at western  https://t.co/aPQceRSTqV
+https://t.co/EKBq8P1AW8 https://t.co/IGsJPVzbOm
+Pleaseeeeeee don't get me started on this kids hair
+The brim of ole boys hat looks dusty as hell
+This man over here smelling like his New Years resolution was to not shower
+Sad. Cuz I know none of y'all can relate
+"ass whoopin's so bad, you be ready to fight God for letting that shit happen"
+*envious  https://t.co/JJIwTfz6Sf
+"@jasminefelicity @Lila_Brandt ahhhh okay, that was hard to tell because of her caption and the fact that I don't know you guys"
+"@Lila_Brandt hella rude, roasted this man for having feelings. Then pointlessly finished him off with the emojis"
+"@X_MartinJones20 @aydinbatess that mans beautiful, just look at those vascular calls"
+#illmindofhopsin8
+Guerrilla intellectuals
+SIU!!!  https://t.co/lboPV29TYW
+How all homo erotic scenes start  https://t.co/ebdvIE4eZe
+*i've developed  https://t.co/F791e1JIgm
+Leave this woman alone people

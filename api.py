@@ -69,16 +69,22 @@ def import_retweeters_from_tweet(tweet_id, supporter_handle):
         print 'checking if', screen_name, 'is a bot...'
         if screen_name not in candidate_supporter_screen_names:
             score = bon.check_account('@' + screen_name)['score']
-            if score < 0.65:
+            if score < 0.40:
+                print 'not a bot! -', score
                 # this means its probably not a bot
                 with open(candidate_supporters[supporter_handle], 'a') as file:
                     file.write(screen_name + '\n')
             else:
                 print screen_name, 'is a bot! -', score
 
-
-
-# import_clear_supporters()
+import_clear_supporters()
 # print match_by_handle(api, 'Parker9_', 10)
 # import_retweeters_from_tweet(713755536236228608, clinton_handle)
+# import_retweeters_from_tweet(724945973353562113, clinton_handle)
+# import_retweeters_from_tweet(722408699290132480, clinton_handle)
+# import_retweeters_from_tweet(718157344656363520, sanders_handle)
+# import_retweeters_from_tweet(713050304707571712, sanders_handle)
+
+# import_retweeters_from_tweet(697465953412468736, cruz_handle)
+
 # import_retweeters_from_tweet(709186515964862464, trump_handle)

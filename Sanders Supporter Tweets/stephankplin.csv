@@ -1,0 +1,46 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 415376817, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/738251990/a648feab685065aaf52ffb7bd32c1a25.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725169479777292288/_cCChYUS_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 283, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""415376817"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @TheOnion: Brita Unveils New In-Throat Water Filters https://t.co/IlZZQTzL3h https://t.co/jFtmz7VkmV"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726821339269468160, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 14075928, ""indices"": [3, 12], ""id_str"": ""14075928"", ""screen_name"": ""TheOnion"", ""name"": ""The Onion""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/IlZZQTzL3h"", ""indices"": [56, 79], ""expanded_url"": ""http://onion.com/1QKatGr"", ""display_url"": ""onion.com/1QKatGr""}], ""media"": [{""source_user_id"": 14075928, ""source_status_id_str"": ""726797586447896576"", ""expanded_url"": ""http://twitter.com/TheOnion/status/726797586447896576/photo/1"", ""display_url"": ""pic.twitter.com/jFtmz7VkmV"", ""url"": ""https://t.co/jFtmz7VkmV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg"", ""source_user_id_str"": ""14075928"", ""source_status_id"": 726797586447896576, ""id_str"": ""726797585919410176"", ""sizes"": {""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 726797585919410176, ""media_url"": ""http://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1264, ""id_str"": ""726821339269468160"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Brita Unveils New In-Throat Water Filters https://t.co/IlZZQTzL3h https://t.co/jFtmz7VkmV"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726797586447896576, ""favorite_count"": 2456, ""source"": ""<a href=\""http://www.socialflow.com\"" rel=\""nofollow\"">SocialFlow</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/IlZZQTzL3h"", ""indices"": [42, 65], ""expanded_url"": ""http://onion.com/1QKatGr"", ""display_url"": ""onion.com/1QKatGr""}], ""media"": [{""expanded_url"": ""http://twitter.com/TheOnion/status/726797586447896576/photo/1"", ""display_url"": ""pic.twitter.com/jFtmz7VkmV"", ""url"": ""https://t.co/jFtmz7VkmV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg"", ""id_str"": ""726797585919410176"", ""sizes"": {""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""photo"", ""id"": 726797585919410176, ""media_url"": ""http://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1264, ""id_str"": ""726797586447896576"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 15:37:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/TheOnion/status/726797586447896576/photo/1"", ""display_url"": ""pic.twitter.com/jFtmz7VkmV"", ""url"": ""https://t.co/jFtmz7VkmV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg"", ""id_str"": ""726797585919410176"", ""sizes"": {""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""photo"", ""id"": 726797585919410176, ""media_url"": ""http://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 17:11:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 14075928, ""source_status_id_str"": ""726797586447896576"", ""expanded_url"": ""http://twitter.com/TheOnion/status/726797586447896576/photo/1"", ""display_url"": ""pic.twitter.com/jFtmz7VkmV"", ""url"": ""https://t.co/jFtmz7VkmV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg"", ""source_user_id_str"": ""14075928"", ""source_status_id"": 726797586447896576, ""id_str"": ""726797585919410176"", ""sizes"": {""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 726797585919410176, ""media_url"": ""http://pbs.twimg.com/media/ChYajbxWgAAKvPk.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 6882, ""description"": ""Certified Pervert / Workaholic / Professional Retard / Part Time Virgin/ Ciroc Enthusiast"", ""friends_count"": 392, ""location"": ""#RNS #$undayGanG"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725169479777292288/_cCChYUS_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/415376817/1461195071"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/738251990/a648feab685065aaf52ffb7bd32c1a25.jpeg"", ""name"": ""token black guy 206"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 4090, ""screen_name"": ""stephankplin"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Nov 18 07:52:59 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+SAY I'M ACTING LIGHTSKIN I CAN'T TAKE YOU NOWHERE
+✈✈ Europe and Africa this summer
+Lookin in the mirror like Dam that ain't my dad is it
+Drinking all day in protest of the Devils lettuce
+@LuluWizz coal Grey or burgundy?
+https://t.co/7VIIuwBjEU
+@aliasaywhat omg
+Live every week like it's shark week
+@princesmaccc thinks smoking cool
+https://t.co/whSwvzfMIo
+Sometimes I want kids
+@GhaazalH meemeemee
+@EChoobaka13 lmaaoo the Internet to quick
+@EChoobaka13 https://t.co/KH26fEZUCc
+Word of the week: pragmatic
+😆😆😆 https://t.co/HLT5xGTSay
+0309 voted 3-2 for bernie! my neighbors are semi feeling the Bern lol
+@xPERSiANPRiNCEx it's happening
+Shittt
+https://t.co/sHwtelJQvu
+😴😴😴😴😴😴😴😴😴😴😴😴😴😴
+https://t.co/Jreh1wtdkR
+"@superbsteelo I was thinking about it lool , get some shroomss mmm"
+Skrrt skrtt skrt like a private school for women
+Still feeling like your on your Donald trump shit? @MacMiller
+Fuk margaritas
+@saddboy69 so down!
+@saddboy69 mine
+@sagelum yupp all sold outt
+Zhuu
+https://t.co/WWRKLw9ich
+https://t.co/0cLWJUD166
+@superbsteelo UNDERWATE SQUADD
+@superbsteelo there we goooo
+https://t.co/cSEZl98SO6
+This new Netflix show is killing me loool
+If you don't like the office then fuck you
+-_-
+https://t.co/Hqn8TOBIkJ
+Time for some music videos
+@jakamous what
+The lyrics in tlop are saving me rn
+This is gunna take a while
+👺
+https://t.co/pTHP63uMdR
