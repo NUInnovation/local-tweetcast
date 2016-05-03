@@ -1,8 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
 <html>
     <head>
-        <title>Reusable Form Demo</title>
+        <title>Local Tweetcast</title>
     </head>
+    <div align="center">
     <body>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
@@ -13,16 +15,33 @@
                 </ul>
             {% endif %}
         {% endwith %}
-        <form action="" method="post">
-            {{ form.csrf }}
- 
-            <div class="input text">
-                {{ form.name.label }} {{ form.name }}
+        <div class="site-wrapper">
+            <div class="site-wrapper-inner">
+                <div class="cover-container">
+                    <div class="masthead clearfix">
+                        <h1 class="masthead-brand">Local Tweetcast</h1>
+                    </div>
+                    <div class="inner cover">
+                        TweetCast Your Vote<br>
+                        What would happen if Twitter decided the 2016 election?<br>
+                        Enter a location to check out its  policial preferences!<br>
+                        <form action="" method="post">
+                            {{ form.csrf }}
+                 
+                            <div class="input text">
+                                {{ form.name.label }} {{ form.name }}
+                            </div>
+                 
+                            <div class="input submit">
+                                <input type="submit" value="Submit" />
+                            </div>
+                        </form>
+                        </div>
+                    </div>
+                </div>
             </div>
- 
-            <div class="input submit">
-                <input type="submit" value="Submit" />
-            </div>
-        </form>
+        </div>
     </body>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    </div>
 </html>
