@@ -3,6 +3,8 @@ from flask import Flask, request, session, g, redirect, url_for, \
 from geopy.geocoders import Nominatim
 from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 import tweepy
+import twitter as tw
+import searching as srch
 
 app = Flask(__name__)
 app.config.from_object('config')
@@ -22,26 +24,25 @@ def hello():
     if request.method == 'POST':
         if form.validate():
             # Save the comment here.
-            loc=request.form['name']
-            geolocator = Nominatim()
-            loc_geo = geolocator.geocode(loc)
-            if loc_geo is not None:
-                return redirect(url_for('results', location=loc_geo))
+            loc= request.form['name']
+            if loc is not None:
+                return redirect(url_for('results', location=loc))
             else:
                 flash('Please enter a valid location.')
-        else:
+        else: 
             flash('Error: All the form fields are required. ') 
     return render_template('hello.html', form=form)
 
 @app.route('/results/<location>')
 def results(location):
-    geolocator = Nominatim()
-            loc_geo = geolocator.geocode(loc)
-            if loc_geo is not None:
-    places = api.reverse_geocode(location.latitude, long= location.longitude)
-    a = api.search(q="",geocode="{0},{1},{2}".format(location.latitude,location.latitude,5))
+    tweets = tw.get_tweets_from_location(api, location)
+    if tweets:
+        users = tw.get_users_from_tweets(api, tweets)
+        if users:
+            corpus = tw.get_tweets_from_users(api, users)
+            res = predict_candidate(corpus, 10)
 
-    return a
+    return str(res + "******" + corpus)
 
 if __name__ == '__main__':
     app.debug = True
