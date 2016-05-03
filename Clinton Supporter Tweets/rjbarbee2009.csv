@@ -1,0 +1,110 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 303521514, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme13/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/378800000657066804/ec415946fed438f9d950949ca22c70f7_normal.jpeg"", ""profile_sidebar_fill_color"": ""FFFFFF"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/BcJuNyGvIE"", ""indices"": [0, 22], ""expanded_url"": ""http://www.lanuevavoz.net"", ""display_url"": ""lanuevavoz.net""}]}, ""description"": {""urls"": []}}, ""followers_count"": 172, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""303521514"", ""profile_background_color"": ""B2DFDA"", ""listed_count"": 12, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BuzzWorthyRadio: #days @PaigeSearcy @oliviakeegann @JamesLastovic #DaytimeEmmys #emmysnatas https://t.co/mJEGOQjjxY"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726862403502141440, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 24837150, ""indices"": [3, 19], ""id_str"": ""24837150"", ""screen_name"": ""BuzzWorthyRadio"", ""name"": ""The Buzzcast""}, {""id"": 380146433, ""indices"": [27, 39], ""id_str"": ""380146433"", ""screen_name"": ""PaigeSearcy"", ""name"": ""Paige Searcy""}, {""id"": 922321080, ""indices"": [40, 54], ""id_str"": ""922321080"", ""screen_name"": ""oliviakeegann"", ""name"": ""Olivia Rose Keegan""}, {""id"": 353897427, ""indices"": [55, 69], ""id_str"": ""353897427"", ""screen_name"": ""JamesLastovic"", ""name"": ""James Lastovic""}], ""hashtags"": [{""indices"": [21, 26], ""text"": ""days""}, {""indices"": [70, 83], ""text"": ""DaytimeEmmys""}, {""indices"": [84, 95], ""text"": ""emmysnatas""}], ""urls"": [], ""media"": [{""source_user_id"": 24837150, ""source_status_id_str"": ""726274300399874048"", ""expanded_url"": ""http://twitter.com/BuzzWorthyRadio/status/726274300399874048/photo/1"", ""display_url"": ""pic.twitter.com/mJEGOQjjxY"", ""url"": ""https://t.co/mJEGOQjjxY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg"", ""source_user_id_str"": ""24837150"", ""source_status_id"": 726274300399874048, ""id_str"": ""726274289742172161"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [96, 119], ""type"": ""photo"", ""id"": 726274289742172161, ""media_url"": ""http://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 11, ""id_str"": ""726862403502141440"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""#days @PaigeSearcy @oliviakeegann @JamesLastovic #DaytimeEmmys #emmysnatas https://t.co/mJEGOQjjxY"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726274300399874048, ""favorite_count"": 60, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 380146433, ""indices"": [6, 18], ""id_str"": ""380146433"", ""screen_name"": ""PaigeSearcy"", ""name"": ""Paige Searcy""}, {""id"": 922321080, ""indices"": [19, 33], ""id_str"": ""922321080"", ""screen_name"": ""oliviakeegann"", ""name"": ""Olivia Rose Keegan""}, {""id"": 353897427, ""indices"": [34, 48], ""id_str"": ""353897427"", ""screen_name"": ""JamesLastovic"", ""name"": ""James Lastovic""}], ""hashtags"": [{""indices"": [0, 5], ""text"": ""days""}, {""indices"": [49, 62], ""text"": ""DaytimeEmmys""}, {""indices"": [63, 74], ""text"": ""emmysnatas""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BuzzWorthyRadio/status/726274300399874048/photo/1"", ""display_url"": ""pic.twitter.com/mJEGOQjjxY"", ""url"": ""https://t.co/mJEGOQjjxY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg"", ""id_str"": ""726274289742172161"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [75, 98], ""type"": ""photo"", ""id"": 726274289742172161, ""media_url"": ""http://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 11, ""id_str"": ""726274300399874048"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sat Apr 30 04:57:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BuzzWorthyRadio/status/726274300399874048/photo/1"", ""display_url"": ""pic.twitter.com/mJEGOQjjxY"", ""url"": ""https://t.co/mJEGOQjjxY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg"", ""id_str"": ""726274289742172161"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [75, 98], ""type"": ""photo"", ""id"": 726274289742172161, ""media_url"": ""http://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 01 19:54:36 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 24837150, ""source_status_id_str"": ""726274300399874048"", ""expanded_url"": ""http://twitter.com/BuzzWorthyRadio/status/726274300399874048/photo/1"", ""display_url"": ""pic.twitter.com/mJEGOQjjxY"", ""url"": ""https://t.co/mJEGOQjjxY"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg"", ""source_user_id_str"": ""24837150"", ""source_status_id"": 726274300399874048, ""id_str"": ""726274289742172161"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [96, 119], ""type"": ""photo"", ""id"": 726274289742172161, ""media_url"": ""http://pbs.twimg.com/media/ChQ-nlmU0AEKc8j.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 1235, ""description"": ""La Nueva Voz is Pomona's ONLY Community Newspaper!  We publish ads, stories and press releases in both English & Spanish.  Please read my blog on our website."", ""friends_count"": 260, ""location"": ""Pomona, CA"", ""profile_link_color"": ""93A644"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/378800000657066804/ec415946fed438f9d950949ca22c70f7_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/303521514/1382912091"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme13/bg.gif"", ""name"": ""Renee Barbee"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 336, ""screen_name"": ""rjbarbee2009"", ""notifications"": false, ""url"": ""http://t.co/BcJuNyGvIE"", ""created_at"": ""Mon May 23 01:07:09 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, May 1st | Get Real LOL News https://t.co/N35qbvdzI2"
+#happybirthday #DickVanDyke with @greg_meng celebrating @iammrvandy's 90th bday! @DaysHayes @nbcdays  https://t.co/RFegO2DeX0
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 30th | Get Real LOL News https://t.co/2XRl7oQaEy"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 30th | Get Real LOL News https://t.co/cQlaQpORfj"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, April 29th | Get Real LOL News https://t.co/xpGnesohdO"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 28th | Get Real LOL News https://t.co/F2R4TaP6pI"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 27th | Get Real LOL News https://t.co/Z41ls0fmxy"
+@people so very sad and tragic!  The world has lost another music legend.  #PurpleRain
+Congratulations @camilabanus on your role on @Mistresses_ABC ! We look forward to watching you rock… https://t.co/W9HsqbRLJR via @SoapShows
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 26th | Get Real LOL News https://t.co/3V7SkTjD5I"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 25th | Get Real LOL News https://t.co/Q15QGtLYaG"
+Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday April 24th | Get Real LOL News https://t.co/e8KCAQvy7V
+Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday April 23rd | Get Real LOL News https://t.co/5dhyfKIZlg
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, April 22nd | Get Real LOL News https://t.co/SjsQLpay6O"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 21st | Get Real LOL News https://t.co/u95mNi1XIC"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 21st | Get Real LOL News https://t.co/9Z0e38l1e5"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 20th | Get Real LOL News https://t.co/sbWT39cFpA"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 20th | Get Real LOL News https://t.co/dN162w8Dhd"
+BBCAN4 Live Feed Updates Archives | Get Real LOL News https://t.co/JkdAt48AWK
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 19th | Get Real LOL News https://t.co/UMNQEDw77F"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 19th | Get Real LOL News https://t.co/caZpvNTjTx"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 18th | Get Real LOL News https://t.co/9HwSY8sSfZ"
+BBCAN4 Live Feed Updates Archives | Get Real LOL News https://t.co/k8dz7j27nk
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, April 17th | Get Real LOL News https://t.co/iRlFDzSNqb"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, April 17th | Get Real LOL News https://t.co/iB9gG7CcJC"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 16th | Get Real LOL News https://t.co/Z5Y2g6II1F"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 16th | Get Real LOL News https://t.co/CQ31NRrHlY"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, April 15th | Get Real LOL News https://t.co/8I2HhM82wS"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, April 15th | Get Real LOL News https://t.co/AURQdw1nmx"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 14th | Get Real LOL News https://t.co/ZbHnBmUPjT"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 14th | Get Real LOL News https://t.co/oWL7aRVxBN"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 13th | Get Real LOL News https://t.co/28jHQhjH9J"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 13th | Get Real LOL News https://t.co/aZ40lIo6PX"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 12th | Get Real LOL News https://t.co/rqtaDBtSYf"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 12th | Get Real LOL News https://t.co/U9YoUkDOmV"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 12th | Get Real LOL News https://t.co/cqNsefn5QD"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 11th | Get Real LOL News https://t.co/p6cyTZHvAr"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 11th | Get Real LOL News https://t.co/n23WcATNsD"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 11th | Get Real LOL News https://t.co/vRhhqD4GMn"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, April 10th | Get Real LOL News https://t.co/lukIQLyDKJ"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 9th | Get Real LOL News https://t.co/NMQdZ669RV"
+@Bernie_Facts @HillaryClinton Right on!!  #HillarySoQualified
+She is more than qualified.  @VOTE_HILLARY #Hillarywillgetthejobdone https://t.co/spGVS5VUnr
+@HillaryClinton is the best choice for @Madam_President she is more than qualified! #supporthillaryclinton https://t.co/s5qvaehM04
+@Madam_President That's right.  @Madam_President keep the momentum going.  @VOTE_HILLARY and ONLY @HillaryClinton
+"YES.  @HillaryClinton for @Madam_President She will beat BS and yes, she is leading by a lot.  #IamforHillary https://t.co/GhnThuU98s"
+@ibhaber @Madam_President @HillaryClinton will win New York and California!!  Don't be fooled by BS.  All he does is LIE!! #GoHillary
+@KateMansi great job yesterday!  I was blown away. You nailed it and lured Ben right into your trap. @nbcdays  https://t.co/963RiQugyW
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 9th | Get Real LOL News https://t.co/wjIugMcjkQ"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, April 9th | Get Real LOL News https://t.co/z70DvTuyNq"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, April 8th | Get Real LOL News https://t.co/tvz7uEzWoU"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, April 7th | Get Real LOL News https://t.co/PcKbiUTsp2"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 6th | Get Real LOL News https://t.co/swaYbKlLfA"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 6th | Get Real LOL News https://t.co/01xyzYHem6"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, April 6th | Get Real LOL News https://t.co/8MufJa8bx1"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 5th | Get Real LOL News https://t.co/6yzxySayf7"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, April 5th | Get Real LOL News https://t.co/keUb0d5ik0"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, April 4th | Get Real LOL News https://t.co/6GiRQBnp7M"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, April 3rd | Get Real LOL News https://t.co/4rduFqO9DC"
+You tell em @HillaryClinton .  Stop the #Berniemadness @VOTE_HILLARY  https://t.co/RgXgk7G0MM
+@HillaryClinton Don't let Bernie get to you!!  @VOTE_HILLARY The ONLY qualified candidate to run our great country. #ItsTimeForHIllary
+BBCAN4 Live Feed Updates Archives | Get Real LOL News https://t.co/kpN4GP85sB
+BBCAN4 Live Feed Updates Archives | Get Real LOL News https://t.co/QNWPqhY9E4
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 31st | Get Real LOL News https://t.co/XPdRNfWIUi"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 31st | Get Real LOL News https://t.co/50nJjhxT3z"
+@Madam_President @HillaryClinton will continue to make our country great.
+@HillaryClinton yes!  It takes a woman to get the job done. @VOTE_HILLARY
+@people @WagsandWalks Aww!  Doggies are adorable @people
+"@MichaelFairman yes, please tell us why??? @MichaelFairman"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 31st | Get Real LOL News https://t.co/Py8Nw82eXu"
+Love little Thomas.  @KateMansi and @billymflynn are such a cute couple with great chemistry.  ONLY on @nbcdays  https://t.co/83vdmdSvK0
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 31st | Get Real LOL News https://t.co/DuHaNvWKP7"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 30th | Get Real LOL News https://t.co/apfPAvsgV8"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 30th | Get Real LOL News https://t.co/MR1wDPN2el"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, March 29th | Get Real LOL News https://t.co/il1V2Pysnu"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, March 29th | Get Real LOL News https://t.co/3z6fwObZDf"
+@KateMansi and @billymflynn plus @1CaseyMoss Wow!  What a thriller today's episode was.  #BattyBen on  #DOOL  https://t.co/1pqOjmsFeN
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, March 28th | Get Real LOL News https://t.co/rM0vfNcNI4"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, March 28th | Get Real LOL News https://t.co/ywT7uCKVrC"
+"@DaysofourLives cast members doing good in the neighborhood.  Bravo!  Very cool guys, great work.  @TheLAMission https://t.co/G91CH1FUdC"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, March 27th | Get Real LOL News https://t.co/Y92w83Zmkn"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, March 26th | Get Real LOL News https://t.co/OukZAZRbyU"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Saturday, March 26th | Get Real LOL News https://t.co/3QhTNd11Wi"
+@Madam_President @HillaryClinton @VOTE_HILLARY for President.
+@ChelseaClinton @HillaryClinton will be our first female President.  #votehillary
+@ABoneMartinez @KassieDePaiva @marybeth_evans1 right on!  @DaysofourLives is the best day time soap. Love it!
+@marybeth_evans1 @DaysofourLives great job @marybeth_evans1 you so deserve this nomination and I do hope you win. @DaysofourLives @nbcdays
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, March 25th | Get Real LOL News https://t.co/GfLVmDKz5f"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 24th | Get Real LOL News https://t.co/gVBrPfqBOa"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 24th | Get Real LOL News https://t.co/Oxzp8rztN4"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 24th | Get Real LOL News https://t.co/X4AZ1meGzv"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 23nd | Get Real LOL News https://t.co/jdUDbolMyM"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 23nd | Get Real LOL News https://t.co/XfqM7qytMu"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 23nd | Get Real LOL News https://t.co/RQPz8Usz0q"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, March 22nd | Get Real LOL News https://t.co/cz1c7vAJHH"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, March 21st | Get Real LOL News https://t.co/7FlbIPcpRs"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, March 20th | Get Real LOL News https://t.co/ZzzG5YgoAx"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Sunday, March 20th | Get Real LOL News https://t.co/2dommbw9ek"
+Love the photo!  @DaysofourLives @nbcdays Beautiful in every way.   https://t.co/aq4wQAYqas
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, March 18th | Get Real LOL News https://t.co/rAkPV2opES"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Friday, March 18th | Get Real LOL News https://t.co/fReQwsYvhz"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Thursday, March 17th | Get Real LOL News https://t.co/n0rwPJu9LD"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Wednesday, March 16th | Get Real LOL News https://t.co/uQAtdXbbzo"
+Great job @TeamChabby and @KateMansi  you did a wonderful job with your vows.  Loved every minute of it. #dool #days https://t.co/ryrjMtuRs7
+I loved @TeamChabby with @KateMansi and @billymflynn  getting married.  Loved @1CaseyMoss walking Abby down the isle https://t.co/SpAu1mQW0c
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Monday, March 14th | Get Real LOL News https://t.co/AzcZFd19PX"
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, March 15th | Get Real LOL News https://t.co/vwIfju0RGg"
+12 | Get Real LOL News https://t.co/wukZNL8j5H
+"Daily Big Brother Canada #BBCAN4 Live Feed Updates: Tuesday, March 15th | Get Real LOL News https://t.co/Df1i7ICH6F"

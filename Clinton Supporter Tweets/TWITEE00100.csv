@@ -1,0 +1,140 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 322600845, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/473389516841967616/kNtB7jEc_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/O2w1BpsM0a"", ""indices"": [0, 22], ""expanded_url"": ""http://micronetpower.com"", ""display_url"": ""micronetpower.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 592, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""322600845"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 6, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WildAid: What today is all about .... #JoinTheHerd #WorthMoreAlive | Photo by @shannon__wild https://t.co/5ZwmAFstRd"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726779668364402689, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 43194755, ""indices"": [3, 11], ""id_str"": ""43194755"", ""screen_name"": ""WildAid"", ""name"": ""WildAid""}, {""id"": 1026066739, ""indices"": [82, 96], ""id_str"": ""1026066739"", ""screen_name"": ""shannon__wild"", ""name"": ""Shannon Wild""}], ""hashtags"": [{""indices"": [42, 54], ""text"": ""JoinTheHerd""}, {""indices"": [55, 70], ""text"": ""WorthMoreAlive""}], ""urls"": [], ""media"": [{""source_user_id"": 43194755, ""source_status_id_str"": ""726502311372038144"", ""expanded_url"": ""http://twitter.com/WildAid/status/726502311372038144/photo/1"", ""display_url"": ""pic.twitter.com/5ZwmAFstRd"", ""url"": ""https://t.co/5ZwmAFstRd"", ""media_url_https"": ""https://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg"", ""source_user_id_str"": ""43194755"", ""source_status_id"": 726502311372038144, ""id_str"": ""726502310461890560"", ""sizes"": {""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 726502310461890560, ""media_url"": ""http://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 79, ""id_str"": ""726779668364402689"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""What today is all about .... #JoinTheHerd #WorthMoreAlive | Photo by @shannon__wild https://t.co/5ZwmAFstRd"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726502311372038144, ""favorite_count"": 121, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1026066739, ""indices"": [69, 83], ""id_str"": ""1026066739"", ""screen_name"": ""shannon__wild"", ""name"": ""Shannon Wild""}], ""hashtags"": [{""indices"": [29, 41], ""text"": ""JoinTheHerd""}, {""indices"": [42, 57], ""text"": ""WorthMoreAlive""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/WildAid/status/726502311372038144/photo/1"", ""display_url"": ""pic.twitter.com/5ZwmAFstRd"", ""url"": ""https://t.co/5ZwmAFstRd"", ""media_url_https"": ""https://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg"", ""id_str"": ""726502310461890560"", ""sizes"": {""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [84, 107], ""type"": ""photo"", ""id"": 726502310461890560, ""media_url"": ""http://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 79, ""id_str"": ""726502311372038144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 20:03:43 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WildAid/status/726502311372038144/photo/1"", ""display_url"": ""pic.twitter.com/5ZwmAFstRd"", ""url"": ""https://t.co/5ZwmAFstRd"", ""media_url_https"": ""https://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg"", ""id_str"": ""726502310461890560"", ""sizes"": {""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [84, 107], ""type"": ""photo"", ""id"": 726502310461890560, ""media_url"": ""http://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": true, ""lang"": ""en"", ""created_at"": ""Sun May 01 14:25:50 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 43194755, ""source_status_id_str"": ""726502311372038144"", ""expanded_url"": ""http://twitter.com/WildAid/status/726502311372038144/photo/1"", ""display_url"": ""pic.twitter.com/5ZwmAFstRd"", ""url"": ""https://t.co/5ZwmAFstRd"", ""media_url_https"": ""https://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg"", ""source_user_id_str"": ""43194755"", ""source_status_id"": 726502311372038144, ""id_str"": ""726502310461890560"", ""sizes"": {""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 726502310461890560, ""media_url"": ""http://pbs.twimg.com/media/ChUOAI-U4AAewjE.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": 10800, ""statuses_count"": 692, ""description"": ""i do ict projects in NAIROBI-KENYA."", ""friends_count"": 3336, ""location"": ""NAIROBI-KENYA."", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/473389516841967616/kNtB7jEc_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/322600845/1402548115"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""DAVID MUNYALO VUNDI"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3, ""screen_name"": ""TWITEE00100"", ""notifications"": false, ""url"": ""http://t.co/O2w1BpsM0a"", ""created_at"": ""Thu Jun 23 12:57:29 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Nairobi"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+HAVE YOU CHOSEN  YOUR PRINCESS https://t.co/iiGWDX2PDj
+@45_BIGGDADDY WHAT  CRARACTERITICS  DO YOU WANT  IN  YOUR   QUEEN?
+yes  the tragedy  of trying to live an extra ordinary  life in an  ordinary  world https://t.co/ayAROkYsVw
+@Karenal20566821 karen  alexandre  it seems you  are up to  the task.
+we say it  ruffled your feathers! https://t.co/imBd0FFsyC
+it is the oscars  dear! https://t.co/NAoGaOxlM8
+HOPE  YOU ARE NOT TALKING ABOUT  MY BIRTHDAY   LUCKY  YOU! https://t.co/EIg9DTj92K
+@LuckyMagazine KEEP  THE GOOD WORK WE WANT TO KNOW WHO  IS THE LUCKIEST  OF THEM  ALL!
+you are surely feeling  lucky  dear! https://t.co/MGbg6llpjl
+YES YOU WERE MADE  FOR THE OSCARS https://t.co/JBwYZ5D80w
+IS  THAT AN ENGAGEMENT RING? https://t.co/5TVbdIGgfQ
+WONDERFUL   POSE! https://t.co/rZtrSbAccj
+IN  BASKET  BALL WE  CALL IT   A  BACK PASS https://t.co/oOncykMt2i
+YOU CAN EVEN  LIFT  UP ANOTHER   10  WOMEN  DEAR! https://t.co/2yzIA6KC6o
+BEAUTIFUL  LADIES https://t.co/PghOQcpXdb
+@njorogep YES  MR  NJOROGE ONCE IN  HIGH OFIICE YOU BECOME   A  REAL SERVANT  OF MANANCHI  YOUR EVERY  MOVE AND ACTION  IS MONITORED
+LUPITA DONT GET LOST IN AMERICA WE NEED MORE IN KENYA AND AFRICA AS   A WHOLE
+IN GOD WE TRUST TO MAKE HISTORY;  WE SHOULD ALL STRIVE TO BE PART OF HISTORY!
+IN  GOD WE TRUST;  GOD BLESS PRESIDENT  OBAMA GOD  BLESS MRS  HILLARY CLINTON GOD  BLESS AMERICA AND ITS PEOPLE.
+"I got ""Global Guardian"" on ""Which Environmental Superhero Are You?"" What about you? https://t.co/7QjXDs7wOA #EarthDay via @ClintonFdn"
+@HillaryClinton YES  WE WANT TO GIVE YOU ANOTHER CHANCE TO SERVE THE WORLD   BECAUSE  YOU CAN!
+@IMFNews HOW STRONG IS THE CHINESE ECONOMY COMPARED  TO THE USA ECONOMY?
+WHAT HAS BEEN THE EFFECT OF LOW OIL PRICES ON WORLD ECONOMIES?
+@IMFNews HOW STRONG IS THE  FEDERAL RESERVE  BANK AND HOW STRONG IS THE DOLLAR VERSUS THE OTHER WORLD CURRENCIES?
+The Duke and Duchess of Cambridge and Prince Harry at the #CommonwealthDay  at Westminster Abbey https://t.co/Yacx2w2v4f via @QueenKatePics
+@YouTube IT FEELS LIKE FICTION READING BUT IT FEELS  TRUE TO THE TOUCH!
+Meltdown The men who crashed the world. Aljazeera PART 3 https://t.co/F5cBwJmXDm via @YouTube
+NO WONDER YOU ARE A PLAY GIRL!
+YES HAPPY VALENTINES  HONEY!
+NOT INFATUATION!
+YES IAM FEELING NIGHTY TODAY.
+I WISH YOU WERE MY VALENTINES DATE OR AN EQUIVALENT TO YOU.
+@FirstLadyKenya you should appear more on social media to articulate  your agenda
+YES DEAR WE ARE ALL WAITING OUT HERE TO SEE AND HEAR YOU! THE WHOLE WORLD! https://t.co/9sqf497Tjk
+YOU LOOK A FORMIDABLE TRIO IT LOOKS DIFFICULT FOR ANY GUY TO REACH ONE OF YOU! https://t.co/tgLLfIeRDJ
+looks wonerful https://t.co/GlSpQJgeh0
+NATURE AT ITS BEST https://t.co/EUFgREn2fE
+YES IT IS LOVELY FROM THE HEART https://t.co/DljaPH48Jz
+U.S. Government Implicated As Conspirator In MLK Assassination - https://t.co/8CDzCxgNxI   *https://t.co/Pz9M4TXekQ*
+ROSE MUHANDO FACEBOOK SONG [NEW] JUNE 2014 https://t.co/Unafu7k1Ii via @YouTube- the music is healing to the soul
+ROSE MUHANDO FACEBOOK SONG [NEW] JUNE 2014 https://t.co/Unafu7k1Ii via @YouTube
+IT IS AWE INSPIRING WE FEEL CLOSER TO GOD THE ALMIGHTY!
+PATCH UP YOUR WEAKNESSES IT IS A FIGHT TO THE FINISH!
+@Space_Station WE LOVE THAT FLOWER BRING IT TO EARTH!
+@ISS_CASIS  WHEN WE SEE THE ENTRY OF THE THREE ASTRONAUTS INTO THE SPACE STATION WE FEEL PART AND PARCEL OF THE SPACE TEAM.
+How to Build a Cassandra Multinode Database Cluster on Oracle Solaris 11.3 with LUN Mirroring and IP Multipathing https://t.co/jTxuXWPSj4
+7 Job Search Myths That Are Holding you Back https://t.co/XvobE81XJT via @CareerAddict THATS QUITE EDUCATIVE FOR JOB SEEKERS.
+7 Job Search Myths That Are Holding you Back https://t.co/XvobE81XJT via @CareerAddict
+VERY MUCH INTERESTED https://t.co/LoSqoIBgJS
+YES DEAR KENYANS LETS NOT SUCCUMB TO THE WHIMS OF THE TERRORISTS. SHOW THEM WE CAN AND ARE ABLE.
+"YES MR. MAINA KAGENI, ALL WOOD CARVINGS IN KENYA ORIGINATE FROM WAMUNYU NETWORK FOR THESE GUYS AND GET THEM MARKETS IN THE DIASPORA."
+Queen greets Barack and Michelle Obama with 41-gun salute on first day o... https://t.co/0nkIiYuyTF via @YouTube
+Project Prophecy https://t.co/f8rZufvEwm via @MoneyMorning the theory and practice of money is quite scaring
+Project Prophecy https://t.co/f8rZufvEwm via @MoneyMorning
+WE NEED TO WAGE TOTAL WAR ON TERRORISTS. https://t.co/16BkGGvCKo
+@BarackObama WE HAVE BEEN ON CLIMATE CHANGE FOR SOMETIME WITH THE CLINTON CLIMATE CHANGE INITIATIVE WE THANK AMERICA FOR TAKING UP MOOD
+"@BarackObama  COME 2016 AND I WISH AMERICA AND THE UN SUCCESS AGAINST BOKO HARAM, ISIS, ISIL, AL-QAEDA AND AL SHABAB."
+@BarackObama  I WISH YOU A MERRY XMASS AND A PROSPEROUS 2016 AS YOU STEER THE MOST POWERFUL NATION ON PLANET EARTH
+yes the lord is omnipotent tha all powerful https://t.co/tVpShsdCbA
+I THANK GOD FOR HAVING TAKEN CARE OF ME FROM 1-12015 TO 2-12-2015 AMEN.
+WE WISH POPE FRANCIS AND THE VATICAN FRATERNITY A MERRY XMASS 2015 AND A HOLY 2016!
+The First Family Volunteers for Thanksgiving at the Capital Area Food Bank https://t.co/PE0hZEbSnW via @MichelleNews
+YES MR. PRESIDENT WE SAY STRONG TO SERVE
+"@MichelleNews we wish MADAME MICHELLE OBAMA,   MONSEUR BARAKA OBAMA MISS SASHA AND MALIA A MERRY XMASS 25-12-2015 AND A BLESSED 2016"
+Behind the Scenes with Broadway at the White House on Thanksgiving https://t.co/wh30Z2efxG via @MichelleNews
+"Today is a reminder to be thankful for what we have, and share our blessings by ... https://t.co/AqFcWfgfJE via @MichelleNews"
+"Michelle, Sunny, and Bo Receive the White House Christmas Tree https://t.co/sImV3H9KHs via @MichelleNews"
+@SwimOutDaily TWEETS ARE YOU CONRATULATIONS  DEAR.
+GOOD POETRY ANGEL MORGAN.
+we welcome pope FRANCIS to KENYA with open hands there is a lot going on for KENYA we  need honest and patroitic leaders to make it.
+WHOS WARS ARE THE ARAB WARS?
+"VATICAN IS AS OLD AS HISTORY THE VATICAN HOLDS SOLUTIONS TO  PROBLEMS ON PLANET EARTH, THE POPE SHOULD HAVE A GLOBAL PLATFORM TO ADDRESS US"
+"Listen to Alma Mater: Music from the Vatican by Pope Benedict XVI - Album Reviews, Credits, and Awards - AllMusic -  https://t.co/EvOFCSMoDK"
+YES KEEP UP WITH TECHNOLOGY BY TRAINING DAY AND NIGHT
+HILLARY YOU ARE  WINNING BECAUSE YOU THE BEST PRESIDENTIAL CANDIDATE FOR AMERICA.
+"yes we are with HILLARY we will vote BACK TO BACK!
+ https://t.co/eA6KmnDyiN"
+@HillaryClinton  YOU ARE THE MATERIAL THAT HISTORY IS MADE OF.
+congratulations @ClintonNews you are almost there keep up the tenacity-you will make it not only make but make history as well.
+"Dolphins trick fish with mud ""nets"" - One Life - BBC https://t.co/QAG6rPFonA via @YouTube"
+we live by the GRACE OF GOD and not by might or POWER
+THE BIBLE SAYS WHEN WE REACH THE END FO OUR FAULCATIES GOD TAKES OVER
+YES THE BIBLE SAYS THE KNOWLEDGE OF GOD IS THE BEGINNING OF WISDOM!
+"@valentinapixx YES THE LORD GOD ALMIGHTY IS OMNIPRESENT, OMNISCIENT  THOSE WHO HOPE IN HIM WILL NEVER FAIL"
+YES WE CANT AFFORD TO BE CAUGHT NAPPING!
+Love http://t.co/56yTRhHfoW
+kushandwizdom tumblr quotes | Filed Under http://t.co/x70bLqHTWO
+Aww http://t.co/fqXIULekzK
+"the good vibe quotes | Posted on May/30/2014 with 2,267 notes http://t.co/rQEyvMadTQ"
+WE NEED A PRESIDENT WITH THE NECESSARY EXPERIENCE TO TAKE AMERICA THROUGH THE ECTICK LIFE OF 21 ST CENTURY
+Join the campaign - http://t.co/wZ2hYmo58g
+http://t.co/R4lSi71mj0 for sure!
+http://t.co/3cFpJF0izs
+remember http://t.co/4VAUHBTeGS
+Love http://t.co/55QOksI0Tj
+#quotes http://t.co/4qBIuLFh9E
+i make time http://t.co/LAHv4X7PZu
+Kushandwizdom Tumblr Quotes On Instagram | Filed Under http://t.co/Jp6PAgFVnA
+"we beleive KILIFI is one of the counties with the highest potential economically, we appeal to the governor to make it real #kilifi"
+@TheFollowingFOX LOOKS IMPRESSIVE
+Uhuru Kenyatta https://t.co/HCrEokhDBq via @sharethis
+LUPITA WE IN KENYA ARE 100% behind your endeavours.
+THE BIBLE SAYS ALL THESE EVENTS WILL COME TO PASS AND THEN THE END OF TH PRESENT DAY WORLD WILL COME.
+@TWITEE00100  THE UNIVERSE IS SCARING IN ALL ITS MONSTROCITY.
+Vader Meets Kirk in Awesome 'Star Wars' and 'Star Trek' Trailer Mashup (Video) http://t.co/rn3fbhX7Wi
+YOU ARE MAKING HISTORY THATS NOT A SMALL ACHIEVEMENT.
+"consult all former FIRST LADIES INCLUDING BETTY FORD, NANCY REAGAN, ROSALYN CATER, LAURA BUSH YES WE BELIEVE YOU CAN, VICTORY IS AT HAND"
+we are behind you heel and toe!
+Aww http://t.co/Hh0zFXLOeI
+. http://t.co/O8Qo5d36rM
+"Surround yourSelf with people who have Dreams, Desire and Ambition; they'll help you push for, and R http://t.co/sSuIUr32Im"
+kushandwizdom tumblr quotes | Filed Under http://t.co/bAFtHulqpr
+true ... http://t.co/Wk29xgZirb
+Isn't it ironic… http://t.co/046Cv4Hf3x
+starting over in a relationship can be amazing quotes | filed under kushandwizdom quotes relationshi http://t.co/PrM0ogVRvW
+"the good vibe quotes | Posted on May/30/2014 with 2,267 notes http://t.co/WCMorsYjn8"
+the good vibe quotes | The good vibe http://t.co/1CX9YkqEoY
+. http://t.co/Ss8WLKjN7H
+Kushandwizdom Tumblr Quotes On Instagram | Filed Under http://t.co/eWRilJ5uYw
+. http://t.co/DlLAbxvS14
+#music http://t.co/9lFvUcrwm8
+i make time http://t.co/8iDOaAR6Mo
+Photo | Daily Inspiring Quote Pictures | Bloglovin http://t.co/ACLnNvkulI
+Very true!!! http://t.co/vagt8Pm6mb
+post surf sesh &amp; a majorelle #roundie // via @ellakk123 The Beach People http://t.co/Hhau9XHsmi
+Type something here http://t.co/1NfMW1EBs4 via @imgfave
+Type something here http://t.co/LGFQ6B4OTM via @imgfave
+Type something here http://t.co/EtXtjqVyc7 via @imgfave
+(by simonandmoose) http://t.co/G2rB0nnoqO
+Vocabulary http://t.co/6vVJ33FqzV
+Love this! Learning from your mistakes and choosing to br make them again (or at least trying your v http://t.co/BfLRn8VPCR
+http://t.co/8Z6Ba30gFM
+"For some reason everytime I listen to this part of kiss me by Ed, I imagine him sitting behind a buc http://t.co/UaPIQ54Jv0"
+Yes. http://t.co/uZDlNjpJWe
+yep http://t.co/nBCxZ04yJI
+http://t.co/nQdn2bakSn
+:: http://t.co/9owaTwSotk
+:: http://t.co/u7UkuzFOHq
+http://t.co/W0ehRjAQpp

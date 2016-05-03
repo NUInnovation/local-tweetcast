@@ -1,85 +1,72 @@
-"{""imported_to_elastic"": true, ""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""time_zone"": null, ""id"": 3501317662, ""description"": ""Media Critic and Prof at Fordham U. Currently co-editing a volume on how media is covering the current global humanitarian crisis. #Blog https://t.co/GE5rSUNVpu"", ""verified"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/638316280152354816/VPf6o7Te_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""is_translator"": false, ""geo_enabled"": false, ""entities"": {""description"": {""urls"": [{""url"": ""https://t.co/GE5rSUNVpu"", ""indices"": [137, 160], ""expanded_url"": ""http://TravelingWild.org"", ""display_url"": ""TravelingWild.org""}]}}, ""followers_count"": 358, ""protected"": false, ""id_str"": ""3501317662"", ""default_profile_image"": false, ""listed_count"": 16, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @DemAwakening: Anti-voter laws in states like AZ, NC, WI &amp; TX prove we still need to fight for #VotingRights. #RestoreTheVRA https://t.c\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723238352896569344, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""indices"": [3, 16], ""screen_name"": ""DemAwakening"", ""id"": 4849537027, ""name"": ""Democracy Awakening"", ""id_str"": ""4849537027""}], ""hashtags"": [{""indices"": [102, 115], ""text"": ""VotingRights""}, {""indices"": [117, 131], ""text"": ""RestoreTheVRA""}], ""urls"": [], ""media"": [{""source_user_id"": 4849537027, ""source_status_id_str"": ""723198211335151616"", ""expanded_url"": ""http://twitter.com/DemAwakening/status/723198211335151616/photo/1"", ""display_url"": ""pic.twitter.com/RoZGagBvsQ"", ""url"": ""https://t.co/RoZGagBvsQ"", ""media_url_https"": ""https://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""source_user_id_str"": ""4849537027"", ""source_status_id"": 723198211335151616, ""id_str"": ""723198210530004992"", ""sizes"": {""large"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""small"": {""h"": 173, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 723198210530004992, ""media_url"": ""http://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723238352896569344"", ""retweet_count"": 39, ""in_reply_to_user_id"": null, ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Anti-voter laws in states like AZ, NC, WI &amp; TX prove we still need to fight for #VotingRights. #RestoreTheVRA https://t.co/RoZGagBvsQ"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723198211335151616, ""favorite_count"": 38, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [84, 97], ""text"": ""VotingRights""}, {""indices"": [99, 113], ""text"": ""RestoreTheVRA""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/DemAwakening/status/723198211335151616/photo/1"", ""sizes"": {""large"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""small"": {""h"": 173, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/RoZGagBvsQ"", ""media_url_https"": ""https://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""id_str"": ""723198210530004992"", ""indices"": [114, 137], ""media_url"": ""http://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""type"": ""photo"", ""id"": 723198210530004992, ""display_url"": ""pic.twitter.com/RoZGagBvsQ""}]}, ""in_reply_to_screen_name"": null, ""id_str"": ""723198211335151616"", ""retweet_count"": 39, ""in_reply_to_user_id"": null, ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 17:14:24 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""country_code"": ""US"", ""url"": ""https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"", ""country"": ""United States"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-118.668404, 33.704538], [-118.155409, 33.704538], [-118.155409, 34.337041], [-118.668404, 34.337041]]]}, ""contained_within"": [], ""full_name"": ""Los Angeles, CA"", ""attributes"": {}, ""id"": ""3b77caf94bfc81fe"", ""name"": ""Los Angeles""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/DemAwakening/status/723198211335151616/photo/1"", ""sizes"": {""large"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""small"": {""h"": 173, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""url"": ""https://t.co/RoZGagBvsQ"", ""media_url_https"": ""https://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""id_str"": ""723198210530004992"", ""indices"": [114, 137], ""media_url"": ""http://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""type"": ""photo"", ""id"": 723198210530004992, ""display_url"": ""pic.twitter.com/RoZGagBvsQ""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 21 19:53:55 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4849537027, ""source_status_id_str"": ""723198211335151616"", ""expanded_url"": ""http://twitter.com/DemAwakening/status/723198211335151616/photo/1"", ""display_url"": ""pic.twitter.com/RoZGagBvsQ"", ""url"": ""https://t.co/RoZGagBvsQ"", ""media_url_https"": ""https://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg"", ""source_user_id_str"": ""4849537027"", ""source_status_id"": 723198211335151616, ""id_str"": ""723198210530004992"", ""sizes"": {""large"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""small"": {""h"": 173, ""w"": 340, ""resize"": ""fit""}, ""medium"": {""h"": 197, ""w"": 388, ""resize"": ""fit""}, ""thumb"": {""h"": 150, ""w"": 150, ""resize"": ""crop""}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 723198210530004992, ""media_url"": ""http://pbs.twimg.com/media/CglQ8NjW0AAEZep.jpg""}]}}, ""lang"": ""en"", ""utc_offset"": null, ""statuses_count"": 927, ""profile_background_color"": ""C0DEED"", ""friends_count"": 922, ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/638316280152354816/VPf6o7Te_normal.jpg"", ""notifications"": false, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/715180133829713922/MFK9n1-w.jpg"", ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3501317662/1459349002"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/715180133829713922/MFK9n1-w.jpg"", ""screen_name"": ""MediaPhiled"", ""is_translation_enabled"": false, ""profile_background_tile"": false, ""favourites_count"": 1045, ""name"": ""Robin Andersen"", ""url"": null, ""created_at"": ""Mon Aug 31 11:28:06 +0000 2015"", ""contributors_enabled"": false, ""location"": ""Fordham University"", ""profile_sidebar_border_color"": ""000000"", ""default_profile"": false, ""following"": false}"
-Now this is a #meme worth retweeting ! MemeOfTheWeek  https://t.co/76771XNH3B
-"He's the best when #media allow him to speak in his own words, a rarity! #BernieStrong #BernieOrBust  https://t.co/h94EZpNz9Q"
-@oh2tweet @truthglow So True!
-Here are the actual numbers showing we can win! #FeelTheBern  https://t.co/SU9caJB51M
-Is say we really won #NYPrimary in spite of #media Also 125k blocked from voting in #Brooklyn https://t.co/Fxvy900AZA
-Nice job @NomikiKonst a voice of reason in the middle of the spin cycle!  https://t.co/RfnrhmOzHd
-This is so true in spite of #media spin by #HillaryClinton campaign.  https://t.co/RfnrhmOzHd
-Wow. #Clinton operatives take to #SocialMediaMarketing to sell their product using surrogates to go negative.  https://t.co/vwnSXFzxL4
-"Now blame #Sanders media spin begins. Campaign’s Commitment To Victory Irritates #Media, Offends #Clinton Campaign - https://t.co/J2IVHoASt7"
-"Yes, &amp; #media spin in motion to blame #BernieSanders ""negativity"" if Dems loose to GOP even as they set it up https://t.co/zh9yAWQ6iR"
-On pleez! https://t.co/BZxEOCJ6ny
-That's right. It's up to you #CAPrimary. No pressure! https://t.co/vHBotRSbpo
-And the people who couldn't vote!? https://t.co/OcGg2zfdZy
-"Here it comes #media spin, blame #BernieSanders, his ""negative"" about #NYPrimary fraud, Dems will loose #WhiteHouse  https://t.co/tjnCvJnDX8"
-"Got it wrong again! Assumes voting was fair, elites will give up power. #BernieSanders Is Not Going to be  president https://t.co/BqD3D5ByiS"
-"#Hillary cult: admirers ignore reality,  @camillepaglia finally directed her talents well. #FeelTheBern https://t.co/Af9LNgFhvP via @Salon"
-"If it's you, it's me too! https://t.co/ADtIxz0Tab"
-"You don't know from Politico?“We kicked his ass” Clinton aide, ""convinces Bernie to tone it down. If not, f--- him”
- https://t.co/6Rk5gKgsKs"
-More bad reporting. Simply not true that #BernieSanders can't win. #BernieorBust https://t.co/EhwplJDQP0
-Tell @BOENYC: Conduct a statewide audit of #NY voter purges. https://t.co/jzBS6XWNjq via @moveon #primaryday #votersuppression
-#FeelTheBern #NYPrimary #BernieSanders  https://t.co/npOPdcZmGf
-"So do I.
- https://t.co/TyNx0gttFI"
-#FoodTankSummit Wonderful Discussion
-@BilldeBlasio It's time to investigate! #NYPrimary #NYCVotes  https://t.co/Qk01UPcDmt
-"Right, War on Terror obviously not about terrorism. https://t.co/dUCkPVOUgx"
-#HillaryClinton’s #NY Win Raises Questions for #BernieSanders. Unnecessary hand-wringing. This is #WallStreet. https://t.co/1kCNxi8G6X
-Here we come for all the states left! #BernieOrBust  https://t.co/DB7xsXlPSB
-"You see, they will come to #justice. There will be a reckoning! #NYPrimary #BernieOrBust  https://t.co/eVqg0qZkex"
-That's right it not easy to upend a corrupt system and change history forever! #FeelTheBern #BernieOrBust  https://t.co/QmnU5MMWZS
-"Oh, that's wonderful! https://t.co/OB3A24hQOI"
-"I know, their snide sarcasm speaks volume about who they are and what motivates them. It's sad really. Terrible! https://t.co/BvoE3uiIDF"
-"Well, that's nt right. I guess her campaign has really benefited from his dirty tricks https://t.co/WNg59ykXte https://t.co/BFIWLmJWtV"
-Jeff Weaver was great. We're going all the way to the convention! #BernieOrBust  https://t.co/9315pWk4eH
-Don't worry he won't neither will we! https://t.co/ugGqpxptpc
-That was such rank opportunism. And so stage managed!! #sheshouldbeashamed https://t.co/yLOeucWmW9
-Not at all https://t.co/Tt7JrvmB6C
-I was on Eds show last night calling her out! It was fun but kinda short.  https://t.co/1Ax0kEThz3
-"They don't have facts, conscience, humanity so they r snide and nasty utter bores! Jeff Weaver'sgreat! #FeelTheBern  https://t.co/mKFns1b5hb"
-So how could she have won? Maybe we can ask #MSM why they spin so.  https://t.co/Lh18Awlk0O
-And I'm one of them! https://t.co/0gLTGVcNTA
-If you are so confident why are you still up trying to convince us?  https://t.co/bQM4psUnOg
-Yes. We'll be at it again tomorrow and the next day and the next !  https://t.co/w9UxHXCPZM
-I'm sure you do! https://t.co/zmiIfYyx28
-Yes and before that it was you know who! https://t.co/dRNJ4C4XQw
-@jillwklausen @GENX4Bernie @MFL1956 @tinbridgenikki @aria_ahrary I couldn't have said it bette myself !
-So true! https://t.co/EauSZlv8fq
-"OK you're right, I feel better. Well, maybe not 😔 https://t.co/lbJx3bNCBd"
-Or how she destabilized the Middle East by killing Gaddafi as the guns went to Syria! https://t.co/cweHGr783s
-I love it when you say that!! And you right. The fat cats only get so many delegates! https://t.co/pqvAuOqoqB
-"Me too, you bet. Good plan! https://t.co/xVxLLSyMQs"
-Indeed! https://t.co/wbMXN8unFJ
-And people who never voted before also remember!!! https://t.co/EMcuUNk7g5
-That's the spirit!!! https://t.co/tNHC0gVsLq
-We're down to the wire now. 45mins left to vote. Why Is One of #Sanders' Most Important Proposals Being Ignored? https://t.co/jkm46ZndBN
-Millions of New Yorkers Disenfranchised from Primaries Thanks to State's Restrictive Voting Laws https://t.co/07ykAGx5Vk via @democracynow
-Obama adviser explains why Clinton's Syria plan won't work @CNNPolitics https://t.co/6DiWbsKacf
-9pm https://t.co/IRvBghPX6R
-That's a good one! https://t.co/HFTN1ic1dp
-"Very true and CNN is the worst, parent co. Time/Warner donated over 400k to her campaign! https://t.co/gSw9icbCkN"
-And those are the cold hard facts! #PrimaryDay  https://t.co/j7MZLJ78p8
-hope you've been successful by now! https://t.co/49xXnT0IoU
-Black Voters and the #NYPrimary https://t.co/7jh9EVazpr #FeelTheBern #PrimaryDay
-For #BernieSanders of course! #PrimaryDay #FeelTheBern  https://t.co/5VmMMSGv2v
-This is not news. Is it another email from Mook? https://t.co/81KF1TVmvp
-"@jeffkessock I know, what's with that??!!"
-He would say that after his very bad decision! https://t.co/HRA8h4XzyV
-I did once already but I can do it again! https://t.co/vm6NI4aD35
-Very sad news RIP John https://t.co/letz8eIddY
-@changerous63 @Fanny57 Got it. Thanks!
-Against #FEC rules! @People4Bernie  https://t.co/RuqQu8JwEJ
-Do you mean all voters or just independents? https://t.co/2l5m2CIgJL
-Not Good! 27 Percent of New York’s Registered Voters Won’t Be Able to Vote in the State’s Primary via @thenation https://t.co/GcRbMDsUub
-A Contested Democratic Convention Is Now A Near Statistical Certainty https://t.co/O6d6QY0zU7 @HuffPostPol @People4Bernie
-@HillaryGuess I know how you feel. I think this is our moment to turn it around and save the planet for peace  and justice !
-Let's do it in #NYPrimary #GOTVforbernie https://t.co/ATucnweXZP
-Love the #artistsforberniesanders  https://t.co/GtlWUNKkzB
-"@vlramirez12 @thebolty1 @democracynow @350 @Greenpeace Yes, while destroying land, animals and community health."
-"@vlramirez12 @thebolty1 Virginia, I'm quite grown up. I don't need a troll or someone who screens at me in caps. Dialogue is fine."
-@HillaryGuess so true! Because he's been fighting for us his whole life!!!
-@WilburnZac @IanMolony @saracohennyc That why young ppl love @People4Bernie they don't watch #TV news!!
-@JamesMArcher @theintercept She shouldn't made a big deal about @People4Bernie tax returns. -- 45 Minutes for the amount he makes in a year!
-"@jeremyscahill @JamesMArcher Good to remember Jeremy, thanks!"
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 3501317662, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/715180133829713922/MFK9n1-w.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/638316280152354816/VPf6o7Te_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 415, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""3501317662"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 22, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""#INPrimary  https://t.co/yYSDR31Snn"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 726930890627137536, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""quoted_status_id"": 726921840938065920, ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 10], ""text"": ""INPrimary""}], ""urls"": [{""url"": ""https://t.co/yYSDR31Snn"", ""indices"": [12, 35], ""expanded_url"": ""https://twitter.com/sandyzz/status/726921840938065920"", ""display_url"": ""twitter.com/sandyzz/status\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""726930890627137536"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 00:26:44 +0000 2016"", ""quoted_status_id_str"": ""726921840938065920"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1287, ""description"": ""Media Critic and Prof at Fordham U. Writes for @commondreams @FAIRmediawatch @MediaWarandPeace @ProjectCensored Judge"", ""friends_count"": 899, ""location"": ""Fordham University"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/638316280152354816/VPf6o7Te_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3501317662/1459349002"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/715180133829713922/MFK9n1-w.jpg"", ""name"": ""Robin Andersen"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1475, ""screen_name"": ""MediaPhiled"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Aug 31 11:28:06 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+#INPrimary  https://t.co/yYSDR31Snn
+#BernieSanders #BernieSandersforPresident2016 #StillBernie  https://t.co/RGdZZGSLnz
+"@NPR @npratc @CNN Here's some news, why not cover it? Oh, it's not a #HillaryClinton talking point memo.  https://t.co/S8mrPSRlgA"
+#StillSanders #BernieSandersforPresident2016 #BernieStrong  https://t.co/LP7Ekx0zYV
+"Historian Peter Linebaugh: ""The Incomplete, True, Authentic &amp; Wonderful History of #MayDay"" https://t.co/Llsz0xndj1 via @democracynow"
+"RIP Dan Berrgian, teacher, activists, poet, prophet, truth-teller, brother. Your voice will be missed! #MayDay  https://t.co/rnheXq2UWB"
+It went to the 1% and Wall Street. We need a #PoliticalRevolution #MayDay Vote for #BernieSanders #StillSanders  https://t.co/r0z1kRot2n
+@NPR @npratc Then why not report this!! #Media https://t.co/xyagjgWBXz
+Wow! great to hear! thanks! And what Obama said sure sounds like an endorsement to me! #BereieStrong #StillSanders  https://t.co/xyagjgWBXz
+"Wonderful and sad, of course the #media wouldn't report it they are so scared he'll win if they tell the truth! https://t.co/Z9zq3B7qZQ"
+@NPR #NPRATC here's a story for you. This ones even factual unlike your spin! https://t.co/DmpCXhEUOG
+"RIP Daniel Berrigan, activist, teacher, poet, prophet, truth-teller, brother. Your voice will be missed @fordhamCMS https://t.co/rnheXq2UWB"
+Happy Anniversary #BernieSanders. One year since he announced his run. Remember what the #MSM #media said then!? https://t.co/hDIMSdwlXg
+We are #InItToWinIt #CAPrimary  https://t.co/izPKDkp9Nh
+Powerful #media critique video #thingstheydontwantyoutoknow https://t.co/Sw3zbUqSaJ
+Anonymous Just Blew The Lid Off Of Hillary Clinton’s Past https://t.co/0wmn3XSzws
+"@LeeCamp I've tried too. He doesn't listen, just goes round n round with nonsense."
+Great point about #Clinton arrogant response to @maddow question about how she would win over #BernieSanders voters https://t.co/8q2exsoG74
+Great Piece. Forget Bernie Bros — the Worst Trolls Work in Corporate #Media https://t.co/hYh4aKDlLM
+#imwither #HillaryClinton #StillSanders #bernieforpresident2016  https://t.co/XfPAIdzWdk
+Watch #BernieSanders Democratic Town Hall. He's a LEADER always has been. @TYT https://t.co/PlFZUbaEKk
+Scary! #BernieSanders #StillSanders #Bernie2016 #BernieStrong #BernieSandersforPresident2016  https://t.co/Za3Lci34XZ
+#StillSanders #BernieStrong #CAPrimary  https://t.co/FQUAfPLCNt
+"#CAPrimary Here we come! Phonebank, ppl in Cali are fun! https://t.co/RrrmFucXaf"
+Hillary’s Paid Trolls Take Down Bernie Facebook Pages https://t.co/bqSU4lcCXd via @YouTube
+@MsRock4Ever #BernieStrong  https://t.co/aIA7GRjE04
+Jeff Weaver: Request UN Investigation into Democratic Primary Election - Sign the Petition! https://t.co/Nv0WP5TASF via @Change
+#WhichHillary #NeverHillary #BernieStrong  https://t.co/qWCevIvNHm
+@MsRock4Ever So true!!
+Here is the other side of your story @NPRATC @NPR #media Jane Sanders predicts epic Bernie comeback https://t.co/iUHHoTOzGd
+#StillSanders #BernieStrong  https://t.co/mtGzxmymCg
+"Thanks #Hillary! After bombing Libya into chaos, NATO plans to bar refugees from Europe, with U.S. help https://t.co/cXirJPhg7w via @Salon"
+#HillaryHawk  https://t.co/eJtLVrMmEF
+#BernieStrong  https://t.co/rUuKL5NQ9J
+"@NPR @npratc @tamarakeithNPR @Yamiche Here's a story, why not report it? https://t.co/zhwjuHquui"
+"@NPR @npratc @tamarakeithNPR Why not follow up on your negative, false story from this morning. #StillSanders  https://t.co/SRlEvg2xle"
+Here is a real story for you. BTW #Sanders not out though you claim he was! @NPR @BrianLehrer @tamarakeithNPR  https://t.co/6OR8vBuB7I
+Here we go! https://t.co/XlZJJVOEkw
+#BernieStrong #BernieSandersforPresident2016  https://t.co/0dKe8qgbAd
+#BernieStrong #StillSanders #BernieSandersforPresident2016  https://t.co/uOBOHZBWWM
+"@EmineDilek1113 good question If you google the title it says 6hours ago, and another site Conservative Circle site it as today, &amp; ""4hours"""
+That's why #BernieSandersforPresident2016 will win against #Hillno  https://t.co/vUKrJD5ecN
+Not good for #HillaryClinton! #StillSanders BREAKING: Justice Department Just Filed For ACTION Against Hillary https://t.co/skLlCldbhi
+Don't believe that @media #spin #BernieStrong This is normal to focus on #CAPrimary #Stillbernie  https://t.co/LFVRbxfPkM
+#NotMeUs #BernieStrong  https://t.co/bAQnwmSh4J
+Great News #StillSanders #Sanders2016  https://t.co/Mo1latFfRQ
+https://t.co/D0ajp8cU1s via @BernieSanders
+@Fanny57 thanks! I've been looking for Bernies; explanation about the layoffs to retweet. Any ideas?
+https://t.co/YBHNo21UKr via @BernieSanders
+There sure are a lot of #MillionDollarTroll s on the I love #Bernie facebook page! Did anybody else notice that?
+Why not report #DavidBrocke #Clinton Superpac doing this @tamarakeithNPR ? From @Shadowproof @BrianLehrer https://t.co/p0rIB3MtHR
+"@TamaraKeithNPR The only time she wasnt snide, more like gloating with bad @BernieSanders news story.  https://t.co/AqFNGPiF7o via @WNYC"
+He should keep running for president! https://t.co/ssZfZJnvce
+Voter Suppression Charged in Almost Every State – 2016 Election Central https://t.co/6bfq022uVd via @po_st #StilSanders
+'Neutral is Not Acceptable': Nationwide Protests Demand Colleges Go Fossil Free - https://t.co/OfT9z293oW #BernieorBust
+Hillary Clinton Trolls Shut Down Pro-Bernie Sanders Facebook Groups https://t.co/NadmN11QFT
+Good News! #Stil https://t.co/KuK74UXFXp
+@Canada4Bernie  https://t.co/pFoWOLqv7X
+#BernieOrBust  https://t.co/bsTjshBGM6
+#StillSanders #BernieOrBust  https://t.co/xF56gbrM88
+#Bernie2016 #ThingsBernieHates #StillSanders #CAPrimary  https://t.co/y1hGKcL0G2
+#BernieSanders is the only one who will stop this! @ThankYouBernie #StillSanders  https://t.co/d6n5I5Ifph
+This in spite of the way #Media trash him and ignore him and lead w/pro Hillary constantly ! #StillSnaders  https://t.co/DGH9f1hZbq
+"Democrats, need to fear #HillaryClinton: NY Times is absolutely right: she’s a bigger hawk than Republicans https://t.co/JBb9aiZtQG"
+So True! #Sanders  https://t.co/L3Rw3L1fzB
+And yet you're so cheerful! #StillSanders  https://t.co/i4i7PDOdeI
+#StillSanders https://t.co/L3Rw3L1fzB
+Indeed! #StillSanders https://t.co/ndBEFADITK
+Yes we will! #StillSanders  https://t.co/FQH3it5Jzt
+"Why #BernieSanders will, should and must stay in the race https://t.co/fJvlbYhjMr #StillSanders"
+Such an excellent response! how to get things done corps don't want?! Rally revolutionary forces! #FeelTheBern  https://t.co/i7GSNMqn5L

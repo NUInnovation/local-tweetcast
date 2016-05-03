@@ -1,0 +1,103 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 126636133, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme7/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719843230682984448/1O3-aNK8_normal.jpg"", ""profile_sidebar_fill_color"": ""F3F3F3"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1113, ""profile_sidebar_border_color"": ""DFDFDF"", ""id_str"": ""126636133"", ""profile_background_color"": ""EBEBEB"", ""listed_count"": 12, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @DanScavino: This is a movement! VOTE #Trump on Tuesday, April 26th- and let's #MakeAmericaGreatAgain! #Trump2016 #TrumpTrain https://t.\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726989526875279362, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 620571475, ""indices"": [3, 14], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino""}], ""hashtags"": [{""indices"": [41, 47], ""text"": ""Trump""}, {""indices"": [82, 104], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [106, 116], ""text"": ""Trump2016""}, {""indices"": [117, 128], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""source_user_id"": 620571475, ""source_status_id_str"": ""723931571150004224"", ""expanded_url"": ""http://twitter.com/DanScavino/status/723931571150004224/video/1"", ""display_url"": ""pic.twitter.com/G8vsYaCCSS"", ""url"": ""https://t.co/G8vsYaCCSS"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg"", ""source_user_id_str"": ""620571475"", ""source_status_id"": 723931571150004224, ""id_str"": ""723930875637825536"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 723930875637825536, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1598, ""id_str"": ""726989526875279362"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""This is a movement! VOTE #Trump on Tuesday, April 26th- and let's #MakeAmericaGreatAgain! #Trump2016 #TrumpTrain https://t.co/G8vsYaCCSS"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723931571150004224, ""favorite_count"": 2234, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [25, 31], ""text"": ""Trump""}, {""indices"": [66, 88], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [90, 100], ""text"": ""Trump2016""}, {""indices"": [101, 112], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/DanScavino/status/723931571150004224/video/1"", ""display_url"": ""pic.twitter.com/G8vsYaCCSS"", ""url"": ""https://t.co/G8vsYaCCSS"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg"", ""id_str"": ""723930875637825536"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""photo"", ""id"": 723930875637825536, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1598, ""id_str"": ""723931571150004224"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 23 17:48:31 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/DanScavino/status/723931571150004224/video/1"", ""display_url"": ""pic.twitter.com/G8vsYaCCSS"", ""url"": ""https://t.co/G8vsYaCCSS"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg"", ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 28586, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/1280x720/G3X8kn06xk2PkiZM.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/320x180/1RJa5S9-Em_O-M8G.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/pl/-L-VH_b4RkKdvW9y.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/pl/-L-VH_b4RkKdvW9y.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/640x360/BJmLtDYVht0cCS6o.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""723930875637825536"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""video"", ""id"": 723930875637825536, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 04:19:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 620571475, ""source_status_id_str"": ""723931571150004224"", ""expanded_url"": ""http://twitter.com/DanScavino/status/723931571150004224/video/1"", ""display_url"": ""pic.twitter.com/G8vsYaCCSS"", ""url"": ""https://t.co/G8vsYaCCSS"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg"", ""source_user_id_str"": ""620571475"", ""source_status_id"": 723931571150004224, ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 28586, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/1280x720/G3X8kn06xk2PkiZM.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/320x180/1RJa5S9-Em_O-M8G.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/pl/-L-VH_b4RkKdvW9y.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/pl/-L-VH_b4RkKdvW9y.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/723930875637825536/pu/vid/640x360/BJmLtDYVht0cCS6o.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""723930875637825536"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""video"", ""id"": 723930875637825536, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/723930875637825536/pu/img/dMJJbVixAOK7eYWO.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 9444, ""description"": ""Trump makes me Proud to be an American. Trump Deserves to WIN. He is an HONEST MAN. CRUZ AN Embarrassment to the Republican Party! LYIN', cheater in every way!!"", ""friends_count"": 2058, ""location"": ""Southern Calif."", ""profile_link_color"": ""990000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719843230682984448/1O3-aNK8_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/126636133/1459852367"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme7/bg.gif"", ""name"": ""Klew"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8271, ""screen_name"": ""tinkitk"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Mar 26 14:12:47 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Please sign this petition to let the GOP leaders when TRUMP wins they better back him or no vote Plea... https://t.co/zA1NnJsPJs via @Change
+HAHA!  Just saw this from a page I saw!! Lol so funny! https://t.co/TcU4RwWdEo
+Did #Cruz Bail out on a Indiana Rally today?
+"@DanScavino @KateAndersonUSA 
+
+ I will NEVER stand by #TedCruz, NEVER! ... SEE YA Teddy... Don't let the door hit ya on ur way out! 
+GET OUT"
+"@trump2021 .... 
+
+NO! That's my favorite Cartoon... Insult to me, too good for Cruz!!!! 
+
+How about the Monsters Instead?? Lol 
+
+#TrumpBaby!"
+"@JoxuaLuxor @debbie_groves1  
+
+This is sad to me. EVERYTIME His daughters are near him they try and get away?  Why? There's something wrong!"
+"@Gdsblssd1 @marilynnrox   ""claim to be Christians?"" 
+Bernie= Socialist 
+Hillary=deceitful (emails/ Benghazi)
+Cruz=Free Mason 
+Trump=❤️🇱🇷USA!"
+"@MasterTruth777 @JulietteIsabell @Anthonyzambrot2 
+
+Proves my point- we need help w/ the borders..NOT good! Indiana HELP US ..Vote Trump"
+PLEASE READ ALL STATES THAT STILL ARE GOING TO VOTE.  LYIN' TED STRIKES AGAIN!! https://t.co/v1WaLyc67j
+"@jparr44mag @philmonaco67 @JimMockley 
+I didn't VOTE 4 O'Bummer either..Never!! Ppl just don't check N2 who they vote for ..JUST LIKE #Cruz!"
+@youlivethrice @NoMorePolitical  YES!! I'm 40 min away from the TJ Mexican Border - Yes Indiana we need tour help - vote Trump! Thank you
+"@JudgeMoroz @MOVEFORWARDHUGE 
+I haven't even heard ANYTHING NICE HE'S done. He's a PRIDEFUL CHILD, that needs to GROW UP &amp; ADMIT HE LOST!!"
+"@heavenlyitalian @TedCruz 
+Your right about ONE THING...""WE do need to UNITE behind THE PARTY...&amp; YOU AIN'T it!!"" Trump is OUR PARTY, BYE!"
+Indiana - I would really like for someone to tell me if ur voting for #Cruz .... Give me one good reason because I can't find One reason to!
+@mitchellvii @Sanjay25_ He can't tell the TRUTH about ANYTHING... He's NUTS.  #Cruz how in the heck were you ever elected for anything? JOKE
+We are counting on you.... Then I get to vote in California for ONLY #TRUMP https://t.co/gflbTlAD7x
+Agreed.....It's time for someone who is used to dealing with $$ &amp; people from all over the world...Trump is THE MAN! https://t.co/KVYmfe9OGb
+"I really wish the Media would just ""STOP"" about Trump.... MILLIONS LOVE HIM.... so get over it...."
+I am not trying to be mean.... BUT.... Cruz needs to go and take Kasich with him.... we've picked who we want! https://t.co/IOJ4hWNUg0
+"I'm not sure who that guy was that did the White House Dinner talking after O'Bummer.... But he was an A$$, not funny... RUDE; JERK"
+Thanks to all of the students who know what's right.... that's Awesome! So cool! https://t.co/dsYCyEnV5A
+"What a SLOB....Honestly #TedCruz you are pitiful, a disgrace. Just go away some can TRY and forget about you..Please https://t.co/fTCom7ZATH"
+I think He needs to be VP!  https://t.co/GhjBJ48Vu7
+"I'm in California...Can't WAIT to VOTE for Trump...Come Indiana, Oregon, WA, New Mexico, Everyone please join me🇺🇸 https://t.co/JEox0AM6kL"
+Isn't that something!..What a surprise! Cruz is a Creep.I'd keep my children far away from him.my gut tells me that! https://t.co/t9swuaz2wq
+We need more young adults taking a stand. nice to see! https://t.co/aCOpwZixjh
+"THAT'S THE 1ST THING #CRUZ WILL TAKE...I DON'T TRUST THAT MAN AT ALL.  INDIANA, NEW MEX., OREGON, WA, CA VOTE #TRUMP https://t.co/9cExjnfUdN"
+I am getting more &amp; more SICK of his freaking MOUTH. How can anyone in their right mind BELIEVE HIS LIES? SERIOUSLY! https://t.co/Z5K9IqzFtk
+https://t.co/HWFUnGYxsE
+"@MartyBonomi @GlendaAhrens 
+
+I hope So ❤️🇱🇷❤️🇱🇷❤️🇱🇷"
+"@MartyBonomi @GlendaAhrens 
+Says he's up in IN. TOO (depending on which poll is right!!?
+
+#Trump's our guy!!"
+"@IndianaGOPWomen #IndianaPrimary 
+
+Come on girls!! Trump's our MAN! He's a rock!! INDIANA Girls, Women, Mom's,Sister's,Grandma's VOTE TRUMP!"
+"@superlioness1 
+
+🎀🎀 WOMEN LOVE #TRUMP 🎀🎀"
+"@trumpsterMG @corina6977 @atensnut @Gypsydragup 
+
+He's a pig!!"
+It’s a Bad Day for the Clintons When Vox Fairly Explains the Rape Allegation Against Bill https://t.co/efW3IoT1je via @NRO
+"@Gelicmonk @magnifier661 
+
+SMELLS LIKE STINKY, SLEEZY, SCUMMY, SNAKE NAMED @CREEPYTeddyCruz!  
+
+He makes my skin crawl  like O'Bummer does!"
+"@w4djt @realDonaldTrump @DogBountyHunter @MrsdogC 
+
+GET HIM DOG!!! 🐾🐾☎️⌛️🗝"
+"@mitchellvii @ForTennessee 
+
+REEP WHAT YOU SOW KILLARY! 
+
+#Trump HAS A HEART, phone to pick up @3:00 AM &amp; most importantly AMERICAN PRIDE 🇱🇷"
+"@SandyEVetmom @mlynne3 @Reuters 
+
+Thank you #Bikers4Trump  &amp; #Truckers4Trump for watching out 4 all of us (Trump Supporters),YOUR THE BEST!!"
+"@BigStick2013 @FrenchForTrump 
+
+HE'S AHEAD IN VOTES? 
+
+I call BOLOGNA!  #Cruz pay off? #CruzCheatletters #CruzULoose 
+
+Delegates given now??"
+Indiana..... RT PLEASE
+"@DonnyJones977 @periodsforpence 
+Counting down the days!!! #TrumpTrain"
+@AdBell45 @realDonaldTrump
+https://t.co/EGICKTArjm
+@DBloom451 @tduke8809  they won't - Bought and Paid for!
+"@mmasters69 @slw2547 @faagifts @Hank45678 
+
+LOVE IT  🇱🇷 LOVE IT 🇱🇷  Pretty cool Thank U 4 posting that! Happy Christians R supporting #Trump"
+Here's a thought....maybe ONLY the PPL who live 40-50 miles from each BORDER - should B the ones to VOTE - we have to deal w/ SO MUCH CRAP!
+"@LiLGrace1234 
+
+your so right!! O'Bummer is ONLY concerned about himself.... And where his next vacation is! JOKE... He needs to be out NOW!"

@@ -1,0 +1,56 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 367285344, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/692390357733085184/i-zWufKM_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 9, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""367285344"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HillaryClinton: It\u2019s Caucus Day, Alaska, Hawaii, and Washington! Retweet if you're with her. https://t.co/gKBMJ3UKgc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 715217137866924032, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [3, 18], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""713755536236228608"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 713755536236228608, ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3480, ""id_str"": ""715217137866924032"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""It\u2019s Caucus Day, Alaska, Hawaii, and Washington! Retweet if you're with her. https://t.co/gKBMJ3UKgc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 713755536236228608, ""favorite_count"": 5213, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [77, 100], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3480, ""id_str"": ""713755536236228608"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Mar 26 15:52:35 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [77, 100], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Mar 30 16:40:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""713755536236228608"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/713755536236228608/photo/1"", ""display_url"": ""pic.twitter.com/gKBMJ3UKgc"", ""url"": ""https://t.co/gKBMJ3UKgc"", ""media_url_https"": ""https://pbs.twimg.com/media/CefExL6XIAA82rU.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 713755536236228608, ""id_str"": ""713755415251722240"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [97, 120], ""type"": ""photo"", ""id"": 713755415251722240, ""media_url"": ""http://pbs.twimg.com/media/CefExL6XIAA82rU.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 74, ""description"": """", ""friends_count"": 30, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/692390357733085184/i-zWufKM_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/367285344/1453862699"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""urbicio munguia"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 17, ""screen_name"": ""galonazo69"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Sep 03 18:18:05 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@profebraca también lo que hace la diferencia en el árbitro
+@realDonaldTrump same thing as hitler
+@realDonaldTrump your win will bring down the Republican Party and the triumph of @HillaryClinton
+@realDonaldTrump hope you win Donald so that @HillaryClinton can kick your ass
+Para Presidente de la Republica @fernandeznorona
+Hi camp
+Te amo@pisporra1
+Huapala1 http://t.co/J62NhuOcRx
+"I just got a score of 0 on Llama or Duck, a FREE game by IFS! I bet you can't beat my score! http://t.co/BIBXZykB http://t.co/ZjaOLikn"
+A la camita a dormir temprano para poder levantarme al cien y pasadito good night
+sup bro aca en the big t RT @paulomunguia77: @galonazo69 what up bro what are u up 2
+Just got back from seeing phineas and ferb live  great show my kids loved it the state farm arena was packed lot of kids and beautiful woman
+@KateDC_PRfan @katedelcastillo
+@jirafalesruben @gustavoezze @jirafalesruben
+"Gran momento el estar reunidos con mis padres,hijos y esposa esto si que es vida no lo cambio por nada"
+Feliz dia de lad lupitas que se la pasen bien
+cuelga bien tu celular by voz de mando vercion banda nice
+Love it macbook pro
+Black friday coming up no se la pierdan
+Lamentablemente otro robo para marquez ante mis ojos siempre sera un gran campeon y ganador de esas 3 peleas ojala opinen li mismo
+11/11/11 still stressed out can't sleep. six days in a row waking up at five thirty and going to sleep at midnight.
+Un dia muy soleado que bien se siente este calorcito saludos desde Texas
+Rt para mi familia Munguia Isais aqui en guadalajara que tambien somos 100% CHIVAS @jorgevergara
+Rt porfavor a la fam munguia isais de guadalajara @jorgevergara  @ChespiritoRGB @varedg  @jirafalesruben
+Gran juego de orrible peralta
+Gana Mexico el oro en futbol 1 a 0
+Gol de Mexico 1 por 0 ante argentina Panamericanos
+Saluda a la familia munguia de guadalajara @brozoxmiswebs
+RT a la familia munguia de guadalajara gracias es usted una gran mujer con todo respeto @marissrivera
+@jorgevergara felicidaded gran triunfu
+Ahh que agusto a 88° adoro el calor la humedad y los mosquitos esto si es vida no como el frio de chicago
+Tenia que ser el chavo del 8  @varedg RT porfavor
+Another day lesser dollar
+At taco palenque 2 tacos de fajita y una agua de jamaica
+At mikie dees  http://t.co/PrwauwaJ
+Buenos dias up and about ya me recibieron los sancudos de Texas son unos descarados . El calor la humedad y los mosquitos esto si rs vida.
+Jackson missisipi cansado
+Comiendo a dos horas de memphis agghh que enfado el camino
+"@ChespiritoRGB Ya deja de andar buscando churruminos y mandale un RT y saludos a Xavier,Jairo y Andrea Munguia de Guadalajara eso eso eso"
+GUADALAJARA ARRIBA LAS CHIVAS ORGULLOSAMENTE TAPATIO AJUA
+@CarlosLoret le podrias mandar un saludo a mi esposa mariela isais hoy cumplimos 10 anos de casados gracias servidor y amigo urbicio munguia
+@brozoxmiswebs mandeme un saludo a mi esposa mariela isais hoy cumplimos 10anos de casados gracias su servidot y amigo urbicio munguia
+"@ChespiritoRGB me puede mandar un saludo para mis hijos xavier,jairo y andrea munguia isais de guadalajara jalisco muchas gracias"
+@ChespiritoRGB saludos y ojala se mejore pronto mis tres hijos adoran el chavo animado yo me quedo con el progama original atte fam. Munguia
+El gobernador de jalisco emilio gonzalez candil de la calle y obcuridad de su casa mientras el esta de fiesta su estado sufre que pena
+Senor presidente felipe calderon menos alagos con los panamericanos y mas accion con cihuatlan que tambien es jalisco gracias
+Just had me a big breakfast platter with hot cakes yummy at miki dees (mc donalds)
+Despues de cuatro amoxilinas de 500 dos iboprofen de 600 estoy apenas a tono ajua
+Ahora si traigo las anginas a lo que da que horror
+Ontas pisporra1 hoy pensando en ti chula
+Buenos dias amor que tengas un buen dia
+Pisporra1 ontas chula I &lt;3 you
+"RT @benedictoxvi: Dios es amor, se ha hecho hombre en Jesús y con su sacrificio ha rescatado a la humanidad (cont) http://t.co/UwJWt99n"
+@PauloMunguia
+Hello first tme on twitter

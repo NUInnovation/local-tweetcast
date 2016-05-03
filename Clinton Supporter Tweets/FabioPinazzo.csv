@@ -1,0 +1,98 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3367934717, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/642317401045004292/L8wxmsAx_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/FT1gwWa07U"", ""indices"": [0, 23], ""expanded_url"": ""http://www.lavanderieigea.it/"", ""display_url"": ""lavanderieigea.it""}]}, ""description"": {""urls"": [{""url"": ""https://t.co/KOQf3SQ8jy"", ""indices"": [98, 121], ""expanded_url"": ""https://www.linkedin.com/profile/view?id=217452767"", ""display_url"": ""linkedin.com/profile/view?i\u2026""}]}}, ""followers_count"": 175, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3367934717"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @AlfioKrancic: Kommissario del Popolo all'Immigrazione... https://t.co/j1QnKjgVK5"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725417060487024645, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 479645115, ""indices"": [3, 16], ""id_str"": ""479645115"", ""screen_name"": ""AlfioKrancic"", ""name"": ""Alfio Krancic""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 479645115, ""source_status_id_str"": ""725398687741009922"", ""expanded_url"": ""http://twitter.com/AlfioKrancic/status/725398687741009922/photo/1"", ""display_url"": ""pic.twitter.com/j1QnKjgVK5"", ""url"": ""https://t.co/j1QnKjgVK5"", ""media_url_https"": ""https://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg"", ""source_user_id_str"": ""479645115"", ""source_status_id"": 725398687741009922, ""id_str"": ""725398685945872385"", ""sizes"": {""small"": {""h"": 243, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 732, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 429, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [61, 84], ""type"": ""photo"", ""id"": 725398685945872385, ""media_url"": ""http://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 157, ""id_str"": ""725417060487024645"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Kommissario del Popolo all'Immigrazione... https://t.co/j1QnKjgVK5"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725398687741009922, ""favorite_count"": 125, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/AlfioKrancic/status/725398687741009922/photo/1"", ""display_url"": ""pic.twitter.com/j1QnKjgVK5"", ""url"": ""https://t.co/j1QnKjgVK5"", ""media_url_https"": ""https://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg"", ""id_str"": ""725398685945872385"", ""sizes"": {""small"": {""h"": 243, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 732, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 429, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [43, 66], ""type"": ""photo"", ""id"": 725398685945872385, ""media_url"": ""http://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 157, ""id_str"": ""725398687741009922"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""it"", ""created_at"": ""Wed Apr 27 18:58:19 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/AlfioKrancic/status/725398687741009922/photo/1"", ""display_url"": ""pic.twitter.com/j1QnKjgVK5"", ""url"": ""https://t.co/j1QnKjgVK5"", ""media_url_https"": ""https://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg"", ""id_str"": ""725398685945872385"", ""sizes"": {""small"": {""h"": 243, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 732, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 429, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [43, 66], ""type"": ""photo"", ""id"": 725398685945872385, ""media_url"": ""http://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""it"", ""created_at"": ""Wed Apr 27 20:11:19 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 479645115, ""source_status_id_str"": ""725398687741009922"", ""expanded_url"": ""http://twitter.com/AlfioKrancic/status/725398687741009922/photo/1"", ""display_url"": ""pic.twitter.com/j1QnKjgVK5"", ""url"": ""https://t.co/j1QnKjgVK5"", ""media_url_https"": ""https://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg"", ""source_user_id_str"": ""479645115"", ""source_status_id"": 725398687741009922, ""id_str"": ""725398685945872385"", ""sizes"": {""small"": {""h"": 243, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 732, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 429, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [61, 84], ""type"": ""photo"", ""id"": 725398685945872385, ""media_url"": ""http://pbs.twimg.com/media/ChEiQvRWwAEM2tB.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 455, ""description"": ""Ex Consulente del lavoro - Industriale - Rivenditore di Auto - Ex Ebayer - Designer @fabiopinin - https://t.co/KOQf3SQ8jy"", ""friends_count"": 398, ""location"": ""Catania"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/642317401045004292/L8wxmsAx_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3367934717/1441976518"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Fabio Pinazzo"", ""lang"": ""it"", ""profile_background_tile"": false, ""favourites_count"": 2441, ""screen_name"": ""FabioPinazzo"", ""notifications"": false, ""url"": ""https://t.co/FT1gwWa07U"", ""created_at"": ""Thu Jul 09 17:15:09 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@matteorenzi @BarackObama come dice @Berlusconi_15 ci vuole il Presidente Europeo Urgentemente ! Per fermare l' Isis! E per dare Ripresa E.!
+@matteorenzi solo il Presidente  @BarackObama darà un taglio all'immigrazione clandestina dal mare per questo l'Austria rivuole i confini.
+"Genova, allarme per la fuga di petrolio che arriva al mare https://t.co/0OUOAFKQtr via @panorama_it"
+"Gettoni d’oro, chi fa la cresta alla Rai (e ai vincitori)? https://t.co/Fq9iLEX2Zc"
+"Inchiesta petrolio, Renzi: “Non metteremo mano alla riforma intercettazioni” (Parola di Renzi?) -  https://t.co/xaq8yRCu1Q"
+"Trivelle, quello che bisogna sapere del referendum https://t.co/Vm72GNskYh via @panorama_it"
+@msgelmini @matteorenzi prendi i fondi dai 20 miliardi annui del S S N che le assicurazioni prendono dagli automobilisti @redazioneiene
+"@eni vi rendete conto che @matteorenzi sta facendo un referendum per voi! Altre spese! Tanto 42% di quorum, soldi sprecati ! #Tanto per!"
+Taliban splinter group claims attack on Christians at Pakistan park; 60 dead https://t.co/K5tZuxivRQ
+22 - 03 - 16   Hours 7:29 https://t.co/6nSJ7Lwek4
+5 Industry in World - 2 in Sicily - By @OfficinePinin 2006 https://t.co/uH3UwqNdx9
+Jamiroquai - Alright Style https://t.co/OGWLeQoD1R
+Rispetto per le Donne!  Respect for Woman ! https://t.co/1hIjEJZWXH
+Luca Carboni - Luca lo stesso 🔝® https://t.co/tb7L6MCtS6
+Alessandra Amoroso - Stupendo fino a qui @Vevo  https://t.co/dWnDHp1MOw
+@redazioneiene @DinoGiarrusso @matteorenzi @MinisteroSalute Rifiuti su terreno franabile - Commissari con stipendi di 25000 euro mensili 👏👏👏
+The Voice 4: le pagelle delle seconde Blind – Live https://t.co/Dm2yEyLJai via @panorama_it
+"Renzi ha tagliato i servizi, non gli sprechi. E la colpa non è di Bruxelles: https://t.co/FFQwib3wAC via @linkiesta"
+"L'inferno dei migranti di Calais tra stupri, sgomberi e ronde xenofobe: https://t.co/o8Qryt0gdd via linkiesta"
+"Migranti, Carter:'Sì a missione Nato Egeo' - Europa - ANSA.it https://t.co/aEA7Yv7LHN via @Agenzia_Ansa"
+Contro il virus Zika l’Oms raccomanda in tutto il mondo il test messo a punto a Torino https://t.co/jZWNBzbHsT
+Onorevoli «sbadati»: alla buvette arrivano i controllori degli scontrini  https://t.co/rAlxMjpi1M
+Il documento: “Berlusconi deve morire”… Indovina chi (a sinistra) lo voleva far fuori? -  https://t.co/oZPBUQeTEp
+La polizia francese sgombra la “giungla” di Calais https://t.co/colEVOfzSX
+"Aliquote Irpef, la situazione di oggi e quella (forse) di domani https://t.co/PByC5qc41h via @panorama_it"
+Usa 2016: Hillary Clinton confida in un vero “SuperTuesday” https://t.co/QfOOPFipqb via @panorama_it
+https://t.co/QHSWY9xI09
+https://t.co/hm76jfEdop
+"Oscar 2016, colonna sonora: vince Morricone. E il maestro ringrazia in italiano: «Buonasera signori» https://t.co/X2phz7FAHu"
+Francesca Michielin - Nessun grado di separazione  https://t.co/ddU5bVw46q
+Stadio - Un giorno mi dirai  https://t.co/8de7t7HCN7
+La Grecia brucia: neonazisti e comunisti all’attacco del governo Tsipras: https://t.co/45BxDjUpN4 via linkiesta
+prima le famiglie ed i poveri con dei sussidi per non creare diseguaglianze così finalmente diventeremmo i Leader @Berlusconi_15
+"#salvaitalia per bisogna lavorare sul debito pubblico con dei piccoli sacrifici €0,50 #sututtopertutti per un anno a riprese, aiutando"
+"Conti pubblici, il Tesoro apre il cantiere per la manovra 2017 https://t.co/uibIcYNfS7"
+Mister Been alla Fiorentina. @forza_italia  Guardate che tipo !  Un Vero Premier ! @Berlusconi_15 https://t.co/XrDGEl6Hut
+"Renzi si vanta: tagliati 25 miliardi di spesa pubblica, ma i dati lo sbugiardano… -  https://t.co/WU7tSEDcEm"
+Maserati Levante: prime fotografie ufficiali https://t.co/4nR6iF4EQ2 via @Panoramauto
+"Grecia, la grande crisi https://t.co/vJmikdW6zv"
+"Spara sui passanti, 7 morti in Michigan https://t.co/gVK8oYoyb0 via panorama_it"
+"Usa, uomo apre il fuoco contro i passanti: almeno 6 morti - Tg24 - Sky.it https://t.co/oPCuEA92wk via @addthis"
+Il Papa chiede una moratoria della pena di morte. Marazziti: “Grazie Bergoglio” https://t.co/mmfSA3MPnl
+"London Mayor Boris Johnson backs ‘Brexit,’ boosting anti-E.U. campaign https://t.co/EWQR58QcZ9"
+Here's Your 3-Way GOP Race — and It Is Trump's To Lose https://t.co/Wg0D4GX82V via @intelligencer
+https://t.co/ailEzDgoVs
+https://t.co/9uv7D46Q7A
+Isis rivendica le stragi di Damasco e Homs. Site: “Oltre 180 morti e almeno 300 di feriti” https://t.co/YEFAJWdzis
+"Piazza Affari crolla e perde un altro 3,2% https://t.co/Uo4tmGwu5s"
+"Roma, bimbi disabili maltrattatiin centro di riabilitazione: 10 arresti  https://t.co/0yFh2vqeh7"
+"@Pontifex_it @matteorenzi neanche se sono figli propri, purtroppo! Famiglia = Padre + Madre ."
+@renatobrunetta con il sistema giudiziario che abbiamo questa direttiva non è praticamente attuabile. Almeno i giornalisti aiutano i P.M.
+@redazioneiene @MauroCasciari @MinisteroSalute
+@redazioneiene @mitgov
+@redazioneiene @luigipelazza @MinisteroSalute @minambienteIT @Volkswagen
+@redazioneiene @NadiaToffa @PCPadoan Why! Perché? Alta Professionalità o disattenzione! Segue:
+@ilcirotano @TgLa7 @SkyTG24 @MediasetTgcom24 prego parlatene tutti i giorni! Presto!!
+Limite pagamento contanti sale a 3000 euro | https://t.co/tHoZZ38J8K via @ilcirotano
+Obbligo di POS per i Professionisti: dall'1 febbraio 2016 sanzioni per chi non si adegua https://t.co/ck1zDGmTRv
+"Calcio e Fisco,  64 indagati. Accuse a Galliani, De Laurentiis e Moggi jr https://t.co/C0wMU6NSFv"
+Blue Origin launches and lands sub-orbital rocket for second time https://t.co/Mw4M5rWDEm
+"Tempesta di neve negli Stati Uniti. Washington chiusa, stato di emergenza a New York https://t.co/4zY9mAoNsz via @la_stampa"
+https://t.co/ifbeFYVWyq
+M5S VOTA MATTEOLI RINVIATO A GIUDIZIO PER CORRUZIONE https://t.co/VoJxKSnvIM # via HuffPostItalia
+https://t.co/RJSdLhsKPJ
+@Piovegovernolad questa é la soluzione per L'Europa!
+@Berlusconi_15 https://t.co/1hyBfWiWqx
+@matteorenzi @matteosalvinimi @Berlusconi_15 no i carcere a chi lascia l'auto in doppia fila . Prima create I parcheggi !
+Il carcere minorile per i Bulli - futuri delinquenti ! @matteorenzi @matteosalvinimi @Berlusconi_15
+Non date i bambini ai Gay anche se sono loro figli! La Famiglia vera meritano gli angioletti no i VIZIOSI! @Pontifex_it @matteorenzi
+A casa i fannulloni I virus dello Stato ! @renatobrunetta - @matteorenzi Copiamo sempre! Chiamala #BrunettaBis
+"Vedova accusa Twitter di aver dato una ""voce"" all'ISIS https://t.co/CiBlwp90xC"
+@Iacobelli1987 @gasparripdl facciamogli adottare  i cani no i bambini i canili sono pieni senza offesa per gli animali
+"Esplosione nel Ferrarese, tre morti Incidente in un poligono di tiro, feriti - Tgcom24 https://t.co/mI8pgfi2aF"
+https://t.co/hGOtCGjn6C
+"Isis, ucciso durante un attacco delle forze irachene un vice di Al Baghdadi - Tgcom24 https://t.co/3PZXRgkNwn via @MediasetTgcom24"
+"Ufficializzando il Presidente Dell'Europa, metterei questo grandissimo Manager a gestirla, immaginate lui Putin e Obama  #ilgrancaliffao  😂😂"
+@BarackObama Thanks 😉 https://t.co/UkpqGg8UOM
+Meloni a Catania: “Crocetta il peggiore governatore della storia”. E lancia Musumeci https://t.co/nhVEdI8jHx
+"Farò esplodere Roma, espulso marocchino in Veneto https://t.co/JfxnfCnXP8"
+@radioforzaita @forza_italia @Berlusconi_15 Presidente metterei un blocco sulle TV a quelli che sono di sinistra o 5S per le reti Mediaset!
+Renzi “personalizza” il sito del governo. Ora spunta anche l’autografo https://t.co/b5WZWg5ZBV via @la_stampa
+"L’Austria: “Allarme attentati in Europa”. Attacco sventato a Sarajevo, pianificavano 100 morti https://t.co/LTJvHZtAnN via @la_stampa"
+@Corriereit chissà se questa Banca era collegata con le Banche Greche! Io non lo so ma secondo il mio istinto penso proprio di SI !
+Volare - Domenico Modugno - Nel blu dipinto di blu 🎄 https://t.co/qzN8rQZz2a
+"Lenny Kravitz - The Chamber - Live From The Bercy Arena, Paris / 2014 ✌️ https://t.co/goSnJk1hc0"
+Bianca Atzei - Riderai (New Version) - Official Video 🎄 https://t.co/skz7n3BQnI
+"Che bello se nessuno pagasse le spese sulle carte, forse tutti pagheremmo con loro! Dichiarando tutto! https://t.co/faBuyROCSO"
+Catania ◀️  Chiesa Collegiata  Style Barocco 🎀 https://t.co/FVvTK7r9YF
+@Berlusconi_15 Costo decreto salva Banche. Con la modifica dei costi sulle carte di credito ripristiniamo da solo il sistema Fiscale 🌍🌎🌏
+Catania 13 Dicembre '15 Vista Etna dal Duomo https://t.co/ufxFc54pus
+@matteorenzi @MinSviluppo sistema cibernetico  trasformalo da costo in detrazione ✌️
+Coldplay - Adventure Of A Lifetime (Official video) https://t.co/ZfXP9E6OLD
+"@matteorenzi @MinSviluppo vi spiego, se le banche non accettano la riduzione delle spese sulle carte, caricale come costi dello stato W la D"
+"BUONA IMMACOLATA A TUTTI!  🙏🙏🙏
+@matteorenzi incentiva su internet come immagini il nostro patrimonio culturale, Grazie! 
+Marketing Turismo 🤓"
+@matteorenzi i retwitt sono di un bambino . La Sicilia ringrazia Tutti ! https://t.co/OGR2xdp0lO
