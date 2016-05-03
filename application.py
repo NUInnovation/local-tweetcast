@@ -40,9 +40,9 @@ def results(location):
         users = tw.get_users_from_tweets(api, tweets)
         if users:
             corpus = tw.get_tweets_from_users(api, users)
-            res = predict_candidate(corpus, 10)
+            res = srch.predict_candidate(corpus, 10)
 
-    return str(res + "******" + corpus)
+    return str("Supports:" + res + "\nTweets Used" + corpus)
 
 if __name__ == '__main__':
     app.debug = True
