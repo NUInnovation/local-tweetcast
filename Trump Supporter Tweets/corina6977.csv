@@ -1,0 +1,52 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 74610516, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme10/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Tennessee, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""7f7d58e5229c6b6c"", ""name"": ""Tennessee, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/718521028713062400/Wae7bafy_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2142, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""74610516"", ""profile_background_color"": ""000000"", ""listed_count"": 27, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Leisure100: @HillaryClinton is a pathological liar just like her disbarred, adulterer liar of a husband @billclinton  @FoxNews  https:/\u2026"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 727268448947044352, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4049919039, ""indices"": [3, 14], ""id_str"": ""4049919039"", ""screen_name"": ""Leisure100"", ""name"": ""Leisure1006""}, {""id"": 1339835893, ""indices"": [16, 31], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 1330457336, ""indices"": [108, 120], ""id_str"": ""1330457336"", ""screen_name"": ""billclinton"", ""name"": ""Bill Clinton""}, {""id"": 1367531, ""indices"": [122, 130], ""id_str"": ""1367531"", ""screen_name"": ""FoxNews"", ""name"": ""Fox News""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/6vvKBCJ1LC"", ""indices"": [139, 140], ""expanded_url"": ""https://twitter.com/livnow/status/727095263253397504"", ""display_url"": ""twitter.com/livnow/status/\u2026""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 10, ""id_str"": ""727268448947044352"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@HillaryClinton is a pathological liar just like her disbarred, adulterer liar of a husband @billclinton  @FoxNews  https://t.co/6vvKBCJ1LC"", ""is_quote_status"": true, ""in_reply_to_status_id"": null, ""id"": 727260400069185536, ""favorite_count"": 4, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""quoted_status_id"": 727095263253397504, ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [0, 15], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 1330457336, ""indices"": [92, 104], ""id_str"": ""1330457336"", ""screen_name"": ""billclinton"", ""name"": ""Bill Clinton""}, {""id"": 1367531, ""indices"": [106, 114], ""id_str"": ""1367531"", ""screen_name"": ""FoxNews"", ""name"": ""Fox News""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/6vvKBCJ1LC"", ""indices"": [116, 139], ""expanded_url"": ""https://twitter.com/livnow/status/727095263253397504"", ""display_url"": ""twitter.com/livnow/status/\u2026""}]}, ""in_reply_to_screen_name"": ""HillaryClinton"", ""in_reply_to_user_id"": 1339835893, ""retweet_count"": 10, ""id_str"": ""727260400069185536"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1339835893"", ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 22:16:05 +0000 2016"", ""quoted_status_id_str"": ""727095263253397504"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 22:48:04 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 6621, ""description"": ""Single mother of 4 boys. 3 of which served our Country. Army, National Guard and Air Force. I was the FRG Leader at Fort Bragg,NC. I love our military NO LIST"", ""friends_count"": 2966, ""location"": ""Tennessee, USA"", ""profile_link_color"": ""9266CC"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/718521028713062400/Wae7bafy_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/74610516/1460066736"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme10/bg.gif"", ""name"": ""Corina 4 Trump"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 201, ""screen_name"": ""corina6977"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Sep 16 00:55:48 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+I AM A WOMAN WHO SUPPORTS TRUMP https://t.co/ZIz2YvRwdb
+Like Cruz said he thinks Trump supporters are stupid. Well I say we r not that stupid to vote for him. TRUMP ONLY https://t.co/82RfuOJZLI
+Keep the Trump Train going California. America needs you . Get him over 50%  https://t.co/R8cnmhRD8V
+Lets go Indiana Get Trump over 50% help Make America Great again https://t.co/eVlxhheleK
+Keep going California. When Trump wins Calif Cruz will have to get out  https://t.co/gE4CjzNTUS
+I am playing my woman card also and voting for Trump  https://t.co/ZyZUcCSDGK
+Lets go Indiana !!  https://t.co/bsHNjcJjJL
+Loving Indiana keep it going and vote Trump over 50% https://t.co/C90uUqfN6n
+wow  https://t.co/jBEMpfYbOD
+Cruz is just simply sad. He will try to steal a vote anyway he can https://t.co/urYpR4dUdo
+@318_joey @Janetlarose1 I agree there. I don't know how someone could marry there own cousin
+@318_joey @Janetlarose1 Believe me I am to
+Carly is a disgrace to the American people along with Cruz. She should go back to Canada with him https://t.co/5Ft2gU1QgF
+Its your time Indiana to help Make America Great again. Vote Trump Tuesday https://t.co/wjcoKo8fxK
+Cruz still wont answer when someone ask him if he is Canadian. A vote 4 Cruz is a vote 4 Hillary https://t.co/vIAUhIAzX5
+Cruz just lies all the time. The NRA endorsed Trump  https://t.co/A5SBFeTwt8
+Indiana America needs your votes for Trump. Get him over 50% https://t.co/y0ZLbSUEyu
+I watched that it was great . Cruz was getting pretty mad lol https://t.co/mNy5yan48V
+Indiana make sure to get your votes in for Trump tomarrow https://t.co/PshwXbTbi7
+Indiana don't vote Cruz. Only for Trump https://t.co/owas6O4okC
+@Trump4Pres0225 ok trying to get it deleted now . Got one deleted thank u so much
+@theonlyraindove @Trump4Pres0225 No the link was posted wrong hun
+@PDN_Spring  I understand I need to figure out how to delete it
+@Trump4Pres0225 wow it shows twitter blocked it when i clicked on the 3 dots
+again everyone sorry for that broken link thats not what I was trying to post. It is not a virus. It was the Mass delegates supporting Trump
+@Trump4Pres0225 No the link got screwed up somehow sorry It was suppose to go to the Mass delegate count showing Trump support
+"wow the hate from one person to me because of a broken link that wasnt what I tried to post. It was sup,to go to Massachusetts delegate sup"
+@Rubberblon Why so nasty ? Thats not what I was trying to post. The wrong link went threw for some reason. Calm down
+@CerritelliDavid @dr_gonzo1968 @Robbo1992x @Evan_R_Lott_ @TrumpGOD21 @chuckatkins311 @zesty_democrat and it is not a virus
+@CerritelliDavid @dr_gonzo1968 @Robbo1992x @Evan_R_Lott_ @TrumpGOD21 @chuckatkins311 @zesty_democrat How do I delete it
+@mitchellvii Cruz had left Indiana to go to Cali but I think he is back in Indiana now . Not sure
+@johndpizzaman Dont know what happened
+@Libertyworld  Thats not what was suppose to post. Dont know what happened
+The people paying 4 this (Clinton) are bringing violence to America. Hillary is only in it for herself like Cruz is. https://t.co/tNHU95Rxrz
+There is NO way Hillary can beat Trump in a GE and she knows it as to why she pays 4 anti trump protesters https://t.co/Hxs11iH8k2
+Trump is winning because of us Voters. We want Trump not Cruz who is trying to steal it. We want an American Pres https://t.co/ABbLPKliwV
+Nasty Cruz didn't even help her up. He walked past her. What a guy Get Him Out https://t.co/TS26b1lwQy
+Vote Trump over 50% Indiana  https://t.co/MDCJVRsif4
+INDIANA VOTE TRUMP  https://t.co/ET6WcJoiOo
+VOTE TRUMP AMERICA https://t.co/hgeSTU4u6U
+"A Man Was Being Beaten to Death with a Bat - Then, Trump's Limo Rolls By! - The Political Insider https://t.co/62FZew7F37"
+Watch Ted Cruz’s Daughter Literally Run From Her Father’s Touch https://t.co/lbqOwqLcDs
+If Hillary Clinton can't keep her own husband in check how can she run the UNITED STATES ? I AM A WOMAN 4 TRUMP https://t.co/GK0OmIjtQz
+The American people and families of Benghazi have the right to know the TRUTH Stop protecting Hillary  https://t.co/C0bNGe2qJG
+Stop Obama and Clinton Get your votes in for Trump America  https://t.co/7RtkrXzqQL
+You would have to be drunk all time with everything she has illegally done and to live with her husband Bill.  https://t.co/vlVVa9k2g4
+You should have to show ID to vote. You need to prove you are an American Citizen to vote in our Election https://t.co/MpcETYku8u
+BREAKING: Supreme Court Delivers Brutal Blow to Hillary&amp;#8230; Trump Thrilled https://t.co/umsyitBK2b
+Cruz balks at campaign-loan disclosure https://t.co/ncf8pfbQRJ via @YahooNews
+Hillary is enabler. Lets Bill do what he wants then Hillary goes after these woman. She is NOT what I want for POTUS https://t.co/19lr5bxax9
+"Keep the Trump Train going Indiana Vote Trump Tues, and send CRUZ back to Canada https://t.co/0dTHGEshdV"

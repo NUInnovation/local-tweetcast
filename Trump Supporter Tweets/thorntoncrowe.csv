@@ -1,0 +1,125 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4840654073, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/719047334097731584/3-vKHKvp.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/724955827832950784/4bwhJPRf_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/BhZuWzrtNH"", ""indices"": [0, 23], ""expanded_url"": ""http://thorntoncrowe.blogspot.com"", ""display_url"": ""thorntoncrowe.blogspot.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2046, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4840654073"", ""profile_background_color"": ""00003F"", ""listed_count"": 37, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Mediaite: Man Takes His Anti-Ted Cruz 'Birther' Case All The Way to U.S. Supreme Court https://t.co/tiNRYTQFLr https://t.co/t0L7uQ03Cm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727293237946257409, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 29465136, ""indices"": [3, 12], ""id_str"": ""29465136"", ""screen_name"": ""Mediaite"", ""name"": ""Mediaite""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/tiNRYTQFLr"", ""indices"": [91, 114], ""expanded_url"": ""http://bit.ly/1PZd5zQ"", ""display_url"": ""bit.ly/1PZd5zQ""}], ""media"": [{""source_user_id"": 29465136, ""source_status_id_str"": ""718774626764136448"", ""expanded_url"": ""http://twitter.com/Mediaite/status/718774626764136448/photo/1"", ""display_url"": ""pic.twitter.com/t0L7uQ03Cm"", ""url"": ""https://t.co/t0L7uQ03Cm"", ""media_url_https"": ""https://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg"", ""source_user_id_str"": ""29465136"", ""source_status_id"": 718774626764136448, ""id_str"": ""718774626336301060"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 718774626336301060, ""media_url"": ""http://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 19, ""id_str"": ""727293237946257409"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Man Takes His Anti-Ted Cruz 'Birther' Case All The Way to U.S. Supreme Court https://t.co/tiNRYTQFLr https://t.co/t0L7uQ03Cm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 718774626764136448, ""favorite_count"": 18, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/tiNRYTQFLr"", ""indices"": [77, 100], ""expanded_url"": ""http://bit.ly/1PZd5zQ"", ""display_url"": ""bit.ly/1PZd5zQ""}], ""media"": [{""expanded_url"": ""http://twitter.com/Mediaite/status/718774626764136448/photo/1"", ""display_url"": ""pic.twitter.com/t0L7uQ03Cm"", ""url"": ""https://t.co/t0L7uQ03Cm"", ""media_url_https"": ""https://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg"", ""id_str"": ""718774626336301060"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 718774626336301060, ""media_url"": ""http://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 19, ""id_str"": ""718774626764136448"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 09 12:16:39 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Mediaite/status/718774626764136448/photo/1"", ""display_url"": ""pic.twitter.com/t0L7uQ03Cm"", ""url"": ""https://t.co/t0L7uQ03Cm"", ""media_url_https"": ""https://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg"", ""id_str"": ""718774626336301060"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 718774626336301060, ""media_url"": ""http://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 00:26:35 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 29465136, ""source_status_id_str"": ""718774626764136448"", ""expanded_url"": ""http://twitter.com/Mediaite/status/718774626764136448/photo/1"", ""display_url"": ""pic.twitter.com/t0L7uQ03Cm"", ""url"": ""https://t.co/t0L7uQ03Cm"", ""media_url_https"": ""https://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg"", ""source_user_id_str"": ""29465136"", ""source_status_id"": 718774626764136448, ""id_str"": ""718774626336301060"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 394, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 718774626336301060, ""media_url"": ""http://pbs.twimg.com/media/CfmZtuRW4AQK-H_.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 19795, ""description"": ""Conservative Constitutionalist. unapologetically unPC. Anti-anything thwarting personal freedom for law abiding citizens. #Trump2016 #Brexit"", ""friends_count"": 2084, ""location"": ""East Coast"", ""profile_link_color"": ""A50000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/724955827832950784/4bwhJPRf_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4840654073/1461678608"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/719047334097731584/3-vKHKvp.jpg"", ""name"": ""thornton crowe"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 10501, ""screen_name"": ""thorntoncrowe"", ""notifications"": false, ""url"": ""https://t.co/BhZuWzrtNH"", ""created_at"": ""Sun Jan 24 03:15:23 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@keith_camic legal immigrants like Trump bc he's being a better economy back. Illegals don't like Trump bc they'll be deported.
+Yes &amp; that's the parents' fault. They're probably illegal afraid the gravy train is coming to an end. 🚂🚂🚂 https://t.co/94TrMOWGJ0
+@sheila06942158 @TheJuanWilliams @realDonaldTrump amazing how much tedifiles &amp; journalists hate him but that makes me like him even more
+@sheila06942158 @TheJuanWilliams @realDonaldTrump he was shameful tonight. Like I said a lot of ppl have trashed their cred during election.
+@EternaFreeda @benshapiro and that's why I block them.
+@EternaFreeda @benshapiro hilarious. Apparently you're clueless what the discussion was about. As for fascist Cruz ppl are nasty.
+@reshas @benshapiro @EternaFreeda your man is eliminated. Deal with it.
+@reshas @benshapiro @EternaFreeda Heidi I think you are more like the left. Delusional.
+@TheJuanWilliams @realDonaldTrump they are PRETENDING to protest but when asked by reporters they're clueless. Get a grip.
+@TheJuanWilliams @realDonaldTrump I am a historian specializing in 60s movements. These ppl aren't protestors they are RIOTERS to destroy!
+.@TheJuanWilliams shocked you think @realDonaldTrump condoned the violence by  whacky left. These ppl R nothing close to 60s.nowhere close!
+@MavisMiter @benshapiro @adagioforstring we're only scary bc we expose the establishment's BS.
+I stand with Kate Hoey &amp; the UK getting their control back from EU! They have every right to regain their sovereignty. 🇬🇧🇺🇸 stand w/UK
+@sp_who2 @benshapiro like your avatar Taylor.
+.@BretBaier thanks for having Kate Hoey from Parliament on your show. See the UK isn't into the globalist BS either.
+It's very embarrassing both for @JohnKasich &amp; @GOP. He's also making a mockery of our election system. Exposing dirt https://t.co/ER3G9FpYTK
+He blatantly stands there &amp; lies by omission &amp; misinformation then wonders why he's losing. Who knew?! 🙀🙀🙀🙀 https://t.co/4WuFX1dPi1
+Teddy's a lawyer he know there is no statute of limitations for murder.  https://t.co/UbMiSF7D62
+Of course hell debt it. Oswald was a professed communist &amp; then turned assassin.  https://t.co/UbMiSF7D62
+@bumperlaurie2 @SMW5683 you've got that right. He also steals from Trump's platform then calls it his own.
+@christinaLW28 @benshapiro agreed.
+@christinaLW28 I've see many trash their careers during this election. It's truly sad. Ideology over practicality. @benshapiro
+Agreed. It's really sad.  https://t.co/2wXi2oQSM9
+@christinaLW28 @benshapiro had upmost respect 4 his work prior to election but now everything's dripped in disdain I question  credibility.
+Crowded House - Don't Dream It's Over  https://t.co/j62N8J0wNl
+@christinaLW28 @benshapiro one of the girls said Shapiro's portrayal of republican hate was why they did it.
+@christinaLW28 @benshapiro two weeks after his visit two black girls put a lynching drawing on a whiteboard in library.
+@christinaLW28 @benshapiro he's got to stop bashing Trump. When he came to my university I sat there watching him do it to college students.
+@DrMartyFox @jjauthor @hanktastic1776 @seanhannity @TIMENOUT wow. That's very sad.
+Isn't Gawker bankrupt yet?  https://t.co/egkrZHgQ3N
+"@benshapiro you've been condescending and hawkishly snarky. If you put it out there, you will get same in return. Life. Deal w/it."
+@benshapiro the victim card only works for women &amp; not always as you saw w/your little friend Fields. Please quite playing the baby violin.
+@christinaLW28 @benshapiro he wasn't ganged up on without provocation. He beats up Trump voters with insults.  guff he gets he's asked for
+@jpm05880 https://t.co/WhWhCykFdg
+@jpm05880 https://t.co/FzOO3Q1ZeQ
+@MediaMikeAZ @laridor1 @LouDobbs @LindaSuhler @tedcruz @realDonaldTrump @mgoodwin_nypost https://t.co/eFsybHa4AL
+@MediaMikeAZ @laridor1 @LouDobbs @LindaSuhler @tedcruz @realDonaldTrump @mgoodwin_nypost https://t.co/cZbLaHxhAR
+@sheila06942158 @newtgingrich it's a shame. But he has a lot to offer in spite of the baggage. Couldn't have as much as FDR.
+@newtgingrich would love to see you as his VP. You two working together would be amazing.
+@KayeMarcy @benshapiro his zeal screams paid hack.
+@KayeMarcy @benshapiro you don't have two ppl more against Trump than those two. Even @GeorgeWill doesn't bash voters like Ben does.
+@KayeMarcy @benshapiro you don't see @KarlRove or @krauthammer on Twitter bashing Trump voters.
+@KayeMarcy @benshapiro Ben has been way too over the top against Trump not to indicate some pay to play deal.
+@KayeMarcy @benshapiro Ben is not a political commentator like Hannity or Coultier. But even they would be in trouble if the participated.
+@KayeMarcy @benshapiro in all fairness  article doesn't outright name but shills way 2 much 4 journalist.not a commentator i.e. Hannity.
+Can't say this is surprising.  https://t.co/ouEI5VDJcb
+.@601DvlDog @benshapiro @wespratt95 it's so disappointing when ppl disgrace the uniform. Oh well.
+@601DvlDog @benshapiro @wespratt95 whatever. If you are a marine then you know what stand down means.
+@thunderup100 @benshapiro but she did admit he's an immigrant. And the Tedophiles yammer on about the Constitution.
+@601DvlDog @benshapiro excuse me? I think you'd better check yourself Loretta. You can stand down.
+@eurekajimbob @benshapiro why don't you investigate what I'm talking about instead of doing the Obama rush to judgment. Oh well. Bye.
+@unaccounted_4 @benshapiro too bad. Cute dog though.
+@unaccounted_4 @benshapiro dumb comment but thanks now I can block you.
+@Nightbob3 @benshapiro   Ever notice Cruz ppl have less than 10 followers. Can't imagine why.
+@Vs20161 @benshapiro he doesn't have the balls to ask me anything.
+@mmoore229 @benshapiro @realDonaldTrump sorry Chicky. You can't sedate the things you hate.
+@dhohbach @benshapiro obvious you didn't read the link. https://t.co/j4VKVZhR3N
+@SeanOCasey1 @benshapiro oh they're screwing Bernie voters too.
+@wespratt95 @benshapiro he should to prison for payola. taking campaign $ illegally 2 shill 4 a candidate w/o stating paid endorsement.
+@benshapiro best thing about rattling Ben's chains is I find more Tedophiles to block.
+@BlackSlug @wespratt95 @benshapiro Ben's not with Breitbart he threw his pissy &amp; quit over pro victim fields.
+@tylerhenshaw21 @benshapiro whatever.
+@benshapiro you're immature. And if you've had anything to do w/the big $8M payoff you're toast. Don't drop the soap sister.
+@benshapiro you made a huge fool of yourself fighting with a millennial which you are barely beyond mental age wise. Arguing with her.
+@benshapiro sad thing is I used to read everything u wrote. Thought u were a pretty smart cookie. Now. Watching fight w/teenagers was sad.
+@neoconfederate1 @benshapiro whose being a baiter?
+@eeeagles @TrumpLegal @benshapiro Cruz is a globalist. Sorry but it's fact.
+@CarmTrop @benshapiro I'm more conservative than u could ever imagine.don't support globalists seeking 2 destiny the country &amp; Constitution
+"@DarkKnight8814 @benshapiro and Ben, lying for Fields is against the law as well it's called accessory!"
+@wespratt95 @benshapiro there's the link. And I thought of young Benny when I read it. Why else would he participate in Fields scam.
+@wespratt95 @benshapiro https://t.co/j4VKVZhR3N
+@randydeabay @benshapiro right. Sure it is. Idiot.
+@linedoggy @benshapiro your boy is losing. Check attitude at the door.
+@benshapiro the election has exposed a lot of scammers against the American ppl. Oh and fighting an 18 year old girl at my college? classy.
+@benshapiro Ben's got more balls than brains. FCC doesn't like the payola system
+"@benshapiro the minute I read the article, I thought of you."
+@benshapiro don't believe me? There ya go. https://t.co/j4VKVZhR3N
+@benshapiro that's a fact Ben. You're just going to have to deal with it.
+@benshapiro if you're part of it like I suspect you are you will be jailed and fined.
+@benshapiro enjoy prison.
+"@benshapiro well if you've been receiving $ from the Cruz pac like your buddies which I suspect you are, your whole world is about to go FCC"
+@BillHemmer @ABC @OutnumberedFNC just quoted 996 number too. Is anyone working at @FoxNews?
+@pecanpitt @tedcruz @JudgeJudy I was joking Pecan. Playing on the fact that Ted's an opportunist who would exploit any angle.
+This number will be substantially higher by November. @realDonaldTrump is a much more popular guy than most admit.  https://t.co/iAHe56sy0T
+@BillHemmer @ABC this has been reported ALL weekend from all the other cable and network news. @FoxNews is spreading false info again!
+@BillHemmer @ABC is it really that hard for @FoxNews get the facts straight BEFORE you get on air?
+@BillHemmer the delegate count is Trump 1002. As per @ABC last Friday. Why are you reporting the old number? https://t.co/E0ntadvCvc
+Many states have voters willing to sue. #Missouri delegates better consider this bc they can &amp; will be sued individually.
+@hrtablaze @jwcharon @GOPjenna @tedcruz 🙀🙀🙀🙀😹😹😹😹😹
+@CaRiveres @RebelMouse @mattlockeshow @kincannon_show @THEHermanCain @RealBenCarson @GovChristie @IvankaTrump @meetthepress @CNNPolitics
+@FoxNewsSunday @FoxNewsInsider @foxnewspolitics @DRUDGE_REPORT @Drudge_Report_ @infowars @RealAlexJones @RogerJStoneJr @
+@realDonaldTrump @DonaldJTrumpJr @EricTrump @KatrinaPierson @CLewandowski_ @DanScavino @AnnCoulter @IngrahamAngle @CBSNews @NBCNews @abcnews
+Proof: Paid rioters. @FoxBusiness @FoxNews @foxandfriends @loudobbs @seanhannity @CNN @MSNBC @maddow @greta https://t.co/Sn2vS3QJz2
+Paid rioters. @GeraldoRivera @FoxBusiness @FoxNews @foxandfriends @loudobbs @seanhannity @CNN @MSNBC @maddow @greta  https://t.co/ASexoODj5q
+@john_bijou @patbick55 @Always_Trump peace baby peace. ✌🏻✌🏻✌🏻✌🏻
+@roaddawg29 @tedcruz @JudgeJudy she's from NYC.
+@roaddawg29 @tedcruz @JudgeJudy don't think JJ would stoop to endorse a creep like Cruz. She'd up telling him off. NY values &amp; all
+@CLewandowski_ more games. #katie was warned yesterday she's playing with fire.
+Who would be @tedcruz's choice for SCOTUS next week after he loses Indiana? Judge Judy? https://t.co/IHIWlPM3gf
+So I guess as per Bill the email is considered another don't ask don't tell scenario. Thought that was outlawed.
+That looks like a Clinton get up.  https://t.co/tlzcrIfTyu
+@BatBond127 @Soapfangh50 that scene has always bothered me.
+@BatBond127 @Soapfangh50 that's was the most disturbing scene to me. It's haunting.
+@BatBond127 @Soapfangh50 https://t.co/bhLGXUZzH5
+The last scene of that movie is indicative of what Clinton wants America to look like that's for sure.  https://t.co/oU4Ra9MeRc
+She's sporting the moo moo look. But I'm not supposed to notice these things.  https://t.co/VKsCSLqmtu
+This is horrible. Such an amazing church. Just so sad to see this beautiful church in flames. Hope they restore it.  https://t.co/4P1TTmK1Gs
+@Soapfangh50 @PatriotVote2016 disagree. Hillary doesn't dress stylish enough to be a mob boss. She can make a $10K dress look like it $10.00
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox I suggest this. Google is your friend.
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox Heidi wrote the plan for the merger.
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @lawiegers came back when you're ready 2 discuss not play act like you're an informed voter
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @lawiegers obviously you have not read or listened to any of the links. Go away.
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @tedcruz @POTUS @lawiegers listen for yourself. https://t.co/yFdHGRLDyP globalists
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @tedcruz @POTUS @lawiegers no more sovereignty.
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @tedcruz @POTUS @lawiegers as well as fall under UN oversight so no more US constitution
+@FlanaganSiobhan @c5hardtop1999 @DrMartyFox @tedcruz @POTUS @lawiegers nope not so. Ted is a globalist. Merge with mex &amp; Canada
+Cruz got money from Soros so I am a bit perplexed why you'd post this image.  https://t.co/K4mz2X3xbl
+NOTE: both @ALSHARPTON_REV &amp; Jackson have turned against Trump. Al even said he'd leave the country.  https://t.co/K4mz2X3xbl
+Exactly. But he did a stand up job with Cruz. Refreshing for a change.  https://t.co/pmfZgawpVr
+@c5hardtop1999 @DrMartyFox @tedcruz @CarlyFiorina @GaetaSusan @lawiegers @FlanaganSiobhan shall we now start on Carly's record.
+@c5hardtop1999 @DrMartyFox @tedcruz @CarlyFiorina @GaetaSusan @lawiegers @FlanaganSiobhan https://t.co/SccMEL55rG
+@c5hardtop1999 @DrMartyFox @tedcruz @CarlyFiorina @GaetaSusan @lawiegers @FlanaganSiobhan https://t.co/j4VKVZhR3N
+@c5hardtop1999 @DrMartyFox @tedcruz @CarlyFiorina @GaetaSusan @lawiegers @FlanaganSiobhan want more? I have literally hundreds.
+@c5hardtop1999 @DrMartyFox @tedcruz @CarlyFiorina @GaetaSusan @lawiegers @FlanaganSiobhan https://t.co/Xl4k4Ykv9V

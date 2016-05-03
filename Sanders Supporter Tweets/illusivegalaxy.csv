@@ -1,0 +1,140 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 133115522, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000033362298/38694228b8d8556dd4c06b18756c207d.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/727203666852122624/n0rWezjg_normal.jpg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/XMz6Yq6jUx"", ""indices"": [0, 23], ""expanded_url"": ""http://lightupthedarknesss.tumblr.com"", ""display_url"": ""lightupthedarknesss.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 923, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""133115522"", ""profile_background_color"": ""ACDED6"", ""listed_count"": 73, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @irlcatmom: honestly what the fuck is my cat https://t.co/uPyDCrbMUL"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727269444238512128, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2878761950, ""indices"": [3, 13], ""id_str"": ""2878761950"", ""screen_name"": ""irlcatmom"", ""name"": ""steamboat's mom""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 2878761950, ""source_status_id_str"": ""726939903708143616"", ""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg"", ""source_user_id_str"": ""2878761950"", ""source_status_id"": 726939903708143616, ""id_str"": ""726939888256348160"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [48, 71], ""type"": ""photo"", ""id"": 726939888256348160, ""media_url"": ""http://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 326, ""id_str"": ""727269444238512128"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""honestly what the fuck is my cat https://t.co/uPyDCrbMUL"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726939903708143616, ""favorite_count"": 771, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg"", ""id_str"": ""726939888256348160"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [33, 56], ""type"": ""photo"", ""id"": 726939888256348160, ""media_url"": ""http://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 326, ""id_str"": ""726939903708143616"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 01:02:33 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg"", ""id_str"": ""726939888256348160"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [33, 56], ""type"": ""photo"", ""id"": 726939888256348160, ""media_url"": ""http://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg""}, {""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hRU4AAHW_z.jpg"", ""id_str"": ""726939888252149760"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [33, 56], ""type"": ""photo"", ""id"": 726939888252149760, ""media_url"": ""http://pbs.twimg.com/media/Chab-hRU4AAHW_z.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 22:52:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2878761950, ""source_status_id_str"": ""726939903708143616"", ""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg"", ""source_user_id_str"": ""2878761950"", ""source_status_id"": 726939903708143616, ""id_str"": ""726939888256348160"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [48, 71], ""type"": ""photo"", ""id"": 726939888256348160, ""media_url"": ""http://pbs.twimg.com/media/Chab-hSU8AAkLI9.jpg""}, {""source_user_id"": 2878761950, ""source_status_id_str"": ""726939903708143616"", ""expanded_url"": ""http://twitter.com/irlcatmom/status/726939903708143616/photo/1"", ""display_url"": ""pic.twitter.com/uPyDCrbMUL"", ""url"": ""https://t.co/uPyDCrbMUL"", ""media_url_https"": ""https://pbs.twimg.com/media/Chab-hRU4AAHW_z.jpg"", ""source_user_id_str"": ""2878761950"", ""source_status_id"": 726939903708143616, ""id_str"": ""726939888252149760"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [48, 71], ""type"": ""photo"", ""id"": 726939888252149760, ""media_url"": ""http://pbs.twimg.com/media/Chab-hRU4AAHW_z.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 52627, ""description"": ""kyle 21. If you can take the sadness and despair the world gives you and breathe it back out as love and hope breathe some back to me. insta: lightupthedarkness"", ""friends_count"": 527, ""location"": ""Seattle based"", ""profile_link_color"": ""038543"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/727203666852122624/n0rWezjg_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/133115522/1455088169"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000033362298/38694228b8d8556dd4c06b18756c207d.jpeg"", ""name"": ""kyle."", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 8569, ""screen_name"": ""illusivegalaxy"", ""notifications"": false, ""url"": ""https://t.co/XMz6Yq6jUx"", ""created_at"": ""Thu Apr 15 02:00:20 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@illusivegalaxy which is 88 in cat years
+My cat turns 18 this month 🎉
+If I don't get into any schools in Europe I will be sad for the rest of my life probably tbh
+"@kacimaee I was gonna say ""damn almost as beautiful as u"" but I'm too awkward and embarrassing to lmfao"
+"Some of my friends can paint really well, and I wish I could."
+"@kacimaee literally just of the shittiest pick up line I could've used in that last tweet tbh. But damn, gotta add CO to my bucket list"
+"@kacimaee well damn, Colorado is so beautiful 😩"
+@kacimaee holy shit where is this?😱😍
+.@illusivegalaxy now I will hardly ever even swim in the ocean
+When I was 11 I swam with a fever of sting rays in the middle of the ocean in the Caribbean.
+@SimplyCK_ literally what I did with the office when you started the office 😂
+@SimplyCK_ the office/grey's 😂😁
+"@SimplyCK_ I want to text you about the office and shit, but I just realized I lost your # when I got a new phone 😩"
+"When I was in middle school band, our new band teacher took down a Bob Dylan poster in the classroom so we all chanted ""we want bob!"""
+"@Blahfavor if by having fun you mean suffering through life, yes 💀😰😂"
+@Blahfavor Hahahaha I can't believe that was already a year ago 😱😱😱😱
+"They Don't Really Care About Us came out 20 years ago, but the message MJ talks about is still v v v applicable today."
+@4amnightmares hell yeah😎 and I'll still be here in the summer when you come up to Seattle if you ever wanna hang😎😬
+I just have to write my personal statement and can send my application off to UK schools... Whew.
+".@illusivegalaxy &amp; PSA, someone else's gender identity does not concern you, you're not that important to stick your transphobic shit @ them"
+".@illusivegalaxy also for people who say there's only 2 sexes in nature, there are 36,000 different sexes for fungi so."
+Why are people transphobic? Like?? Your genitalia doesn't dictate your gender. Gender is a social construct.
+@studielinkhulp thank you!
+"@ucas_online okay, thank you!"
+"@ucas_online 2/2 I just send my high school transcript when applying through UCAS since I dont have a degree from college, only high school?"
+"@ucas_online (1/2)hi I'm in the US, I've graduated high school and have taken some college courses but don't have a college degree. Should"
+I fucking lost a trash can today at work lmao
+@PattyMurray same to you if you do not use your super delegate for Bernie like me and others in Washington chose for.
+@studielinkhulp what should I do?
+@studielinkhulp hi I'm currently locked out of my account but I haven't applied for any universities yet so I can't contact them to unlock
+Day 1 of insanity starts today 👌🏼💪🏼
+Chocolate from Norway 😍 https://t.co/sfhsoVL4LF
+@scubaskorupski it is! I'm almost done with season 2. Ever since I started it Ive been staying up til 4am every night watching 😂
+@SimplyCK_ AW😂😁 I will start watching it next week 😬😁
+The Mormon church is shit.  https://t.co/3hp7zWBGbG
+"@SimplyCK_ ALRIGHT ALRIGHT, since you're watching the office, I will. And because it's ""in"" Seattle 😬😊😊"
+"@Blahfavor watching this so, I may have a problem 😂😂😂😂"
+"@Blahfavor hahahah I can definitely see your point on that, SO much relationship drama. But I've spent the last 12 hrs of the past 18"
+"@SimplyCK_ lmao well it gets better well, for me it did. And If i ever start watching Greys anatomy I will inform you 😂😁"
+"At 10:30 I decided to watch a new show called The 100, and it is now 4:16am and 8 episodes later... Whoops."
+@ucas_online which I'm currently working on. Thank you!
+"@ucas_online okay perfect! And I am almost done with the application, I've filled it all out except the reference and personal statement"
+"@SimplyCK_ &amp; the last season if you get there, it's v v v sad 😭"
+"@SimplyCK_ lmao😂😂😂 this makes me so happy 😁😁😁😂 it gets better tbh, keep me updated on how it goes because I'd love to hear what you think😬😁"
+I've watched two and a half seasons of the office in the past two and a half weeks. Whoops.
+"@SimplyCK_ I wish i could favorite this 100x 😍😂😂😂 it's my favorite show, I hope you like it😬"
+Currently applying for schools in the UK👌🏼 https://t.co/xI9DjAA7GV
+@ucas_online HI I am in the U.S and I am currently trying to apply to schools in the UK. Do i still use UCAS even though I am in the US?
+Modern day hero https://t.co/a9c9sejbRQ
+Impeach @PatMcCroryNC
+"Growing up Mormon kinda sucks because I feel like everyone will always think of me as Mormon, even though I'm completely Agnostic."
+"How to tear apart the ties that bind, perhaps fuck off might be too kind"
+".@illusivegalaxy as happy as I am that it feels like summer, I'm also v v v concerned bc global warming 😰"
+😰 https://t.co/nq6QZy3osS
+"It's only April, and it's already 75 degrees at 11am.."
+Hillary supporters were trying to pull some shady shit today at the caucus. You are who you vote for I guess.
+Overwhelming support for Bernie here at the WA Legislative District caucus 👌🏼 #FeelTheBern
+This is the kind of wife I want and need https://t.co/JiY9MYKPFo
+The commute between Silverdale/Bremerton to federal way is too long for me
+@Isbbaa hey! You're in Washington too??😁
+@k_atastrophe LMAO I didn't notice her until you pointed it out 😂😂😂hopefully she never sees this whoops baha 😂
+My sisters cat 😩 https://t.co/59WdBvI9Iu
+So happy to see Norwegian here😁 https://t.co/uDyyrC0Hpt
+How have I never been to historic Poulsbo until now https://t.co/IOuPAqO7V3
+“Darkness exists to make light truly count.”
+".@illusivegalaxy I did not do this btw, I just found it on pier near the ocean."
+razliubit - the melancholic pang of falling out of love. https://t.co/i4gdidLQBr
+Caucusing for Bernie again on Sunday at my old high school 👌🏼
+"""We are called humans, but some of can't show an ounce of humanity, sad isn't it?"""
+"If I did anybody wrong, oh
+Have mercy on me"
+"It's been 5 years since I did Insanity, I think I'm going to try and do it again"
+Loosen the fears that bind ya.
+I want to go hiking in Arizona.
+.@illusivegalaxy or Germany!
+"The only thing that makes me happier than The Office, is The Office Bloopers"
+"And may I find you, may we sit together when we're grey and old, on cloud nine. https://t.co/3Doce8dvKx"
+"Don't depend on tomorrow, cause tomorrow can sometimes let you down"
+@4amnightmares liberal hippie trash😎😂😊😊
+"@4amnightmares hahaha yeah it's great😂😂😁 it's like therapy, releasing all our inner anger and frustrations about the U.S😂😬"
+@4amnightmares hell yeah it makes time go so quickly! You can call me at night whenever you want now that I'm not in school😊
+"""If you can't stand by your decisions, how can we stand by you?""-@4amnightmares 🙌"
+I'm trash but my new floral shirt is my favorite. https://t.co/Xfg324Clk6
+"""If you can take the sadness and despair the world gives you and breathe it back out as love and… https://t.co/keiyxOVVgZ"
+"One of my favorites, still. https://t.co/yGf2PtArIS"
+Me https://t.co/5YcqUJJ44q
+Cause it was always a dream just to know you. Sometimes I find I can hardly speak your name
+"@rlyradrachel yeah I understand that, literally so much nostalgia in that game for so many people"
+"@rlyradrachel yeah me too, do you still play or nah??"
+@rlyradrachel lmao me too! Actually I still play every now and then on the old school servers😂
+@rlyradrachel you played rs too???? 😂😁
+@SimplyCK_ I saw your initials engraved on a tree! https://t.co/GKatQBZzZj
+Opening night 👌🏼 #Seattle #Mariners https://t.co/DmJ0ARuXoP
+@JacquelineCity 😍😍😍😍😍 #FeelTheBern
+@GlendaMarie94 up to you! I've always gotten there between 3pm-5pm and have had no issues or fines
+"@GlendaMarie94 the trail so if you see a BUNCH of trees laying on the ground in front of you, you're on the right trail. And be safe!"
+"@GlendaMarie94 the trail starts here, just follow it the best you can! There's like dozens of cut down trees on https://t.co/7liKD4nUR0"
+"@GlendaMarie94 Use these step by step! And once you see this sign, you're there so park around here! https://t.co/MYnRpzISNX"
+"@GlendaMarie94 not really, I just went yesterday again😁 do you need the directions??"
+"@4amnightmares you're the best, thank you!"
+Forever wishing we would end the war on drugs.
+"No matter how much I watch The office, I will always feel bad for Toby 😩"
+"@illusivegalaxy ""but poetry, beauty, romance, love—these are what we stay alive for."""
+"""Medicine, law, business, engineering—these are noble pursuits and necessary to sustain life"
+Can someone in the UK tell me how the loans are in the UK? Are they better than the student loans in the US?
+@Blahfavor 😂😂 it's great! I haven't played it for years either until this week😁😂
+@Blahfavor 3 people have told me that 😂😂😂 yes it was alone😂
+@TheActualAldo you should! If you do let me know so we can play!
+@TheActualAldo AH that makes more sense now😂
+"@TheActualAldo hahaha it said the category was ""blue things"" so I was stuck trying to think of something blue related😂😂😂😂"
+"@SimplyCK_ I figured that out like right after I tweeted it, I just was having a dumb moment 😭😂"
+"@TheActualAldo hahaha yeah I figured it out right after I tweeted it, I just was having a dumb moment, but thank you😂"
+@kaylinmckella lmao wow never mind I'm so dumb I got it now 😂
+Tbh completely lost rn with this drawing but shout out to the 30th round 👌🏼 @kaylinmckella https://t.co/Em7HT4gmc5
+"Actually starting to consider going to school in Norway, or the Netherlands, or the UK."
+"I've been acting like I'm strong
+But the truth is, I've been losing ground"
+@Kristi_McDowell you make my heart melt😍😩
+@4amnightmares JUDGES ME IN SPANISH OUCH💀💀💀
+"@4amnightmares aw dammit, well shit. At least I know it's Abigail J 😂"
+"@4amnightmares well damn, how'd you know my last name??? 😂"
+@4amnightmares I COULDVE SWORN I SAW JENSEN SOMEWHERE
+@pxychedelic yes yes illusivegalaxy!
+@pxychedelic illusivegalaxy 😁 I think
+@4amnightmares IS THAT NOT YOUR LAST NAME? AW SHIT😂
+"For some god damn reason I had a Creed song stuck in my head all day at work today so if ur wondering how my day went, there ya fucking go 💩"
+"@4amnightmares I'm all the way in Seattle Jensen, so you can't do anything about it 👌🏼😂"
+@4amnightmares gnarly af 🤘🏻😂
+@4amnightmares it's a love/hate type of thing 👌🏼😂 kidding kidding 😂😂
+How rude @4amnightmares 😂😂😂 https://t.co/JmjMVzXSKH
+"@kaylinmckella try not to laugh too hard at my drawings, I'm a good drawer just not when it comes to drawing on a phone 😂😂😂😩"
+@kaylinmckella I'll send you a game request right now😊
+Found some nice oxfords but I just realized they're $700 lmao shit😩
+"I've been waiting for this day for months now, the day @realDonaldTrump (hopefully) says his campaign has just been a big April fools joke"
+@kaylinmckella yessss! What's your username???
+Seriously considering finishing my undergrad in Norway.
+I'm not good at this game lmfao https://t.co/iIcZfa7m6Q
+@Krazyrayray ayyy Vance Creek! I was just there not too long ago! I didn't know you were from WA!😍
+.@adidas pls stock up on Yeezy's😩

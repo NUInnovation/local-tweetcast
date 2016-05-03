@@ -1,0 +1,102 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 776332760, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme10/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/707293762536472576/zleUGO9c_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 681, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""776332760"", ""profile_background_color"": ""91D2FA"", ""listed_count"": 36, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @gerfingerpoken: Big Govt Donald #Trump Thinks Eminent Domain Trumps Ur Property Rights https://t.co/KUcATvAjdk  - https://t.co/jd6BnPZ9\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727184910323175424, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 96442308, ""indices"": [3, 18], ""id_str"": ""96442308"", ""screen_name"": ""gerfingerpoken"", ""name"": ""Daniel John Sobieski""}], ""hashtags"": [{""indices"": [36, 42], ""text"": ""Trump""}, {""indices"": [139, 140], ""text"": ""CruzCrew""}], ""urls"": [{""url"": ""https://t.co/KUcATvAjdk"", ""indices"": [91, 114], ""expanded_url"": ""http://bit.ly/1QdbE2U"", ""display_url"": ""bit.ly/1QdbE2U""}], ""media"": [{""source_user_id"": 96442308, ""source_status_id_str"": ""652549991077183488"", ""expanded_url"": ""http://twitter.com/gerfingerpoken/status/652549991077183488/photo/1"", ""display_url"": ""pic.twitter.com/jd6BnPZ9ce"", ""url"": ""https://t.co/jd6BnPZ9ce"", ""media_url_https"": ""https://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png"", ""source_user_id_str"": ""96442308"", ""source_status_id"": 652549991077183488, ""id_str"": ""652549990338965505"", ""sizes"": {""large"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""small"": {""h"": 140, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [118, 140], ""type"": ""photo"", ""id"": 652549990338965505, ""media_url"": ""http://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""727184910323175424"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Big Govt Donald #Trump Thinks Eminent Domain Trumps Ur Property Rights https://t.co/KUcATvAjdk  - https://t.co/jd6BnPZ9ce #CruzCrew"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727184783248228352, ""favorite_count"": 4, ""source"": ""<a href=\""https://smqueue.com\"" rel=\""nofollow\"">smqueue</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [16, 22], ""text"": ""Trump""}, {""indices"": [122, 131], ""text"": ""CruzCrew""}], ""urls"": [{""url"": ""https://t.co/KUcATvAjdk"", ""indices"": [71, 94], ""expanded_url"": ""http://bit.ly/1QdbE2U"", ""display_url"": ""bit.ly/1QdbE2U""}], ""media"": [{""source_user_id"": 96442308, ""source_status_id_str"": ""652549991077183488"", ""expanded_url"": ""http://twitter.com/gerfingerpoken/status/652549991077183488/photo/1"", ""display_url"": ""pic.twitter.com/jd6BnPZ9ce"", ""url"": ""https://t.co/jd6BnPZ9ce"", ""media_url_https"": ""https://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png"", ""source_user_id_str"": ""96442308"", ""source_status_id"": 652549991077183488, ""id_str"": ""652549990338965505"", ""sizes"": {""large"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""small"": {""h"": 140, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [98, 121], ""type"": ""photo"", ""id"": 652549990338965505, ""media_url"": ""http://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""727184783248228352"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 17:15:37 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 96442308, ""source_status_id_str"": ""652549991077183488"", ""expanded_url"": ""http://twitter.com/gerfingerpoken/status/652549991077183488/photo/1"", ""display_url"": ""pic.twitter.com/jd6BnPZ9ce"", ""url"": ""https://t.co/jd6BnPZ9ce"", ""media_url_https"": ""https://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png"", ""source_user_id_str"": ""96442308"", ""source_status_id"": 652549991077183488, ""id_str"": ""652549990338965505"", ""sizes"": {""large"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""small"": {""h"": 140, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [98, 121], ""type"": ""photo"", ""id"": 652549990338965505, ""media_url"": ""http://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 17:16:07 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 96442308, ""source_status_id_str"": ""652549991077183488"", ""expanded_url"": ""http://twitter.com/gerfingerpoken/status/652549991077183488/photo/1"", ""display_url"": ""pic.twitter.com/jd6BnPZ9ce"", ""url"": ""https://t.co/jd6BnPZ9ce"", ""media_url_https"": ""https://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png"", ""source_user_id_str"": ""96442308"", ""source_status_id"": 652549991077183488, ""id_str"": ""652549990338965505"", ""sizes"": {""large"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""small"": {""h"": 140, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 193, ""resize"": ""fit"", ""w"": 470}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [118, 140], ""type"": ""photo"", ""id"": 652549990338965505, ""media_url"": ""http://pbs.twimg.com/media/CQ5SwkRWsAErNVl.png""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 6771, ""description"": ""Conservative Christian homemaker, Autism momma & foodie. I pay attention to politics & I VOTE!! @tedCruz #WakeUpAmerica #CruzCrew #NeverTrump #charactercounts"", ""friends_count"": 463, ""location"": ""O-town in the F-L-A"", ""profile_link_color"": ""981CEB"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/707293762536472576/zleUGO9c_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/776332760/1461790295"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme10/bg.gif"", ""name"": ""BridgetESF"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 12465, ""screen_name"": ""BridgetESF"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Aug 23 16:47:21 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@SooperMexican OMG!! 😂😂😂
+@altonbrown My 10 yr old binge watches Good Eats on Netflix. The episode w/Geo. Washington Carver is a fave of hers. https://t.co/YGf401g9nD
+@WDTnow Cruz probably wanted to stop govt support of tanning beds ...
+Pretty low. A response full of grace from Patti Davis.  https://t.co/U2afkenhSN
+Sophie is feeling much better and we were up early so we could catch the bus for the fourth… https://t.co/B4ZVI8oFyM
+https://t.co/0Ow73CmSZv
+I can relate. I hope people continue to wake up.  https://t.co/2c6d0hyawT
+Hindsight is 20/20 I guess.  Confessions of a Trump Tabloid Scribe https://t.co/aNIi6e888n
+@blazingblades https://t.co/KPfY6Wtmj3
+@realDonaldTrump @IngrahamAngle Here's an opinion from someone who actually KNOWS of what he speaks.  https://t.co/KPfY6Wtmj3
+@CarlyFiorina isn't the slightest bit intimidated by @megynkelly - who is DOING HER JOB. Carly won't back down! https://t.co/1aOfE5rW5D
+"For the life of me, I can't figure out why some of the military folks support Trump.  Military analyst https://t.co/KPfY6Wtmj3"
+Another ringing endorsement for @tedcruz.  https://t.co/6gcJBZFA8q
+@ToddHagopian @ChuckNellis I know that's right!!
+This about sums things up.  https://t.co/lmLetAwMaP
+"@BenHowe If Trump (somehow) becomes the nominee, I'm having ""Don't blame me I voted for Cruz"" shirts made!!"
+Kindness costs nothing. Smiles are free. Happy Monday Twitter. #BeABlessing https://t.co/xrodx4mK2y
+"@DoveCameron A still pic of my daughter's group Girl Power. They performed ""What a girl is"" for their talent show! https://t.co/YvRWpjsvMi"
+"Hi @DoveCameron This is my daughter and her besties singing ""What a girl is"" for their school talent show.  https://t.co/ZNwCBUDACi"
+@Artist_Angie Right? #Creep
+@JorElishere @ChrisLoesch That made me LOL. 😂😂😂
+Lookie here.  https://t.co/kiRWcDX2Ep
+@conservadox @Lizbethjoy @tedcruz #BuffoonInChief
+Happens every day with a lot of the folks I know. #everydayheroes #notjustabadge #thankaLEO #BacktheBlue  https://t.co/naNxn1mAPo
+@conservadox @Lizbethjoy @tedcruz Sensational. I challenge anyone to find something as inspiring coming from the big mouth of Donald Trump.
+@PolitiBunny https://t.co/0HHZtt6hUN
+@Artist_Angie fat chance - enjoy the break
+#BacktheBlue #thankaLEO #Respect https://t.co/tGKNtxBRLm
+Brilliant !https://t.co/eGwN0ejhKo
+My new phone case! #AutismLife #AutismAwareness #AutismAcceptance #differentnotless https://t.co/SDy2J83atQ
+Every life is a gift.  https://t.co/WqGgdxmd7W
+You have more work to do @EWErickson. Hang tough.  https://t.co/6w1IzwHsyU
+"@IngrahamAngle If Trump can't understand or follow rules, it isn't anyone's fault but his own. Cruz has run a savvy campaign, so deal w/it."
+@IngrahamAngle I don't think so sweetie. 65% of the rep base is NOT for him. The only reason he is up is because there were 16 non-Trumps.
+#BacktheBlue #thankaLEO https://t.co/xvvosVMtxJ
+Some thing to make you smile. https://t.co/H5xZvHVOPh
+#BOOM Great ad!!  https://t.co/LaMTuhx0ZM
+"Waah, freakin Waah Waah Waah. Cry me a river. #WHINER  Trump's delegate battle with RNC intensifies https://t.co/tOMbYgfJGz"
+@maxnrgmax @Annaflo35964168 Did you see this? Spot on! https://t.co/FH0PG791gg
+This.  https://t.co/gmlk14MXNo
+"@conservadox For the life of me, I don't understand how Jews can vote for Democrats when they are so pro-Palestine. Ugh."
+"This reminds me of my ""fahtha"" who is from Massachusetts. This had me cracking up. 😂😂😂 https://t.co/NrQx7EIAFD"
+New Yorkers are freaking out because they can't vote for Bernie or Trump. LOL. https://t.co/BaMJscd9s2
+Totally missed the point ... Intentionally.  https://t.co/kB9Dt3f446
+Ya think??🙄🙄🙄 https://t.co/6l6gwPYjmO
+"Hey, I think he finally gets it! It isn't just the popular vote, numnuts.  https://t.co/DeP0AFIWVK"
+"When I think of 19-25 year-olds dying, or becoming heroes in Vietnam, it makes me shake my head.… https://t.co/njEA7LnSlT"
+@peddoc63 https://t.co/SiFeVqvV2E
+I love it! https://t.co/sD5lym2qaP
+BAHAHA!!  https://t.co/zG6QyBBtyl
+#buffoon Trump isn't getting Cheated. He's Demonstrating Presidential Incompetence. https://t.co/yipufzdYRd via @soshable
+Disney’s Religious Liberty Hypocrisy Exposed https://t.co/HLbMHZYbqG via @Jeremy_Tedesco @DailySignal
+Obama's America. @tedcruz will fight for religious liberty. https://t.co/aUNumhyzIu
+This is what's wrong with America today.  https://t.co/iE7qBkbES1
+"Exclusive: Cruz, Lee Attempt to Take Down Operation Choke Point https://t.co/bVSQOwyE6B via @kelseyjharkness @DailySignal"
+😂😂😂 https://t.co/hh6XzAvmMw
+"@mauikani @heidiscruz @tedcruz She is as intelligent, well-spoken, and lovely as they come."
+@glennbeck @tedcruz Awesome!
+"@FURDOG54 I know. Cruz got shutout in MI because Kasich sided w/Trump. You didn't see @tedcruz crying, ""No fair! I'm so angry!"""
+Absolutely delicious.  https://t.co/A52n1EmhRk
+"@Chrismandoad @AdamBaldwin I don't watch a lot of network TV, watching it on Netflix. Maybe Netflix could continue it as their own series"
+"Of all the bone-headed things to do. Totally tipping his hand on how he would govern, that's why no one wants him.  https://t.co/6KjyfYVnp8"
+@Chrismandoad @AdamBaldwin My husband watched it and said it wasn't the same. Can't figure out why the show was canceled in the first place.
+@AdamBaldwin Watching Firefly. I love it!
+@ballGame89 @DavidLimbaugh @LibertyIndigo Not concerned with rules. You just made my point. That is why Trump lost all the CO delegates.
+"Look, another Trump supporter who wasn't hugged enough as a child. He has no argument, so he disparages Autism.  https://t.co/AZL94lIjY2"
+@ballGame89 @DavidLimbaugh @tedcruz @jrfiocca What changed? NO ONE wants Trump to be POTUS. They're backing him out of sheer panic.
+"@ballGame89 @jcemt72 @DavidLimbaugh @LibertyIndigo Evidently Cruz's people ARE engaged, which is why Trump is hemorrhaging delegates."
+@ballGame89 @DavidLimbaugh @LibertyIndigo I'll take smaller folksy town halls over thousands of rabid Trumpbots any day.
+@33a460d6ef154c2 @DavidLimbaugh @ballGame89 @LibertyIndigo @realDonaldTrump FL delegates are bound to Trump for first THREE votes.
+"@lniggeling1 @DavidLimbaugh @ballGame89 @LibertyIndigo They didn't want to be beholden to Nat'l GOP rules, so they changed their rules."
+"@ballGame89 @DavidLimbaugh @LibertyIndigo Trump supporters wanted to go further, but lacked campaign resources. His campaign is a mess."
+"@ballGame89 @DavidLimbaugh @LibertyIndigo Bottom line, if Trump had won, you wouldn't have heard a peep out of Cruz supporters. They know."
+"@ballGame89 @DavidLimbaugh @LibertyIndigo No, not at all. Every state is different. CO wants people committed to the process."
+@ballGame89 @DavidLimbaugh @tedcruz @jrfiocca They came to him. He didn't change his platform to woo GOPe support.
+"@ballGame89 @DavidLimbaugh @LibertyIndigo This sifted through voters who don't engage in the process, showed flaws in Trump's campaign."
+@ballGame89 @DavidLimbaugh @LibertyIndigo They didn't want to be controlled by national GOP. People who paid attention had no problem.
+@ballGame89 @DavidLimbaugh @LibertyIndigo The state GOP changed their rules in August but they did it so they could have unbound delegates.
+"No one to blame but his crappy, disorganized campaign: Trump Campaign Issues Error-Filled Ballots https://t.co/IecchKMxUr via @nbcnews"
+"""It's no surprise that Trump's team will lash out with falsehoods to distract from their failure ..."" Frazier said. https://t.co/2nTafR3yw4"
+@RealOrangeCat @edintampa @rasalom666 @clantro 🐵🐵🐵 Have you seen this? 😂😂😂 https://t.co/qTVAcRJMm7
+Twitter full of LOLZ tonight. 😂😂😂 https://t.co/XN681SOZjV
+Whoops! 😂😂😂 https://t.co/y61DVK6kWY
+Exactly. Then it's just the people being heard. 🙄🙄🙄 https://t.co/FxEVRkUPCW
+@edintampa @rasalom666 @clantro @RealOrangeCat 😂😂😂
+https://t.co/FkEd0R2mbT  What I thought of immediately when I read your tweet. @PolitiBunny @Zucce05 @Quinntessence_ @BanCollectivism
+People crack me up. 😂😂😂 Oh! How will I go on? A Trumpbot blocked me! #savesmethetrouble https://t.co/w583ChvWmX
+"Insult me, tell me about Ted/Heidi &amp; the ""stuff"" they're ""involved in"" &amp; then get pissy when I don't buy it. #buhbye https://t.co/OWiJVJVUNw"
+@alice_houser @catalishus @MamaBear4Cruz @TexasYankee001 @thee88plyr Sounds like you don't know what context is.
+"Intelligent, articulate, detailed, prepared, principled, thorough, patriot, loyal, constitutionalist  #CruzGoodies https://t.co/2EtsnQIWhd"
+"@JillDarrah Who cares? I can put more coherent sentences together than Trump, and I'm not running for POTUS. Go peddle your BS elsewhere."
+"@MamaBear4Cruz @catalishus @TexasYankee001 @thee88plyr What a complete psycho. All due respect to Papa Bear, but he'd be meeting my glock."
+@JillDarrah Why don't you go help Donnie figure out how to stop hemorrhaging delegates and get back to me.
+@JillDarrah Take your NWO bullshit and shove it dear. I have researched my candidate &amp; I know he has twice the intelligence of anyone else.
+Very upset to know that @justinamash was locked out! That stinks! https://t.co/xJl6JMxALX
+"@MattWalshBlog what a great read! Not popular, I'm sure, but a great explanation of our Christian faith. https://t.co/uk0ee4afhy"
+About freaking time somebody called out the @FoxNews brown-nosers. Nobody better to do it than @tedcruz.  https://t.co/GXk03Igcpz
+Just when I thought I couldn't be anymore disgusted.  https://t.co/X0jwogs57E
+"Ouch. First time I've seen the word ""blistering"" used appropriately. He didn't leave anyone out. https://t.co/SqP3OaBiKQ via @theblaze"
+I posted this last year shortly after @tedcruz began his run. https://t.co/NdNnUR71oF
+"@debchu222 Yep! Everyone is saying he didn't plan to be successful at running, so he is unprepared. Now his lack of preparation is ""unfair."""

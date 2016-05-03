@@ -1,0 +1,71 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 1630272133, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/378800000223912165/08bb9fb2c86d3b982cbbb546f8002f08_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 180, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""1630272133"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @nova100: NOW: We're chatting to @damiandmusic about her upcoming #Eurovision appearance! https://t.co/I9NK8V63ii"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 724763452825198592, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 41501179, ""indices"": [3, 11], ""id_str"": ""41501179"", ""screen_name"": ""nova100"", ""name"": ""Nova 100""}, {""id"": 1016348796, ""indices"": [36, 49], ""id_str"": ""1016348796"", ""screen_name"": ""damiandmusic"", ""name"": ""Dami Im""}], ""hashtags"": [{""indices"": [69, 80], ""text"": ""Eurovision""}], ""urls"": [], ""media"": [{""source_user_id"": 41501179, ""source_status_id_str"": ""724730716613832704"", ""expanded_url"": ""http://twitter.com/nova100/status/724730716613832704/photo/1"", ""display_url"": ""pic.twitter.com/I9NK8V63ii"", ""url"": ""https://t.co/I9NK8V63ii"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg"", ""source_user_id_str"": ""41501179"", ""source_status_id"": 724730716613832704, ""id_str"": ""724730649639182336"", ""sizes"": {""large"": {""h"": 1019, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 338, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 597, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 724730649639182336, ""media_url"": ""http://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 16, ""id_str"": ""724763452825198592"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""NOW: We're chatting to @damiandmusic about her upcoming #Eurovision appearance! https://t.co/I9NK8V63ii"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 724730716613832704, ""favorite_count"": 25, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1016348796, ""indices"": [23, 36], ""id_str"": ""1016348796"", ""screen_name"": ""damiandmusic"", ""name"": ""Dami Im""}], ""hashtags"": [{""indices"": [56, 67], ""text"": ""Eurovision""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/nova100/status/724730716613832704/photo/1"", ""display_url"": ""pic.twitter.com/I9NK8V63ii"", ""url"": ""https://t.co/I9NK8V63ii"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg"", ""id_str"": ""724730649639182336"", ""sizes"": {""large"": {""h"": 1019, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 338, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 597, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 724730649639182336, ""media_url"": ""http://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 16, ""id_str"": ""724730716613832704"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon Apr 25 22:44:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/nova100/status/724730716613832704/photo/1"", ""display_url"": ""pic.twitter.com/I9NK8V63ii"", ""url"": ""https://t.co/I9NK8V63ii"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg"", ""id_str"": ""724730649639182336"", ""sizes"": {""large"": {""h"": 1019, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 338, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 597, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [80, 103], ""type"": ""photo"", ""id"": 724730649639182336, ""media_url"": ""http://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue Apr 26 00:54:07 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 41501179, ""source_status_id_str"": ""724730716613832704"", ""expanded_url"": ""http://twitter.com/nova100/status/724730716613832704/photo/1"", ""display_url"": ""pic.twitter.com/I9NK8V63ii"", ""url"": ""https://t.co/I9NK8V63ii"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg"", ""source_user_id_str"": ""41501179"", ""source_status_id"": 724730716613832704, ""id_str"": ""724730649639182336"", ""sizes"": {""large"": {""h"": 1019, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 338, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 597, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 724730649639182336, ""media_url"": ""http://pbs.twimg.com/media/Cg7Cr6GU4AAQ8AK.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": 36000, ""statuses_count"": 353, ""description"": ""Tasmanian, Member Coast Guard, S.E.S,  Genealogist,  Masters Student, Love my family!"", ""friends_count"": 785, ""location"": ""Hobart"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/378800000223912165/08bb9fb2c86d3b982cbbb546f8002f08_normal.png"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Chris Williams"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 575, ""screen_name"": ""ChrisWil788236"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Jul 29 12:27:44 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": ""Hobart"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@nurdxja . Best wishes from Australia to Super girl to be.
+@nurdxja Good morning and best wishes from Australia.  Have a great day my new friend.
+@aplanells I hope you are well and having an enjoyable weekend.  Best wishes my beautiful friend.
+Si mote it be!!! https://t.co/BW6JAEydk3
+# Morwellcricketclub. #willowgrovecricketclub #cgca https://t.co/ODDN9Ng9M2
+Hoping for an Irish win. https://t.co/73F2X8Bz1c
+@aplanells . Hello from Chris. https://t.co/abBV1pDj4f
+@aplanells . Best wishes from Australia.  Keep well.
+@syafinazsahar_  Hello from Victoria in Australia.  Hope ur well. Best wishes. https://t.co/CgAbmybUNk
+@yen_x21 . Thank you for following me. Best wishes from Victoria Australia
+@AlexaThirel . Thanks for the follow. Hope you have an enjoyable day. Best wishes from Australia.
+@saraazhar Hope you have a very enjoyable day. Blessed be!
+@silvanita_andri . Thank you for accepting me as a friend. Hope you have a great day.
+@CommonWhiteGirI @pakwenwong.
+@TheAnastasiaLee Hope you are in good health. Best wishes for a great week.
+@FedUni_Health @FederationUniAu https://t.co/4POHl8fhyz
+@Esther_Anil Hope you gave an awesome day. Happy valentine's day.
+@TheAnastasiaLee   Happy valentine's day. Hope ur day is awesome.
+@polishprincessh Happy valentine's day.
+@polishprincessh Hope you have a great day. Best wishes for you and your family.
+@emilykjohnston
+@emilykjohnston  Best wishes for a very enjoyable day.
+@KTAustralia @kerrie_a_wilson @ChrisWil788236 @Whistln  Great to be on your list.  Have a great day.
+@MagicWildflower Goddess blessings from Hobart Tasmania. Blessed be!
+@MissMonicaOriel   you have an awesome voice.
+Mental health problems are the communities problem as well as a member of YOUR family. https://t.co/roJJvIU2KX
+@YOKOSOPRANO Be blessed and Blessed Be! May everyone hear + enjoy ur voice 8n 2016 et sec.
+I found a game that you'll really enjoy. And it's free! Download Solitaire for Android! Get it at https://t.co/vSaZpxjuDi
+@Planet_Maja You are not alone. Your friends r with u if only in spirit.
+Be careful with ur wand. https://t.co/2zSHw3HYDS
+Free West Papua. https://t.co/EheZE6FiMo
+"#CleanMaster detected apps autostarting on my device 680 times, which was causing my phone to slow. https://t.co/KjE3AbNnZe"
+@NSWRFS Hope you get lots of effective rain in your area
+What a beautiful &amp; amazing singer / performer. https://t.co/NlhSA4kd2U
+Awesome result. Lets move on from the past &amp; make a bright new future. https://t.co/PnaUKBW9Fw
+@marlisamusic A great new single by Marlisa. Awesome performer.
+I just voted in the 2015 ARIA Awards. https://t.co/vuhxlEuFq8 #ARIASCOURTNEYBARNETT
+I just voted in the 2015 ARIA Awards. https://t.co/vuhxlEuFq8 #ARIASTHEPREATURES
+Great news! https://t.co/tl0yBXccLw
+Sharing feedback to group. #OneSmallThing15 #FedUni
+#OneSmallThing15. Lauren Stubbe at Federation University student leadership conference. http://t.co/6cbJ9iIY1j
+Follow this woman. #OneSmallThing15 http://t.co/XeB9x8lcAb
+#OneSmallThing15 #FedUni http://t.co/cqktQig0DL
+#OneSmallThing15 #HeartSparks
+#OneSmallThing15  presenting at seminar one. http://t.co/lAKIYnSO6W
+#OneSmallThing15 http://t.co/ZLpCpq1ZSR
+Seminar Room 1. #OneSmallThing15 http://t.co/7GOYw0MRwR
+#OneSmallThing15. http://t.co/PLYAovqU9j
+At Key note opening  #OneSmallThing15 http://t.co/QMlOYgIXnJ
+Opening seminar. #OneSmallThing15 http://t.co/PJL16C9PwF
+Some of the Gippsland contingent. #onesmallthing15 http://t.co/nUHQKHv4QS
+# NACCHO Australia http://t.co/NKQVFqPRPw
+#ochreday15 http://t.co/Htiwn81erb
+#ochreday15 http://t.co/mhCBYV43Md
+#ochreday15 http://t.co/OW6FRRC9dI
+#ochreday15 http://t.co/y4Yj2SSIRJ
+#ochreday15 http://t.co/yx4ShlAsSe
+#ochreday15 http://t.co/zm4RinSWuN
+#ochreday15 http://t.co/u3cE3kwQZO
+#ochreday15 http://t.co/BvB8RQ06If
+#ochreday15 http://t.co/BwTqmhIyBn
+#ochreday15 http://t.co/3QwwXxtGrq
+#ochreday15 http://t.co/2rLr8tSkio
+#ochreday15 http://t.co/PoaLMs8UQm
+#ochreday15 http://t.co/cOmQdRGgOQ
+#ochreday15 http://t.co/Nv9HEyUC5h
+#ochreday15 http://t.co/g9BsOVhn6q
+#ochreday15 http://t.co/1IotIIQjwd
+#ochreday15 http://t.co/yjD9n4ASPD
+#ochreday15 http://t.co/5KMTZuWdCV

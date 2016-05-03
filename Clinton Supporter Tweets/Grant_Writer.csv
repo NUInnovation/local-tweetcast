@@ -1,0 +1,163 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""010005"", ""default_profile_image"": false, ""id"": 80972849, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/762310560/d40d74726b41afe49136bc89b724d3f2.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/695050851358879745/NYSoU-KB_normal.jpg"", ""profile_sidebar_fill_color"": ""FFFFFF"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/paIOfdCVx9"", ""indices"": [0, 23], ""expanded_url"": ""http://crankyblog.com"", ""display_url"": ""crankyblog.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1235, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""80972849"", ""profile_background_color"": ""FFFFFF"", ""listed_count"": 67, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @jilevin: Does the GOP even care about the deficit? https://t.co/xcESJgXhrT"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726937755352080384, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 24733117, ""indices"": [3, 11], ""id_str"": ""24733117"", ""screen_name"": ""jilevin"", ""name"": ""Jeffrey Levin""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 24733117, ""source_status_id_str"": ""312720446816657408"", ""expanded_url"": ""http://twitter.com/jilevin/status/312720446816657408/photo/1"", ""display_url"": ""pic.twitter.com/xcESJgXhrT"", ""url"": ""https://t.co/xcESJgXhrT"", ""media_url_https"": ""https://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg"", ""source_user_id_str"": ""24733117"", ""source_status_id"": 312720446816657408, ""id_str"": ""312720446820851712"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [55, 78], ""type"": ""photo"", ""id"": 312720446820851712, ""media_url"": ""http://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 55, ""id_str"": ""726937755352080384"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Does the GOP even care about the deficit? https://t.co/xcESJgXhrT"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726930821584703488, ""favorite_count"": 43, ""source"": ""<a href=\""https://www.socialoomph.com\"" rel=\""nofollow\"">SocialOomph</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 24733117, ""source_status_id_str"": ""312720446816657408"", ""expanded_url"": ""http://twitter.com/jilevin/status/312720446816657408/photo/1"", ""display_url"": ""pic.twitter.com/xcESJgXhrT"", ""url"": ""https://t.co/xcESJgXhrT"", ""media_url_https"": ""https://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg"", ""source_user_id_str"": ""24733117"", ""source_status_id"": 312720446816657408, ""id_str"": ""312720446820851712"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [42, 65], ""type"": ""photo"", ""id"": 312720446820851712, ""media_url"": ""http://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 55, ""id_str"": ""726930821584703488"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 00:26:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 24733117, ""source_status_id_str"": ""312720446816657408"", ""expanded_url"": ""http://twitter.com/jilevin/status/312720446816657408/photo/1"", ""display_url"": ""pic.twitter.com/xcESJgXhrT"", ""url"": ""https://t.co/xcESJgXhrT"", ""media_url_https"": ""https://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg"", ""source_user_id_str"": ""24733117"", ""source_status_id"": 312720446816657408, ""id_str"": ""312720446820851712"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [42, 65], ""type"": ""photo"", ""id"": 312720446820851712, ""media_url"": ""http://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 00:54:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 24733117, ""source_status_id_str"": ""312720446816657408"", ""expanded_url"": ""http://twitter.com/jilevin/status/312720446816657408/photo/1"", ""display_url"": ""pic.twitter.com/xcESJgXhrT"", ""url"": ""https://t.co/xcESJgXhrT"", ""media_url_https"": ""https://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg"", ""source_user_id_str"": ""24733117"", ""source_status_id"": 312720446816657408, ""id_str"": ""312720446820851712"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [55, 78], ""type"": ""photo"", ""id"": 312720446820851712, ""media_url"": ""http://pbs.twimg.com/media/BFcBlurCIAA-c_I.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 7361, ""description"": ""Writer/Reader/Photographer/Artist/Born Canuck & Raised SoCal/Lover of Walks/Curious Learner/Grateful Christian/Lover of humor"", ""friends_count"": 1061, ""location"": ""Sacramento, CA"", ""profile_link_color"": ""DD2E44"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/695050851358879745/NYSoU-KB_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/80972849/1358542311"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/762310560/d40d74726b41afe49136bc89b724d3f2.png"", ""name"": ""Grant Writer"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 274, ""screen_name"": ""Grant_Writer"", ""notifications"": false, ""url"": ""https://t.co/paIOfdCVx9"", ""created_at"": ""Thu Oct 08 23:33:41 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Right, even a PhD can't make $0.15 widgets for the Dollar Store paying someone $15/hr. @HillaryClinton  https://t.co/oJNQeIItEJ"
+"@GOP Your man @realDonaldTrump made the weather and now ""shit it's raining"" https://t.co/XjZyPiA82O @HillaryClinton @TheDemocrats"
+She did mention it in her speech last night. @HillaryClinton https://t.co/WYQuseiUDK
+"So after eight years of doing nothing, with an election coming @GOP is acting now? #transparent @TheDemocrats https://t.co/TmZBeJmgWX"
+"Could work insurance claims, another soul-abasing career working for rich people. https://t.co/RlbscEPZ1Q"
+"$15 an hour will hurt the middle class, not the rich. #dothemath @BernieSanders @HillaryClinton  https://t.co/QslJNIjiok"
+Congrats J.T. https://t.co/NC55HA3Ehj
+Let them stay if they're working. Don't pay them $15 an hour! @HillaryClinton @BernieSanders https://t.co/QslJNIjiok https://t.co/ylLF1dR1Z8
+WOW! thought @GOP supports cutting taxes! HEADLINE! @CNN @NBC @CBS @ABC @HillaryClinton Read my lips baby https://t.co/BqZW9pHOVo
+$15 an hour is an unreasonable increase and hurts the middle class. https://t.co/QslJNIjiok #DotheMath @TheDemocrats @SenateDems
+$15 per hour siphons $ from the middle class. #DotheMath @BernieSanders @HillaryClinton @TheDemocrats @GOP https://t.co/uRTXL2bN3f
+Strangely reminiscent of Trump's method. https://t.co/oBdj0VvxsU
+The people decided in 2012 and they don't decide again until November 2016. #DoYourJob #SCOTUSnominee  https://t.co/7Kqhe8JcFl
+What happens of BOTH @BernieSanders and @realDonaldTrump run as independents? @TheDemocrats @GOP
+The latest crap about the $15 minimum wage. @TheDemocrats @GOP @realDonaldTrump https://t.co/B3uqdDNDLZ
+Want some reality about the $15 minimum wage proposal? @BernieSanders @HillaryClinton @TheDemocrats @GOP https://t.co/B3uqdE5eDx
+"Well ""they"" say a lot of things that are crap. Here is why - https://t.co/B3uqdE5eDx https://t.co/ZYZLAaXOHx"
+New York what? https://t.co/UrPFyYJuxR
+They can't have what they want without capitalism. End of story. Free everything won't work. Someone pays. https://t.co/UADNUPULaV
+Try telling the truth about your ideas. You're making false promises and you know it. https://t.co/AT47WFbGDX
+"it is simple Willy, is the first is a protest against bigotry, the second IS bigotry. https://t.co/WP7Eg14HXL"
+"#DemDebate $15 per hour saps the limited wealth of the middle class, the rich will not pay. #DotheMath https://t.co/QslJNIjiok"
+"@goldengrl1967 ha ha he's the ""get off my lawn"" old man"
+"@SenSanders just went to ""yes we can"" dig out that t-shirt"
+@SenSanders you have the young because you're offering them free stuff. @HillaryClinton tell him so
+@SenSanders how much should Israel defend itself? What is proportionate? @HillaryClinton
+@BernieSanders how do you do it with this congress? Answer the question.
+"Come on @HillaryClinton , call out @SenSanders 15 per hr. is not affordable, will hurt the middle class."
+@SenSanders many places can't afford fifteen an hour. 7 states pay starting teachers less annually. #dothemath https://t.co/QslJNIjiok
+Fifteen will not come from the rich. You and I will pay. https://t.co/QslJNIjiok @BernieSanders
+A government that robs Peter to pay Paul can always count on the support  of Paul. @BernieSanders #GeorgeBernardShaw https://t.co/QslJNIjiok
+"I was impressed with their vibe. Still not so much with Donald as a candidate, but appear to be a nice family. https://t.co/9gzgpmBBmN"
+"@tedcruz 's ""truth"" scares the crap out of me (carpet bombing moron). https://t.co/lYusCWvHAN"
+Think $15 per hour makes sense? I don't think it pencils out. https://t.co/QslJNIjiok @GOP @TheDemocrats @BernieSanders @HillaryClinton
+"Jim Crow is dead, instead legalize prejudice in the name of the cross. Shame. https://t.co/t6SOrpeG40"
+I get that. But should all pay be equalized? My point is that higher min. Wage does not mean Wal-Mart profits drop https://t.co/SqCnTFTLnM
+Yes I've heard about them. Needs a mass effort. https://t.co/WKPoLSPXkd
+"Don't disagree here, but raise all wages in response to $15 and advantage of min. Wage increase is nullified. https://t.co/fZJ4FxPHED"
+So the minimum wage as it is implemented is a failure. There must be a better solution. https://t.co/2aHDWQhQQL
+"The problem is always the same, large conglomerates control the market, the government, etc. We pay, they earn. https://t.co/s93vfAQZDt"
+"That isn't my point. Walmart will raise their prices. That means they keep profits and we pay, not them. https://t.co/65InrwueMB"
+I don't buy victimization. Nobody has to stay unskilled and uneducated. I worked through college at min. wage https://t.co/fZJ4FxPHED
+The answer to Wal-Mart is unionize. https://t.co/6XvD4OM3Lt
+$15/hour is higher than the average CNA nationally with certification at $12.89. https://t.co/pdKmP1mg2O
+The act banned child labor. $15/hr is higher annually than Yr. 1 teachers in 7 states. Why get an education? https://t.co/7gLahevcxu
+I don't follow you here. https://t.co/m2C0J07its
+"@Alexrealtorpbc critique? Didn't go there, just trying to validate info to be informed. Thought that's what you were about."
+Link so nobody has to ask if it annoys you. Where do you determine the guns prevent more crime? Not cdc surely. https://t.co/9OfO9bS93z
+You need to link to your data sources please. https://t.co/8lxLX5akI7
+Why did the presidential election turn into a Festivus airing of grievances? https://t.co/ns5WJgaYWW @TheDemocrats @GOP
+I'm shocked they're doing anything at all. https://t.co/ztpIXfq9fc
+"@ckhayek min wage is supposed to be entry level, $15/hr. establishes a permanent servant class."
+@ckhayek https://t.co/aDboqR7V5i
+"True, and $15/hr. will take money out of your pocket not their pocket. https://t.co/MqFK5XWedl"
+#DotheMath @TheDemocrats @SenSanders @HillaryClinton https://t.co/Vp9axKHtzz
+So you reward them by making them bear the costs of a $15 an hour minimum wage? https://t.co/QslJNIjiok https://t.co/ZdgfSItPls
+"Outside Democratic primaries or caucuses, a socialist is unelectable. Stop the GOP Go @HillaryClinton https://t.co/ZF75hn39zY"
+Do your job @SCOTUSnom https://t.co/1D91WqFDLJ
+Looks like someone is running for president. @TheDemocrats https://t.co/tH4n7yPKqz
+And quite a mature young man. He acted like a champion. https://t.co/IupcuQRUZf
+Here's an idea for Congress #gettowork https://t.co/XVUK9cIvta
+"Yes, andwho was Butler and why did he/she have a cabin? https://t.co/XbWl5gz7tE"
+#TheMasters ok can we kindly get back to tweeting about rancid presidential politicians now?
+@realDonaldTrump @JohnKasich @tedcruz Y'all realize there's another dog in the race yes? Just read his tweets. https://t.co/qiwbHOwazS
+School @realDonaldTrump on this will ya? Then get Congress to get to work. https://t.co/phK1ZsKMeA
+DISAGREE - DO NOT demean all kindness and tolerance as PC @GOP @HillaryClinton https://t.co/EiQSt32lOR
+Well done! https://t.co/tX3YZKwH1X
+touche! https://t.co/xvk4WWnvm9
+Go Hillary! https://t.co/BOImsNJ5yI
+I heard you're running for President. What are your solutions/alternatives to corporate capitalism? https://t.co/SnYXxu2tLU
+Will someone please #dothemath @HillaryClinton @BernieSanders @TheDemocrats @GOP https://t.co/dteTifoOc3
+He lies when he says $15.hr will lower the gap between rich and poor. https://t.co/schBORvVI2 https://t.co/svnAMT6ebD
+Really? I read her tweets and didn't know she is running! She needs to tweet about her candidacy more often! https://t.co/sPvt6Rz42u
+Good for you. Now also ban buying goods and services from NC-based companies. https://t.co/gbXpVAmk1i https://t.co/GPWuRkL0nX
+When is someone going to ask @realDonaldTrump if he has shell companies to avoid taxes? @TheDemocrats @SenTedCruz @JohnKasich
+@SenateDems @ChuckGrassley You can't make me do my job!
+That basic principle is keeping a promise made on day one to obstruct. #GettoWork @TheDemocrats  https://t.co/58VIiE8Om8
+Good for you Bill. Time for @HillaryClinton to call out Bernie for socialism. Democrat does not equal socialism. https://t.co/KWvEW7yATH
+Go Charles https://t.co/yC0TkEFzLn
+Good for them! Stanford Students Want Western Civilization Studies Back as the PC Backlash Begins https://t.co/pLaXLrUjuk via @thedailybeast
+Bernie Sanders is the developing world's worst nightmare: https://t.co/a4T5Q3i7Pf via @slate
+"Big difference however is Bernie is a socialist. If socialist equals Democrat, count me out. https://t.co/M9l0vH08Et"
+"I'm one of the Independents in CA and I'm not happy, but not angry enough to go socialist. @HillaryClinton  https://t.co/ikoorouDRj"
+Only if you believe in socialism. https://t.co/mZJ7pJglmd
+"Bernie is a socialist, his love of the $15 minimum wage makes sense. https://t.co/AyTmDcT1fz @HillaryClinton @TheDemocrats"
+$15/hr will improve the fiscal health of the middle class? Socialist BS #dothemath @TheDemocrats @AandGShow https://t.co/FCQFNVgSxH
+Calling bs on BS @TheDemocrats @HillaryClinton @AandGShow https://t.co/otrfXTVAwG
+@GOP Demand all candidates swear no personal interest in a shell corporation. #takethepledge @HillaryClinton #panamapapers
+"Bernie has been in the Senate for how long? ""What I feared?"" Is he an ostrich? https://t.co/e3MGsmM54D"
+I concur https://t.co/3Ob51LM0q7
+"I'm sure @tedcruz approves of her, his Dominionist ambitions are fulfilled. https://t.co/B4caX0B4kA"
+Exactly how I fell for Santa Claus! Another sweet gift-giving fiction. https://t.co/3mxXJHA5Mo
+Demand all candidates swear no personal interest in a shell corporation. #takethepledge @TheDemocrats #panamapapers
+@HillaryClinton Can someone question Santa Claus @BernieSanders ? His bag of presents is empty. https://t.co/otrfXTVAwG
+@BernieSanders And this is going to help all of us how? You think this makes the rich pay more? They will pass this $15/hr cost along.
+@HillaryClinton call on @realDonaldTrump to swear he has no shell corporations like #PanamaLeaks
+@BernieSanders is going to start railing about #PanamaLeaks He should also explain how on his watch this stuff went on.
+"@BernieSanders Yes, how is it Senator?"
+It's about protecting our country from the likes of you @tedcruz  Go @TheDemocrats  https://t.co/AniybHE6s6
+"Enabling the awful, gleeful judgement of sinners by sinners in the name of God. Shame on you. https://t.co/XB16t37ELG"
+#WisconsinPrimary Call on all presidential candidates to swear that they own no shell companies #panamapapers  RT if u agree
+Panama Papers Tip of the Iceberg As Congress Aids Tax Cheats &amp; Terrorists https://t.co/xafaIEkh3w via @thedailybeast
+"Does this indenture a permanent class of servants? We need good middle class jobs, not a servant class. https://t.co/WcO5WtSgtp"
+I read in the ny times that none of them were committed...not correct? https://t.co/r3XIGcPWOz
+"""North Dakota is not in the Trump column, the Cruz column or the Kasich column."" The circus continues. https://t.co/kC4Oo9iKaF"
+"She should go home and have coffee on the back porch, keep an eye on Russia for us. https://t.co/YMXm9uUeXW"
+"@SarahPalinUSA @realDonaldTrump @lisafedup your caring doesn't concern me, Palin can't deliver is my point"
+@SarahPalinUSA could not deliver her home state for @realDonaldTrump https://t.co/MPOMAgLsZX
+@TigerWoods Sorry to hear you will miss the Masters. Get healthy and come back.
+@SenTedCruz can't unite the @GOP much less the country. https://t.co/A0ajS0uDx9
+Thanks Obama https://t.co/lk8U9BXXT6
+LOL birthers https://t.co/DLZjWyZVhc
+"Ya think? What is the House doing about it? My guess is nothing, like the last eight years. https://t.co/98lZQshN59"
+"I think women are more concerned with you GOP candidates, but then I'm a guy so what do I know? https://t.co/401zkqtuI4"
+@GOP you're on Cold Mountain and you made the weather. @HillaryClinton @BernieSanders https://t.co/XjZyPiA82O
+#msnbctownhall #HermanCain is defending @realDonaldTrump do any of these people listen to what Trump says/doesn't say?
+Really? Well HE started it - by coming down the escalator. @TheDemocrats  https://t.co/h8QT5o7nbf
+And I bet nobody goes to jail. https://t.co/mJ2oleQjIo
+The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by menacing it...Mencken
+@andersoncooper You want the truth? #GOPTownHall https://t.co/RsbOdxbxId
+"WOW! a radical Islamic terrorist behind Trump! Oh, only Sikh who has to understand the need to be tough on Muslims https://t.co/qciOaZMFEc"
+In a sort of lurid watching a cow creating a frontier frisbee sort of way. https://t.co/4VZZMItvEb
+"Yes, but to his credit he actually gave an answer. https://t.co/0MvzHC0w70"
+"GOP and right talk radio (not you guys) made this weather and now ""shit, it's raining"" https://t.co/XjZyPiixbg https://t.co/wz4ilJ4w2o"
+"@GOP You all created this weather, get out your umbrella boys. @TheDemocrats https://t.co/XjZyPiixbg"
+"And as for Trump, y'all created the weather for him. Watch this - https://t.co/XjZyPiixbg https://t.co/PeThR3mPYi"
+"Cruz is a messianic Dominionist, we need to maintain the separation of Church and state. https://t.co/PeThR3mPYi"
+You mean as in a catastrophic conflagration of bull shit? https://t.co/hATirlaN74
+"Kind of speaks to the average IQ of GOP voters, que no? https://t.co/tMoMzu3L9X"
+"Trump and Cruz are exactly why the GOP is split, disintegrating, and soon part of history. Sad, we need the balance. https://t.co/nPGobSrzNp"
+"I agree, too right, but I'd trust him house sitting. https://t.co/WrnlJxTOhI"
+"Yes, he appears to be a genuinely good man. https://t.co/Xhcsh582Kq"
+Please RT! https://t.co/8lLmfPpLxZ
+I'm certain he does! https://t.co/wlNF807nGe
+"#GOPTownHall he asked for a specific example, can you give him one please?"
+#GOPTownHall Kasich won't reply to whether Trump would be bad for the country. Disqualified in my opinion.
+"Now let's be fair, it was his wife who he has no problem posing nude. https://t.co/mq1X8pbVBQ"
+LMAO https://t.co/YKz5j9zuKV
+Maybe in Borneo https://t.co/AwP6OeNsXM
+#GOPTownHall We get tired of getting no answers @realDonaldTrump
+Bring your shovel to every interview. https://t.co/L4iiUQXnqB
+"#GOPTownHall My manager lied and bruised a woman, I was wrong but I was right"
+#GOPTownHall He talks about evolution all the time.
+#GOPTownHall Are you getting your answer Mr. Business Owner? He's never made a mistake.
+Canada just announced they're going to build a wall eh? @GOP @jobs20canada  https://t.co/dSYC5wYPCU
+Call the WAAAHbulance for poor wee @realDonaldTrump  https://t.co/F9NM8rQzLn
+"#GOPTownHall I am treated SO unfairly, there were 17 candidates, it wasn't right it wasn't American so many candidates @realDonaldTrump"
+"Need lots of booze, :) https://t.co/l7apRUtMC6"
+"I'm taking a shot every time he says it, laying on the floor, lost count, second bottle of tequila, world spinning https://t.co/wCvyBhMwp0"
+"And he's winning, what's that tell you about American voters? Scary times. https://t.co/WJA1XLwtQJ"
+How will you protect minorities? Be tough on Muslims? Sheesh and someone votes for this guy? https://t.co/89Ios91xRV
+Yeah and getting the same old BS https://t.co/jTQQchUyO3
+#GOPTownHall Is it my imagination or does @realDonaldTrump have an ear piece in his left ear covered by a comb over? Someone is whispering.
+Wow https://t.co/3obqiGBDwD
+"@HillaryClinton that's the truth, America to Establishment, we know we got screwed on 2008 and we are not happy."
+@realDonaldTrump probably
+@realDonaldTrump bruises plus tape equal GUILTY
+@AandGShow @latimes they are cash cows paying top dollar. Our people want free tuition ala @SenSanders the ultimate helicopter grandpappy
+"@tedcruz ""read my (GOP) lips"" Ted, y'all have done Nothing to that end."
+@realDonaldTrump @CNN Great idea!
+"@realDonaldTrump Control that dude, tape doesn't lie, your man did."
+"Some revelation! What you ""discovered"" is obvious without getting close to Trump. Who's paying you now? https://t.co/GuucAblDDR"

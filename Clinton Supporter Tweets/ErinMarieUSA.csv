@@ -1,0 +1,190 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 30353226, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/1595512799/apple_rainbow_logo_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/WNs4iqs7sM"", ""indices"": [0, 22], ""expanded_url"": ""http://www.sgi-usa.org"", ""display_url"": ""sgi-usa.org""}]}, ""description"": {""urls"": []}}, ""followers_count"": 94, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""30353226"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 5, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HillaryClinton: New Yorkers head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/frhgx4Yu2s"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 722920822738780161, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [3, 18], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""722408699290132480"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/722408699290132480/photo/1"", ""display_url"": ""pic.twitter.com/frhgx4Yu2s"", ""url"": ""https://t.co/frhgx4Yu2s"", ""media_url_https"": ""https://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 722408699290132480, ""id_str"": ""722408373648560128"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""photo"", ""id"": 722408373648560128, ""media_url"": ""http://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2444, ""id_str"": ""722920822738780161"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""New Yorkers head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/frhgx4Yu2s"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 722408699290132480, ""favorite_count"": 4410, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/722408699290132480/photo/1"", ""display_url"": ""pic.twitter.com/frhgx4Yu2s"", ""url"": ""https://t.co/frhgx4Yu2s"", ""media_url_https"": ""https://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg"", ""id_str"": ""722408373648560128"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [75, 98], ""type"": ""photo"", ""id"": 722408373648560128, ""media_url"": ""http://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2444, ""id_str"": ""722408699290132480"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue Apr 19 12:57:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/722408699290132480/photo/1"", ""display_url"": ""pic.twitter.com/frhgx4Yu2s"", ""url"": ""https://t.co/frhgx4Yu2s"", ""media_url_https"": ""https://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg"", ""id_str"": ""722408373648560128"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [75, 98], ""type"": ""photo"", ""id"": 722408373648560128, ""media_url"": ""http://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 20 22:52:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""722408699290132480"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/722408699290132480/photo/1"", ""display_url"": ""pic.twitter.com/frhgx4Yu2s"", ""url"": ""https://t.co/frhgx4Yu2s"", ""media_url_https"": ""https://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 722408699290132480, ""id_str"": ""722408373648560128"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""photo"", ""id"": 722408373648560128, ""media_url"": ""http://pbs.twimg.com/media/CgaClp4XEAA5zti.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -21600, ""statuses_count"": 2066, ""description"": ""I am a SGI Buddhist and a Democrat and twitter lover"", ""friends_count"": 301, ""location"": ""Dallas"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/1595512799/apple_rainbow_logo_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Erin Marie"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 15, ""screen_name"": ""ErinMarieUSA"", ""notifications"": false, ""url"": ""http://t.co/WNs4iqs7sM"", ""created_at"": ""Sat Apr 11 00:33:32 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Mountain Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@rawbeets do you still have your website?
+@rawbeets I am going back to raw. Do you still have the web site?  Also I want to download your e-book.
+@wehavethestars how r u?
+"@mrDaveKrumholtz mom wants to know what happened to the nice boy from ""Adam's family values""?"
+Very amusing https://t.co/gmFIFAn7wC
+@mrDaveKrumholtz   How r u?
+@Bethenny @RickyTheobald
+Help fight food deserts w/ @NakedJuice Retweet to add 1lb fresh produce to 100k goal! #DrinkGoodDoGood #100KCrops http://t.co/ofRPbXn8wR
+Help fight food deserts w/ @NakedJuice Retweet to add 1lb fresh produce to 100k goal! #DrinkGoodDoGood #100KCrops http://t.co/nTZWsmyDoZ
+"Take a pic &amp; help @NakedJuice send 100,000 lbs fresh produce to communities in need. #DrinkGoodDoGood #100KCrops http://t.co/WtAr1Va974"
+Help fight food deserts w/ @NakedJuice Retweet to add 1lb fresh produce to 100k goal! #DrinkGoodDoGood #100KCrops http://t.co/nTZWsmyDoZ
+https://t.co/BtCuF06oJf
+@ChelseaClinton Congrats and I am hoping you are having a safe and fun holiday
+so I went jogging tonight and I feel better.  If I don't exercise I feel bloated and uncomfortable.
+Apple under Steve Jobs reign came up with ideas of their own that changed the world@CNBC
+@tim_cook just took a job around the neighborhood.
+@ChelseaClinton congrats to you and your husband.
+@jgoodrichphoto hope you are having a good weekend
+@jgoodrichphoto hi how are you doing?
+Herbed Chicken and Vegetables-Cooking Channel: http://t.co/b0knfwyjWZ via @YouTube
+Follow Your Dreams and Rock Out Donald Trump Stylie (Ep.41): http://t.co/0SqcwcPT2u via @YouTube
+still trying to leave Dallas.
+does anyone know about working at a non profit organization?
+do you still live in NYC? @rawbeets
+I am always interested in food.  Is it good and what are you eating?@DaveKrumholtz
+Whole Foods shares dip on lower than expected same-store sales via @FortuneMagazine http://t.co/MeG7VXuZKC
+does anybody know about fundraising for a non profit?  I am thinking about going that way for a career.
+Take action for #rape survivors! Sign the petition now to #breakbarriers to comprehensive post-rape care worldwide http://t.co/kK6H0AHDIf
+I had to RT this article it is so true.10 sexist scenarios that women face at work http://t.co/h6UWAwDMeh via @guardian
+"Vote! Help Kew Gardens win £500,000 and Google's support to help map disease-bearing mosquitoes #impactchallenge https://t.co/8Exe2ZApIg"
+i'm off to bed now.  I hope I can get up early.
+Radio Lingua Network - Coffee Break Spanish - https://t.co/Tlm0Uu1GEW #iTunes
+i love twitter.  please keep them coming.
+I can't wait for cooler weather.
+your children are adorable.@SimonvanKempen
+So I have decided to read 7 books a week.  I have grown tired of TV and am wanting to have a more intellectual encounter.
+https://t.co/0d4UMJB2zx
+I have the same problem.  I think there is a pill for it though @Laurenmanzo
+Just curious.. are you working now?@DaveKrumholtz
+how are you doing? @GetDianeFarr
+hi I have been gone for a while @spcwrite
+How are things? I rarely get to use my computer. @spcwrite
+@Jillzarin you both look fantastic! http://t.co/UXHzP9Rp3u
+Poor Girl Eats Well &amp;#8211; Recipe: Carrot &amp;amp; Zucchini Quinoa Bread - http://t.co/jIX0UEmi6n via @PoorGrlEatsWell
+sorry i have been away for a while.
+I'm in the hospital with my parents
+I want to access mypoints
+Can u raw food with a blender?
+"“@SonjatMorgan: I'm gonna be live tweeting and supporting my gf @LisaVanderpump at 11pm. Anyone else? #rhony #rhobh”
+I""m in"
+@Jillzarin r u having fun?
+I miss tweeting
+Miss u @Jillzarin
+I can't wait for #rhony. Miss u @SonjatMorgan
+I am fasting w/ juice freshly made.  Day 1 down
+How is it going? @SPCwrite
+I wish you were back on tv @mccordalex
+hello @ErinMarieUSA
+@ErinMarieUSA  find me
+find me
+R we getting more #Leverage @leverageTNT
+I just finished an apple and feel a lot better.
+"Nam ,Myoho Renge Kyo is what I chant morning and night.  Ask me about it"
+Hi I miss u.  How is your writing and the weather @SPCwrite
+I miss you @mccordalex
+When will #Leverage show again?
+I cannot wait for your show to start. @JacLaurita
+What do you eat to stay thin? @GretchenRossi
+Who knows anything about new port beach?
+the weather is getting hot here. @SPCwrite
+listening to Jazz and tweeting right now.
+How long have you practiced SGI? @londonlotus
+what is up? @SPCwrite
+I did a quick pick over here.  I hope I get something out of it. @SPCwrite
+who here is interested in Nicherin buddhism?
+His intensive study of the Buddhist sutras convinced him that the Lotus Sutra contained the essence of the Buddha's enlightenment
+"Nichiren wondered why the Buddhist teachings had lost their power to enable people to lead happy, empowered lives"
+"Nichiren was born in 1222 in Japan, a time rife with social unrest and natural disasters. The common people, especially, suffered enormously"
+Who is Nicherin Daishonin?
+"and the operation of cause and effect throughout the three existences of past, present and future."
+#nam myoho renge kyo
+"The term Buddha, or ""enlightened one,"" is applied to any human being who realizes the eternity of life and the operation of cause and effect"
+I really want to change my karma and achieve my goals in life.
+"If you Shakabuku you will achieve the equalvalent of 10,000 chants or daimoku"
+If you chant Nam Myoho Renge Kyo you will have the power to change one's karma
+"Nam Myoho Renge Kyo means ""Devotion through the mystic law of cause and effect through sound"""
+The practice is from Nicherin Daishonin's Buddhism.  We chant Nam Myoho Renge Kyo.
+Back to Shakabuku.  Shakabuku basicly means to introuduce someone into the practice.
+I miss you.  I think you should get your own show@Jillzarin
+I really want to change my karma
+It is time for Shakabuku
+I am going to go chant for a little bit and I may get back on if i have the ability.@SPCwrite
+"With this recipe we will experience actual proof.  Actual proof would be like getting a better job, for example"
+"There are three basics in applying your practice.. They are faith, practice, study."
+Let us talk about beginning your practice
+I have to get something to protect my keyboard.  My period is falling out @SPCwrite
+http://t.co/jFUV48zFmy website for our organization
+Nicherin was a wise and fearless man.  He was a 13th century practioner.
+I practice Nicherin Daishonin's Buddhism.
+I guess I will Shakabuku for the rest of the night.
+It is easier to use a computer than my ipad. @SPCwrite
+It is kinda slow tonight
+How r things? @mccordalex @SonjatMorgan
+Haven't had cola for a while.  Lost 7  or 8 pounds @SPCwrite
+Hi there @SPCwrite
+I'm getting sleepy. Until tomorrow @SPCwrite
+I hope things go your way @SPCwrite
+Have you sold anything? @SPCwrite
+I understand.  My thing is I want to tweet in the morning.  But I want to sleep more.  @SPCwrite
+So r you having trouble with the peeps on twitter? @SPCwrite
+Sorry I am not on as much as I should @SPCwrite
+"@SPCwrite hey I""m here"
+"We practice by chanting Nam Myoho Renge Kyo which stands for ""devotion to the mystic law of cause and effect through sound"
+What is Nicherin Buddhist practice?
+A peaceful world can only exist if people are happy--sgi
+Time for Shakabuku!
+Who likes Simon Baker? I do!
+Watched your take on the #RHOC. Good job. @mccordalex
+It was a personal watermelon @SPCwrite
+I just had some watermelon @SPCwrite
+Nam Myoho Renge Kyo
+Tomorrow SGI will have its big meeting tomorrow called Kosen- Rufu in Dallas
+"also translated ""spread it abroad widely"""
+Were you on a raw diet? @SPCwrite
+Kosen- Rufu means world-peace
+The great goal of SGI and Nicherin Buddhism is Kosen-Rufu
+What is Kosen-Rufu?
+Pretty good @SPCwrite
+Sharing Buddhism requires courage
+Time for shakabuku
+"“@SPCwrite: Bacon night, made BLT club lol.”Chinese food for me"
+shakabuku will continue later.
+Gongyo is a practice that calls forth and activates the infinite power that the microcosm inherently possesses
+this consists of chanting Nam Myoho renge kyo and reciting portions of the lotus sutra
+"Gongyo which means ""to exert oneself in practice"""
+Practice for oneself takes the form of twice daily observance in front of the Gohonzon called gongyo.
+"Of the three basics- faith, practice, and study- practice for oneself and practice for others"
+Gongyo: The Practice for Oneself
+from the Essentials of Nicheren Buddhism Exam 2011
+so it is time for Shakabuku
+Time to Shakabuku
+Watching body of proof
+I can't wait for Real housewives of Orange County.
+I can't wait for this semester to end
+It has been so long since i have tweeted.  I have to look for a part time job.
+Stat warm
+I am having my car worked on. So I have to watch my wallet @SPCwrite
+I think I will try half price books @SPCwrite
+Is that a book written by Stephen King? @SPCwrite
+Half price books is what I meant @SPCwrite
+One of the gurus recommended some @SPCwrite
+Halfway books on my way @SPCwrite
+I think I am going to have to read more @SPCwrite
+I am not in any hurry. But I want to see if I can do it @SPCwrite
+I have a joss whedon script I can look at @SPCwrite
+I don't know yet @SPCwrite
+Last when we spoke b4 it was hot in Boston @SPCwrite
+Oh sorry about that @SPCwrite
+There r only a few I tweet to @SPCwrite
+What r your twitter peeps saying to you @SPCwrite
+Thank you @SPCwrite
+So start with idea first? @SPCwrite
+How are things? @SonjatMorgan
+I think I will start with pieces of the story and come up with characters @SPCwrite
+What is the best way to start a screenplay @SPCwrite
+Sorry I have been away @SPCwrite
+Staying comfortable @SPCwrite
+are you still on twitter? @SPCwrite
+I am in need of a new part time job
+I'm going to have kale soup later. The soup is freshly made
+So what Kate would eat is going well
+On with what Kate would eat. Salad and water and soup later
+I'm trying to follow someone and twitter won't let me
+I had my juice drink.  Freshly made and I feel better.  It was carrots and apple
+So it is more water and less cola
+“@AliciaSilv: Win my vegan @juicebeauty cleanser &amp; moisturizer http://t.co/3DC15FCC w certified organic ingredients &amp; antioxidents! Pls RT”
+I am going to add juicing to my diet.  I have a juicer.
+"Here is my new diet, if Kate and Giada would eat it so can I"
+My new diet makes me ask would kate eat that @
+I worked out today and chanted
+I am going to bed @SPCwrite
+It is chilly outside @SPCwrite
+Good luck @SPCwrite
+It is not my fault.  I have had problems b4. @SPCwrite
+"Two managers said they would take of it, they didn't @SPCwrite"
+I had two exams today.  I was suppose to work today.  I told them in advance that I had two exams.  @SPCwrite
+I'm sorry that I have not been on but my step father was in the hospital. He is home now @SPCwrite
+Burning some oil. It smells great
+I had a long day at work but it was a good day

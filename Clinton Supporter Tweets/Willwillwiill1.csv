@@ -1,0 +1,80 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3474402914, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/640695274592010240/u76oNAUE_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 36, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3474402914"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 5, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @GameThroneReact: Me at the end of that episode!! #GameofThrones https://t.co/NFGPi1maIz"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727128491615887360, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2446959751, ""indices"": [3, 19], ""id_str"": ""2446959751"", ""screen_name"": ""GameThroneReact"", ""name"": ""GameOfThrones Reacts""}], ""hashtags"": [{""indices"": [53, 67], ""text"": ""GameofThrones""}], ""urls"": [], ""media"": [{""source_user_id"": 2446959751, ""source_status_id_str"": ""727111372572626944"", ""expanded_url"": ""http://twitter.com/GameThroneReact/status/727111372572626944/photo/1"", ""display_url"": ""pic.twitter.com/NFGPi1maIz"", ""url"": ""https://t.co/NFGPi1maIz"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg"", ""source_user_id_str"": ""2446959751"", ""source_status_id"": 727111372572626944, ""id_str"": ""727111323918688256"", ""sizes"": {""large"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""small"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""medium"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [68, 91], ""type"": ""photo"", ""id"": 727111323918688256, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 788, ""id_str"": ""727128491615887360"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Me at the end of that episode!! #GameofThrones https://t.co/NFGPi1maIz"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727111372572626944, ""favorite_count"": 773, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [32, 46], ""text"": ""GameofThrones""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/GameThroneReact/status/727111372572626944/photo/1"", ""display_url"": ""pic.twitter.com/NFGPi1maIz"", ""url"": ""https://t.co/NFGPi1maIz"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg"", ""id_str"": ""727111323918688256"", ""sizes"": {""large"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""small"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""medium"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [47, 70], ""type"": ""photo"", ""id"": 727111323918688256, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 788, ""id_str"": ""727111372572626944"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 12:23:54 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/GameThroneReact/status/727111372572626944/photo/1"", ""display_url"": ""pic.twitter.com/NFGPi1maIz"", ""url"": ""https://t.co/NFGPi1maIz"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg"", ""video_info"": {""aspect_ratio"": [142, 89], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Chc35Y5WYAAM5gP.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""727111323918688256"", ""sizes"": {""large"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""small"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""medium"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [47, 70], ""type"": ""animated_gif"", ""id"": 727111323918688256, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 13:31:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2446959751, ""source_status_id_str"": ""727111372572626944"", ""expanded_url"": ""http://twitter.com/GameThroneReact/status/727111372572626944/photo/1"", ""display_url"": ""pic.twitter.com/NFGPi1maIz"", ""url"": ""https://t.co/NFGPi1maIz"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg"", ""source_user_id_str"": ""2446959751"", ""source_status_id"": 727111372572626944, ""video_info"": {""aspect_ratio"": [142, 89], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Chc35Y5WYAAM5gP.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""727111323918688256"", ""sizes"": {""large"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""small"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""medium"": {""h"": 178, ""resize"": ""fit"", ""w"": 284}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [68, 91], ""type"": ""animated_gif"", ""id"": 727111323918688256, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Chc35Y5WYAAM5gP.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 731, ""description"": ""Alien from KIC 047500482. Secretly American and Democrat. Hockey fanatic."", ""friends_count"": 205, ""location"": ""Universe"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/640695274592010240/u76oNAUE_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3474402914/1455691879"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Willwillwiill"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 123, ""screen_name"": ""Willwillwiill1"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Sep 06 20:53:46 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+He's alive! #GoT
+This just in. Bernie Sanders conceded. #HillaryClinton2016
+Waiting for the Connecticut primary result is like waiting for my paella order. Too long but I could almost taste it. #Hillary2016
+Hillary wins Pennsylvania! #HillaryClinton2016
+"First, it was Michael then Prince and the next one is Madonna. OMG! She must be shaking like a leaf. #RIPPrince"
+"RIP, #Prince."
+#Hillary be like. https://t.co/VHQ3I9guUs
+"Berniebots are out in full force. Lol! Admit it, you guys got burned.  #iamwithher https://t.co/11YXqKvU8A"
+"#NewYork, go out and vote #HillaryClinton2016 tomorrow. Be realistic and pragmatic."
+"Hey, New York, be realistic and pragmatic and not idealist and a dreamer as, sometimes, dream can be a  nightmare. #HillaryClinton2016"
+Exactly. BS is delusional. https://t.co/Y2d9T0vcXj
+"#demdebate stop wagging your finger, Bernie!"
+"#demdebate Hillary says 
+ he doesn't have an example!"
+"#BernieSanders, stop wagging finger.  It's unpresedential!"
+Annoying Debbie is a goner. Yay! #SurvivorKaohRong
+It's a win!  #Canucks https://t.co/u6Yegnimai
+#HillaryClinton2016 #BernieSanders https://t.co/bPT4RxIyVX
+I knew it! Old man #BernieSanders is a fake! https://t.co/WX7CrsWGVD
+#BernieSandersForPresident2016  is full of s@$#! I knew it! https://t.co/c8eUmUddwr
+"In true #Canucks fashion, they start winning when they're losing."
+#Canucks https://t.co/ejoPJcrW8l
+Granlund! #Canucks
+Bet Miller is a goner after this season. #Canucks
+Hahaha!  https://t.co/p69YIZcWpi
+...and the third period curse begins. #Canucks
+Yep. Lol! https://t.co/mvdwKVIV2O
+"#BernieSanders is a liar! Sorry millennials, you've been duped by BS. https://t.co/U6WEJPxxat"
+"Why did we let Eddie Lack go and Miller stay? Oh, #Canucks you're so perplexing."
+"Oh, Miller you're so counting your days. #Canucks"
+"#JakeVirtnanen, don't let them ruin your beautiful face. #Canucks"
+#HillaryClinton4POTUS #BernieSanders https://t.co/wZnO5ye7a2
+"#sense8 what a pure, riveting, spectacle. Can't wait for season 2."
+"I remember last season, Eddie Lack carried us all the way to the playoffs. #Canucks"
+#Canucks losing it. AGAIN.
+"Come on, #Canucks!!!! Let's win tonight."
+https://t.co/Kwx9rnFjy8
+Arizona for #Hillary! There you go!
+Yes! https://t.co/WIyrrWyV8g
+Ouch. #Canucks
+#Canucks playing like as usual. Yikes.
+Higgins is back. #Canucks https://t.co/EMeKurhfIl
+Lol! https://t.co/1pPKEoxZve
+"I say Michigan was a fluke. #HillaryClinton, FTW!"
+Kudos to #HillaryClinton for amassing great numbers of delegates at tonight's #SuperTuesday2016 for the democratic presidential nomination.
+Heard Ted Cruz making fun of #HillaryClinton in his pseudo victory speech in Missouri and found it lacklustre both in delivery and punch.
+Hahaha! https://t.co/oHrmoA6l3O
+You're younger than him and way better. https://t.co/vJofV2OIOA
+True. Lol! https://t.co/HLtJQUSJ5H
+Tonight's #TheWalkingDead was pure epic.
+Lightening? https://t.co/TclnjY2Oqu
+Still am not getting concrete that Bernie made except you badmouthing Hillary. Good luck on Tuesday. https://t.co/GYWPHGDt26
+Hillary was instrumental in rebuilding America's position in the world when she was the Secretary of State. Stellar! https://t.co/0u4lov6b9o
+"Stellar? That's too much of an adjective for Bernie. I want something concrete that he has done. Empty, I say. https://t.co/ZoygsEX0Iw"
+What about Bernie? I know he is a senator from Vermont but what has he concretely done aside from finger wagging?  https://t.co/BheZlTNdA8
+"FYI, #HillaryClinton got these planned out and it will happen in her presidency unlike Bernie's vacuous promises. https://t.co/GbdA5HyAah"
+"Really? Bernie has so many promises that are fakes like Gucci bags in Chinatown. Good luck to that. #Hillary, FTW! https://t.co/GTlRemNMf9"
+...And yet she's still standing tall and resilient despite. Would rather vote for her than someone like Bernie. https://t.co/jexSqkFnlp
+#HillaryClinton is the one who can beat #DonaldTrump. #Bernie is a republican pretending to be democrat and he looks grumpier each day.
+"If there's somebody out there who's been vilified, ridiculed, bad-mouthed for 25+years and still standing tall then that's #HillaryClinton."
+Scores! Yay #Canucks
+#Canucks for the win tonight.
+Stoked to watch #Canucks tonight. Please win!
+"I'm following this guy on #facebook.He wrote a morbid line and I think he may hurt himself. His name is Joe Mullin,  #George, #SouthAfrica."
+No Playoffs for #Canucks. Let that sink in for a bit.
+Sweet! https://t.co/3S1VcFlNhO
+Did he or did he not? #Hamhuis #Canucks
+Who is the pimp? https://t.co/PYCkc0y8RB
+Hmm.  Never thought Henry Cavill is English. #oscars
+"That was a great win, #Canucks"
+Scores.  #Canucks
+"Oh, Vey! #Canucks"
+Rick and Michonne finally getting sumthin sumthin. #TheWalkingDead
+Yep. https://t.co/HX1R7w2Rcd
+Would've been a shut out but that's fine. A win is a win. #Canucks
+"#Canucks winning for a change but too early to tell, given their history of losing it all in the third period. Please don't."
+Haha! https://t.co/kEuq9xJqdY
+#Canucks https://t.co/xJ1kfYWVFZ
+My man crush.  #Canucks https://t.co/b0IUW80jJf

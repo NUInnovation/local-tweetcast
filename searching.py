@@ -66,6 +66,7 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
     for testing_filepath in testing_set:
         block_of_tweets = ''
         with open(testing_filepath) as tweetsfile:
+            print 'adding', testing_filepath, 'to testing set...'
             tweetreader = csv.reader(tweetsfile)
             metadata = tweetreader.next()
             for tweetrow in tweetreader:
@@ -97,8 +98,12 @@ def predict_candidate(blob_of_tweets, k_neighbors):
         shuffle(dirlist)
         for i in range(len(dirlist)):
             filepath = os.path.join(candidate_folder, dirlist[i])
-            print 'adding', training_filepath, 'to corpus/dictionary...'
-            dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
+            #print 'adding', training_filepath, 'to corpus/dictionary...'
+            dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, filepath)
+
+    tfidf = models.TfidfModel(corpus)
+    tfidf_corpus = tfidf[corpus]
+    index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
 
     clean_block_of_tweets = utils.any2unicode(blob_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
     text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
@@ -111,13 +116,15 @@ def predict_candidate(blob_of_tweets, k_neighbors):
     for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
         if folder_name == mode:
             return candidate_handle
-testdict = {}
-# for i in range(3, 30):
-testdict[7] = test_tfidf(0.3, 7)
 
-pprint(testdict)
-
-
-# sims = index[tfidf_corpus]
-
-# pprint(list(enumerate(sims)))
+# testdict = {}
+# # for i in range(3, 30):
+# testdict[7] = test_tfidf(0.3, 7)
+# testdict = {}
+# # for i in range(3, 30):
+# testdict[7] = test_tfidf(0.3, 7)
+# # pprint(testdict)
+# testing_dict = {}
+# for kn in range(4, 18):
+#     testing_dict[kn] = test_tfidf(0.7, kn)
+# pprint(testing_dict)

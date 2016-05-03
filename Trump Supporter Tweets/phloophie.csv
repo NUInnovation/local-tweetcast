@@ -1,0 +1,122 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 187746158, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme11/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725778498409783296/ROxHtZdS_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 418, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""187746158"", ""profile_background_color"": ""000000"", ""listed_count"": 24, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @USFreedomArmy: If this doesn't wake you up &amp; get you to enlist nothing will. Join our army at http://t.co/KUHT60Yh4j. We march. http://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727288733209268228, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1020857448, ""indices"": [3, 17], ""id_str"": ""1020857448"", ""screen_name"": ""USFreedomArmy"", ""name"": ""U.S. Freedom Army""}], ""hashtags"": [], ""urls"": [{""url"": ""http://t.co/KUHT60Yh4j"", ""indices"": [102, 124], ""expanded_url"": ""http://USFREEDOMARMY.COM"", ""display_url"": ""USFREEDOMARMY.COM""}], ""media"": [{""source_user_id"": 1020857448, ""source_status_id_str"": ""517766956347580416"", ""expanded_url"": ""http://twitter.com/USFreedomArmy/status/517766956347580416/photo/1"", ""display_url"": ""pic.twitter.com/O7IJKUN0U6"", ""url"": ""http://t.co/O7IJKUN0U6"", ""media_url_https"": ""https://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg"", ""source_user_id_str"": ""1020857448"", ""source_status_id"": 517766956347580416, ""id_str"": ""517766955017596928"", ""sizes"": {""small"": {""h"": 185, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 517766955017596928, ""media_url"": ""http://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2080, ""id_str"": ""727288733209268228"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""If this doesn't wake you up &amp; get you to enlist nothing will. Join our army at http://t.co/KUHT60Yh4j. We march. http://t.co/O7IJKUN0U6"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 517766956347580416, ""favorite_count"": 812, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""http://t.co/KUHT60Yh4j"", ""indices"": [83, 105], ""expanded_url"": ""http://USFREEDOMARMY.COM"", ""display_url"": ""USFREEDOMARMY.COM""}], ""media"": [{""expanded_url"": ""http://twitter.com/USFreedomArmy/status/517766956347580416/photo/1"", ""display_url"": ""pic.twitter.com/O7IJKUN0U6"", ""url"": ""http://t.co/O7IJKUN0U6"", ""media_url_https"": ""https://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg"", ""id_str"": ""517766955017596928"", ""sizes"": {""small"": {""h"": 185, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 139], ""type"": ""photo"", ""id"": 517766955017596928, ""media_url"": ""http://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2080, ""id_str"": ""517766956347580416"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Oct 02 20:03:56 +0000 2014"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/USFreedomArmy/status/517766956347580416/photo/1"", ""display_url"": ""pic.twitter.com/O7IJKUN0U6"", ""url"": ""http://t.co/O7IJKUN0U6"", ""media_url_https"": ""https://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg"", ""id_str"": ""517766955017596928"", ""sizes"": {""small"": {""h"": 185, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 139], ""type"": ""photo"", ""id"": 517766955017596928, ""media_url"": ""http://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 00:08:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1020857448, ""source_status_id_str"": ""517766956347580416"", ""expanded_url"": ""http://twitter.com/USFreedomArmy/status/517766956347580416/photo/1"", ""display_url"": ""pic.twitter.com/O7IJKUN0U6"", ""url"": ""http://t.co/O7IJKUN0U6"", ""media_url_https"": ""https://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg"", ""source_user_id_str"": ""1020857448"", ""source_status_id"": 517766956347580416, ""id_str"": ""517766955017596928"", ""sizes"": {""small"": {""h"": 185, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 261, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 517766955017596928, ""media_url"": ""http://pbs.twimg.com/media/By96TWZCcAAvGsi.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 8510, ""description"": ""What I lack in self-confidence, I make up for in insecurity...\nJohn 3:16 That means YOU, too..."", ""friends_count"": 436, ""location"": ""Right behind you...BOO!"", ""profile_link_color"": ""1B95E0"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725778498409783296/ROxHtZdS_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/187746158/1461118416"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme11/bg.gif"", ""name"": ""phloophie"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1554, ""screen_name"": ""phloophie"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Sep 07 01:33:52 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+This is what you get with parents that have moral compass. And with each generation it gets worse and worse. https://t.co/T8lieM8fQJ
+"No , it doesn't belong there, or any western civilized countries. https://t.co/V3Fj8xQarJ"
+@FriendlyJMC @003a04f8c2054b7 @tponews He's a heartless jerk.
+"This is what happens when parents have no moral compass, the children have even less, with each generation. sick https://t.co/TvtQuuuoeT"
+"@25DegNorth @daeshhun And ban that which goes against the constitution, as it should be."
+@ConnieRadomski @JudgeMoroz Exactly.
+@25DegNorth @daeshhun It's happening here in subtle but powerful ways. And it pisses me off.
+@25DegNorth @daeshhun Yep. I hope things don't keep escalating here. That Citadel cadet school allowing the hijab nonsense. uni's catering
+Sounds more than coincidental... https://t.co/1i8Kfuzz1g
+"@25DegNorth @LainieYennie @realDonaldTrump Yes, nice to see them finding common sense unity. We need lots more of this from the youth."
+"Yeah, none of the supporters for other candidates act this way. *rolls eyes* https://t.co/oI7buMaYN6"
+"@RosaleeAdams @MKANTONIO1 Wow, if that doesn't choke someone up, they are heartless..."
+They are definitely gaining ground in that direction. Sick of everybody catering to Satan's minions.  https://t.co/EIxSAHNw67
+I'd like to see her in prison. I think a GOOD start would be 25 years but would like to see it increase until dead. https://t.co/c52D30Ych1
+"Lord I hope so. How she is even running for pres just blows me away. If anyone else, they'd be sporting the orange https://t.co/ZwAs3UHf1K"
+"https://t.co/ALRSBFwJMa https://t.co/hBIM41q6BT Not going to argue, they are the same,&amp; worship Allah, who is Satan. https://t.co/v1eqOLVLCK"
+And arrogance oozes from his pores. Not likable in the slightest. https://t.co/VHFyMTwMBY
+"If not in this life, in the afterlife, for sure. https://t.co/XyLc1OHexN"
+@JandRHendricks @PhxKen @America4Liberty I did. I stand by my statement.
+"This man is a piece of dog poo. He is rude, hateful and interrupts whoever is speaking. Can't stand him. And a liar. https://t.co/wmoWhFDJlK"
+"Both worship Satan, so I don't care how it's pronounced. *shrug* https://t.co/xRKiUDEpZb"
+@25DegNorth @RogerJStoneJr He and Hillary should have been prosecuted and in prison numerous times over the last 30 years. Trash
+@PeteyKong @mikeo159 I'm not sure Heidi didn't pay to have her tripped after #Cruzorinasexscadal
+"@mitchw11 I don't like confronting people, but I also won't stand by &amp; watch people get treated like crap, when  asking to be left alone"
+Not the perfect people. ;-) https://t.co/FXzECnsmpe
+"I have, she has only treated me with respect. You get what you give. I follow Jesus, and he went to the sinners,  https://t.co/FXzECnsmpe"
+"@JeffieKakes @CarmenCruz303 Remarks to this lady like you keep making, from 2 posers."
+@JeffieKakes @CarmenCruz303 SHE is not the problem. 2 foolish CHRISTIAN smartasses are. And remarks like you are making.
+"@mitchw11 called him on it. Then blocked him for being a jerk. Another jerk jumped in and attacked me. Had to tell him off and block him,too"
+@mitchw11 I was concerned about her stance on something and I commented on it. Meanwhile this jerk keeps spewing his hate rhetoric and I
+"@mitchw11 Was talking(attacking) this lady, I went to her page out of curiosity. I posted something and we got into a conversation."
+"@mitchw11 My twitter feed goes at lightning speed with the people I follow, I see posts that interest me. 1 of the people I was follwing"
+"@mitchw11 Of course not! I'm not LOOKING for jerks, I just seem to attract them like moths to a flame."
+"God bless you, hon. :-) https://t.co/G0vhzSDv8J"
+"@JeffieKakes @CarmenCruz303 I have yet to have this lady arrogant/hateful to me. YET, 2 supposed CHRISTIAN CONSERVATIVES attacked both of us"
+"PLease stop teasing me! That's just not nice. :-P *crosses fingers, toes and eyes that they leave* https://t.co/lwXEcDskmr"
+"Heidi paid someone to trip her, since #Cruzorinasexscandal. https://t.co/qXLho6ELxT"
+"Amen to that! Loyal to Mexico? Good, go back! Only loyal Americans belong in America. https://t.co/pXObH1nhd8"
+"LOVE Mr. Carson, highly intelligent and an upstanding man. I wanted to vote him president, but Trump is a good alt. https://t.co/BYxuFiLoOq"
+Yep. Amen to that. https://t.co/sZplgrpG89
+Nope. No women. Just a lot of men in dresses. *snickers* https://t.co/388dNdd3Xq
+Woot! Woot! Just one more reason not to give up our guns or our rights to bear them. https://t.co/l18A87nOOS
+"Nah, I like a good fiery conversation. I draw them like flies, apparently. *rolls eyes* https://t.co/ASliC340Qa"
+"I am NOT defending BLM, and your attitude proves you are just as vile as he is. Blow it out your own, asshole! https://t.co/tIaa0uKPI9"
+"@MeatScales @NCCollegians Hate begets hate, it escalates it, not deescalates it. That poll was done on purpose pointed at her and I."
+Hahaha! Good kitty... https://t.co/qKjYfmkobn
+"@JeffieKakes @CarmenCruz303  If all she has ever gotten are these types of responses, and condemnation for her personal experiences?"
+@NCCollegians I think you are purposely being a jerk and divisive I am unfollowing and blocking you. That's what I THINK.
+@MrsParkington @CarmenCruz303 Awesome! Way to create more division. *thumbs up*
+Jesus spoke the truth in love. And He is our blueprint for how to treat others.  https://t.co/iEBSBZ9ldl
+"I can absolutely judge a persons fruit, and by you attacking her is not showing Christ's love.  https://t.co/r14UBHeqyn"
+"By being destructive back? Hate begets hate. Try kindness, it accomplishes so much more. It has to start somewhere. https://t.co/Adsx3UQWzW"
+"And if you claim to be a Christian, I'm calling you a big, fat liar. https://t.co/D0a1u9qrSD"
+"By acting like a jerk?You draw more flies w/ honey than vinegar.Go ahead,cement her reasons for hating white people. https://t.co/D0a1u9qrSD"
+Picking on her isn't going to make her like you. Just thought I'd point out the obvious. https://t.co/5hP6IzyMAR
+He needs to be in a cell beside Hillary. They can tell each other their fairy tales for the rest of their lives... https://t.co/AcDAOwzMfQ
+"Lmao, that is just so sad.... :-( https://t.co/2M5l69nh5T"
+Haha! Love it! :-) https://t.co/1LPmZJkbGc
+I believe anybody of any color are capable of both love and hate. https://t.co/N35xvQH84d
+My youngest daughter and her son are black. I got lots of hate from whites and blacks when her dad &amp; I were married. https://t.co/a4e1okRiz4
+"That can be said about anyone, regardless of skin tone. I'm sorry you feel that way. I judge people by character. https://t.co/v2nRxgFmWD"
+"Well, if you mean white people, that is unfair categorizing. Painting with a broad stroke. Not fair to or from any1 https://t.co/v2nRxgFmWD"
+"@CarmenCruz303 In Christ there is no gender, nor color. He died for everyone, to save everyone. There is no my people and your people."
+"Jesus taught me to love EVERYONE. Even you, who hates me because I'm white. Jesus saves. Hope you find Him. https://t.co/fbYaZgchFz"
+Hey! Gotta have your standards! *snickers* https://t.co/pnt6pMvTuq
+I am just sickened by how this ideology is infecting everything like a damned plague.  https://t.co/cckHRsNoRx
+"Yeah, I can't wait to see how this plays out. Only rumor at the moment, but I wouldn't be surprised at ALL if true. https://t.co/3uP4Wkw0HL"
+@GeezerRepublic https://t.co/iV23WOL58l
+"@innereal I kind of think it can't be true, I just can't imagine any woman would WILLINGLY....ugh, can't even finish that thought..."
+"Well, well, well, the plot thickens. Wonder what will develop from THIS tidbit? https://t.co/deGMl2zoTK"
+"Allah is Satan, all who worship him are Satan worshipers going to hell. Jesus is the way, the truth and the life. https://t.co/HHtqDlQLtV"
+Amen!! That's exactly right. https://t.co/Cyp6XOc8jH
+https://t.co/FmpjWtvzsw https://t.co/Ln3zrY4ACn Here you go smartass. https://t.co/qnAaFKtGJW
+"@EdwardAfogarty @tponews Exactly, he just wants position and power. Forgets that that comes with great responsibilty and caring for people."
+@cooney68 @tponews Cruz cares about Cruz. Doesn't give a rat's ass about anybody else. Contrast Trump who never stops telling us he loves us
+"Yeah, he's a real winner, huh? Can't believe the people that support him actually think he's a great guy. https://t.co/S2F2RWsyoe"
+That's because he and Heidi have dreams of world domination through their cult and NAU. https://t.co/k081fF0O6P
+"Zing! Another one bites the dust...hey, hey!"
+"BTW, Mormons are not Christians, FYI, so go follow your cult leader. Lmao https://t.co/ok0w2xiebi"
+"I refuse to read your Glenn Beck article because he's a cult fanatic losing his mind rolling in cheetos, good luck https://t.co/ok0w2xiebi"
+"No, insulted because you assume I am not intelligent. You are just a loud mouthed jerk who thinks bullying=superior https://t.co/ok0w2xiebi"
+"I will give like for like, though. So keep insulting me, I dare you. https://t.co/YEqGYa5QZe"
+"Nope, believe it or not, I can actually think for myself &amp; don't need to insult people to make myself feel superior https://t.co/YEqGYa5QZe"
+"And because you want to insult me, you are as much garbage as Glenn Beck. Bye now! https://t.co/VapyoK2hb9"
+"The fact that Glenn Beck wrote it is enough for me to never read it. He's a lunatic,I'm sorry you believe garbage https://t.co/VapyoK2hb9"
+"Yeah, Glen Beck, the nutcase that just rolled his face in Cheetos is the one to listen to. Bahahahaha! https://t.co/VCkuc8x9EV"
+Trump was never supposed to come this far. I don't give a rats ass about polls and peoples opinions. He will win. https://t.co/VCkuc8x9EV
+"Same thing Islam ""refugees"" are doing. https://t.co/uv1erAStSE"
+Or not.  https://t.co/tBmYUTIeBT
+"Pfffft, the people are choosing their man, and they are doing it in record numbers. Trump is going to win. https://t.co/Jhpy64gpxi"
+*snorts* That's the frickin' truth in a nutshell. https://t.co/hd8KVC8ycs
+"If they're offended/don't want to assimilate, get their asses out of your country. Tired of countries bowing to them https://t.co/OMkIzlrQyu"
+Woohoo! Go @realDonaldTrump !! https://t.co/CEn79jLfxi
+"Bahahaha! Good luck in Cali, you'll definitely need it! *crickets at Cruz rally* https://t.co/SQ7iZnpNcD"
+She's an idiot. https://t.co/DOGJ0V9xeV
+Will be awesome when it's at 100%. And don't ship them here! https://t.co/Uz8SlA5EzE
+The Cruz ship is sinking! Quick! Jump on the Trump Train! It's gaining steam... https://t.co/OZobyPUeCT
+"Yeah, funny how you never see hordes of people descending on Venezuela... https://t.co/GnfWn27FKT"
+People with a brain understand. The ones with their heads stuck up their own ass don't get it. Brains need oxygen... https://t.co/GcEiYAfw0H
+@cooney68 @resistanceparti *giggles*
+"What's good will be called evil, and what's evil will be called good... https://t.co/RvbvU3Gdzo"
+No different than the idiots saying illegals are Americans and belong here...*rolls eyes* https://t.co/ZVKfFxrqoS
+"You mean Doc. Yeah, but I guarantee Doc was much smarter and not living in a pot induced hippy land of free stuff. https://t.co/POPgHNarYC"
+And pick money from the money trees to give to people... https://t.co/5wJ8XLY00g
+"Lmao, maybe you and Bernie can chase butterflies together. :-P https://t.co/5wJ8XLY00g"
+And Kasich just doesn't understand that the only people who like or want him are the ones in his own state. https://t.co/s4jFN2cDb3
+"Hillary needs prison, Bernie needs to live in a flower field chasing butterflies,  https://t.co/s4jFN2cDb3"
+"Nobody's perfect, but from all of our choices, he is the best choice. Cruz wants world domination in his cult,  https://t.co/s4jFN2cDb3"
+"Because he does it from a loving heart, not for the praises of man. https://t.co/fswxnQPUZT"
+"If you ever did any research on Trump, you would see what a great humanitarian he has always been, but never brags https://t.co/fswxnQPUZT"
+I highly respect Trump and have 0 for Obama. https://t.co/fswxnQPUZT
+"But I DO like Trumps fire, much better than the pussy, bend over and take it, apologetic jerk we have now. https://t.co/fswxnQPUZT"
+"Trumps personality had nothing to do with it. The fact that he wants laws upheld, jobs and security for Americans. https://t.co/fswxnQPUZT"
+"Fact:if people followed Gods laws and principles, there'd be no need for laws. The fact that laws are made every day proves we need God BACK"
+"If you don't stand for something, you'll fall for anything. I stand on the word of God, I think and vote accordingly https://t.co/9qMWoAtwmp"
+"Nobody likes Ted, everybody hates Ted, he's gonna eat some worms, long ones, short ones, fat ones, skinny ones... https://t.co/1HCOI6qqC2"
+Why and how would I get in trouble? https://t.co/J2dHjWwade
+https://t.co/kz0JEgbtOq love this video... Hilarious
+Reminds me of Obama in Cuba... https://t.co/ea3KPH752T
+"@tedcruz for all your thumping of the Bible, do you actually read/believe it? Are you even saved? I don't think so https://t.co/HM6AzQFHwg"
+Then the people of California need to shut gov Brown down! https://t.co/mAMZFF6IDt

@@ -1,0 +1,146 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2888236774, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/536266310225633280/miRaQ14f.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/642785549804179456/RsLa5kHL_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/wnilhGGEIs"", ""indices"": [0, 23], ""expanded_url"": ""https://plus.google.com/u/0/115010180224220366690/posts"", ""display_url"": ""plus.google.com/u/0/1150101802\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1047, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2888236774"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HillaryClinton: Voters in CT, DE, MD, PA, and RI head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/2TRe1AEgiP"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725501016741814272, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [3, 18], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""724945973353562113"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/724945973353562113/photo/1"", ""display_url"": ""pic.twitter.com/2TRe1AEgiP"", ""url"": ""https://t.co/2TRe1AEgiP"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 724945973353562113, ""id_str"": ""724945757736996868"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 724945757736996868, ""media_url"": ""http://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2482, ""id_str"": ""725501016741814272"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Voters in CT, DE, MD, PA, and RI head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/2TRe1AEgiP"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 724945973353562113, ""favorite_count"": 4357, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/724945973353562113/photo/1"", ""display_url"": ""pic.twitter.com/2TRe1AEgiP"", ""url"": ""https://t.co/2TRe1AEgiP"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg"", ""id_str"": ""724945757736996868"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [96, 119], ""type"": ""photo"", ""id"": 724945757736996868, ""media_url"": ""http://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2482, ""id_str"": ""724945973353562113"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue Apr 26 12:59:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/724945973353562113/photo/1"", ""display_url"": ""pic.twitter.com/2TRe1AEgiP"", ""url"": ""https://t.co/2TRe1AEgiP"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg"", ""id_str"": ""724945757736996868"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [96, 119], ""type"": ""photo"", ""id"": 724945757736996868, ""media_url"": ""http://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 28 01:44:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""724945973353562113"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/724945973353562113/photo/1"", ""display_url"": ""pic.twitter.com/2TRe1AEgiP"", ""url"": ""https://t.co/2TRe1AEgiP"", ""media_url_https"": ""https://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 724945973353562113, ""id_str"": ""724945757736996868"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 724945757736996868, ""media_url"": ""http://pbs.twimg.com/media/Cg-GU2NXEAQpRdz.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 301, ""description"": ""Winnie Chawira is the Producer & Host for Omaha Reggae Vibes. 1st Reggae Music Videos show in Midwest USA. Every Thursday at 8pm Central- KPAO TV Channel 22 Cox"", ""friends_count"": 106, ""location"": ""Omaha Nebraska"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/642785549804179456/RsLa5kHL_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2888236774/1416690875"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/536266310225633280/miRaQ14f.jpeg"", ""name"": ""Omaha Reggae Vibes"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 83, ""screen_name"": ""omahareggaevibe"", ""notifications"": false, ""url"": ""https://t.co/wnilhGGEIs"", ""created_at"": ""Sat Nov 22 19:33:32 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+July 23rd will be great- @PacersYELLowMan  @reggae @TeamReggaeMusic @OmahaNghtOutGde @OmahaToday @ https://t.co/Frfix3FiUD
+Reggaemusic @yellowman- Omaha Reggae &amp; World Music Festival https://t.co/XfzvqI3PJf via @YouTube
+I liked a @YouTube video from @omahareggaevibe https://t.co/FTZcx9JNsy Omaha Reggae &amp; World Music Festival
+Omaha Reggae &amp; World Music Festival: https://t.co/FTZcx9JNsy via @YouTube
+I liked a @YouTube video from @kingofaccra https://t.co/ejlTDwEkYg King Of Accra - Di Vybez (RISE UP RIDDIM) OFFICIAL RAW VIDEO
+Tanya Stephens and Warrior King Live in Omaha- Plus Interview: https://t.co/t5GhN4fLqr via @YouTube
+Tanya Stephens and Warrior King in Omaha @the_viralvideos @ViralVideosCle ...https://t.co/carVPT4p5G
+I liked a @YouTube video from @marksmagic10 https://t.co/wjVODdiZA6 Warrior King Omaha with Winnie Chawira
+I liked a @YouTube video from @omahareggaevibe https://t.co/pWTa0g5JGA Wrrior King Interview Omaha Reggae Vibes
+Warrior King Interview Omaha Reggae Vibes https://t.co/IIGRR6FpnT via @YouTube
+Wrrior King Interview Omaha Reggae Vibes https://t.co/IIGRR6FpnT via @YouTube
+Wrrior King Interview Omaha Reggae Vibes: https://t.co/pWTa0g5JGA via @YouTube
+RIP @jimmyrileyja - Sending Prayers to bredren @tarrusrileyja ....Jah will get you through.
+March 25th Tanya @Tanya_Stephens  in Omaha . Do Not Miss.https://t.co/NiqKdYHTki @OmahaNghtOutGde @OmahaToday @Reggae
+@CNNPolitics - Because this woman truly did not remember who President Obama is?So shameful.
+"@CNNPolitics . Did your report just say ""Hilary Clinton ran all the way against that guy? what do you call him?""- for real-4:25 am central"
+"#SuperTuesday - Go &amp; vote knowing that you will be proud of who you are voting for as he/she might the President- No racists, No Clowns"
+Voters- please vote wisely and for what you believe in 😊😊😊😊@SuperTuesday
+@realDonaldTrump and what did you accomplish for them ? Only Racist Americans support you coz you are their voice to bring back racism
+@realDonaldTrump better he bought with lobbyist money that you claim to find your campaign and then you write it off taxes-screwing America
+"@BillyT_202 - maybe Trump suffers from affluenza😀😀😀😀😀-that is why he acts like a spoiled brat, and bullies people coz he does not know lol"
+"@marcorubio , @SenTedCruz-Ask Trump who will be running his Empire if he was President? Funding his race we know he will write it off taxes"
+@BillyT_202 @BackOnTrackUSA @realDonaldTrump @HillaryClinton ask Trump at your next Rally- who will run his Empire if he was President?
+@BillyT_202 @BackOnTrackUSA @realDonaldTrump-so he is not funding himself- he is just screwing over IRS &amp; will make USA better- how again?
+@BillyT_202 @BackOnTrackUSA @realDonaldTrump @HillaryClinton  ~trump funds his race- of course coz he will write it off his taxes as loss
+@BillyT_202 @BackOnTrackUSA @realDonaldTrump @HillaryClinton - @backontrack thinks Trump will get is his pocket to give America money- not
+@BackOnTrackUSA @realDonaldTrump hustling does not equate good presidency . Trump is a hustler
+@BackOnTrackUSA @realDonaldTrump- who got screwed when he filed for bankruptcy ? Btw was his wife legal when they met? Just wondering too
+@BackOnTrackUSA @realDonaldTrump I grew up with successful business people who are not shady like Trump-
+@BackOnTrackUSA @realDonaldTrump - many think same as you - did he file bankruptcy ? How many times? And he is a good businessman - please
+@BackOnTrackUSA @realDonaldTrump businessmen- not President material. Did you hear why he has illegal workers in Palm Beach- coz it hot-lame
+@BackOnTrackUSA @realDonaldTrump no normal person will vote for trump and I have a name for all those who do ~ tunnel vision need education
+@BackOnTrackUSA @realDonaldTrump -with Trump you see the light at the end of the tunnel - but you will get a rude awakening- will revisit
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton - yes all lives matter - unfortunately America you promote is to wipe out black people
+@BackOnTrackUSA @realDonaldTrump - Birds of a feather flock together and sorry to break the news- Trump will never be PResident.
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton no one wants to live in Palm Beach coz it is hot? What is the population of Palm Beach ?
+"@BackOnTrackUSA @realDonaldTrump @HillaryClinton - tell me exactly what Trump
+Will do for America - he hires illegals and claim coz its hot"
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton - I am independent and will vote for Clinton or Rubio not Trump
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton- am not a Racist- but you are . You support a racist coz he can  openly be your voice
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton Birds of a feather flock together - many are happy coz he can voice his racism for you all
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton he has no respect for women and bullies people- If bullying is a way to WH - good luck
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton make stuff up like what- only a racist can not see that trump is a racist- coz it is normal
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton - but you rather vote for a racist so he  brings back slavery and segregation- racist trump
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton . He had an affair and how many men cheat on their wives? Please give me a break
+@BackOnTrackUSA @realDonaldTrump @HillaryClinton ok  guess what Trump need to release his psych records - you will see he is psycho😀😀😀😀
+@realDonaldTrump  no way- as a matter of fact you will not make America safe coz bullying is not good on international Policy
+@realDonaldTrump of coz - Alabama is also full of racists that is why they came to support you . No way - bring back slavery = Donald Trump
+@FoxNews @tdbmd @megynkelly Fox News is so Pro Republican &amp; so one sided that it is sickening. If I could just cancel that channel on cable
+Day 2 post op-?i feel great😃😃😃
+I liked a @YouTube video from @omahareggaevibe https://t.co/uM9q9EvQ2U Tichaona Ekhaya Promo
+Tichaona Ekhaya Promo: https://t.co/uM9q9EvQ2U via @YouTube
+I liked a @YouTube video from @omahareggaevibe https://t.co/XpNp23DIqw Weekly- Reggae Hot Topics
+Weekly- Reggae Hot Topics: https://t.co/XpNp23DIqw via @YouTube
+Subscribe to Omaha Reggae Vibes- and Never miss another Episode https://t.co/irGL6bcGVc
+I liked a @YouTube video from @omahareggaevibe https://t.co/irGL6bcGVc Omaha Reggae Vibes with Guest /Reggae Artist Tichaona Ekhaya-
+@MaestroMarley - please have manager link up - for USA gig. Bless
+July 23-coming to Omaha is the best Reggae Festival-Line Up Coming soon...@OmahaNghtOutGde .https://t.co/Ejtfm5s5nV
+I liked a @YouTube video from @omahareggaevibe https://t.co/7sUX09dnRi Reggae Hot Topics- Fabian Marley Is Not Bob Marley's son
+Subscribe for free for updates and join our google plus fan page to and watch all aired shows https://t.co/7sUX09dnRi
+"Gym- healthy eating , and sleep is order of 2016😀😀😀😀😀"
+Know the Roots..@SkaMusicRoom .https://t.co/fmCSqBCV4u
+"sad- 1 person killed,  in crash near 120th, Miami; traffic lanes closed by police | Local News - KETV Home https://t.co/cOJiiT6flU via @ketv"
+? book 2 Artists on the same day &amp; book 2 big shows on same night - was this promotional stunt?@HeraldZimbabwe https://t.co/zmo17i1Kd2
+@Morganheritage @NewsDayZimbabwe @ZBCNewsonline -very soon it will happen and Royal family will bless motherland😊👍 https://t.co/subznE6Oca
+Shows coming up in January- will be exploring the Grammy Nominees for the Best Regge Album- priceless working on these shows- I can not wait
+Best in Ska @Skamusic Monty Montgomery Neysmith - Exclusive Interview on Omaha Reggae Vibes 1 https://t.co/N8phwh58j5 via @YouTube
+CatchAFireTour- Kansas Settings-Priceless going Around to get Autographs for him-but I forgot to ask him his name😀😀😀 https://t.co/ReJ8ydAbsR
+Interviews can be tricky- never admit infidelity in front of the camera unless your spouse already knows. Lord help my bredren to be carefil
+gym was amazing this morning and now ready for some work..
+Congrats @morganheritage for Grammy Nomination- you deserve it 100%
+Love Alpha Blondy and I do not even know the meaning of some of the songs - 😀😀⚡️⚡️⚡️⚡️
+@hitch104 @mojomorgan  lol Nyasha- they will be there- you are going to get a show of a lifetime :)
+@stephenmarley wicked
+About this Saturday- best reggae in town-@OmahaToday @OmahaNghtOutGde @LincolnCenter https://t.co/WX6SjHj2lx
+Love is a beautiful thing - peace of mind is one of the top blessing some can ever ask for and having both is priceless 😍😍😍😍🌹
+Exercise with my better half is always great
+See Africans in Reggae- https://t.co/OmRcOL4BDN
+This daily routine is getting more fun...24 hour fitness
+@ Song of the day ....@Busy Signal song -One More Night 😊😊😊😊
+Enjoying @JamaicasVoice Buju Banton's vocals right now 😊😊😊😊😊
+Gym was tough this morning and personal trainer kicks ass.... Muscles are sore- but hey pain means good😀#gym
+Speedy recovery Mr Levy.... BARRINGTON LEVY HOSPITALIZED! - http://t.co/GxZN9gk81f via @Shareaholic
+"2015  @UB40OFFICIAL , @damianmarley @stephenmarley @9MileMusicFest @torontoreggae festival @RealBlackUhuru @tarrusrileyja @morganheritage ++"
+@CptKirkeMWHS  great vibes always- thanks...
+Thank you Kansas for hosting @UB40OFFICIAL - my favorite band of all time- watched their VHS every weekend as a kid- dreams come true
+@UB40OFFICIAL @WeAreUB40 - Ali Campbell still has the wickedest vocals- like wine gets better with age-Astro amazing- thanks guys for show
+@UB40OFFICIAL http://t.co/6tvwwreoB5
+Yes we made it @UB40OFFICIAL @WeAreUB40 . Representing Zimbabwe http://t.co/k1DXBTouzg
+@soomeren @KCMO @WeAreUB40 yes just took some- now relaxing in their Ink Lounge - few drinks and yes I will share- been a fan for long
+@soomeren @KCMO @WeAreUB40 @UB40OFFICIAL we are ready - yes and we see more of our home town people here
+Kansas City Settings - waiting for meet and greet with UB40...@UB40OFFICIAL @omahareggaevibe @KCMO
+Masterpiece @StephenMarley @Akon @BujuBanton http://t.co/YBGxweemay via @youtube
+@WeAreUB40 we are in Kansas today- VIP set- traveling 4 hours to this event#UB40 USA Tour
+Just updated my website using http://t.co/N1DpfU51So website builder. Check it out http://t.co/Num2fi6FLV
+@9MileMusicFest  Looking forward- VIP this year was great coz of real bathrooms- do you have same at the Virginia key beach Park? Bless
+@9milemusicfestival - Miami was special - we will represent Zimbabwe next year-flying the Zimbabwe Flag Sky high... http://t.co/4HEbI7PFrw
+Just updated my website using http://t.co/N1DpfU51So website builder. Check it out http://t.co/goFBTGKCBZ
+"RSVP- best Reggae Concert in Omaha- November 14th, 2015 #chakademusandpliers- @Reggae..https://t.co/0HEdIX4bH3"
+@WeAreUB40 @UB40OFFICIAL -Kansas USA- we are ready September 22...
+Big Up @TarrusRiley for acknowledging 9/11 - Peter Tosh @ KC Catch-A-Fire-Tour....Respect to brother Singy Singy...
+No friend on Mine- deep song from darealjahcure.....@reggae😊
+@RealBlackUhuru tonight- am ready for the vibes tonight...
+I got him most of his Autographs from the Reggae Brothers- It was priceless to watch him- I forgot to ask his name http://t.co/zX8sCXmOFO
+"Next Generation Reggae-@iamjemere , @JoMersaMarley , @SkipMarley , @RealRomainVirgo , @Iamchrismartin, @IAmChronixx https://t.co/M3BgKVUVzo"
+@BlackUhuru Lincoln tomorrow - massive- the reggae legends will be here and I am so there- interview - check- and it is such a blessing
+Next Generation Reggae- Do Not Miss...https://t.co/WLEoAoAThx
+You made his birthday special- priceless- @morganheritage @stephenmarley @JoMersaMarley @damianmarley @BlackAmI1 http://t.co/uKiwgd3ut5
+Mission Accomplished- It was his 28th birthday- drove 6 hours to come to concert- needed Autographs -we got them http://t.co/CEyrMxfkSt
+Amazing Concert-....@morganheritage  @stephenmarley @damianmarley @tarrusrileyja @JoMersaMarley @iamjemere @BlackAmI1 @SkipMarley
+@BlackAmI1 rocked ...@JoMersaMarley on ... Blazing hot
+@morganheritage @tarrusrileyja  rocked. Now  waiting @stephenmarley and @damianmarley ... KC we say
+"We are here- CatchAfiretour-😊☺️☺️nextgeneration @iamjemere will be rocking, @JoMersaMarley @morganheritage - can not wait for great vibes😀"
+Am Ready for another Omaha Great show and looking forward to reason with the Reggae Legends😊😊😊😊😊Chaka Demus &amp; Pliers http://t.co/F5br9seJmp
+Just like wine- they get better- Love them- did I say I love them? yes I do love their music-blessed brothers http://t.co/3wukfyOyAo
+@torontoreggae @dnlyko @BeresHammondOJ @RealMarciaG  this was my highlight of the festival-it was nice to see them perform together- loved
+https://t.co/BgtmMKSooH- TryJahLove by Jemere Morgan- KC playlist set- 5hours of music- breeze through the drive-
+"September 11, 2001-14 years ago USA was changed- please honor @morganheritage @damianmarley @stephenmarley @tarrusrileyja -Kansas Blessings-"
+#CatchAFireTour -we invade Kansas &amp; teach them how we Party in Zimbabwe-My sweetheart not going- but will keep him to heart always. settings
+they know how to party in Toronto...https://t.co/0JUcRgRYlL
+@Richard Soko- Massachusetts massive- attending CatchAfiretour- say hi to music -enjoy your evening to the fullest and fill me in tomorrow
+My work cut out for me- Interview with Black Uhuru- September 15th in Lincoln NE- I will be there- Omaha Reggae Vibes...
+UB40 will be in Kansas September 22... Do Not Miss...
+Never again shop at Bag N Save 108 and Maple they sell expired food always- gross #yogurt http://t.co/KtvBbFBBvE
+Catch A fire- September 11 and then UB40 September 22- Kansas Rocks😀😀😀Winnie and Ebony will be representing Omaha to the fullest😀😀😀😀
+"Know your worth...,Sunday tidbit😊😊😊😊😊😊"
+Yeah right here in Toronto- ORV we say. #Toronto Reggae Festival...
+@morganheritage  Toronto Reggae Festival this weekend ?
+@MaxiPriest hope you perform at the Toronto Reggae Festival this weekend.
+Counting down Toronto Reggae Festival😀😀😀😀😀
+Count down to Toronto Reggae Festival 😊
+Love is a beautiful thing..Love people the way you love yourself #love
+@reggaemovement - see who is on tour https://t.co/oZ5Q6Zk4Hh
+Let's honour #CecilTheLion by calling on US &amp; EU leaders to urgently protect the rest of the world's lions. Sign&amp;RT: https://t.co/HgwMFSk8kg
+@grampsfarms  will spread the word ... Looking forward to buying them.
+Be first to watch Omaha Reggae Vibes show - just a click away...https://t.co/oZ5Q6Zk4Hh
+@grampsfarms -spices ? If so we can spread the word.
+Toronto Reggae Festival say they have a surprise Artist- my dream might come true if it is @MaxiPriest. I will be jumping up &amp; down if it is
+Everytime I watch him- i get hungry https://t.co/3gas3zC097
+7K + Views today- Many are waiting for Righteous Music -#morganheritage #tarrusrileyja #Dubtonickru On Tour-Checkout https://t.co/aPPasVAU40
+"Damian Marley, Morgan Heritage, Stephen Marley, Tarrus Riley- 9/11/2015- Massive in Kansas City USA...Carpool- My car is full, Do Not Miss"
+@StayDockis  great works always from Jesse Royal....
+@dj_marijuanna ... Love Avocado and the video makes me hungry each time.... Nice Avocados
+@imaginariums @mojomorgan love this song-wicked- starts with high note👍
+@DaveWestDJ @mojomorgan @morganheritage  love this song

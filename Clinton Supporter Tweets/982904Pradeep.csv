@@ -1,0 +1,69 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2292930236, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/712691318296694784/YXJEUXvu_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 198, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2292930236"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 13, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @ArunbajpaiRajan: \u0906\u0915\u093e\u0936- \u0935\u093f\u092e\u093e\u0928 \u092e\u0947,\n\u0927\u0930\u0924\u0940- 2 G,3 G, \u091c\u0940\u091c\u093e\u091c\u0940 \u0914\u0930 \u0905\u0928\u094d\u092f,\n\u092a\u093e\u0924\u093e\u0932- \u0915\u094b\u092f\u0932\u093e \u092e\u0947,\n@INCIndia \u0928\u0947 \u0924\u0940\u0928\u094b\u0902 \u0932\u094b\u0915\u094b\u0902 \u092e\u0947 \u0918\u094b\u091f\u093e\u0932\u0947 \u0914\u0930 \u092d\u094d\u0930\u0937\u094d\u091f\u093e\u091a\u093e\u0930 \u0915\u093e \u0905\u092a\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727109193719672833, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1525187353, ""indices"": [3, 19], ""id_str"": ""1525187353"", ""screen_name"": ""ArunbajpaiRajan"", ""name"": ""\u0964\u0964\u0930\u093e\u091c\u0928\u0964\u0964 #\u0935\u0902\u0926\u0947\u092e\u093e\u0924\u0930\u092e""}, {""id"": 1153045459, ""indices"": [85, 94], ""id_str"": ""1153045459"", ""screen_name"": ""INCIndia"", ""name"": ""INC India""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 28, ""id_str"": ""727109193719672833"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""\u0906\u0915\u093e\u0936- \u0935\u093f\u092e\u093e\u0928 \u092e\u0947,\n\u0927\u0930\u0924\u0940- 2 G,3 G, \u091c\u0940\u091c\u093e\u091c\u0940 \u0914\u0930 \u0905\u0928\u094d\u092f,\n\u092a\u093e\u0924\u093e\u0932- \u0915\u094b\u092f\u0932\u093e \u092e\u0947,\n@INCIndia \u0928\u0947 \u0924\u0940\u0928\u094b\u0902 \u0932\u094b\u0915\u094b\u0902 \u092e\u0947 \u0918\u094b\u091f\u093e\u0932\u0947 \u0914\u0930 \u092d\u094d\u0930\u0937\u094d\u091f\u093e\u091a\u093e\u0930 \u0915\u093e \u0905\u092a\u0928\u093e \u091d\u0923\u094d\u0921\u093e \u092c\u0941\u0932\u0902\u0926 \u0915\u093f\u092f\u093e \u0939\u0948"", ""is_quote_status"": false, ""in_reply_to_status_id"": 726146084469239809, ""id"": 726470466437697536, ""favorite_count"": 17, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1153045459, ""indices"": [64, 73], ""id_str"": ""1153045459"", ""screen_name"": ""INCIndia"", ""name"": ""INC India""}], ""hashtags"": [], ""urls"": []}, ""in_reply_to_screen_name"": ""ArunbajpaiRajan"", ""in_reply_to_user_id"": 1525187353, ""retweet_count"": 28, ""id_str"": ""726470466437697536"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1525187353"", ""lang"": ""hi"", ""created_at"": ""Sat Apr 30 17:57:11 +0000 2016"", ""in_reply_to_status_id_str"": ""726146084469239809"", ""place"": {""full_name"": ""New Delhi, India"", ""url"": ""https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json"", ""country"": ""\u092d\u093e\u0930\u0924"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[76.84252, 28.397657], [77.347652, 28.397657], [77.347652, 28.879322], [76.84252, 28.879322]]]}, ""contained_within"": [], ""country_code"": ""IN"", ""attributes"": {}, ""id"": ""317fcc4b21a604d5"", ""name"": ""New Delhi""}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""hi"", ""created_at"": ""Mon May 02 12:15:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1529, ""description"": ""Ex-District General Secretary of BJP from Bhilwara, Rajasthan | Businessman| Social Activist| Ex-Journalist | Experience in end to end management of Elections"", ""friends_count"": 242, ""location"": ""Bhilwara, Rajasthan INDIA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/712691318296694784/YXJEUXvu_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2292930236/1458753826"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""PS"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 6103, ""screen_name"": ""982904Pradeep"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Jan 15 16:10:34 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@BrijwasiShaan @SANTOSH_PATEL23 hahahaha
+@sureshpprabhu Jai Ho prabhu
+@Nitu850 @ArunbajpaiRajan kya khoobsurat kaha hai.! Really heart touching.
+@sydney_sider miracle
+@Sudan_Suman_Kr @AnjuNagarajan sahi kaha
+"@ArunbajpaiRajan @AnjuNagarajan Baba roji, roti ka sawal hai....😀😀"
+Today is death anniversary of legendary film maker Satyajit Ray https://t.co/KaUTce1XSx
+@dineshjoshi70 @TandonRaveena miracle
+@abhaymathur8 welcome dear..!
+@SPChaturvedi2 welcome sir
+@DrmAjmer congrats sir
+महावीर के सिद्धांत आज भी प्रासंगिक है... महावीर जयंती पर सभी को बधाई..। https://t.co/sgOT59H7WY
+@RailMinIndia @Indianrlyinfo very true in last 16 years 10 time railway supplied water for citizen of Bhilwara by water train.
+@RinkyHeer @Jhalli_AS मिलती है ज़िन्दगी मे मुहब्बत कभी कभी.. मिलती तो है पर हॉ सभी को नही .... #तुमसे_यही-कहना है
+@rsprasad agree with you sir.
+@TheHindu congrats Deepa.!!!! Proud on you.
+Dipa Karmakar becomes first Indian gymnast to qualify for Rio Olympics!! Congrats ....!
+@brightzilian good morning https://t.co/TgEbloiTMH
+Mix - Tum Dil Ki Dhadkan Mein - Dhadkan - Abhijeet &amp; Alka Yagnik [HD] https://t.co/X86Wplindc
+@HillaryClinton all the best for presidential election USA.
+@Tarunvijay plz order what type of help we can provide to his family.
+@billclinton  good luck sir I am Pradeep from India.
+@SiemajaSueLane do you not know English...
+@sudhirchaudhary अम्बेडकर जी से कॉंग्रेस के तत्कालीन (आज़ादी के वक़्त ) नेता घृणा करते  थे। #DecodingAmbedkar
+"@sudhirchaudhary #DecodingAmbedkar कोंग्रेस सरकार में श्री श्यामा प्रसाद मुखर्जी व डा भीमराव अम्बेडकर, नेहरू के विरोध के बावजूद सरकार मे थे।"
+@AnupamPkher congrats sir.... One is your well wishers.
+@lumesolarenergy good
+@gauravbackinact nice advertisements... Beautiful
+@JoshieSanjay welcome Pradeep Sankhla Bhilwara
+@SapphireLV @ShawnaLeneeShow super pic
+@brightzilian good morning
+@ZetSelena rising sun..🌞 https://t.co/h7gFrsX0tu
+@brightzilian rising sun.. https://t.co/zXUi36RTQT
+@MehtaSamudra welcome Pradeep Sankhla
+@DrmAjmer sir plz Ajmer Bandra ko daily karwaye. Bhilwara ke log bahut pareshan hai.ajmer Udaipur Chittor ko daily MUMBIA ke liye train hai.
+@DrmAjmer congrats sir
+"@CafeCoffeeDay गरमी का करे नाश,ताज़गी और ठंड का अहसास"
+@brightzilian #Awesome
+@brightzilian ####a part of desert in India
+@brightzilian #camel riding in desert of a part of INDIA. https://t.co/yaAx2JKwMo
+Beautiful yesterday  evening...! https://t.co/oxC8on2xv5
+"पत्रकार-वर्ल्डकप के लिए आप क्या तैयारी कर रहे हो ?
+धोनी- हम बस इस बात का ध्यान रख रहे है .
+कुछ भी हो.
+विराट💔अनुष्का"" का राजीनामा ना होने पाए"
+"युवराज जाते हुए धोनी को बता गया
+
+कोहली के कान में बार बार
+
+अनुष्का 
+
+कहते रहना।
+
+😛😛😛😛"
+"शर्मा, धवन और रैना के आउट होने के बाद ही तो मैच शुरू होता है
+.
+.
+ये तीनों तो सिर्फ भूमिपूजन करने आते है 🙏😄😄 😄 😆"
+"Anushka ko sochane par majboor hona hoga, 4K 6k lagane wala kaha milega...👰 https://t.co/etXX1Q98oQ"
+India won the match. KOHALI KI GOLI 💥💥💥dhamake Se chali.... Australia ki leli Bali ... Great player KOHALI . Enjoy INDIA.👯👯💃💃💃
+@brightzilian #accept my wishes.
+@ErinPassons #are wah mug me pani aa Gaya ji...
+Happy holy to all my tweeter frndz ... https://t.co/iYiaKDWDin
+Happy birthday sister smriti ji Irani  https://t.co/X9LnLvU8CU
+@priyankac19 आप कोंग्रेस पार्टी के लोगों को भी नेहरू ख़ानदान ओर अभी सोनिया जी व राहुल में भगवान दिखाई देते है..।
+@TwitterIndia congrats as you has completed 10 years of success. Wishing you a bright future ahead.
+@ricnewdelhi @ResurgentRaj @VasundharaBJP @DIPRRajasthan @GopendraBhatt दीदी बधाई।
+@dna जोड़ी थी ही जानदार.. हक़ था इस जोड़ी का... बधाई ।

@@ -1,0 +1,137 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""7D7D7D"", ""default_profile_image"": false, ""id"": 19082435, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/204117522/x2ca5b39b172689b6faf6f95a3db2889.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/573885310330777600/xFDp9AL9_normal.jpeg"", ""profile_sidebar_fill_color"": ""262626"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 88, ""profile_sidebar_border_color"": ""4D4A33"", ""id_str"": ""19082435"", ""profile_background_color"": ""091304"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @whybitsh: when you say something uncharacteristically smart for you. #WynonaEarp https://t.co/gaGrXGcjzO"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726097198400724998, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 553225802, ""indices"": [3, 12], ""id_str"": ""553225802"", ""screen_name"": ""whybitsh"", ""name"": ""I am a mystery""}], ""hashtags"": [{""indices"": [73, 84], ""text"": ""WynonaEarp""}], ""urls"": [], ""media"": [{""source_user_id"": 553225802, ""source_status_id_str"": ""723849899238932480"", ""expanded_url"": ""http://twitter.com/whybitsh/status/723849899238932480/photo/1"", ""display_url"": ""pic.twitter.com/gaGrXGcjzO"", ""url"": ""https://t.co/gaGrXGcjzO"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg"", ""source_user_id_str"": ""553225802"", ""source_status_id"": 723849899238932480, ""id_str"": ""723849849251237888"", ""sizes"": {""large"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [85, 108], ""type"": ""photo"", ""id"": 723849849251237888, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 66, ""id_str"": ""726097198400724998"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""when you say something uncharacteristically smart for you. #WynonaEarp https://t.co/gaGrXGcjzO"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 723849899238932480, ""favorite_count"": 49, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [59, 70], ""text"": ""WynonaEarp""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/whybitsh/status/723849899238932480/photo/1"", ""display_url"": ""pic.twitter.com/gaGrXGcjzO"", ""url"": ""https://t.co/gaGrXGcjzO"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg"", ""id_str"": ""723849849251237888"", ""sizes"": {""large"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [71, 94], ""type"": ""photo"", ""id"": 723849849251237888, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 66, ""id_str"": ""723849899238932480"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 23 12:23:59 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/whybitsh/status/723849899238932480/photo/1"", ""display_url"": ""pic.twitter.com/gaGrXGcjzO"", ""url"": ""https://t.co/gaGrXGcjzO"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg"", ""video_info"": {""aspect_ratio"": [25, 14], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Cguhmk9XEAAg8CI.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""723849849251237888"", ""sizes"": {""large"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [71, 94], ""type"": ""animated_gif"", ""id"": 723849849251237888, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Apr 29 17:13:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 553225802, ""source_status_id_str"": ""723849899238932480"", ""expanded_url"": ""http://twitter.com/whybitsh/status/723849899238932480/photo/1"", ""display_url"": ""pic.twitter.com/gaGrXGcjzO"", ""url"": ""https://t.co/gaGrXGcjzO"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg"", ""source_user_id_str"": ""553225802"", ""source_status_id"": 723849899238932480, ""video_info"": {""aspect_ratio"": [25, 14], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Cguhmk9XEAAg8CI.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""723849849251237888"", ""sizes"": {""large"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 224, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [85, 108], ""type"": ""animated_gif"", ""id"": 723849849251237888, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Cguhmk9XEAAg8CI.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 157, ""description"": ""I've been married 25 years, I'm a Patriot, I love my Country! I love doing anything outdoors, being in the woods, on the river or a lake."", ""friends_count"": 187, ""location"": ""North Carolina"", ""profile_link_color"": ""696545"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/573885310330777600/xFDp9AL9_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/19082435/1426950823"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/204117522/x2ca5b39b172689b6faf6f95a3db2889.jpg"", ""name"": ""Brian Headley"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 114, ""screen_name"": ""hoosierkid63"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Jan 16 20:02:28 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@WynonnaEarp it so looks like it all the time, I hope Wynonna falls in love with anyone except her sheriff partner..."
+"@WynonnaEarp coming on in one hour, I'm all a jitter.  I can't wait for the next show!"
+@TPPatriots @DailySignal Obama is a loser. #keepthecoalburning.
+"@WynonnaEarp I won't miss a show, it ROCKS!"
+@WynonnaEarp @Syfy this is an Awesome show!
+@GOPLADYAMY that's amazing...
+"#PantherNation, The Panthers are going to kick Bronco butts from one end of the field to other.  #LetsHearItPanthers
+https://t.co/HXo1cZaHQn"
+"Took my trash down to the road, then remembered it was the wrong day, so back up to the house.....Grrrrrrrr!"
+@marianneboyle10 Beautiful belly button!  &lt;3
+"@WWE @TripleH @VinceMcMahon @StephMcMahon well you hit an all time low,  what? You couldn't give the belt to a wrestler who deserved it"
+"The weather man says a chance of snow today, now it's a ice storm tomorrow. I want snow not ice!  #crappyweather"
+@RealBenCarson #rest in peace Braden...
+@WWE # this show sucks so far!
+"Good Monday morning, it's in the 20's here to start the week. I hope you all have a great week! Please stay safe and keep your powder dry!"
+"Let's go Royals, finish it tonight!"
+Kicking back and watching some wrestling tonight! #kickingback
+@heatherfoxnews @foxandfriends I believe it's very disrespecful.  If you want your kids climbing around take them to a jungle gym!
+@KatherynWinnick I never miss!  #Vikings
+@abuckaroogirl as long as there's folks like Jessie Jackson it won't stop. #Fergusonriots...
+"@KatherynWinnick it was fantastic, each show flies by to fast!"
+"Had a great day here, 74 degrees I believe spring is almost here.  #warmweather"
+"Good morning everyone, it's a cold wet morning here..."
+@thecrossedaxes Hello DBH are there any members in North Carolina USA?  I'm interested in helping.
+You released more than 1 GB of RAMand won the mach-1 super rocket! https://t.co/zKpLGMDOak
+IMPEACH OBAMA - Sign the petition http://t.co/TvDAMUDE8P via @po_st
+You released more than 1 GB of RAMand won the mach-1 super rocket! https://t.co/zKpLGMDOak
+Use the magic broomto start cleaning junk https://t.co/zKpLGMDOak
+Get ready to raid with an all new episode of #Vikings THURSDAY at 10/9c! http://t.co/MnxfIWieKh
+This week's Most Valuable Viking is Ragnar! http://t.co/OxFXdSs9ck #Vikings http://t.co/MnxfIWieKh
+@HistoryVikings I'm ready to raid this week! #Vikings http://t.co/MnxfIWieKh
+#Vikings http://t.co/MnxfIWieKh  I'm so ready for this Thursdays #Vikings
+Join me for a new episode of #Vikings on 3/6 at 10/9c on @HISTORY! http://t.co/MnxfIWieKh
+This week's Most Valuable Viking is Ragnar! http://t.co/OxFXdSs9ck #Vikings http://t.co/MnxfIWieKh
+#SmackDown Shamus is number one!
+Been waiting months and now in a couple of hours Vikings is back!  :-)
+Boost your RAMwith the super rocket https://t.co/zKpLGMDOak
+"Laying here watching Big Bang, waiting on sleep to take over..."
+Swinging - http://t.co/arraDEchlw
+"#LongIslandMedium my wife and I love your show and I would love to know if my grandma is ok, I miss here so much!"
+"@DistortedSmile stopping by to say Hey, hope your doing all right  :-) do you use tumblr?"
+@WWE @TripleH @StephMcMahon @USA_Network So tired of this story line being bad a@@ owners. Get over it and go back to normal!
+Share content to power up and relive the Revolution. Own Season 1 on Blu-ray™ Combo Pack &amp; DVD Today. https://t.co/aBlUOaWFAO
+"Unlocked the ""Newbie"" badge! http://t.co/zRh1NTxT0j http://t.co/ifEzwPNU9f"
+how alive do you feel today?   … http://t.co/MWrPSXNJzS
+"@DistortedSmile that's interesting, never dreamed food would be higher but we're catching up thanks to obummer! And gas here is $3.58"
+@DistortedSmile or a chicken truck ...LOL  Are things a lot different between there and here?   As in everyday living.
+"@DistortedSmile that's my favorite of fall, leaves changing! that's crazy fall here spring there. You'll have Christmas in summer.  LOL"
+"@DistortedSmile I'm doing well on this side, getting ready for fall can't wait. How is it over there?"
+"@DistortedSmile Tara! I'm so glad that you found me. so awesome, just when I was missing your smiling face!"
+What's wrong with this calendar? http://t.co/tH4rTYB3Cb
+#instaweatherpro app http://t.co/5fEH7Ca5DW #weather now in #Charlotte #wx http://t.co/Atnilc5ykB
+#instaweatherpro app http://t.co/5fEH7Ca5DW #weather now in #Charlotte #wx http://t.co/ErZ1rLY3Lz
+"Happy 4th of July everyone, I hope you all  have a great time!"
+"@lockdoc1 so to bother you but is this show still on or has it been taken off air for good?  I had never heard of it before today, Loved it!"
+Brian was looking around in a Livestock Pen and found some extra Animal Feed! Grab some before it's gone! https://t.co/FWEw9WQmdb #farmville
+I just Became a Legend with @HistoryVikings.Visit http://t.co/6yoesN3Ap0 presented by @GEICO http://t.co/yJbs0tiVrN #Vikings
+@WWEUniverse Daniels beard
+@WWE hope he is a better wrestler then he was a President!  ;-)
+@gailbuckley cool!
+"@WWERollins goes global, good, keep going and don't come back!"
+@KrisWilliams81 where are you headed too?
+Should impeachment proceedings start against President Obama http://t.co/uuvFSTdu via @causes
+@foxandfriends where is this video? I've been looking and can't find it!
+"@BethMooreLPM your so Blessed to be on the dirt roads, I'm a born and rasied Hick stuck in a city for way to long!"
+"@foxandfriends Oh Great, now obama will have to add Hello Kitty Bubble machine to the gun control list!"
+"Anyone had a Reese's PB Cup lately?  I just had one after a long time, what a Rip-Off!  It's like half the size it use to be..."
+"It's the beginning of Janary and it was in the 70's today, you believe that crap!"
+"@goldrushtodd @tcgardner20 not in a safe, seconds to grab!  =)"
+@goldrushtodd @tcgardner20 Twenty gauge and 9mm!
+@Discovery it's pretty slick
+Just posted a photo http://t.co/yKcr58u
+"@diamondisc Hey little brother, I hope you had a wonderful Christmas and 2013 is everything you want it to be!  =)"
+"Starting out the new year with a rainy day, which is pretty cool, we need lots of rain it has been really dry here lately..."
+Well I hope everyone had a safe and fun night brining in the New Year!  No hanging over the throne this morning...LOL
+"Happy New Years everyone, I hope and pray you all have an awesome 2013.  It should be, as long as obama keeps his nose out of our business!"
+Worlds smallest mountain goat!....hahaha http://t.co/mxovntI
+Just posted a photo http://t.co/2ckExxw
+Just posted a photo http://t.co/tmssejL
+My boy Thor http://t.co/ef9NeBp
+My girl Dixie http://t.co/7X4wgU7
+Just posted a photo http://t.co/W5u6wEp
+Just posted a photo http://t.co/7P0XnI9
+Just posted a photo http://t.co/64Y8aGf
+Just posted a photo http://t.co/m73QqrW
+Just posted a photo http://t.co/blIdvtK
+Just posted a photo http://t.co/UuKMh0m
+Just posted a photo http://t.co/FC9ONKy
+Just posted a photo http://t.co/o9Cwr6d
+Just posted a photo http://t.co/99LMRRt
+"Happy Turkey day to everyone, Have a fantastic day with your family and friends!  God Bless..."
+Just posted a photo http://t.co/fnNBGKk
+Just posted a photo http://t.co/4pkK8oX
+Brian was looking around in a Winter Zoo and found some extra Animal Feed! Grab some before it's gone! https://t.co/QFif1f8 #farmville
+Peacefully grant the State of North Carolina to withdraw from the United States and create its own NEW government http://t.co/wiBFsbY
+@goldrushtodd @Discovery @GRdozerdave Always ready!
+Just posted a photo http://t.co/dSdufl2
+Checking out Brian K Headley's Profile on WELL REGULATED AMERICAN MILITIAS !: http://t.co/1a6NkeT
+Just posted a photo http://t.co/fPICEqO
+Just posted a photo http://t.co/PdtPyee
+Just posted a photo http://t.co/uCKNnxT
+Says it all http://t.co/2PMog2o
+Just posted a photo http://t.co/vGra8Js
+Just posted a photo http://t.co/Se80i4w
+Just posted a photo http://t.co/N9wUEk8
+Just posted a photo http://t.co/yc7oKcL
+"@CareenBresee Hey Careen, nice to see you tweetin'  =)"
+Just posted a photo http://t.co/w40L1ON
+We?....Obama must have a mouse in his pocket!
+I'm going to be so glad when this Election is over!
+I love when Biden was saying how the President talks to and hangs with the Jews all the time!......Please!
+became a fan of the Nebraska Cornhuskers (Women s Hoops) http://t.co/1G1JUFb
+became a fan of the Ohio Bobcats (Women s Hoops) http://t.co/hpSKRu9
+became a fan of the Tennessee Lady Volunteers (Women s Hoops) http://t.co/IyVxEBV
+became a fan of the Nebraska Cornhuskers (Men s Hoops) http://t.co/YmCCXdb
+became a fan of the North Carolina Tar Heels (Women s Hoops) http://t.co/40Sb3mx
+@PauleyP You guys Rock!
+Hi Lisa. I hope your ok and doing well my sister!
+I hope it gets hot this summer!
+The_Animal_Rescue_Site's_Shelter _Challenge
+"There was no Fall of 2011 and now there is no Spring of 2012, it has been nothing but SUMMER ... WTH?"
+"@IceRoadAlex    Congrats on the 40th wedding Anniversary Alex, and that Louise still Loves you!  LOL"
+"Waking up to rain!  Just what we needed more rain, our property has been nothing but a mud pit for the last month or more!"
+@MissScabbia your just as Beautiful without make up!
+"Good morning, another wonderful morning in the Carolina&#39;s  =)"
+Please let me know if you start another one  :-)
+"Hi Lisa, I'm so glad your well! :-)   yes, I'm still on FB"
+I hope everyone had a wonderful day!
+"Drug them, hell I was thinking about drugging myself! LOL"
+The dogs got me up at 04:00  :-(
+"Good morning my friends, I hope you all have a great day!"
+"@LisaxxMcConnell   I had been leaving messages everywhere,  =)  I'm doing well, still trying to wake up the zombies!  =)"
+"@LisaxxMcConnell It's so great to hear from you, I was worried something had happen to you, you disappeared all of a sudden"
+Styled my profile with a sweet @dhendy theme using Themeleon by @COLOURlovers http://clrlv.rs/newthemeleon Love it?
+"@ejornet 
+Holla Estela, it is great to hear from you."

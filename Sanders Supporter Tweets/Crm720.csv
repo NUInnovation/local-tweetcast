@@ -1,0 +1,113 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 1202743904, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/707424640981815297/dkrs9iBM_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": [{""url"": ""https://t.co/oQ6dfHE9Ig"", ""indices"": [17, 40], ""expanded_url"": ""http://ask.fm/Crm720"", ""display_url"": ""ask.fm/Crm720""}]}}, ""followers_count"": 197, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""1202743904"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""https://t.co/L9od0ROtid"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727145485882916864, ""favorite_count"": 2, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Crm720/status/727145485882916864/video/1"", ""display_url"": ""pic.twitter.com/L9od0ROtid"", ""url"": ""https://t.co/L9od0ROtid"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727145372527644672/pu/img/rXsQClL8W6oFUfNc.jpg"", ""id_str"": ""727145372527644672"", ""sizes"": {""small"": {""h"": 604, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 640, ""resize"": ""fit"", ""w"": 360}, ""medium"": {""h"": 640, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 727145372527644672, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727145372527644672/pu/img/rXsQClL8W6oFUfNc.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""727145485882916864"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 14:39:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Crm720/status/727145485882916864/video/1"", ""display_url"": ""pic.twitter.com/L9od0ROtid"", ""url"": ""https://t.co/L9od0ROtid"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727145372527644672/pu/img/rXsQClL8W6oFUfNc.jpg"", ""video_info"": {""aspect_ratio"": [9, 16], ""duration_millis"": 8933, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/727145372527644672/pu/pl/b2XeV7dO51HfA_w-.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/727145372527644672/pu/pl/b2XeV7dO51HfA_w-.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/727145372527644672/pu/vid/180x320/w8V0AvwV5T2kOzKL.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/727145372527644672/pu/vid/360x640/2zjWDMe4HyKxy5PL.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""727145372527644672"", ""sizes"": {""small"": {""h"": 604, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 640, ""resize"": ""fit"", ""w"": 360}, ""medium"": {""h"": 640, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""video"", ""id"": 727145372527644672, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727145372527644672/pu/img/rXsQClL8W6oFUfNc.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 6482, ""description"": ""Instagram:crm720 https://t.co/oQ6dfHE9Ig"", ""friends_count"": 205, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/707424640981815297/dkrs9iBM_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1202743904/1400617837"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Chase Miller"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 6497, ""screen_name"": ""Crm720"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Feb 21 02:26:20 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+https://t.co/L9od0ROtid
+I was sleeping so fucking good until some fuck decides to wake the whole building up at 7am during finals.
+I look so homeless I don't even care rn.
+Finally UW cancels classes.
+@chevy_mads @vestablaire I was about to say the same
+This is Tyler of Toys R Us. He is an awesome dad and kinda cute. https://t.co/64onvLcUI7
+I miss you and it's been twenty minutes 😂😂😂
+I'm early to my 9am lab for once! And only three other people are here
+*struts on campus listing to Pussycat dolls
+@sugarberrydrip I'm too short to be a model 😭😭😭
+I haven't ate all day. I feel like a vogue model.
+@haleynicoleem and you can tweet bout it and not text. Rude
+@haleynicoleem bitch you live together. Every night is an us night
+@haleynicoleem ewe. I'm all about long distance relationships. Like I need to be two hours away from yo' ass
+Why do I like you so much?
+@katiejomcglade I just finished as well!
+@Teazyy  https://t.co/CBlKD95ae7
+@Teazyy  https://t.co/Dfsa8HGY7C
+@Teazyy  https://t.co/Et66ZbVif1
+@Teazyy  https://t.co/Cx7xjRSw3V
+@Teazyy totally
+"@Teazyy *smells fish
+""Where yo' pussy products?!"""
+@Teazyy I will literally gag. I don't gag. I will not. I refuse. I know who I am. 😂😂😂
+@Teazyy  https://t.co/2Ym6ucrdI0
+So much anxiety. Why does caffeine have to make anxiety worse? Like I need my double shot expresso everyday.
+I love my Chanel cologne
+Properly starting the day off. https://t.co/ASGTN0UBhk
+I made a tumbler. I might have a new addiction.
+@thiskidstorm bitch betta have my money
+Properly going to have a panic attack. It's fine
+That contour line is too thick honey
+Perhaps I want to be a clinical psychologist so I can finally understand people 😂😂😂
+I just don't get people.
+Stood at the elevator waiting for five minutes then I realized I didn't press the button. 😂
+@Teazyy I'll get my Ouija board rn.
+@Teazyy I'm dying.  https://t.co/x91ora8Gow
+"@Teazyy how does one acquire this ""premium subscription""?"
+@Teazyy Are you going to camboy it?
+@haleynicoleem about time you watch it
+For the first time in history it's going to start raining meeeeeeeeeeeen. -The Weather Girls
+@haleynicoleem lol no
+@Teazyy 😂😂😂 https://t.co/eR5DFu1Cfp
+May or may not have gotten too real with people last night and ruined a friendship or two. I'm almost not even sorry.
+Little foots mom just died and I'm in tears 😂😭
+@Teazyy @chevy_mads @vestablaire  https://t.co/DafQlJnn0M
+Going to fail an exam brb
+Struts on campus in Birkenstocks and socks
+@thiskidstorm Violet you're turning violet!
+@Teazyy (makes mumbling sounds)
+I go into euphoria when I have Starbucks for the first time in a while 😂😂😂
+@Teazyy yes. And I thought of lazy town boy lol
+@Teazyy  https://t.co/vgINaEdms8
+@katiejomcglade OMG Thank you so much!!!!!!!!!!
+@katiejomcglade Well thank you! I haven't heard anything on campus about it lol.
+@katiejomcglade he's coming here? Like I haven't heard anything about it 😂😂😂
+So @chevy_mads will retweet but can't reply to me. Literally so rude. 😂😂😂
+"I wonder why @Teazyy is Big Daddy? Oh wait, I think I know 🤓"
+"Big feet, small hands, big surprise 😏"
+@chandlerdean18 see you in two hours 😂
+I call the boy I like daddy all the time. I find it ironic.
+Made an appointment with my professor and I'm kinda done waiting. It's been almost thirty min.
+Talks about psych to someone and then sees my PSY1000 professor from last semester.
+@Teazyy I'm dying. Save me with your EMT skills. I don't like breathless compressions 😏😏😏
+@Teazyy  https://t.co/76RrbT7yl4
+I feel as if I have meningitis.
+@Teazyy so Deb. Fuckingpasword  https://t.co/yziQRCLPuP
+@Teazyy masc4masc https://t.co/CDuSaRiMH7
+@chandlerdean18 it doesn't. But the boy I'm talking to does.
+@chandlerdean18 is using Twitter. What's going on? Such a rare sight.
+@CGBPosts *plays the X-Files intro.
+Same 😉😏.  https://t.co/uQlx5ej4mp
+Just gay things.  https://t.co/1FOEIcLbpA
+@haleynicoleem I just need the shoes lol.
+When I drive long distances I jam the fuck out to Lana Del Rey.
+@Teazyy is kinda cute https://t.co/mVvXd0aHqr
+You know it's real when you delete your Tinder.
+@chevy_mads I was so white girl wasted. It was a blast.
+@chevy_mads looking cute af in her new train pic 😍😍😍😍
+I wonder what you're doing right now.
+@sugarberrydrip there is no such thing as too much ⭐️💵
+This feels so right. It's kinda scary letting yourself have feelings.
+Cute boy coming to see me? This never happens 🤓
+@chevy_mads I just want to not eat alone in Wash. #sorrynotsorry
+@Teazyy  https://t.co/YKI798eCFb
+@haleynicoleem and you have no right to judge. At least the whole side isn't wreck and doesn't have a spider web windshield.
+@haleynicoleem lol I like it
+@haleynicoleem I'm currently looking at an Audi A6 Avant Wagon ☺️
+People don't get my humor. Apparently people don't find it funny when you throw shade.
+"@FCattles What is the ""real world""? Am I currently in a different world? If so someone please send help 😂. I totally get what you're saying."
+Scratch that. I had a bite of salad. Now I'm full.
+"I had a trenta iced coffee this morning, took an addy, won't eat until about nine tonight 😂😂😂."
+@haleynicoleem  https://t.co/xUa4Ijq8Vb
+"@haleynicoleem : ""Were you born gay?""
+Me: ""Were you born stupid?""
+The look on her face, priceless 😂😂😂."
+It's cold af and I'm in my Birks.
+@haleynicoleem is actually kinda funny https://t.co/00yez09uKY
+@haleynicoleem Tik tok 🕡🕘🕡🕛
+@haleynicoleem you know what to do
+I love when cute boys who work at Starbucks by my drink for me
+I violently woke up and remembered I have homework due by 12...
+@sugarberrydrip We need to kick it.
+"@sugarberrydrip at first I thought it said ""sweet and bass"" then I was like oh I like that song Sweet and Sour by Matt or mike Williams."
+@chevy_mads @SparrowVideo Yasss!
+@haleynicoleem I like someone and I hate it lol.
+Ewe; feelings suck. Why can't I just be a heartless bitch like I was. I mean I still am but ewe feelings. Why do I like you?
+Ever open a snap story and regret opening it? Literally so annoyed rn.
+Yes Mama.  https://t.co/WacMN5IpI7
+@chevy_mads @vestablaire @haleynicoleem @BethanyCook13  https://t.co/8jWkUoS0aD
+@dylanthorenok get it girl.
+@sugarberrydrip it's the spring edition so it's all the new collations!

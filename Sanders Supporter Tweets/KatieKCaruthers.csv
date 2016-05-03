@@ -1,0 +1,118 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 636276196, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/726310609394880512/xnGZfiAr_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 251, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""636276196"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @FemaleTexts: When your crush likes your selfie https://t.co/Qb0PfA3mdg"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727261292575100928, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 204887235, ""indices"": [3, 15], ""id_str"": ""204887235"", ""screen_name"": ""FemaleTexts"", ""name"": ""Bitch Problems""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 798234950, ""source_status_id_str"": ""727167039723442176"", ""expanded_url"": ""http://twitter.com/TheTumblrPosts/status/727167039723442176/photo/1"", ""display_url"": ""pic.twitter.com/Qb0PfA3mdg"", ""url"": ""https://t.co/Qb0PfA3mdg"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg"", ""source_user_id_str"": ""798234950"", ""source_status_id"": 727167039723442176, ""id_str"": ""727167026100359168"", ""sizes"": {""large"": {""h"": 1073, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 356, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 629, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [51, 74], ""type"": ""photo"", ""id"": 727167026100359168, ""media_url"": ""http://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2199, ""id_str"": ""727261292575100928"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""When your crush likes your selfie https://t.co/Qb0PfA3mdg"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727181036191252481, ""favorite_count"": 4744, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 798234950, ""source_status_id_str"": ""727167039723442176"", ""expanded_url"": ""http://twitter.com/TheTumblrPosts/status/727167039723442176/photo/1"", ""display_url"": ""pic.twitter.com/Qb0PfA3mdg"", ""url"": ""https://t.co/Qb0PfA3mdg"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg"", ""source_user_id_str"": ""798234950"", ""source_status_id"": 727167039723442176, ""id_str"": ""727167026100359168"", ""sizes"": {""large"": {""h"": 1073, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 356, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 629, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [34, 57], ""type"": ""photo"", ""id"": 727167026100359168, ""media_url"": ""http://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2199, ""id_str"": ""727181036191252481"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 17:00:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 798234950, ""source_status_id_str"": ""727167039723442176"", ""expanded_url"": ""http://twitter.com/TheTumblrPosts/status/727167039723442176/photo/1"", ""display_url"": ""pic.twitter.com/Qb0PfA3mdg"", ""url"": ""https://t.co/Qb0PfA3mdg"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg"", ""source_user_id_str"": ""798234950"", ""source_status_id"": 727167039723442176, ""id_str"": ""727167026100359168"", ""sizes"": {""large"": {""h"": 1073, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 356, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 629, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [34, 57], ""type"": ""photo"", ""id"": 727167026100359168, ""media_url"": ""http://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 22:19:38 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 798234950, ""source_status_id_str"": ""727167039723442176"", ""expanded_url"": ""http://twitter.com/TheTumblrPosts/status/727167039723442176/photo/1"", ""display_url"": ""pic.twitter.com/Qb0PfA3mdg"", ""url"": ""https://t.co/Qb0PfA3mdg"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg"", ""source_user_id_str"": ""798234950"", ""source_status_id"": 727167039723442176, ""id_str"": ""727167026100359168"", ""sizes"": {""large"": {""h"": 1073, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 356, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 629, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [51, 74], ""type"": ""photo"", ""id"": 727167026100359168, ""media_url"": ""http://pbs.twimg.com/media/ChdqjrsW0AAGr56.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 3913, ""description"": ""walking along my sociopath"", ""friends_count"": 247, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/726310609394880512/xnGZfiAr_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/636276196/1462153563"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Katie Caruthers"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 6617, ""screen_name"": ""KatieKCaruthers"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Jul 15 15:59:11 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""Arizona"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+H8 everything.
+Fuuuuuucccckkkk
+Glad I could fuck up one of my last College English papers and lose my fucking A in the class 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼
+When your data resets so you go crazy but then have to calm tf down because you don't have wifi 😏
+@MaxWilliamC 🖕🏼🖕🏼🖕🏼🖕🏼
+Super jealous @MaxWilliamC gets to hang out with @sparkycaruthers and I don't 😭😭😭
+Broke a nail in the first ten minutes of work. It's a sign I shouldn't have come.
+Finally cleaning my car 🙌🏼🙌🏼😂
+True  https://t.co/7U8ct5Cfk8
+@KJPeterson32201 meeee the whole time I was in psych last semester 😂😂😂
+@chncbertwell @ me next time
+@Clay_Walker1211 💜💜💜💜
+@Clay_Walker1211 and they are like super emotional and artsy soooo
+@Clay_Walker1211 I don't think it is 💁🏻
+@Clay_Walker1211 Is it weird to say that I feel like our spirits are connected ?
+@chncbertwell  https://t.co/IfT1LouVm4
+@chncbertwell  https://t.co/nwMVHx9zAW
+@chncbertwell  https://t.co/nxD91Ga75D
+Because he is on private I thought I would enlighten you all on the abusive nature of @chncbertwell https://t.co/AEWLHB21kZ
+@chncbertwell wow what a h8r
+@chncbertwell should I live tweet the experience
+@KatieKCaruthers  https://t.co/dQjLZa611M
+@chncbertwell are you live tweeting your shower experience
+I'm donee😭😭
+@Clay_Walker1211 i was way over it
+Can we talk about how fucking high i look in the prom picture in the paper????
+@KJPeterson32201 👏🏼
+@serene_stacy 😊💜
+@madibates5 that's my motto
+@serene_stacy &amp; me
+@madibates5 Kenna cropped out of your avi 😂😂
+The rain is so perfect right now💜☂
+@chncbertwell same
+@jthopp12 🙄🙄😅😘
+Glad my solo is actually going to be trash
+@AlyAnn_ 💜
+@AlyAnn_ thanks Lyssa!!!! Love you so much!!!! 💜
+THIS THREAD😂😂 THE SHADE IS REAL  https://t.co/C2r8Db6NRc
+@KJPeterson32201 😘😘😘
+@KJPeterson32201 and you came up McDonald's???? Are you sure you weren't toking it up???? 😅
+Yaaaasss turn up. Jk I'm going to work https://t.co/AVX9KXrpqt
+Say it louder for the people in the back  https://t.co/c9IP1UnTYJ
+My dad is an inspiration to us all. https://t.co/RMs23naay7
+@chncbertwell true
+@chncbertwell it's Katie Caruthers
+@tayfomstatefarm yeah literally did this once tho
+@kybro3 homegirl noooooo!! 😭😭😭
+Literally can I be more awkward ????😑🙃
+What if I just didn't show up to math for the rest of the year💁🏻
+@serene_stacy You don't disappoint me. 💜
+Same  https://t.co/hQscFPPzko
+https://t.co/QvAHpxMBf1
+Let us take a moment to appreciate my dad and his sisters. They have no clue what they're doing in this picture. 😂😂 https://t.co/ueMqkME158
+This is actually @payanarely and @chncbertwell forcing me to get out of my pajamas and join society  https://t.co/MlKwARp1g9
+Me all the way https://t.co/Uzl26v4ypc
+@bri_anderson16 you know it😍
+@bri_anderson16 I love this song so much💜💜
+@payanarely our struggle is real
+I'm so glad that our neighbor is the creepiest person ever👌🏼👏🏼🙃
+@Clay_Walker1211 this is straight up the most inspiring video ever
+"""Who needs a spotlight when you're the fucking sun"" 😭👌🏼😂 https://t.co/BfWkAzhRUZ"
+I honestly feel sorry for people who have never had to work hard for their future. Shit is going to be a reality check soon.
+I need @chncbertwell to answer my phone calls
+Promposal goals 😍👏🏼🔥😂 https://t.co/vtjlnbL72B
+"Must be ""National Be a Dick to a McDonald's Employee Day."""
+@gio_feo thanks for the suggestion
+Prom was lame but they're cool💜💜 https://t.co/kXUfBVksS3
+S/o to @chncbertwell for being a bomb ass cheerleader and making his college cheer team💜💜💜💜
+@chncbertwell that tweet was supposed to be sent like and hour ago
+I'm so glad that I had to get early af but @payanarely and @chncbertwell are still asleep on the couch 🙄🙄
+SO TIRED
+@chncbertwell we shouldn't have gone
+Literally I cannot handle staying up this late
+@AlyAnn_ 💜💜💜💜💜
+@Xiyun_127 @serene_stacy YAS Xiyun 😍😍
+@serene_stacy YASSSS
+@serene_stacy @chncbertwell we will be 😘
+@AlyAnn_ @KJPeterson32201 same though
+@AlyAnn_ @KJPeterson32201 ur cute
+@KJPeterson32201 @AlyAnn_ eyeliner goals Alyssa 😍😍😍😍
+"Happy Birthday, Angus💜💜Glad I got to see you rock for one of the last times 😭 https://t.co/45wqvGkUmT"
+@chncbertwell my mom doesn't even love me this much 😍
+@chncbertwell I'm such a failure 😂😂
+Not being able to afford my makeup addiction makes me so emotional 😭😭😊
+Weekly procrastination update: Turned my 1000 word discussion in 38 minutes before it was due. 🙃🙃🙃
+@NobleKenna but a snow day would be fabulous
+@AlyAnn_ @serene_stacy @bri_anderson16 @fattymaddy69 you guys are so cute 😍😍😍 miss you!!! 😊
+@serene_stacy I think you're great. A little awkward but super fantastic 😉😘😊
+75% of my life is spent waiting on @payanarely
+There is a 99.999999% chance @payanarely will be late to her funeral.
+Can't believe Arely and I shopped for stuff for our apartment tonight. Also can't believe we have an apartment.  😳😅🙊
+@Msamanthagar this is actually my mom 🙄😂
+@chncbertwell @serene_stacy @Xiyun_127 🙄
+@serene_stacy @Xiyun_127 💔💔💔💔
+@serene_stacy @Xiyun_127 yeah @chncbertwell has a someone special Sunday now so I'm irrelevant now
+@Xiyun_127 @serene_stacy SAVAGE XIYUN
+@serene_stacy @chncbertwell @Xiyun_127 see you have Xiyun to hate you and I have chance to hate me
+@serene_stacy @chncbertwell too bad he hates me 😊😊😊😊😊😊
+@Clay_Walker1211 @KJPeterson32201 so excited 😊😊
+@chncbertwell um ya fuck you
+@KJPeterson32201 @Clay_Walker1211 you were the first to come into my life. True true. 😂😊👏🏼
+@chncbertwell thanks for finally recognizing me as your someone special Sunday 😊😘💜😍
+@Clay_Walker1211 😊
+@Clay_Walker1211 hahaha sorry about that. I'm crazy😂😂 def friends now😊
+"*rubs my leg* ""are you ever going to shave your legs?"" ~@chncbertwell"
+@chncbertwell 👏🏼🍺🍷🍸🍹
+@chncbertwell porque
+@chncbertwell no
+@serene_stacy I'm going to your prom so you should be too 😊😘
+@serene_stacy 👏🏼😄😅
+@sippingin44 awe you are too😊😊😊😊
+@sippingin44 made my night at work😊 thanks girl!
+Just trying to be the best version of me possible. ⌛️
+I think life is a lot about surviving the negative people in order to find the people who make your life brighter and more meaningful. 💫
+@serene_stacy ok 😊
+@serene_stacy where is it?? You need to tell me when home games are!!
+Such a beautiful day 🌞🌸🌻🌞

@@ -1,0 +1,129 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""474747"", ""default_profile_image"": false, ""id"": 153941375, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000170152313/0EYgY-T5.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/720104320033812480/Lyl28hx9_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 656, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""153941375"", ""profile_background_color"": ""ACDED6"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @nutellaANDpizza: Omg is she wearing becky's skin? #MetGala https://t.co/gesxYcimXV"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727299950531346432, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1172516546, ""indices"": [3, 19], ""id_str"": ""1172516546"", ""screen_name"": ""nutellaANDpizza"", ""name"": ""anna""}], ""hashtags"": [{""indices"": [54, 62], ""text"": ""MetGala""}], ""urls"": [], ""media"": [{""source_user_id"": 1172516546, ""source_status_id_str"": ""727297404215693312"", ""expanded_url"": ""http://twitter.com/nutellaANDpizza/status/727297404215693312/photo/1"", ""display_url"": ""pic.twitter.com/gesxYcimXV"", ""url"": ""https://t.co/gesxYcimXV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg"", ""source_user_id_str"": ""1172516546"", ""source_status_id"": 727297404215693312, ""id_str"": ""727297355029069824"", ""sizes"": {""large"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 421, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [63, 86], ""type"": ""photo"", ""id"": 727297355029069824, ""media_url"": ""http://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 126, ""id_str"": ""727299950531346432"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Omg is she wearing becky's skin? #MetGala https://t.co/gesxYcimXV"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727297404215693312, ""favorite_count"": 188, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [33, 41], ""text"": ""MetGala""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/nutellaANDpizza/status/727297404215693312/photo/1"", ""display_url"": ""pic.twitter.com/gesxYcimXV"", ""url"": ""https://t.co/gesxYcimXV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg"", ""id_str"": ""727297355029069824"", ""sizes"": {""large"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 421, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [42, 65], ""type"": ""photo"", ""id"": 727297355029069824, ""media_url"": ""http://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 126, ""id_str"": ""727297404215693312"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 00:43:08 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/nutellaANDpizza/status/727297404215693312/photo/1"", ""display_url"": ""pic.twitter.com/gesxYcimXV"", ""url"": ""https://t.co/gesxYcimXV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg"", ""id_str"": ""727297355029069824"", ""sizes"": {""large"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 421, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [42, 65], ""type"": ""photo"", ""id"": 727297355029069824, ""media_url"": ""http://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 00:53:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1172516546, ""source_status_id_str"": ""727297404215693312"", ""expanded_url"": ""http://twitter.com/nutellaANDpizza/status/727297404215693312/photo/1"", ""display_url"": ""pic.twitter.com/gesxYcimXV"", ""url"": ""https://t.co/gesxYcimXV"", ""media_url_https"": ""https://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg"", ""source_user_id_str"": ""1172516546"", ""source_status_id"": 727297404215693312, ""id_str"": ""727297355029069824"", ""sizes"": {""large"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 421, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 743, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [63, 86], ""type"": ""photo"", ""id"": 727297355029069824, ""media_url"": ""http://pbs.twimg.com/media/ChfhF0yWwAApJxV.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 19977, ""description"": ""U of O '19.   IG: longlivemarlo sc: llamolo"", ""friends_count"": 369, ""location"": ""206"", ""profile_link_color"": ""038543"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/720104320033812480/Lyl28hx9_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/153941375/1403718589"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000170152313/0EYgY-T5.jpeg"", ""name"": ""Lo"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 19613, ""screen_name"": ""VivaLaMarlo"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Jun 09 23:41:05 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+ima start being corny and telling dudes that they can't get my number if they don't have an iPhone
+Yeahhhh!!!! 🤘🏽 https://t.co/1WhEEVhusi
+"bday in a month 
+pop it nasty 🤑"
+"cuz we forsure just friends, write it down  https://t.co/jDPixNepxR"
+i've got no fucks to give
+"I hate having to chose up, WHY CANT I JUST HAVE IT ALLLLL"
+Running after satisfaction is a complicated endeavor if your p... More for Gemini https://t.co/ycK6mBJtrk
+I never get to document the best moments of my life 🙄😡
+can't wait to get all my friends in one room 💗
+@NVTVL BITCH I CANT WAIT TO SEE YOU
+"Your fantasies seem to be growing out of control today, but yo... More for Gemini https://t.co/ycK6mBJtrk"
+man I love Obama
+CONGRATS!!!!!! @UWdwayne12 praying that you have a very successful career! There's no limit to what you can do!
+If you're running around in circles without accomplishing much... More for Gemini https://t.co/ycK6mBJtrk
+I'm way too good for you
+personally not feelin the faux freckles movement but shrugs
+@KissesOver_Hugs yes hogz
+I'm tired of spending money on people who don't deserve it
+"You might run into some unexpected opposition today, no matter... More for Gemini https://t.co/ycK6mBJtrk"
+@TeraTationaa 😂😂 on everything
+I'm always staying up when I have something to do early the next morning
+you a real ass nigga and I like it I don't wanna fight it
+luvin views
+If they have a story these days they'll make one
+@QuiteTheSleeper chillin like a villain 😂 how ya been
+"@QuiteTheSleeper oh hey dhall, sup"
+@VivaLaMarlo it's a fatty tonite 😂
+@kyespanol brooo
+yikes 😬
+"sometime I look back at it and think ""my ass is fattttt"" other times I'm like ""aw dang my ass is flat"""
+I got followers who will not like my photo on insta but text me asking weirdo shit about it right when they see it. Keep it pushin
+@marshalphonso 👏🏾👏🏾 go Phonso
+"@ItsMiaAlexis 😂 man the things you find, that's next level"
+I can't deal with  @ItsMiaAlexis 😂
+@sakurasatory put them paws on her Tory!! She better respeck your name
+I luv watching dudes dance
+ya this me https://t.co/x7Z5NLjx8F
+@ItsMiaAlexis 👀
+"life could be so easy, everyone just makes it complicated"
+I can't state my opinion without someone getting butt hurt 😒
+our society is so sensitive.
+Digging beneath the surface and exploring spiritual mysteries ... More for Gemini https://t.co/ycK6mBJtrk
+the new altitudes that you introduced me to
+@kamonib @1niqqitee hahahahah ^
+I haven't exchanged text with a single person today 😕
+@kyespanol what happeneddd
+@vickto_willy @Ninna_Naomi ^ this thread funny
+Beware of people sharing pie-in-the-sky ideas today because th... More for Gemini https://t.co/ycK6mC14PU
+@TheyHateDuffy @b_doott ^ litttttt
+@VivaLaMarlo dear god I hope I don't end up like Jane
+@VivaLaMarlo I'm gonna be a wedding planner (one of 36 occupations)
+I am obsessed with weddings
+Your point of view on a personal issue might be very different... More for Gemini https://t.co/ycK6mBJtrk
+@4GivenSinner_ same maybe if we let it marinate
+@azeem_vic36 cmooo ZEEM ZEEM! 💗
+ty @TIDALHiFi
+bitch gettin on my nerves all ready
+happiest of birthdays bud @TerrellBrown_3 luv you! https://t.co/LCcZLYGBnA
+"won't catch me fighting over a dude, you can have him ✌🏾️"
+when you text someone + they don't respond but check your social media 🙄&lt;
+New responsibilities are piling up so fast that you might reac... More for Gemini https://t.co/ycK6mBJtrk
+im so indecisive
+hell ya I be lurkin
+@melinasmith8 ^^ bitches smh
+🤔 https://t.co/zYV5P0ZEjm
+loosing my teeth is my biggest fear
+@WestleyFWM they were loose first then the whole row came out as one
+@WestleyFWM I was spooked
+you never know when it's your time to go
+"@VivaLaMarlo got a very realistic text, unfortunately I must spare the details."
+"@VivaLaMarlo a couple was trying to kill me with a paintball gun, guess what? Ya girl escaped!"
+@VivaLaMarlo my bottom row of teeth fell out in a Walmart 😱
+had the most horrific series of dreams last night.
+@WestleyFWM you would chose this photo
+@VivaLaMarlo *know
+Grab an opportunity to do something special with children toda... More for Gemini https://t.co/ycK6mBJtrk
+I despise those who don't have their read receipts on. I'd rather no you're ignoring me
+lightning is gorgeous af
+@Dew8_cL thankssss ✊🏾
+@VivaLaMarlo I do the dumbest shit
+im the biggest idiot sometimes fml 😫
+@NVTVL hahahaha
+if you interrupt my tpain jam sess we got a real deal problem
+@_kchristineb 🆗 kabrea 😍
+@BoopTasstic ima text it to ya
+@Super_Samad 🤑
+"it sucks being the youngest of the bunch in certain situations now, but in the future I'll be in love with my youth"
+"turning 19(21) in a month, ya hoe"
+"@kyespanol ugh I know, that's the bad thing. I might test it out for like a week then go back black."
+overcome your insecurities
+@kyespanol saucyyyyy
+we don't play games
+I don't wanna have to bake her because were friends but I gotta keep it 💯
+ah the possibilities
+@VivaLaMarlo only way that I'd make this possibility realistic is if my hair is cut in a bob 🤔
+@LankBoyGeno @monicaisberto 😂😂
+@hkeryi awwwwwwww thank you lil mama
+@hkeryi truly considering this!
+hannnnn https://t.co/y2NmRCvqLT
+red hair next? 🤔
+what is this thin weaves and bumped leave out movement??????? 🤔 yikes
+either you're consistent or nonexistent
+taking care of drunk people is the worst
+untrue  https://t.co/6DISOcjI2w
+I'm intrigued tell me more
+@aslaulau why can't I retweet this!!!!! TRUTH
+@BoopTasstic you got dis!
+"@BoopTasstic everything happens for a reason girl, take it, learn from it and keep struttin'"
+@BoopTasstic it can always get better
+@VivaLaMarlo I don't actually do this lol it's all fun + games
+"when someone's bio says ""don't follow just to unfollow"" and you follow then just to unfollow them. https://t.co/llV3DTpWvo"
+crazy how smells + sounds bring back memories instantly
+"@NVTVL @melinasmith8 ^ they're still bomb af, miss y'all"
+@VivaLaMarlo still relevant
+😈
+💗💗💗💗 https://t.co/7DB0WCRGWL
+@lexngam why must you snatch me every time? Damn ma😍
+@kyespanol 🙄
+"don't slide in my dms asking me questions that have been answered via my bio.
+xoxo"
+sailboat sea$on
+military boys all the same 🙄😂
+@OliviaDanice pretty 💗
+hmmygosh 😂 https://t.co/f61Sw1yEMz
+almost summer 🤑
+@blovelyk ooookkkk ✨
+dawg https://t.co/zio42oFWug

@@ -1,0 +1,82 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2188684645, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/457554430116638720/PPTG9jMj_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 30, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2188684645"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @CountingOnCruz: California pastor on @tedcruz: \""Impressed by his courage, his common sense &amp; his consistent leadership\"" #CAPrimary http\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726447215875497985, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 558870081, ""indices"": [3, 18], ""id_str"": ""558870081"", ""screen_name"": ""CountingOnCruz"", ""name"": ""Counting on Cruz""}, {""id"": 23022687, ""indices"": [41, 49], ""id_str"": ""23022687"", ""screen_name"": ""tedcruz"", ""name"": ""Ted Cruz""}], ""hashtags"": [{""indices"": [128, 138], ""text"": ""CAPrimary""}], ""urls"": [], ""media"": [{""source_user_id"": 558870081, ""source_status_id_str"": ""726231866269917185"", ""expanded_url"": ""http://twitter.com/CountingOnCruz/status/726231866269917185/photo/1"", ""display_url"": ""pic.twitter.com/x1HrRzb0O2"", ""url"": ""https://t.co/x1HrRzb0O2"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg"", ""source_user_id_str"": ""558870081"", ""source_status_id"": 726231866269917185, ""id_str"": ""726231849937305602"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 1022}, ""medium"": {""h"": 451, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 726231849937305602, ""media_url"": ""http://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 97, ""id_str"": ""726447215875497985"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""California pastor on @tedcruz: \""Impressed by his courage, his common sense &amp; his consistent leadership\"" #CAPrimary https://t.co/x1HrRzb0O2"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726231866269917185, ""favorite_count"": 94, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 23022687, ""indices"": [21, 29], ""id_str"": ""23022687"", ""screen_name"": ""tedcruz"", ""name"": ""Ted Cruz""}], ""hashtags"": [{""indices"": [108, 118], ""text"": ""CAPrimary""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/CountingOnCruz/status/726231866269917185/photo/1"", ""display_url"": ""pic.twitter.com/x1HrRzb0O2"", ""url"": ""https://t.co/x1HrRzb0O2"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg"", ""id_str"": ""726231849937305602"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 1022}, ""medium"": {""h"": 451, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [119, 142], ""type"": ""photo"", ""id"": 726231849937305602, ""media_url"": ""http://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 97, ""id_str"": ""726231866269917185"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 02:09:04 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/CountingOnCruz/status/726231866269917185/photo/1"", ""display_url"": ""pic.twitter.com/x1HrRzb0O2"", ""url"": ""https://t.co/x1HrRzb0O2"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg"", ""id_str"": ""726231849937305602"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 1022}, ""medium"": {""h"": 451, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [119, 142], ""type"": ""photo"", ""id"": 726231849937305602, ""media_url"": ""http://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Apr 30 16:24:47 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 558870081, ""source_status_id_str"": ""726231866269917185"", ""expanded_url"": ""http://twitter.com/CountingOnCruz/status/726231866269917185/photo/1"", ""display_url"": ""pic.twitter.com/x1HrRzb0O2"", ""url"": ""https://t.co/x1HrRzb0O2"", ""media_url_https"": ""https://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg"", ""source_user_id_str"": ""558870081"", ""source_status_id"": 726231866269917185, ""id_str"": ""726231849937305602"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 1022}, ""medium"": {""h"": 451, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 726231849937305602, ""media_url"": ""http://pbs.twimg.com/media/ChQYBRAWgAIg3XO.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 480, ""description"": """", ""friends_count"": 100, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/457554430116638720/PPTG9jMj_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""karla Zelaya"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 288, ""screen_name"": ""kzelaya83"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Nov 11 16:42:58 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Hey! I took a stand to #BoycottTarget and protect women and children. Go here https://t.co/l7BT48IRw6 via @Grassfire
+@yeldogdem Major+Biblical+Discovery+Dug+Up+In+Israel+—+Bad+News+For+Palestinian+Muslims https://t.co/My6GIt0Xox # via MadWorldNews
+https://t.co/fE6fnLvrDY
+https://t.co/qT3fNU2MQT
+"Video for Friday, October 30th 2015 https://t.co/JXx2dwBN46"
+Video for Wednesday October 28th  2015 https://t.co/nMIW6We3WW via @YouTube
+@megynkelly @gilgatch @marcorubio Daniel and revelation U.S. wont b around. We have gotten rid off God after all he has blessed us with
+@megynkelly @gilgatch @marcorubio he probably reads his Bible. It's all there.
+#NoIranDealBecause the #IranDeal will not prevent Iran from building nuclear weapons. @SecureAmerica http://t.co/pgTI8zvCRa
+#NoIranDealBecause we need to protect our children and grandchildren from nuclear warfare with Iran. @SecureAmerica http://t.co/pgTI8zvCRa
+#NoIranDealBecause Iran will use billions in sanctions relief to continue funding terrorism worldwide. @SecureAmerica http://t.co/pgTI8zvCRa
+"#NoIranDealBecause Iran's leaders chanted ""Death to America"" &amp; burned US flag throughout negotiations. @SecureAmerica http://t.co/pgTI8zvCRa"
+@johnjosephTX @RealJamesWoods beautiful! He looks like my dog (baby)
+@yeldogdem Yeldogdem http://t.co/sKZ425LViI
+@yeldogdem http://t.co/sKZ4263wHi
+"@yeldogdem when this coming war does finally start, the United States will be unwilling (or unable) to help Israel defend herself."
+"@yeldogdem THE BIBLE warns the US will NOT defend Israel.  According to the Bible, Israel must stand alone ... with God."
+"@yeldogdem GOD warns Iran (Persia)with Russia (Magog)n a coalition of allies including Turkey, Libya, Sudan will go 2 war n invade Israel"
+"@yeldogdem just like he said in  Rev. Iran and Russia will attack Israel, the U.S. Will not help maybe won't b around."
+@yeldogdem if u haven't  seen evidence in ur life I understand but the Bible is God's word.I'm trying to show u that God spoke it n happened
+@yeldogdem this is another proof  http://t.co/vrRES5Rxzb
+@yeldogdem but what do miracles have to do with the City of Tyre. I wanted u to read n see how the bible described the events that happened
+@yeldogdem yes do believe in miracles but I don't perform them. The Lord has done a lot of miracles in my life.
+@yeldogdem Apologetics Press - Tyre in Prophecy http://t.co/EwchdBXjMD
+@yeldogdemhttp://t.co/EwchdBXjMD you might like this. it proves bible is true
+Apologetics Press - Tyre in Prophecy http://t.co/EwchdBXjMD
+"""Here, we hear the heart of God saying, “You’ve forgotten Me. You’ve become corrupt in your practices and imm... http://t.co/uXbbllsl1o"
+"""Ezekiel 18:23 Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he sho... http://t.co/wqpCzQDiE4"
+"""Sin is not bad because it’s forbidden. Sin is forbidden because it’s bad."" http://t.co/jqXzI3NYSt"
+Not 1 factual mistake has ever been found in the Bible. God knows everything n He doesn't make mistakes.
+"People will soon get tired of staring at a plywood box every night.
+- Darryl F. Zanuck, head of 20th Century-Fox, 1946."
+[Television] won't be able to hold on to any market it captures after the first six months.
+"Radio has no future.
+- Lord Kelvin (1824-1907), British mathematician and physicist, ca. 1897.  Science will always be proven wrong"
+"@yeldogdem is a long process trial, witnesses even the son has a right to defend himself so is not like you say REBELLIOUS CHILDREN 2DEATH"
+@yeldogdem if he returns to his corrupt and wicked ways again he is judged by the court of twenty three he is Not a child or a little one
+"@yeldogdem after admonition given; 3 judges admonish him which having no effect, they were to proceed as follows"
+"@yeldogdem when they have chastened him, will not hearken to them; when they have reproved him by words, and corrected him with blows;"
+"@yeldogdem will not do what's commanded n will do what is forbidden him, notwithstanding all counsels admonitions n corrections given him"
+@yeldogdem Astubborn rebellious son Absalom stubborn in nature n rebellious in actions Bhaves contrary 2 law of God n instruction of parent
+"@yeldogdem sorry, this one http://t.co/olVN20Kt5Y"
+@yeldogdem http://t.co/olVN20Kt5Y
+@yeldogdem read verse 18
+"@yeldogdem Different translations,different wording. It's the same Bible. I'm from CA n my Spanish is very different to someone in Mexico"
+@yeldogdem I'll have to ask my 11 year old to teach me how to download the file😇
+@yeldogdem are u able to open those links?  I'm new to this Twitter thingy. I'm old school!!😜
+"@yeldogdem No, silly!!"
+@yeldogdem https://t.co/gUkd4w6vIf
+https://t.co/gUkd4w6vIf
+https://t.co/2yqU2CL6bL
+@yeldogdem https://t.co/zsLWJj2BmJ
+@yeldogdem the summit of his knowledge. This is the dimension of truth It is an area which we call the BIBLE!   Good nite
+"@yeldogdem It is the middle ground between light and shadow, between science and superstition, and it lies between the pit of man's fears n"
+@yeldogdem There is a fifth dimension beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity.
+"@yeldogdem Nostradamus you r fired! Asta la vista baby!! Good bye, adios 😜"
+@yeldogdem but also to prophesy those ecological disasters that would be created by the damming of the Nile River.
+"@yeldogdem not only prophesy the building of the Aswan Dam as they will turn away the river far away,"
+"@yeldogdem there is no more fishing industry. It is amazing to me that 2700 years ago, God inspired the prophet Isaiah to"
+"@yeldogdem yeah, Yeah, keep it up Mr. JEFF ISRAEL. 😋"
+"@yeldogdem now that there is no flood season,snails have destroyed all of the reeds n everything that used 2be along the Nile as Isaiah said"
+"@yeldogdem But not only that, all the reeds n so forth that used 2 grow along the Nile were killed"
+"@yeldogdem Now with the Nile no longer flooding they""ve lost the agricultural area by saltwater intrusion First thing he predicted."
+"@yeldogdem and all they that cast their hook into the brooks shall lament, and they that spread their nets upon the waters shall languish."
+"@yeldogdem every thing sown by the brooks, shall wither, be driven away, n be no more The fishers also shall mourn,"
+"@yeldogdem he predicted prophecies? No, he just quoted the Bible👍🏻"
+"@yeldogdem this is bonkers, you can't use the Bible to prove that Jesus never existed , especially if you don't believe the Bible."
+"@yeldogdem The word there is translated in one of the new versions, ""And they shall dam the river far away
+The Aswan Dam ! it came true"
+"@yeldogdem 
+The waters shall fail from the sea, and the river shall be wasted and dried up. And they shall turn the rivers far away"
+"@yeldogdem yes, oh no, what about him?"
+"@yeldogdem yeah, just read it"
+"@yeldogdem There""s going to be civil turmoil and war within Egypt."
+"@yeldogdem n they shall fight every one against his brother, n everyone against his neighbor city against city, n kingdom against kingdom"
+"@yeldogdem 
+And I will set the Egyptians against the Egyptians ( Isaiah 19:1-2 ): -   So God is speaking about a civil war"
+"@yeldogdem For I will take you from the nations, gather you from all the lands and bring you into your own land. Ezekiel 36:24 AWESOME!!"
+"@yeldogdem The nation of Israel was re-born, just as the prophet Ezekiel predicted way back during Jewish captivity in Babylon!"
+"@yeldogdem But do u know what eternally significant event happened on May 14, 1948? One of the most amazing prophecies of all was fulfilled."
+"@yeldogdem hey tough cookie, thought you had given up on me😇"

@@ -1,0 +1,88 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2208183126, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721200588143210497/3cJnVgco_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 174, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2208183126"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @SoDamnTrue: https://t.co/gqSZqHrvmc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727163277684301824, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 219049532, ""indices"": [3, 14], ""id_str"": ""219049532"", ""screen_name"": ""SoDamnTrue"", ""name"": ""Typical Girl""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 219049532, ""source_status_id_str"": ""727124266492284928"", ""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg"", ""source_user_id_str"": ""219049532"", ""source_status_id"": 727124266492284928, ""id_str"": ""727124262734188544"", ""sizes"": {""large"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""small"": {""h"": 463, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [16, 39], ""type"": ""photo"", ""id"": 727124262734188544, ""media_url"": ""http://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 6818, ""id_str"": ""727163277684301824"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""https://t.co/gqSZqHrvmc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727124266492284928, ""favorite_count"": 11493, ""source"": ""<a href=\""http://bufferapp.com\"" rel=\""nofollow\"">Buffer</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg"", ""id_str"": ""727124262734188544"", ""sizes"": {""large"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""small"": {""h"": 463, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 727124262734188544, ""media_url"": ""http://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 6818, ""id_str"": ""727124266492284928"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 13:15:09 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg"", ""id_str"": ""727124262734188544"", ""sizes"": {""large"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""small"": {""h"": 463, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 727124262734188544, ""media_url"": ""http://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg""}, {""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqscUUAAaLC8.jpg"", ""id_str"": ""727124265607122944"", ""sizes"": {""small"": {""h"": 490, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 865, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 865, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 727124265607122944, ""media_url"": ""http://pbs.twimg.com/media/ChdDqscUUAAaLC8.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 02 15:50:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 219049532, ""source_status_id_str"": ""727124266492284928"", ""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg"", ""source_user_id_str"": ""219049532"", ""source_status_id"": 727124266492284928, ""id_str"": ""727124262734188544"", ""sizes"": {""large"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""small"": {""h"": 463, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 804, ""resize"": ""fit"", ""w"": 590}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [16, 39], ""type"": ""photo"", ""id"": 727124262734188544, ""media_url"": ""http://pbs.twimg.com/media/ChdDqhvW0AAjG-z.jpg""}, {""source_user_id"": 219049532, ""source_status_id_str"": ""727124266492284928"", ""expanded_url"": ""http://twitter.com/SoDamnTrue/status/727124266492284928/photo/1"", ""display_url"": ""pic.twitter.com/gqSZqHrvmc"", ""url"": ""https://t.co/gqSZqHrvmc"", ""media_url_https"": ""https://pbs.twimg.com/media/ChdDqscUUAAaLC8.jpg"", ""source_user_id_str"": ""219049532"", ""source_status_id"": 727124266492284928, ""id_str"": ""727124265607122944"", ""sizes"": {""small"": {""h"": 490, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 865, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 865, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [16, 39], ""type"": ""photo"", ""id"": 727124265607122944, ""media_url"": ""http://pbs.twimg.com/media/ChdDqscUUAAaLC8.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 4386, ""description"": """", ""friends_count"": 139, ""location"": ""Seattle, WA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721200588143210497/3cJnVgco_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2208183126/1453267791"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""guaysing"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 5677, ""screen_name"": ""jennyyguaysing"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Nov 22 02:39:36 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Thank you God for fixing my battery drain 😂🙏
+His posts gives me life 😩❤️ https://t.co/k0ytpzsbr5
+@CarmenShiena I cant
+Period cramps make me wanna kill someone with a fork but wants to give them a hug
+@CarmenShiena yeah you have Adrian
+Man Edgar really my dopamine
+@Alynskiie thanks ❤️❤️😂
+Girl bye ain't no one trying to chase your ugly ass man
+Currently finding anyone who could do my hair for prom 😩
+Having a prom proposal is all fun and games until someone figures out who pays what because prom expensive af
+"me at prom 
+
+https://t.co/DJhpX41HuK"
+Can someone hang with me
+Reasons why you don't have friends because you're rude af
+😏 https://t.co/hfR887bMV0
+Sorry I dropped you as a friend 😘😘
+Someone snap me I'm so bored @guaysing
+My hair so bomb today https://t.co/Ha5SBOaCBk
+HAPPY BIRTHDAY @pcesswendy  💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞
+If only I had my headphones I could watching faking it right now but I'm in the library man
+Congrats to my sweet boyfriend who got the job! 💞💞💞🙏
+Omg I hope I don't get a ticket 😩🙏🙏
+Happy birthday! @ph0ngt
+Wild af https://t.co/zpE99HNVwN
+Growing up sucks
+You don't lead someone on and expecting them to see the same view as you do.
+The help is an amazing movie
+@thesovv your glo up was ugly tho
+@pcesswendy this Saturday 💛
+@pcesswendy speaking of that. Let's hang sat instead of Tuesday
+Everyone make sure your prom date has no date
+💞💞💞💞 https://t.co/1UDfZEQitY
+Everyone prom proposal are so cute
+@jeremiah_s206 10$ and I'll find you a prom date
+Helping friends finding prom dates are so hard https://t.co/T8FOtAUKLB
+"Man if you really be like ""no he looks better in a different picture"" ok den he ugly."
+Tacos from babe's family was just too good. Gotta visit them everyday
+I mean go ahead and subtweet my girl because you taking the time out of your day thinking about her 😏 @@@@@@@@
+GOT THE PERFECT SHOES FOR PROM MAN
+Time for work and maybe bbq 🙃💛
+I had 12 hours of sleep and I never felt so energetic
+@CarmenShiena that's me
+Honestly blessed to have great friends
+Don't be mad when no one there
+Not everything comes to you
+Could have been my mom when she was in Cambodia. But I am blessed she came here.
+Responsible for genocide of about 2 million people
+Fuck pol pot
+They burnt it but still good https://t.co/EP6mTfoBle
+God man I'm lucky to have him
+"Not gonna lie. I been watching ""get ready with me: prom"" videos just to prepare on what will happen."
+"Goal in life is to own 3 dogs, 1 fish and 1 turtle"
+Lowkey goal is to be a proud owner of a koi fish
+Do I really have the energy for Khmer new year
+@pcesswendy dead better feel better 😂 gots to be a hoe that day
+Whoever needs a prom date hmu. My dog will look good in a tux
+GOT ASK TO PROM ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ https://t.co/wO9JMp0yqY
+@jessicaaracquel YES!
+@pcesswendy I know you sick but let's get Thai for ur B day 😂😂😂😂😂😂😂😂
+Prom season is here
+I hope everyone goes with who they want and it runs perfectly
+@jessicaaracquel pass
+Made my dad sandwich for work and he tells me he doesn't work tomorrow omfg
+Even at my ugliest he still calls me princess
+Making chicken for my man
+I rather have the time of my life with the people that want to be there
+"At this point in life, I don't feel the need of chasing anyone"
+@CarmenShiena go to Renton ✌️
+@CarmenShiena  God blessed you https://t.co/vx8ovR4aWg
+@pcesswendy that's my girl 😂
+@206FashionQueen I'm just not having it anymore 😂 lmfao
+@jennyyguaysing lol stress
+So much dress at 1 am
+"Nails
+Shoes
+Hair
+Makeup
+Tickets
+Jewelry 
+ The only thing check out : dress ✔️😂"
+This prom thing is too much.
+@lenacodeina I know right! @EdgarJGonzal
+@pcesswendy I texted you
+@ZechariahBrown6 such a deal!
+Never keep my accounts private because I know you bitches love stalking me 💅
+God I pray I get it 🙏

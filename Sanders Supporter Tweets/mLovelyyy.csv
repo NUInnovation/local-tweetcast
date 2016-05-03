@@ -1,0 +1,122 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""12E6CA"", ""default_profile_image"": false, ""id"": 62744138, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000182224137/iZsDqbVn.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/725569610318106624/GxBjWV9i_normal.jpg"", ""profile_sidebar_fill_color"": ""0A0909"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 144, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""62744138"", ""profile_background_color"": ""8C848C"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @tydollasign: Making plays https://t.co/i4QYjAliIz"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727261275286175744, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25932445, ""indices"": [3, 15], ""id_str"": ""25932445"", ""screen_name"": ""tydollasign"", ""name"": ""Ty Dolla $ign""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 25932445, ""source_status_id_str"": ""726825858241941505"", ""expanded_url"": ""http://twitter.com/tydollasign/status/726825858241941505/photo/1"", ""display_url"": ""pic.twitter.com/i4QYjAliIz"", ""url"": ""https://t.co/i4QYjAliIz"", ""media_url_https"": ""https://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg"", ""source_user_id_str"": ""25932445"", ""source_status_id"": 726825858241941505, ""id_str"": ""726825853561110528"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [30, 53], ""type"": ""photo"", ""id"": 726825853561110528, ""media_url"": ""http://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 171, ""id_str"": ""727261275286175744"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Making plays https://t.co/i4QYjAliIz"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 726825858241941505, ""favorite_count"": 440, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/tydollasign/status/726825858241941505/photo/1"", ""display_url"": ""pic.twitter.com/i4QYjAliIz"", ""url"": ""https://t.co/i4QYjAliIz"", ""media_url_https"": ""https://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg"", ""id_str"": ""726825853561110528"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [13, 36], ""type"": ""photo"", ""id"": 726825853561110528, ""media_url"": ""http://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 171, ""id_str"": ""726825858241941505"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 01 17:29:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/tydollasign/status/726825858241941505/photo/1"", ""display_url"": ""pic.twitter.com/i4QYjAliIz"", ""url"": ""https://t.co/i4QYjAliIz"", ""media_url_https"": ""https://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg"", ""id_str"": ""726825853561110528"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [13, 36], ""type"": ""photo"", ""id"": 726825853561110528, ""media_url"": ""http://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 02 22:19:34 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 25932445, ""source_status_id_str"": ""726825858241941505"", ""expanded_url"": ""http://twitter.com/tydollasign/status/726825858241941505/photo/1"", ""display_url"": ""pic.twitter.com/i4QYjAliIz"", ""url"": ""https://t.co/i4QYjAliIz"", ""media_url_https"": ""https://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg"", ""source_user_id_str"": ""25932445"", ""source_status_id"": 726825858241941505, ""id_str"": ""726825853561110528"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [30, 53], ""type"": ""photo"", ""id"": 726825853561110528, ""media_url"": ""http://pbs.twimg.com/media/ChY0Q08UgAAdiy9.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 6059, ""description"": ""living the life I love and loving the life I live"", ""friends_count"": 155, ""location"": ""tgod"", ""profile_link_color"": ""F0BC39"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/725569610318106624/GxBjWV9i_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/62744138/1461575853"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000182224137/iZsDqbVn.jpeg"", ""name"": ""Mere"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 2695, ""screen_name"": ""mLovelyyy"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Aug 04 07:05:44 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Rapped #ViewsFromTheSix and she was highly impressed... What can I say 😹 https://t.co/kXsgoRsWYR
+@heavyglxxm Hahahah... Guess... I got 3😈😈😈
+I got a huge discount on my piercings today bc I rapped for the beautiful lady doin them 🙆🏼
+Remember when I swore I wouldn't get any more piercings after my septum lol....
+3 new piercings today !!!
+@SHinkle07 ❤️
+Intellectual conversations 📚
+"You're no angel either , baby"
+There's more to me than meets the eye.
+@ouryouthislost @SHinkle07 what Seth said
+Someone cuddle me.
+@SHinkle07 fucking SAMMRMEEEEEE
+"@SHinkle07 In the words of Kat Williams, a hater only has one job to do: to hate. So fuck them."
+@SHinkle07 pls don't call your pretty self stupid babes 🌼
+Bought @Drake and @Beyonce new albums.... Goodbye to today
+@tydollasign We hung out like a month or so ago and I swear they weren't that long. But damn. Fresh 🤑
+Ty your dreads are soooo long https://t.co/SenmCL1yal
+Time to support all my fav artists with purchases :)
+I just found a $30 iTunes card in my pencil holder... God bless
+Ilysm https://t.co/LtpE22pG8A
+Omg @heavyglxxm digging into my old ass selfies retweeting that ish....
+Do I ever sleep? Probably not
+Go pursue something
+"There's plenty of money out there, they make more every day"
+Fav actress Helena. Duh
+My favorite actor is Johnny Depp. ☺️
+Too Good
+Loving @Drake new album... #ViewsFromTheSix 🔥
+How did I not see this photo set? You're glamorous.... 😻 https://t.co/77wmbku0Hr
+Truth https://t.co/w9Io318Phr
+Ugh what do I even do about ya
+@FEfetastic yes! Same! Have a glorious day beautiful! 😍🙈
+@FEfetastic YOURE THE BEST HOW ARE YOU 😻🙆🏼
+Didn't see this coming
+Turn down for... Nothing
+👂🏻😍
+Brooklyn Baby
+You're almost too captivating
+I love me some @kayejayne !!! Hope Texas is treating you well 💕
+@mLovelyyy I had to say only twice to show my seriousness
+"I literally only, only, fuck with GOOD vibes"
+@shanialovexo you're literally so fabulous wtf? 😻
+@shanialovexo good luck 💃🏼
+lol look it's me  https://t.co/taSGMDSyby
+"Complaining and bitching will get you nowhere... Be proactive. Get shit done; chase your goals, damnit"
+Y'all can just go away now thnx
+@foxcheyenne_ Just do it... I'm doing mine soon too.. Yolo? 😹
+Get cho shit together
+@ouryouthislost if I could send u an enchilada platter I would ok
+Tomorrow !
+I hope I'm making you smile from afar
+Woke The F*ck Up
+Take a sec to slow down
+You are fucking flawless. Slay Shania. SLAAAAY MY LIFE!!! 😻😻😻😻 https://t.co/GyBiYvWvBp
+I can't wait to have a photo op with @wizkhalifa this summer 😍
+"@ouryouthislost Plans: We're seeing Nick/Demi, Drake/Future, then Wizzy/Snoop this summer😈"
+Today is a beautiful day
+Sunset Blush | Chamomile | G
+You got me 💃🏼
+@khovde4 it's me. HAAAAY GURRLLLL
+"@foxcheyenne_ yeah man time flies, glad you're well 😈💋"
+Breathe with the walls
+Support positivity 💫
+"I adore how lush the westside is, but I can't wait to get back home tonight ! ☀️🌲"
+"What the fuck Cheyenne, ur a goddess !!!! 🙆🏼 https://t.co/JDLr0Z45G1"
+Omfg @foxcheyenne_ I didn't even realize that was you ! Girl what's good how've you been 😻
+"""Guess what I'm sitting under?"" ""A cork tree?"""
+I just fuckin love living
+Basically. You're also not broke if you don't pay your own rent... Just saying  https://t.co/6GYnKChKIB
+@coldplay I meant 4...
+@khovde4 Every time. And usually with the damn elevator itself.
+Garrett and I are gonna go see @Drake this summer !!! 😻
+"Word of the day is ""Flivver"": something of unsatisfactory quality or inferior grade"
+@__queenpeach please drive safe love!
+Damnnnnn @coldplay was 3 years ago today!
+Britany gives me fuckin life man. I love that girl. So much!
+@shanialovexo Giiiirl I'm fuckin rooting for you 😝💋
+🐤🐦🐥💫☄💥🌬
+Can't beat when I saw Drake and Lil Wayne together. But seeing @1future live will be glorious 😈
+*is listening to Drake and Future mix as their tour gets announced*
+Life motto? 😹😄 https://t.co/6cJ6TXCHXx
+Ohhhh shiiiiit this summer is about to be filled with concerts. Yasssss
+Oh fuck. Got me fucked up. @ouryouthislost We're fucking going. 😻😻😻😻 https://t.co/Es6M87vfrc
+Purple Reign ☔️
+Time to write an essay about Socrates 🐢
+Slow and steady wins the race
+Girl yes 😹😹 https://t.co/k01BXkQoaL
+So many enthralling things happening in my life 💃🏼
+Life excites me 😁
+Amazing amazing AMAZING show!!!! @rihanna
+ColleGrove
+You are just magically beautiful babe! https://t.co/s54fiWRpOI
+I absolutely love food 😻
+Plus side.... In 12 hours I'll be on my way to Seattle for @rihanna 😈
+This is the longest I've been away from Jax ever 😿
+@khovde4 Mhm. 😘🔮💫👽😽💋💓 Always.
+Fuccin babes  https://t.co/06uDtmiaKH
+I'm a goober 😝
+@ouryouthislost You are so beautiful !
+Fuck the ER
+Brb crying because I have to sleep without Jax
+Savage
+I feel so helpless because I'm a cripple :(
+And I can't believe how much we have in common.
+Damn... You make me happy.
+"Seems like no one understands how awful I feel. Fuck these meds, fuck this accident, fuck everything right now."
+Someone get me this. Need https://t.co/6LpojwYm7a
+I don't like that I'm awake rn bc of pain but happy 4:20 on 4/20 😻 https://t.co/kqBDpFLlOe
+Not sure which was my favorite: 3 hours at the hospital or 3 at the police station
+I got ran over today while biking it was really fun
+Everything hurts
+Posted up in the ER waiting but I'm pretty sure my foot is broken. 🙄
+S/O to the car that ran me over today while I was biking
+My cabana ~~~
+Got me like😍
+😻😻😻😻😻
+I love meeting new people.
+Such a gloriously sunny day. Soakin up every drop 🌞
+Bb you're like a drug ❤️
+"Girl you got that bomb, call it Bombay 😝"
+@khovde4 I love my ◾️⚫️⬛️▪️ stone
