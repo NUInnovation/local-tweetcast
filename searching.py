@@ -10,7 +10,7 @@ from collections import defaultdict
 from pprint import pprint
 from api import candidate_supporter_tweets_folders, candidate_handles, candidate_supporters
 from random import shuffle
-
+from sklearn import svm
 # logging for gensim
 # logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -32,22 +32,8 @@ def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, pat
     corpus.append(dictionary.doc2bow(text))
     return dictionary, corpus, id_to_path_dict
 
-def add_to_gensim_hashtag_dictionary_and_corpus(hashtag_dict, hashtag_corpus, id_to_path_dict_hashtag, path_to_tweets_csv):
-    block_of_tweets = ''
-    with open(path_to_tweets_csv) as tweetsfile:
-        tweetreader = csv.reader(tweetsfile)
-        metadata = tweetreader.next()
-        for tweetrow in tweetreader:
-            tweetstring = tweetrow[0]
-            block_of_tweets += tweetstring
-    clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
-    text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist and word[0] == '#']
-    id_to_path_dict_hashtag[len(hashtag_corpus)] = path_to_tweets_csv
-    hashtag_dict.add_documents([text])
-    hashtag_corpus.append(hashtag_dict.doc2bow(text))
-    return hashtag_dict, hashtag_corpus, id_to_path_dict_hashtag
-
-def test_tfidf(training_set_size_fraction, k_neighbors):
+def split_to_testing_and_training(training_set_size_fraction):
+    '''Returns a training and testing set along with a corpus and dictionary and id to path dictionary'''
     training_set = []
     testing_set = []
 
@@ -63,72 +49,68 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
             else:
                 testing_set.append(filepath)
 
+    return testing_set, training_set
+
+def create_tfidf(training_set):
+    # finished splitting into testing and training
     corpus = []
     id_to_path_dict = {}
     dictionary = corpora.Dictionary()
-
-    hashtag_corpus = []
-    id_to_path_dict_hashtag = {}
-    hashtag_dictionary = corpora.Dictionary()
 
     for training_filepath in training_set:
         print 'adding', training_filepath, 'to corpus/dictionary...'
         dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
-        hashtag_dictionary, hashtag_corpus, id_to_path_dict_hashtag = add_to_gensim_hashtag_dictionary_and_corpus(hashtag_dictionary, hashtag_corpus, id_to_path_dict_hashtag, training_filepath)
 
     tfidf = models.TfidfModel(corpus)
-    tfidf_corpus = tfidf[corpus]
     index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
 
-    tfidf_hashtag = models.TfidfModel(hashtag_corpus)
-    tfidf_corpus_hashtag = tfidf_hashtag[hashtag_corpus]
-    index_hashtag = similarities.MatrixSimilarity(tfidf_hashtag[hashtag_corpus], num_features=len(hashtag_dictionary))
+    return tfidf, index, dictionary, id_to_path_dict
 
+def classify_tfidf_knn(tfidf_model, dictionary, index, document_to_query, k_neighbors, id_to_path_dict):
+    vec_bow = dictionary.doc2bow(document_to_query)
+    vec_tfidf = tfidf_model[vec_bow] # convert the query to TDIDF space
+    sortedresult = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))], key=lambda x: x[1], reverse=True)
+    mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
+    for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
+        if folder_name == mode:
+            return candidate_handle
+
+def get_block_of_tweets(filepath):
+    block_of_tweets = ''
+    with open(filepath) as tweetsfile:
+        tweetreader = csv.reader(tweetsfile)
+        metadata = tweetreader.next()
+        for tweetrow in tweetreader:
+            tweetstring = tweetrow[0]
+            block_of_tweets += tweetstring
+    clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+    text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
+    return text
+
+def test_tfidf_knn(training_set_size_fraction, k_neighbors):
+    testing_set, training_set = split_to_testing_and_training(training_set_size_fraction)
+    tfidf, index, dictionary, id_to_path_dict = create_tfidf(training_set)
+    # now do the testing
     rightcount = 0
     wrongcount = 0
 
-    rightcount_hashtag = 0
-    wrongcount_hashtag = 0
-
     for testing_filepath in testing_set:
-        block_of_tweets = ''
-        with open(testing_filepath) as tweetsfile:
-            print 'adding', testing_filepath, 'to testing set...'
-            tweetreader = csv.reader(tweetsfile)
-            metadata = tweetreader.next()
-            for tweetrow in tweetreader:
-                tweetstring = tweetrow[0]
-                block_of_tweets += tweetstring
-        clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
-        text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
-        hashtag_text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist and word[0] == '#']
-
-        doc_to_check = text
-        vec_bow = dictionary.doc2bow(doc_to_check)
-        vec_tfidf = tfidf[vec_bow] # convert the query to TDIDF space
-        sortedresult = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))], key=lambda x: x[1], reverse=True)
-        mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
-        if mode == testing_filepath.split('/')[0]:
+        text = get_block_of_tweets(testing_filepath)
+        classification = classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict)
+        for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
+            if folder_name == testing_filepath.split('/')[0]:
+                true_candidate = candidate_handle
+        if classification == true_candidate:
             rightcount += 1
         else:
             wrongcount += 1
+    return rightcount / float(rightcount + wrongcount)
 
-        doc_to_check_hashtag = hashtag_text
-        vec_bow_hashtag = hashtag_dictionary.doc2bow(doc_to_check_hashtag)
-        vec_tfidf_hashtag = tfidf_hashtag[vec_bow_hashtag] # convert the query to TDIDF space
-        sortedresult_hashtag = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index_hashtag[vec_tfidf_hashtag]))], key=lambda x: x[1], reverse=True)
-        mode_hashtag = max(set([tup[0].split('/')[0] for tup in sortedresult_hashtag[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
-        if mode_hashtag == testing_filepath.split('/')[0]:
-            rightcount_hashtag += 1
-        else:
-            wrongcount_hashtag += 1
-    return rightcount / float(rightcount + wrongcount), rightcount_hashtag / float(rightcount_hashtag + wrongcount_hashtag)
+def test_tfidf_svm(training_set_size_fraction):
+    testing_set, training_set = split_to_testing_and_training(training_set_size_fraction)
 
 def predict_candidate(blob_of_tweets, k_neighbors):
-    corpus = []
-    id_to_path_dict = {}
-    dictionary = corpora.Dictionary()
-
+    training_set = []
     for candidate_handle in candidate_handles:
         candidate_folder = candidate_supporter_tweets_folders[candidate_handle]
         dirlist = os.listdir(candidate_folder)
@@ -136,32 +118,25 @@ def predict_candidate(blob_of_tweets, k_neighbors):
         shuffle(dirlist)
         for i in range(len(dirlist)):
             filepath = os.path.join(candidate_folder, dirlist[i])
-            #print 'adding', training_filepath, 'to corpus/dictionary...'
-            dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, filepath)
+            training_set.append(filepath)
 
-    tfidf = models.TfidfModel(corpus)
-    tfidf_corpus = tfidf[corpus]
-    index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
+    tfidf, index, dictionary, id_to_path_dict = create_tfidf(training_set)
 
     clean_block_of_tweets = utils.any2unicode(blob_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
     text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
 
-    doc_to_check = text
-    vec_bow = dictionary.doc2bow(doc_to_check)
-    vec_tfidf = tfidf[vec_bow] # convert the query to TDIDF space
-    sortedresult = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index[vec_tfidf]))], key=lambda x: x[1], reverse=True)
-    mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
-    for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
-        if folder_name == mode:
-            return candidate_handle
+    return classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict)
+
+
+print predict_candidate('hello world woot woot hello democrat republican', 7)
 
 # testdict = {}
 # # for i in range(3, 30):
 # testdict[7] = test_tfidf(0.3, 7)
-# testdict = {}
+testdict = {}
 # # for i in range(3, 30):
-# testdict[7] = test_tfidf(0.3, 7)
-# # pprint(testdict)
+testdict[7] = test_tfidf_knn(0.3, 7)
+pprint(testdict)
 # testing_dict = {}
 # for kn in range(4, 18):
 #     testing_dict[kn] = test_tfidf(0.7, kn)
