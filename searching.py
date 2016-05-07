@@ -136,8 +136,12 @@ def predict_candidate(blob_of_tweets, k_neighbors):
         shuffle(dirlist)
         for i in range(len(dirlist)):
             filepath = os.path.join(candidate_folder, dirlist[i])
-            print 'adding', training_filepath, 'to corpus/dictionary...'
-            dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
+            #print 'adding', training_filepath, 'to corpus/dictionary...'
+            dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, filepath)
+
+    tfidf = models.TfidfModel(corpus)
+    tfidf_corpus = tfidf[corpus]
+    index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
 
     clean_block_of_tweets = utils.any2unicode(blob_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
     text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
@@ -151,4 +155,14 @@ def predict_candidate(blob_of_tweets, k_neighbors):
         if folder_name == mode:
             return candidate_handle
 
-print test_tfidf(0.7, 10)
+# testdict = {}
+# # for i in range(3, 30):
+# testdict[7] = test_tfidf(0.3, 7)
+# testdict = {}
+# # for i in range(3, 30):
+# testdict[7] = test_tfidf(0.3, 7)
+# # pprint(testdict)
+# testing_dict = {}
+# for kn in range(4, 18):
+#     testing_dict[kn] = test_tfidf(0.7, kn)
+# pprint(testing_dict)
