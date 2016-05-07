@@ -32,6 +32,21 @@ def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, pat
     corpus.append(dictionary.doc2bow(text))
     return dictionary, corpus, id_to_path_dict
 
+def add_to_gensim_hashtag_dictionary_and_corpus(hashtag_dict, hashtag_corpus, id_to_path_dict_hashtag, path_to_tweets_csv):
+    block_of_tweets = ''
+    with open(path_to_tweets_csv) as tweetsfile:
+        tweetreader = csv.reader(tweetsfile)
+        metadata = tweetreader.next()
+        for tweetrow in tweetreader:
+            tweetstring = tweetrow[0]
+            block_of_tweets += tweetstring
+    clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+    text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist and word[0] == '#']
+    id_to_path_dict_hashtag[len(hashtag_corpus)] = path_to_tweets_csv
+    hashtag_dict.add_documents([text])
+    hashtag_corpus.append(hashtag_dict.doc2bow(text))
+    return hashtag_dict, hashtag_corpus, id_to_path_dict_hashtag
+
 def test_tfidf(training_set_size_fraction, k_neighbors):
     training_set = []
     testing_set = []
@@ -52,16 +67,28 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
     id_to_path_dict = {}
     dictionary = corpora.Dictionary()
 
+    hashtag_corpus = []
+    id_to_path_dict_hashtag = {}
+    hashtag_dictionary = corpora.Dictionary()
+
     for training_filepath in training_set:
         print 'adding', training_filepath, 'to corpus/dictionary...'
         dictionary, corpus, id_to_path_dict = add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, training_filepath)
+        hashtag_dictionary, hashtag_corpus, id_to_path_dict_hashtag = add_to_gensim_hashtag_dictionary_and_corpus(hashtag_dictionary, hashtag_corpus, id_to_path_dict_hashtag, training_filepath)
 
     tfidf = models.TfidfModel(corpus)
     tfidf_corpus = tfidf[corpus]
     index = similarities.MatrixSimilarity(tfidf[corpus], num_features=len(dictionary))
 
+    tfidf_hashtag = models.TfidfModel(hashtag_corpus)
+    tfidf_corpus_hashtag = tfidf_hashtag[hashtag_corpus]
+    index_hashtag = similarities.MatrixSimilarity(tfidf_hashtag[hashtag_corpus], num_features=len(hashtag_dictionary))
+
     rightcount = 0
     wrongcount = 0
+
+    rightcount_hashtag = 0
+    wrongcount_hashtag = 0
 
     for testing_filepath in testing_set:
         block_of_tweets = ''
@@ -74,6 +101,7 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
                 block_of_tweets += tweetstring
         clean_block_of_tweets = utils.any2unicode(block_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
         text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
+        hashtag_text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist and word[0] == '#']
 
         doc_to_check = text
         vec_bow = dictionary.doc2bow(doc_to_check)
@@ -84,7 +112,17 @@ def test_tfidf(training_set_size_fraction, k_neighbors):
             rightcount += 1
         else:
             wrongcount += 1
-    return rightcount / float(rightcount + wrongcount)
+
+        doc_to_check_hashtag = hashtag_text
+        vec_bow_hashtag = hashtag_dictionary.doc2bow(doc_to_check_hashtag)
+        vec_tfidf_hashtag = tfidf_hashtag[vec_bow_hashtag] # convert the query to TDIDF space
+        sortedresult_hashtag = sorted([(id_to_path_dict[tup[0]], tup[1]) for tup in list(enumerate(index_hashtag[vec_tfidf_hashtag]))], key=lambda x: x[1], reverse=True)
+        mode_hashtag = max(set([tup[0].split('/')[0] for tup in sortedresult_hashtag[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
+        if mode_hashtag == testing_filepath.split('/')[0]:
+            rightcount_hashtag += 1
+        else:
+            wrongcount_hashtag += 1
+    return rightcount / float(rightcount + wrongcount), rightcount_hashtag / float(rightcount_hashtag + wrongcount_hashtag)
 
 def predict_candidate(blob_of_tweets, k_neighbors):
     corpus = []
@@ -113,8 +151,4 @@ def predict_candidate(blob_of_tweets, k_neighbors):
         if folder_name == mode:
             return candidate_handle
 
-testing_dict = {}
-for kn in range(4, 18):
-    testing_dict[kn] = test_tfidf(0.7, kn)
-
-pprint(testing_dict)
+print test_tfidf(0.7, 10)
