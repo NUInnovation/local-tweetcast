@@ -1,0 +1,194 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 312213753, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/722173476782673921/ZCBwBj8i_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 16, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""312213753"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729139428011212800, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729139428011212800"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 02:42:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 366, ""description"": """", ""friends_count"": 77, ""location"": ""North Carolina"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/722173476782673921/ZCBwBj8i_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Wake Up Sheeples"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 185, ""screen_name"": ""MariellenTilden"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Jun 06 19:21:35 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@AllenWest the GOP will learn that the people will decide this election, NOT them!"
+@FoxBusiness @POTUS @HillaryClinton @BernieSanders Not the kind of healthcare this band of arseholes want to give us https://t.co/GJc2yLC1Ns
+@marklevinshow @tparti DILIGAF!! Trump be cuz it's time for a complete change!
+@DottieFincham @SoCal4Trump @FedUpAmerican5 Sucks 2 B U! People have spoken! https://t.co/7qEdvSE5y0
+@DottieFincham @SoCal4Trump @FedUpAmerican5 hold your noses and vote for Trump or kiss America Ba bye! Think of ur kids not ur self!
+@justabob @Blue_Sunflowers @ElsaLion2 DOJ stinks just like the last 8 years of BHO!
+@drEkuaa @ElsaLion2 sorry...this was never and is not about race! Grow up! It's about pervs using the ladies room not transgendered!
+@justabob @Blue_Sunflowers @ElsaLion2 started cuz Local Charlotte council passed HB1. Use the bathroom you want to use. Gov. Passed HB2.
+@Blue_Sunflowers @ElsaLion2 @justabob yes we do. HB2 prevents makes from using the ladies room whereas HB1 allowed it!
+@Blue_Sunflowers @ElsaLion2 @justabob @DRUDGE_REPORT HB2 prevents straight males from using the ladies room which HB1 allowed! Wake up!
+@Blue_Sunflowers @ElsaLion2 @justabob @DRUDGE_REPORT This isn't about protecting from transgenders! Read the law b4 u comment!
+@Blue_Sunflowers @ElsaLion2 @justabob @DRUDGE_REPORT Read the law dummy! It allows anyone in any bathroom trans or not! Got kids? WTFUp!
+@DRUDGE_REPORT ROFLMAO! https://t.co/6bNnADoIB5
+@BreitbartNews https://t.co/I0g5OxOann
+@foxandfriends tell them no way!
+@FoxBusiness @tedcruz @realDonaldTrump Teddy boy ur ass is grass and Trump the lawn mower! C Ya! https://t.co/LO5DDXZNhs
+@BreitbartNews large iced latte had 3/4 of the large size cup full of ice after I finished it! Sleazy !
+@benshapiro @thorntoncrowe Ben.......grow the hell up!
+"@BreitbartNews Sorry, but don't think Disney is going to listen to their warped request!"
+@FoxNews @POTUS https://t.co/EYelQk25vL
+@jeffreydirck @ErinBSullivan @nytimes @nytopinion Bill and The lady douche deserve each other! https://t.co/wKfOwZrWby
+"@HeyTammyBruce @NBCNewYork Paid protestors, hood rats and the likes!"
+@FoxNews @RebeccaHagelin @realDonaldTrump Trump is a thousand times more qualified than the arsehole in the White House now!
+@eleventy17 @HeyTammyBruce @NYJooo Lezbe friends!
+[Video] Here’s what Carly Fiorina REALLY thinks of Ted Cruz https://t.co/0XKYJX0gy6 via @
+@fuzzychimpcom stupidity rests with people like u who still think Cruz can win! He is finished. Too bad sooooo sad!
+@FoxBusiness  all Trump needs is 250 delegates now! Piece of cake for him!
+@fuzzychimpcom @tedcruz @josie_peterson do a little checking into Teds background then perhaps you will comprehend the comparison to Obummer
+@benshapiro Grow up Ben!
+@josie_peterson @tedcruz @CarlyFiorina https://t.co/lOs3GJV4xl
+John Boehner Has Some Not-So-Nice Things To Say About Ted Cruz https://t.co/om59BKzxRx
+@FoxBusiness @TDKasich4US @JohnKasich @LizClaman Kasich fans keep on dreaming! Never ever Kasich!
+@DRUDGE_REPORT https://t.co/fATZV7gefo
+@DRUDGE_REPORT https://t.co/VxwaQ475gR
+@ShepNewsTeam won't be watching!
+@marklevinshow the only desperado is your boy Ted Cruz! https://t.co/UxeURgKBjS
+@rtxNewsSource @tedcruz @CarlyFiorina https://t.co/DeC4QUa6Jf
+@chrish61 @tedcruz @CarlyFiorina https://t.co/EbUfWGxOln
+@FoxNews @tedcruz https://t.co/ezfikXWxOv
+@tedcruz You can announce the Pope as your VP it doesn't matter. You are finished! https://t.co/IFrdcitRlx
+"@FoxNews he can announce the Virgin Mary as his VP! He is done, finished now drop out!"
+@Heritage @SenMikeLee @DailySignal supremes job is to interpret the law not try to make it! Illegal means illegal! https://t.co/Z89lAzhIL6
+@BreitbartNews Paul Ryan is a useless phony who isn't worth the time of day!
+@benshapiro the Grand Old Party is dying! It's done! Get used to it and get over it! We the people have had enough!
+@bspielb @realDonaldTrump Trump may be all of those things but Creepy Cruz and Kasich can't win. Trump can and will! The people will c 2 it!
+"@bspielb @HeyTammyBruce @realDonaldTrump would love to engage u in a battle of wits, Mr. Bill but it is obvious you are unarmed."
+"@BreitbartNews Cher, do the country a favor and go crawl back under your rock!"
+@bspielb @HeyTammyBruce @realDonaldTrump anyone voting for Teddy boy definitely missed the brain train! He is as phony as the day is long!
+"@bspielb @HeyTammyBruce @realDonaldTrump Cruz won't be the nominee! If BS was electricity he could power the world! No insiders, no Cruz!"
+@HeyTammyBruce @NYJooo sort of like comparing crap to a tootsie roll! https://t.co/1lROLI1dyp
+@BreitbartNews hope they don't  mind working for a convicted felon in a prison cell 😂 https://t.co/uZerTEogWd
+@JosieBrendaA @merrybird @FoxBusiness @RiskRewardFBN what's ur point? Bet you can pee in either bathroom!
+@greta @tedcruz @JohnKasich @realDonaldTrump @mviser @rickklein @FoxNews nothing will derail the Trump Train! https://t.co/ckXatH2vJy
+@NationalNurses nothing is free idiot! https://t.co/msNWr97LDK
+@FoxBusiness @realDonaldTrump @tedcruz @cvpayne STICK IT TO CRUZ AND KASICH VOTE TRUMP TOMORROW!
+@FoxNews @JohnKasich @tedcruz vote Trump. To heck with Kasich and snake face!
+@JosieBrendaA @merrybird @FoxBusiness @RiskRewardFBN pee where u have been peeing since you have been trans! https://t.co/TIC4sy7X6b
+@FoxBusiness https://t.co/YDsox4NRHe
+"@BreitbartNews Snake Face Cruz won't get the change to go ""there"" with Hitlery! He is unelectable!"
+@PatrioticFever As long as the people are armed he won't do it! There are more of us than there are of him and his minions!
+@DRUDGE_REPORT https://t.co/rkCqp6FXEj
+@FoxNews @tedcruz landslides? bwaaaaaahaaaaaa!
+@FoxNews @tedcruz @HillaryClinton too bad u won't get the chance Tedster!
+@FoxNews @JohnKasich @tedcruz @TeamCavuto Drop out Kasich cuz u can't either!
+"@FoxNews @JohnKasich @TeamCavuto Ut won't be you,Johnny Boy!"
+@SecureAmerica LMAO want Obama to put a stop to this! He is a gutless wonder and laughing stock! https://t.co/nNHEDWaJG1
+@Heritage @DailySignal @GovAbbott SCOTUS's damn job is to interpret the law..NOT make the law!
+@HeyTammyBruce @pat_ess hmmm let's see. The child has a penis-male....a vagina-female! WTF is wrong with society!
+@FoxNewsInsider @foxandfriends California's need to refuse to abide by any law restricting the Second Amendment! https://t.co/7IRfwMRSoW
+@DRUDGE_REPORT @Kmsp TMZ is saying the deceased is Prince. Guess we will await official word.
+"@BreitbartNews And we will keep buying more so we have too, too many!!  Tough cookies Hitlery and company! Molen Labe!"
+"@BreitbartNews the sooner the scumbag is gone the better for the Cuban people, I hope."
+@BreitbartNews another Hollywood moron speaks! https://t.co/1nATAB89rO
+@HeyTammyBruce @FreeBeacon @Kredo0 https://t.co/9EdLYDeUMZ
+@FoxNews @oreillyfactor if she doesn't get indicted it should still ruin her since the FBI will go public! https://t.co/IUo4aIMuw8
+@gbrvo @foxnation YOU support the cowardly lion! He is a disgrace to the office he holds. Moochelle has the testicles in the White House!
+@FoxNews @GeraldoRivera @HillaryClinton her jail cell may also seem inevitable! https://t.co/34E510Olhh
+@FoxBusiness @LizClaman wait til it crashes and it will!
+@DRUDGE_REPORT Obama is the laughing stock of the world! https://t.co/2L2Nmnazgw
+@CatoInstitute even if she wasn't a good choice she is black and female....fits the PC crap to a tee!
+@FoxNews I'll ask for two Tens. Thank u very much. Sick of the racial PC crap!
+@DRUDGE_REPORT move them in with the unvetted Syrian Refugees!
+@charlescwcooke @BretBaier @politico killed two birds with one stone. Not only is it a woman but a black woman! Yay for the race card!
+@DRUDGE_REPORT https://t.co/MFrXLFNU7A
+"@RMConservative @DRUDGE_REPORT what Trump can't fix, the people will. The political revolution currently underway is just the beginning!"
+@realDonaldTrump go Trump!!
+@avemariae @AllenWest @DRUDGE_REPORT https://t.co/fUmBsaemY2
+@NYJooo https://t.co/xuqm2WgpnZ
+@foxandfriends Hmmmmm will the scrawny weasel bow or kneel this trip?! Useless....phony......lying.....twirp!
+@FoxBusiness @HillaryClinton https://t.co/Mea8o7OzOt
+@greta @michelfaulkner @FoxNews if we get out the  vote by getting all the people who haven't voted in yrs off their butts. We win !
+@foxandfriends about time!
+@FoxNews he could be Jaspers brother 😄 https://t.co/tcrkMUefOo
+@tedcruz https://t.co/U5y6M3PMSm
+@missjkim56 @AllenWest Consider yourself fooled and do a little research on the Tedster!
+@missjkim56 @AllenWest Cruz is an insider. Read his donor list!
+@missjkim56 @AllenWest Kim assume which u did by me a Trumpbot makes an ass out of u. I haven't made any decision yet!
+@DOSMutt @CBSNews old news. What's ur point?!  This is America vote for whom ever  u like!
+@DOSMutt what does how he voted have to do with who he is now? Lots of people change parties.He is a businessman. America needs an outsider!
+@jmhpro @mcwashtx @AmandaMarcotte https://t.co/PReG1nD7zo
+"@DOSMutt I made a statement about Trump. Doesn't mean I am a fan of his. Poorly educated people vote for Dems!, not Trump."
+@gmcnhawkeye @AllenWest no person with half a brain would vote for Cruz!
+@missjkim56 @AllenWest what is disappointing is that people still want to vote for a Washington insider like Cruz!
+@DOSMutt @AllenWest Trump has voted Repubkicsn since the 80's ! Get a clue!
+@FoxNews @heidiscruz https://t.co/IKmSMiuNvk
+"@ShannonBream if SCOTUS interprets the law like they are supposed to, instead of trying to make the law, OTRAITOR loses! God Bless America!"
+@MarkSimoneNY @AnnCoulter https://t.co/UHFT0T7npZ
+@tedcruz @oreillyfactor @FoxNews don't worry we won't miss u! Nor will we watch u!
+@foxandfriends @EricTrump https://t.co/xYEy8Ac4oB
+@greta Niope!
+@tedcruz never ever Creepy Cruz!!!
+@FoxNews who cares!
+@foxandfriends creeping Sharia at its finest!
+@F117_Stealth @FoxNews @SpeakerRyan of course there won't be! Liars!
+@KatiePavlichWhat Fields said happened didn't! The security video proved it along with her old bruises on her lower arm! Case closed!
+@DRUDGE_REPORT good thing it takes 2/3 of the states to make any changes! https://t.co/eA3nWXoaes
+@DRUDGE_REPORT time to check out the ammo supply!
+"@FoxNews @heidiscruz what is wrong with her face😱😱😱😂😂😄she looks like an ad for the program ""Botched""!"
+@ainsleyearhardt @FoxNews @megynkelly wouldn't watch Megyn If u paid me.She is an arrogant know it all bitch who thinks she craps rose buds!
+@BreitbartNews Kasich is insane!
+@FoxNews @holliesmckay Shoot to kill! Dead men don't tell tales !
+@FoxNews  Kelly sucks and Hideous Cruz should have! Maybe her hubby wouldn't have cheated on her!
+@AllenWest won't vote for any nominee resulting from dirty politics!For the 1st time in my life I will vote Dem to shove it to the  GOP!
+@DanaPerino love these dogs 😊
+@KatiePavlich @_juliannemoore gotta love the Hollywood Libtards! https://t.co/3vMiKY6pBi
+"@foxandfriends guns aren't the problem, idiot! People kill people! In China they use knives! https://t.co/J6mQ88UrkR"
+"@FoxNews @JohnKasich @seanhannity Kasich, drop out or drop dead ! No one is going to vote for you, ever!"
+@KatiePavlich https://t.co/NgtS5YXv6i
+@TwitchyTeam @benshapiro The moron out to try playing President!
+@CR @michellemalkin POS won't get my vote! The GOP will be NO MORE!
+@foxandfriends Kerry is a traitor and a disgrace to America! He and Odumbo just gave a green light to Iran to build Nukes!
+@foxandfriends Who cares what Brennan says! Fire his Butt! Case closed!
+@FoxNews @POTUS @HillaryClinton @FoxNewsSunday https://t.co/WZoQUt6t8S
+"@FoxNews yeah, like anyone with a half a brain would believe the phony  liar in chief! https://t.co/yfiw5RROtZ"
+#JudgeJeanine You are right on Judge! I will vote Democrat if the GOP pulls this stunt! Screw it!
+@DRUDGE_REPORT this country has gone to hell! This is disgusting!
+"@JetJacket @KatiePavlich they don't call them Massholes for no reason! The ""D"" beside a name  is all they need !"
+@JudgeJeanine https://t.co/CcSlLzON3D
+@MonicaCrowley @WashTimes the real secret of Sanders success are the Moronlennials who don't have a clue!
+@JudgeJeanine @FoxNews LIghanle considering the GOP hates both Trump and Cruz. Neither will be the nominee in my opinion! Wake up people!
+@tedcruz @oreillyfactor @FoxNews Sorry Bill but I wouldn't watch Turd Cruz if u paid me!
+"@HeyTammyBruce @NYJooo she is such a phony douche! Hope she trips, falls and lands on the third rail!"
+@BreitbartNews don't watch Megyn Kelly anymore! Can't stand her and her holier than thou attitude!
+@FoxBusiness @tedcruz @HillaryClinton And there you go! Cruz guarantees we lose!
+@megynkelly @TuckerCarlson @tedcruz neither Cruz or Trump will get the nomination if The GOP (Goons On Parade) have their way! Wake up !
+@FoxNews LMAO! https://t.co/fBV8OmsGR3
+@ATechAutoMag @megynkelly @tedcruz can't wait to see if Cruz's phone number is on the DC Madams list!
+@HeyTammyBruce rove needs to jump in a hole and pull the dirt over his head! No one cares what he has to say! Fresh young faces are needed!
+@foxandfriends Kasich won't leave. Rumor has it he is being paid to stay in by Soros!
+@williamsk541 @AllenWest bet Hitlery drinks Massengill on the rocks! What a douche! https://t.co/bQ3s4RIRvA
+@AllenWest A face that could stop a clock! Idiot!
+@soylentgs @BreitbartNews @MichelleDiana the RNC  is breaking their own rules with all of the backdoor bullcrap they are pulling !
+@DRUDGE_REPORT @politico Ryan...another guaranteed loser!
+@BreitbartNews @MichelleDiana Sleazy Ted will never see the presidency! He couldn't win a nose picking contest!
+@ShannonBream https://t.co/dE5L0HFOmb
+@IngrahamAngle The Library of Congress won't stop the people from using the term illegal.First Amendment rocks! https://t.co/kRdpuRojLR
+@NYJooo says the pot calling the kettle black!
+@HyperSentinel2 @JonathanHoenig I don't care what Trump is. He is better than any of the others running!
+@FoxNews @JonathanHoenig when pigs fly!! Obama can accept them all at his house! Meanwhile the rest of us will stock up on ammo.
+@FoxNews @POTUS Obama is an incompetent fool! Work with Iran? Seriously ?!?! This clown should be locked up and the key thrown away!
+@foxandfriends Netter check up on how many Muslim Brotherhood peeps are working in Otraitor's administration!
+@DRUDGE_REPORT a fresh face should begin by getting rid of Rove who has been around forever! Trump is a fresh face! Not a politician!
+@JudgeJeanine @FoxNews Screwbio Rubio!
+@greta @JohnKasich @FoxNews Kasich is a Washington Insider which we are sick and tired of!
+@BreitbartNews Beck will destroy his own career!
+@FoxNews @DougHeye https://t.co/miww0qdSqn
+"@FoxNews @KatiePavlich Trump isn't my fave person, but gotta tell ya, this story has no basis based on the video! Fields is full of it!"
+@FoxNews @tedcruz @realDonaldTrump Lyin' Ted! You are full of crap up to your ears and the rest is toilet paper'
+@DRUDGE_REPORT A lesson in why OPEN BORDERS don't work!
+@junpstart @kww6_kww6 @ginanotjenna @FoxNews @HillaryClinton https://t.co/DkP3lRWHrm
+@ginanotjenna @FoxNews @HillaryClinton https://t.co/cEWiMmLGpO
+"@foxandfriends Close the loophole, OBummer or we the people will do it and I won't b pretty! Just sayin'"
+@greta The Religion of Peace strikes again! Trump is right. Wake up America !
+@FoxNews @JohnKasich keep dreaming Dude! Get out!
+@FoxNews @JohnKasich @AIPAC you don't need to do it cuz the road u r on is a dead end!
+"@FoxNews @JohnKasich @BretBaier Hey John boy,the only thing getting bigger is your mouth! U will never be elected president! Get out!"
+@OutnumberedFNC Soros and his https://t.co/qpyShY8Jpv imbeciles are to blame along with hundreds of paid protestors !
+@BreitbartNews Color is not a good enough reason to appoint a person to the Supreme Court or any other court!
+"@BreitbartNews seriously, does anyone give a damn who Romney votes for? Loooooooooser!"
+@FoxBusiness @MonicaCrowley Hey Dirty Harry...no one gives a flying crap about anything you have to say! U r nothing but a thug!
+Donald Trump attack ad on Hillary Clinton https://t.co/chnvgsYLjb
+@HeyTammyBruce @NYJooo Moochelle would be run out of the country! Enough of the Obama Circus! https://t.co/OnSXEKXeSH
+@JohnJNazarian @FoxNews they continue their ridiculous attack because Trump scares the hell out of them!
+#Greta Yes!
+@DiamicDavis @OutnumberedFNC I think all of us who feel this way will leave and form a new party!
+@OutnumberedFNC we the people have spoken ! The GOP will exist no longer if they mess with this!
+@FoxNews the dude is an anti second amendment  wolf in sheeps clothing !
+@ShannonBream we have more than enough people of color in Obummers administration !
+@BreitbartNews Kasich isn't going anywhere except in his wildest dreams!
+@FoxNews No Ovomit our democracy won't suffer but the one YOU are trying to create will!
+@DRUDGE_REPORT @observer Don't  know about anyone else but I tell the pollsters what they want to hear! Not how I will be voting!
+@nickchuma @marcorubio total waste of a vote! Rubio is dead.  He just doesn't know it yet!
+@jimgeraghty When I see these polls I think of Reagan being down by quite a few points. Polls don't mean a thing. Trump will roll over her!

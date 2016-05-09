@@ -1,0 +1,76 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 705595132666466304, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728710530265841664/R8hD4Ud-_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 288, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""705595132666466304"", ""profile_background_color"": ""000000"", ""listed_count"": 19, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @gentlemanirish: @charliecrocket3 @Eric32801 @comanche1842 @DebAlwaystrump @SpeakerRyan Hmmm... https://t.co/aJF8Id53Da"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729464652061511680, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 159447476, ""indices"": [3, 18], ""id_str"": ""159447476"", ""screen_name"": ""gentlemanirish"", ""name"": ""N D W""}, {""id"": 709136716335083520, ""indices"": [20, 36], ""id_str"": ""709136716335083520"", ""screen_name"": ""charliecrocket3"", ""name"": ""wacokid""}, {""id"": 1517605531, ""indices"": [37, 47], ""id_str"": ""1517605531"", ""screen_name"": ""Eric32801"", ""name"": ""Eric 328o\u0366\u0366\u0366\u03661""}, {""id"": 294928501, ""indices"": [48, 61], ""id_str"": ""294928501"", ""screen_name"": ""comanche1842"", ""name"": ""yankee girl""}, {""id"": 1400943320, ""indices"": [62, 77], ""id_str"": ""1400943320"", ""screen_name"": ""DebAlwaystrump"", ""name"": ""#Alwaystrump""}, {""id"": 18916432, ""indices"": [78, 90], ""id_str"": ""18916432"", ""screen_name"": ""SpeakerRyan"", ""name"": ""Paul Ryan""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 159447476, ""source_status_id_str"": ""728936546200596484"", ""expanded_url"": ""http://twitter.com/gentlemanirish/status/728936546200596484/photo/1"", ""display_url"": ""pic.twitter.com/aJF8Id53Da"", ""url"": ""https://t.co/aJF8Id53Da"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg"", ""source_user_id_str"": ""159447476"", ""source_status_id"": 728936546200596484, ""id_str"": ""728936544736665600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 866}, ""small"": {""h"": 377, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [99, 122], ""type"": ""photo"", ""id"": 728936544736665600, ""media_url"": ""http://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 18, ""id_str"": ""729464652061511680"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@charliecrocket3 @Eric32801 @comanche1842 @DebAlwaystrump @SpeakerRyan Hmmm... https://t.co/aJF8Id53Da"", ""is_quote_status"": false, ""in_reply_to_status_id"": 728922668909613056, ""id"": 728936546200596484, ""favorite_count"": 23, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 709136716335083520, ""indices"": [0, 16], ""id_str"": ""709136716335083520"", ""screen_name"": ""charliecrocket3"", ""name"": ""wacokid""}, {""id"": 1517605531, ""indices"": [17, 27], ""id_str"": ""1517605531"", ""screen_name"": ""Eric32801"", ""name"": ""Eric 328o\u0366\u0366\u0366\u03661""}, {""id"": 294928501, ""indices"": [28, 41], ""id_str"": ""294928501"", ""screen_name"": ""comanche1842"", ""name"": ""yankee girl""}, {""id"": 1400943320, ""indices"": [42, 57], ""id_str"": ""1400943320"", ""screen_name"": ""DebAlwaystrump"", ""name"": ""#Alwaystrump""}, {""id"": 18916432, ""indices"": [58, 70], ""id_str"": ""18916432"", ""screen_name"": ""SpeakerRyan"", ""name"": ""Paul Ryan""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/gentlemanirish/status/728936546200596484/photo/1"", ""display_url"": ""pic.twitter.com/aJF8Id53Da"", ""url"": ""https://t.co/aJF8Id53Da"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg"", ""id_str"": ""728936544736665600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 866}, ""small"": {""h"": 377, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [79, 102], ""type"": ""photo"", ""id"": 728936544736665600, ""media_url"": ""http://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg""}]}, ""in_reply_to_screen_name"": ""charliecrocket3"", ""in_reply_to_user_id"": 709136716335083520, ""retweet_count"": 18, ""id_str"": ""728936546200596484"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""709136716335083520"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sat May 07 13:16:30 +0000 2016"", ""in_reply_to_status_id_str"": ""728922668909613056"", ""place"": {""full_name"": ""Massillon, OH"", ""url"": ""https://api.twitter.com/1.1/geo/id/005f11de9931c8a4.json"", ""country"": ""United States"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-81.631799, 40.732694], [-81.432311, 40.732694], [-81.432311, 40.896962], [-81.631799, 40.896962]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""005f11de9931c8a4"", ""name"": ""Massillon""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/gentlemanirish/status/728936546200596484/photo/1"", ""display_url"": ""pic.twitter.com/aJF8Id53Da"", ""url"": ""https://t.co/aJF8Id53Da"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg"", ""id_str"": ""728936544736665600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 866}, ""small"": {""h"": 377, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [79, 102], ""type"": ""photo"", ""id"": 728936544736665600, ""media_url"": ""http://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 09 00:15:00 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 159447476, ""source_status_id_str"": ""728936546200596484"", ""expanded_url"": ""http://twitter.com/gentlemanirish/status/728936546200596484/photo/1"", ""display_url"": ""pic.twitter.com/aJF8Id53Da"", ""url"": ""https://t.co/aJF8Id53Da"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg"", ""source_user_id_str"": ""159447476"", ""source_status_id"": 728936546200596484, ""id_str"": ""728936544736665600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 866}, ""small"": {""h"": 377, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 665, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [99, 122], ""type"": ""photo"", ""id"": 728936544736665600, ""media_url"": ""http://pbs.twimg.com/media/Ch2z7OTUYAAyLq8.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 3968, ""description"": ""Wife & mother of 3. East Coast transplant to AZ. Small government, freedom loving conservative. Proud to be American. Greatest country on earth.  TRUMP 2016."", ""friends_count"": 356, ""location"": """", ""profile_link_color"": ""E81C4F"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728710530265841664/R8hD4Ud-_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Kathleen  Dev"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2727, ""screen_name"": ""kmcdev2"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Mar 04 03:26:03 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Love it! https://t.co/Mrff4PyGVk
+The five of them are going to get pretty lonely... https://t.co/O4w5w6Wx3c
+"That ""clank"" was @BenHowe going in the trash can, with the rest of the garbage. https://t.co/utigv39hKH"
+Can you see @HilaryClinton or #DirtyBill doing that?  @realDonaldTrump for #AmericaFirst https://t.co/BuaXQbADqy
+If this keeps up look for @SpeakerRyan to show up at Trump Towers on Wednesday hat in hand. https://t.co/TPMdbFzffk
+Top allies break with Ryan over Trump https://t.co/2kBJhMEMqG
+Will be interesting to see what she is really made of. High expectations! https://t.co/lV1GbuRTUS
+"Send him overboard, he can search for his medals. Time would be better spent! https://t.co/44pR36RQTt"
+#WVPrimary #NEPrimary @realDonaldTrump NEEDS EVERY VOTE ON MAY 10. SEND WASHINGTON ESTABL. @HillaryClinton A MESSAGE https://t.co/xxR4hMRXmB
+May vote for him after all. PLUS @marklevinshow endorsed opponent https://t.co/gbwUP4VBOL
+Finally!!!! https://t.co/0ShIBmnQX2
+Bye bye...@SpeakerRyan We're not as stupid as you thought... https://t.co/S4hckKkGkx
+A traitor and a coward. @JebBush  https://t.co/wZNGy4lclP
+"They're all so dirty, I need a shower. https://t.co/mfmqBkFSV5"
+@realDonaldTrump just gets better and better! https://t.co/hd0HAnBZfV
+"Going, going... GONE @MittRomney  https://t.co/Wa3SZOBwdg"
+"God bless America, God bless Americans https://t.co/qcbgtqtjtS"
+#WVPrimary #NEPRIMARY VOTE  @REALDONALDTRUMP MAY 10. OVERWHELM THEM WITH NUMBERS https://t.co/SGFS97xZgZ
+Says who and who gave him the right to speak for me? https://t.co/TWM2TLJD3e
+"The only dreams these three clowns care about are their own, and screw anyone who doesn't go along! https://t.co/tR0PalFE61"
+Same with the Irish! Knew they were LUCKY to be here.  https://t.co/WUclhU5pPV
+"If you can't get him to meet you at Trump Tower then get there late. Make em wait.
+@rea https://t.co/KUppDPe6XE"
+"If he won't meet you at Trump Tower then get there late. Make em wait.
+@realDonaldTrump is the presumptive presidential nominee not Ryan."
+@realDonaldTrump  https://t.co/UlZAofXVRc
+@realDonaldTrump RIGHT AGAIN... https://t.co/PKanr4BPHa
+"Actually Rush, I think we do. We are way ahead of you! @realDonaldTrump  https://t.co/980thw7zQg"
+American Heroes https://t.co/q73A2AKJ9k
+@HillaryClinton is SO awkward!! Embarrasses herself EVERY time she leaves the house! https://t.co/64NGr9KysD
+"@HillaryClinton @SpeakerRyan BOTH think ppl are stupid. Uh, guess what? You're wrong https://t.co/1RFk8RDP9Y"
+How very sad. https://t.co/y7ZX15nOTN
+Reminds me of why I am SO happy he's gone. #WVPRIMARY #NePrimary VOTE @REALDONALDTRUMP on May 10! No more #lyin'ted https://t.co/k2Y4sIv4CT
+Crawl back under the communal rock Pocahontas! https://t.co/XCX1fzmpFJ
+The Dem's are UNBELIEVABLE. How stupid does she think ppl are? LOL @realDonaldTrump #FinallySome Honesty! https://t.co/OWTNE93PEM
+They need Sheriff Joe! @realDonaldTrump #stopthenonsense https://t.co/4PJSbYGAGj
+UNAMERICAN @BernieSanders tell YOUR supporters to cut it out!!! https://t.co/uPkscNJXz4
+He's got it! @realDonaldTrump for #AmericaFirst https://t.co/TbkglxysXV
+The key word here is FORMER. Another empty suit w/ a mouth full of sour grapes. @REALDONALDTRUMP #AMERICA FIRST https://t.co/z4OvycEkj9
+We need to come out in even greater nos. Continue to overwhelm establ. Strongr the nos. Harder it's for them to deny https://t.co/aVG8En4Lts
+More Republicans Voted Against Mitt Romney in 2012 Than Vote Against Donald Trump 2016... https://t.co/wBTKcvuISC via @thelastrefuge2
+Elizabeth Warren and Donald Trump go after each other on Twitter https://t.co/dx6aMU5tPX via @nypost
+Russia's 'Obama' ice cream deepens chilly relations with US https://t.co/GNZ7bQZTTt via @nypost
+#NeverTrump Movement’s View of Trade Would Have Made Them #NeverReagan https://t.co/Yb3rfu5mMb
+Politico: Key Allies Dump Ryan for Trump https://t.co/QAjxUjol6k
+Team Trump to Ryan: Maybe We Need a New Speaker https://t.co/MplMpdgtIw
+"Love @GovMikeHuckabee ! Another straight talking, common sense Trump supporter.
+Love Trump supporters! https://t.co/HMqi8ANJE1"
+"VIDEO : To DISMAY of Fox News Host, UNBOUND Pennsylvania Delegate Pledges to Vote for TRUMP https://t.co/2Mwp08MjIm"
+SORE LOSER TED CRUZ STILL LASHING OUT &amp;amp; NAME-CALLING https://t.co/aDzYSA3cAX
+And half of them are probably dead!! https://t.co/RHiv3h3d32
+VOTE @realDonaldTrump ON MAY 10 #WVPrimary IT'S NOT OVER TIL HE GET TO 1237. YOUR VOTE IS NEEDED! https://t.co/JnNejzqXdE
+"@topcota1SG @508zamo @billclinton Wasn't trying to correct you, just emphasizing the point!!"
+Too smart for ole @rushlimbaugh . Call us when the light comes on.  https://t.co/fEMJkrzS7d
+"And the Bush""boys"" called him their ""brother by another mother"". https://t.co/hvhFU4C2g2"
+NAILED IT. https://t.co/RdYTkXZYbu
+@newtgingrich https://t.co/2BVPmBrEGc
+@MittRomney two faced phony! God bless @realDonaldTrump. https://t.co/2zpHC1DaBU
+Build the wall. HIGHER.@REALDONALDTRUMP https://t.co/W6Ouz9aohZ
+Gee wiz that is upsetting https://t.co/pnqgD0cQSy
+Dances with dufus https://t.co/q3dlC51J2o
+I forget what is Trump calling her? Dufus?... https://t.co/q3dlC51J2o
+Great! https://t.co/l9MBr4WpnY
+"Good luck  finding  another job, don't use me as a reference! @SpeakerRyan ! https://t.co/Xv0xpjE17T"
+Funny how they ALWAYS forget who is paying their salaries! @SpeakerRyan https://t.co/l5noLBRK95
+#WVPrimary #NEPRIMARY VOTE @REALDONALDTRUMP ON MAY 10. NOT OVER UNTIL HE REACHES 1237. STOP THE STEAL https://t.co/VxwzelwLAg
+We really have to be more  selective about who we let influence us! https://t.co/9cz9w7NF6q
+Wish she'd put a sock in it! https://t.co/3fnPkZpKG7
+Well I have high cheekbones and I'm Irish! https://t.co/Cy67jeXinY
+Not so fast! @kelliwardaz was endorsed by @marklevinshow . That is a game changer for me! https://t.co/p7sDraZwfT
+"No, @tedcruz actually lost because MANY MANY MORE people voted for @realDonaldTrump .Cruz didn't foster trust. https://t.co/QuChBV4gfS"
+"Was leaning towards @kelliwardaz for AZsenate, not McCain. Partly cuz he supported Romey vs Trump. But Mark Levin supports her! Will rethnk"
+"I'm sorry but an endorsement by @marklevinshow is not an endors I'd advertise. Was voting for her, now not sure. https://t.co/5NmxwKcCB1"
+"Please, give it a rest. Time to move on and Make America Great Again! https://t.co/39maNFF8No"
+Love it! https://t.co/PahrVRxlDH

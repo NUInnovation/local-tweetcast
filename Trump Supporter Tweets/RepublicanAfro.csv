@@ -1,0 +1,141 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3365274193, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/693216227242577921/quG3oZ4v_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 768, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3365274193"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 17, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @realDonaldTrump: Happy #CincoDeMayo! The best taco bowls are made in Trump Tower Grill. I love Hispanics! https://t.co/ufoTeQd8yA https\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728443082018988032, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [3, 19], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [{""indices"": [27, 39], ""text"": ""CincoDeMayo""}], ""urls"": [{""url"": ""https://t.co/ufoTeQd8yA"", ""indices"": [110, 133], ""expanded_url"": ""https://www.facebook.com/DonaldTrump/posts/10157008375200725:0"", ""display_url"": ""facebook.com/DonaldTrump/po\u2026""}], ""media"": [{""source_user_id"": 25073877, ""source_status_id_str"": ""728297587418247168"", ""expanded_url"": ""http://twitter.com/realDonaldTrump/status/728297587418247168/photo/1"", ""display_url"": ""pic.twitter.com/k01Mc6CuDI"", ""url"": ""https://t.co/k01Mc6CuDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg"", ""source_user_id_str"": ""25073877"", ""source_status_id"": 728297587418247168, ""id_str"": ""728297574268997636"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728297574268997636, ""media_url"": ""http://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 83906, ""id_str"": ""728443082018988032"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Happy #CincoDeMayo! The best taco bowls are made in Trump Tower Grill. I love Hispanics! https://t.co/ufoTeQd8yA https://t.co/k01Mc6CuDI"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728297587418247168, ""favorite_count"": 108313, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [6, 18], ""text"": ""CincoDeMayo""}], ""urls"": [{""url"": ""https://t.co/ufoTeQd8yA"", ""indices"": [89, 112], ""expanded_url"": ""https://www.facebook.com/DonaldTrump/posts/10157008375200725:0"", ""display_url"": ""facebook.com/DonaldTrump/po\u2026""}], ""media"": [{""expanded_url"": ""http://twitter.com/realDonaldTrump/status/728297587418247168/photo/1"", ""display_url"": ""pic.twitter.com/k01Mc6CuDI"", ""url"": ""https://t.co/k01Mc6CuDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg"", ""id_str"": ""728297574268997636"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""photo"", ""id"": 728297574268997636, ""media_url"": ""http://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 83906, ""id_str"": ""728297587418247168"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu May 05 18:57:30 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/realDonaldTrump/status/728297587418247168/photo/1"", ""display_url"": ""pic.twitter.com/k01Mc6CuDI"", ""url"": ""https://t.co/k01Mc6CuDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg"", ""id_str"": ""728297574268997636"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""photo"", ""id"": 728297574268997636, ""media_url"": ""http://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 04:35:39 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 25073877, ""source_status_id_str"": ""728297587418247168"", ""expanded_url"": ""http://twitter.com/realDonaldTrump/status/728297587418247168/photo/1"", ""display_url"": ""pic.twitter.com/k01Mc6CuDI"", ""url"": ""https://t.co/k01Mc6CuDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg"", ""source_user_id_str"": ""25073877"", ""source_status_id"": 728297587418247168, ""id_str"": ""728297574268997636"", ""sizes"": {""large"": {""h"": 1365, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728297574268997636, ""media_url"": ""http://pbs.twimg.com/media/ChtuyP0VEAQZlY1.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 3736, ""description"": ""As conservatives, personal responsibility, limited government, free markets, individual liberty, traditional American values and a strong national defense rule."", ""friends_count"": 738, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/693216227242577921/quG3oZ4v_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3365274193/1454617627"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Trump2016"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 427, ""screen_name"": ""RepublicanAfro"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Aug 28 01:08:13 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+More science! https://t.co/3GNuNuIc6H
+Six nobodies against millions of Trumpsters. @FoxNews  @SpecialReport  https://t.co/bl87BXnhVi
+Future Democrat voters caught. https://t.co/vLps873cMU
+"Hero, God bless you and thank you for your service. Rest in peace🇺🇸 https://t.co/705wfM88hU"
+Obama economics at work. https://t.co/rlS0PxU8xJ
+Obama economy the truth. https://t.co/y2e0inRF1K
+Wasted middle class tax dollars wasted.  https://t.co/hvl9zdWKvC
+Science! https://t.co/82XdAu6UGK
+Upbeat story! https://t.co/jYNMlAntf7
+Agreed! https://t.co/q6V3Jyqsz2
+"Bullshit, what happened to the contested convention all you @FoxNews experts? https://t.co/p00SrILA4r"
+"The old Republican Party gave us losers Romney, McCain and a 20 trillion dollar debt, screw them.  https://t.co/pF9sJstRvT"
+Why is Megyn giving these two the stage? The millions of Trump voters don't care about these nobodies. https://t.co/W7Pqt93Rb5
+The truth is he wants more democratic voters. https://t.co/CL7d79AFcq
+"Kasich cancels press conference, schedules statement in Ohio later in day https://t.co/ToKHlKdbA5 via @USATODAY. He is quitting."
+Navy SEAL killed by ISIS left promising running future to fight | Fox News |  https://t.co/wZWPvNUuwd
+Navy SEAL killed by ISIS left promising running future to fight | Fox News |  https://t.co/wZWPvOc5UN
+Hillary Clinton Lesbian Love Letters — Panic Over D.C. Investigation | National Enquirer https://t.co/CoPuWfny3z
+"Right-Wing Media Run With ""Unreliable"" Arkansas Woman's Claims That The Clintons Want Her Dead https://t.co/QYnUyLH5h2"
+Former Alleged Bill Clinton Mistress Posts Message: ‘If You Read I Died….by Committing Suicide….Don’t Believe It https://t.co/1yOmivNkRw
+SALLY MILLER: When I met Bill Clinton and the first time we were together | The American Mirror https://t.co/QXqTFxHnBb
+Alleged Mistress: Bill Clinton Has A Small Penis | The Daily Caller https://t.co/gtRnGKyV7t
+John Kasich is not going anywhere after Cruz departure - https://t.co/Zrg6ZX3u76. Weird dude. https://t.co/FzrRNjRpHH
+The more I listen to Cruz I understand why people hate him. https://t.co/QMAJY6K4rc
+This man has really damaged America. https://t.co/vC0YiRzTKQ
+It is over.  https://t.co/zPMgOUgb8c
+I love this woman @rr9108  https://t.co/Vj7q5LHckv
+Looking even better for Trump! https://t.co/pxuR39Tc1E
+Looking good for Trump! https://t.co/3cVFGnjXaK
+@tedcruz @JohnKasich This is going to backfire on you two dummies. The voters will really move to @realDonaldTrump  https://t.co/2tHh5hgvEu
+Finish them off @realDonaldTrump @rr9108  https://t.co/iP686zT0RD
+"Cruz, Kasich campaign announce collaboration to deny Trump delegates. This will piss off voters.  https://t.co/4baCVJGkdo"
+"Kasich, you have won 1 state so sit down. https://t.co/FQmpQ0fzGD"
+RealClearPolitics - Election 2016 - California Republican Presidential Primary https://t.co/Hdksy5pHcu
+RealClearPolitics - Election 2016 - Connecticut Republican Presidential Primary https://t.co/VTwJQOSiYh
+RealClearPolitics - Election 2016 - Maryland Republican Presidential Primary https://t.co/weowuflUOc
+RealClearPolitics - Election 2016 - Pennsylvania Republican Presidential Primary https://t.co/NwCfpBFSTs
+RealClearPolitics - Election 2016 - 2016 Republican Presidential Nomination https://t.co/XrJx3foDvQ
+Harriet Tubman will replace Andrew Jackson on $20 bill - NY Daily News https://t.co/uWV42c2t07
+Harriet Tubman To Replace Andrew Jackson On $20 Bill https://t.co/Jk8yPCGJXY
+‘You Gotta Stop!’ Hannity Loses His Cool with Ted Cruz Over Delegates | Mediaite https://t.co/cqcvgZzb8j
+Trump campaign says staff changes are a 'natural evolution' (from @AP) https://t.co/1RaKmC4RHq
+RealClearPolitics - Election 2016 - California Republican Presidential Primary https://t.co/Hdksy586kW
+RealClearPolitics - Election 2016 - Maryland Republican Presidential Primary https://t.co/weowufDwcM
+RealClearPolitics - Election 2016 - Pennsylvania Republican Presidential Primary https://t.co/NwCfpBXui2
+RealClearPolitics - Election 2016 - New York Republican Presidential Primary https://t.co/e4ldUc48qB
+RealClearPolitics - Election 2016 - 2016 Republican Presidential Nomination. Cruz is fading.  https://t.co/XrJx3fGeUq
+My man at work.  https://t.co/JKWbRDMAQn
+"WH defends Clinton and de Blasio after 'CP time.
+ 
+We are the dumbest race on the planet.  @rr9108 @blackrepublican  https://t.co/MfZ9A0wIRM"
+What about this @megynkelly.  https://t.co/3wZGfuR5LF
+UFC's Jon Jones arrested for violating terms of probation | https://t.co/v4mfiremV9 https://t.co/lCGA6P2Prq
+https://t.co/m29YI655ID Jon jones got screwed this time. https://t.co/au7st27Kmx
+Damn the gloves are off. https://t.co/NP1aUIUwrJ
+The fruits of Hillary Clinton's foreign policy and National Security experience😷 https://t.co/y623G61KPk
+RG3 signs contract with Browns https://t.co/g6XCtynrBx via @USATODAY
+Great Song! Listen to it: Everything You Touch. Available in App: https://t.co/xU24VmEib3. Or  https://t.co/QWXJlODYZ0
+Mr. nice guy John Kasich busted lying on a honest police officer. https://t.co/wMQSWZUDEz
+"VIDEO: Bill Clinton appears listless, disconnected during AZ rally | The American Mirror https://t.co/urmqNJjT3X"
+Fox News Just Received TERRIBLE News - TRUMP IS SMILING! - The Political Insider https://t.co/ic02gUVXZj
+Fox News Republican Debate Flops As Viewership Drops By More Than Half https://t.co/JRkAXtEghk
+Rush Limbaugh Just Exposed One Thing About Fox News That Could Lose Viewers - It Might Surprise You https://t.co/ZYb6bq9KHL
+Megyn Kelly Gets Some Awful News – Her Future At Fox May Be In Jeopardy via @MrConservative_
+Real Time US National Debt Clock | USA Debt https://t.co/rzafEb0bbu https://t.co/lyeoX5nr1Z
+US Debt Clock :: National Debt of United States https://t.co/hUOaUXYTy8
+U.S. National Debt Clock : Real Time https://t.co/TiKmcuGYSA
+Who Is Merrick Garland? | ThinkProgress https://t.co/zWxFFAdASe
+RealClearPolitics - Election 2016 — Republican Delegate Count https://t.co/PWm9EnOB4P
+Here's who's winning the presidential delegate count https://t.co/a94XBFyp8y
+Palin Cancels Trump Event After Husband in 'Serious' Snow Machine Crash - NBC News https://t.co/dBRJiPscKu
+RealClearPolitics - Election 2016 - Ohio Republican Presidential Primary. Closing on Kasich. Trump2016😊 https://t.co/6bMMlZJ7fZ
+RealClearPolitics - Election 2016 - Florida Republican Presidential Primary. Look at this pole. Trump2016😊 https://t.co/3xVMAqeaMi
+Liberals love free speech if they are the only ones talking. https://t.co/hqucgVYxaZ
+The media and establishment republicans are afraid to challenge Obama. They don't want to be call racist.
+Plan Parenthood and Black on Black crime are responsible for more black deaths then any other group but people are afraid to say that.
+RealClearPolitics - Election 2016 - North Carolina Republican Presidential Primary https://t.co/KVQWLC29he
+RealClearPolitics - Election 2016 - Illinois Republican Presidential Primary https://t.co/w3fDGL0MRc
+RealClearPolitics - Election 2016 - Ohio Republican Presidential Primary https://t.co/6bMMlZJ7fZ
+RealClearPolitics - Election 2016 - Florida Republican Presidential Primary https://t.co/3xVMAqeaMi
+Smarty pants Vanderbilt😊 https://t.co/6yIViZU42R
+Rubio relying on super PAC to attack Trump in do-or-die Fla. (from @AP) Rubio is destroying his career; good. https://t.co/JQ7LtAiHOI
+"A businessman, Trump will fix. No more politicians, the government needs a results oriented manager. https://t.co/rghSz4v4re"
+Trump Inauguration Day 2017. The stain of Obama will be removed. He wasted a historical opportunity. @rr9108  https://t.co/dhANi9VMTa
+"True, we are the only race in the USA that needs a leader; give me access to an education and opportunity. @rr9108  https://t.co/9unmukYacC"
+5 Reasons Black Americans Should Give Up On The Democratic Party - John Hawkins https://t.co/6drdxcJJ0K
+"Trump won't repay presidential campaign loans, manager says (from @AP) https://t.co/f9iddrGOCd"
+The Latest: Spokesman: Trump never getting race cash back (from @AP) https://t.co/hZbRY5edsW
+RealClearPolitics - Election 2016 — Republican Delegate Count https://t.co/PWm9Enx0dh
+"After another setback, Rubio sees salvation in Florida (from @AP) 
+Dude get out! https://t.co/LR0MwUee7u"
+Trump's rivals left with few chances to stop his momentum (from @AP) https://t.co/jPdIOVCvGP
+We are on our way😊 https://t.co/VcyjVFBwQv
+Poll: Is Donald Trump losing steam? I hope not. https://t.co/I8lX1co4wF
+Great anti Rubio ad. https://t.co/m4tWJXFLZi
+See Trump tonight at 10 on Fox https://t.co/YxLvTaVtD5
+Screw you buddy. https://t.co/HK7G57QWKK
+McCain is part of the establishment and he needs to go. https://t.co/6hkksmb35s
+Followers listen to this it is very good. Judge Jeanine handed Mitt's ass to him. @realDonaldTrump @rr9108  https://t.co/7em5RwYMhi
+Future win. https://t.co/Cg0QoAucup
+Criminal and communist. https://t.co/d3vN62K4We
+We are still leading ESTABLISHMENT. Trump and Cruz will make up and become our ticket @realDonaldTrump @tedcruz  https://t.co/7ZNxwqezPr
+Good one 😆! https://t.co/dPt1AZxd0g
+Beautiful and classy woman.  https://t.co/c03lfmXBuV
+Nancy Reagan dead at 94 https://t.co/jNtDD16Qvc
+2016 Presidential Election Poll Results for Maine Voters. Trump 40 percent in Maine.  https://t.co/3md9CSVNeA
+"RealClearPolitics - March 5 Republican Primaries and Caucuses. Trump Kansas, Kentucky, Louisiana..up +12 to + 15 https://t.co/nqmTkAaZvN"
+"Use information, the primary and caucus schedule. https://t.co/eoZ3DeQyWw"
+Hillary Clinton being honest. Her message for black people. @rr9108 @realDonaldTrump  https://t.co/gAJVplqaJs
+"Obama, America hates you @rr9108  https://t.co/QmVFCAP9lM"
+RealClearPolitics - March 15 Republican Primaries and Caucuses. Look at Florida in particular. https://t.co/uGnuRn2GzS
+Not sure what Rubio is doing these days. I think he is having a breakdown. @rr9108 @realDonaldTrump @ https://t.co/TBzFdBK07u
+Another screwed up city run by Democrats. https://t.co/ajVTgJPG1s
+U.S. economy seeks stronger job gains in February. Americans aren't buying these numbers. https://t.co/ZOSGlenSjM
+"Employers added 242,000 jobs in Feb. https://t.co/3GUUMkLxoG via @USATODAY. So, how much do these jobs pay? That's the issue."
+RealClearPolitics - Election 2016 - 2016 Republican Presidential Nomination https://t.co/XrJx3fGeUq
+Move please you add no value to the nation anyway. https://t.co/fyEQtjiGHJ
+And they will continue to fail. https://t.co/JUmF99eD3W
+Love @KatrinaPierson Mitt you lost twice shut up. https://t.co/tXebdjdsBh
+I hope the republican primary voters don't capitulate and support Trump or Cruz. I am tired of soft republicans; Mitt Romney.
+Black people does this bother you? Think about it before you vote Clinton. Get off the damn Plantation. https://t.co/efMXU3w7k0
+And the media is questioning Trump about David Duke? https://t.co/ERTYljQW8R
+"Don't think so, too boring. https://t.co/mlkQfBsPlz"
+"Good, I hope they wet their pants. https://t.co/vXiv1oOEwf"
+"Carson says no 'path forward' after primary losses, will not attend GOP debate via the @FoxNews App https://t.co/wV2uRKUsaL"
+@rr9108 @meetthepress @MittRomney Republican voters are running the party now.
+@rr9108 @meetthepress @MittRomney  The Republican establishment and Beltway pundits are determined to keep the voters pissed.
+The opinion of a prominent Democrat. https://t.co/kTVItx8epd
+Wake up black people. Stop being stupid. @blackrepublican @rr9108 @Thomasismyuncle  https://t.co/MLZFGjHzNl
+Rubio has titts. @realDonaldTrump  https://t.co/Sn1Us57NKQ
+Rubio is an asshole.
+RealClearPolitics - Election 2016 - 2016 Republican Presidential Nomination https://t.co/XrJx3fGeUq
+I asked psychologists to analyze Trump supporters. This is what I learned. - The Washington Post.  https://t.co/Q4Vff6rrEB
+"On Super Tuesday eve, Donald Trump gets his best poll numbers yet - The Washington Post. Voters are pissed😁 https://t.co/EHfA0ffWRB"
+"Trump surge, nearly 20,000 Mass. voters quit Democratic party | Boston Herald. Liberals tired of being broke too. https://t.co/iStMYq0olA"
+"5 Things You Didn't Know About Bret Baier, as Told by His Wife Amy | Fox News. Truly fair and balanced. Good man.👍 https://t.co/wXa81T1beQ"
+Donald Trump calls on Marco Rubio to drop out - POLITICO https://t.co/LMT7dyHME3
+The Ugly Truth About Marco Rubio And His Gang-of-Eight Amnesty Bill - John Hawkins https://t.co/GEGhkALNVi
+Why Senator Rubio's Lies Matter https://t.co/KMxUMpdVta
+MUST LISTEN: Stephen Miller Makes Case Against Marco Rubio in Epic Rant - Breitbart https://t.co/m32pVThaIM

@@ -1,0 +1,78 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 3378101476, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/720755360139579392/FISpW1Df_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 3756, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""3378101476"", ""profile_background_color"": ""000000"", ""listed_count"": 67, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @The_Trump_Train: Running for president for all the right reasons. #MakeAmericaGreatAgain https://t.co/VxO2AG2Au2"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729473070113685505, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4102376488, ""indices"": [3, 19], ""id_str"": ""4102376488"", ""screen_name"": ""The_Trump_Train"", ""name"": ""Donald J. Trump""}], ""hashtags"": [{""indices"": [70, 92], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""source_user_id"": 4102376488, ""source_status_id_str"": ""729405992094568449"", ""expanded_url"": ""http://twitter.com/The_Trump_Train/status/729405992094568449/photo/1"", ""display_url"": ""pic.twitter.com/VxO2AG2Au2"", ""url"": ""https://t.co/VxO2AG2Au2"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg"", ""source_user_id_str"": ""4102376488"", ""source_status_id"": 729405992094568449, ""id_str"": ""729405985492762626"", ""sizes"": {""large"": {""h"": 734, ""resize"": ""fit"", ""w"": 749}, ""small"": {""h"": 333, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 588, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 729405985492762626, ""media_url"": ""http://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 531, ""id_str"": ""729473070113685505"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Running for president for all the right reasons. #MakeAmericaGreatAgain https://t.co/VxO2AG2Au2"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729405992094568449, ""favorite_count"": 1020, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [49, 71], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/The_Trump_Train/status/729405992094568449/photo/1"", ""display_url"": ""pic.twitter.com/VxO2AG2Au2"", ""url"": ""https://t.co/VxO2AG2Au2"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg"", ""id_str"": ""729405985492762626"", ""sizes"": {""large"": {""h"": 734, ""resize"": ""fit"", ""w"": 749}, ""small"": {""h"": 333, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 588, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [72, 95], ""type"": ""photo"", ""id"": 729405985492762626, ""media_url"": ""http://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 531, ""id_str"": ""729405992094568449"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:21:54 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/The_Trump_Train/status/729405992094568449/photo/1"", ""display_url"": ""pic.twitter.com/VxO2AG2Au2"", ""url"": ""https://t.co/VxO2AG2Au2"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg"", ""id_str"": ""729405985492762626"", ""sizes"": {""large"": {""h"": 734, ""resize"": ""fit"", ""w"": 749}, ""small"": {""h"": 333, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 588, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [72, 95], ""type"": ""photo"", ""id"": 729405985492762626, ""media_url"": ""http://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:48:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4102376488, ""source_status_id_str"": ""729405992094568449"", ""expanded_url"": ""http://twitter.com/The_Trump_Train/status/729405992094568449/photo/1"", ""display_url"": ""pic.twitter.com/VxO2AG2Au2"", ""url"": ""https://t.co/VxO2AG2Au2"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg"", ""source_user_id_str"": ""4102376488"", ""source_status_id"": 729405992094568449, ""id_str"": ""729405985492762626"", ""sizes"": {""large"": {""h"": 734, ""resize"": ""fit"", ""w"": 749}, ""small"": {""h"": 333, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 588, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 729405985492762626, ""media_url"": ""http://pbs.twimg.com/media/Ch9e4RZXAAI8iWL.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 22947, ""description"": ""Most important election of the year is yet to come. Be smart! We the people have to think about our Children's future. We can make it happen. In God we trust."", ""friends_count"": 1426, ""location"": """", ""profile_link_color"": ""9266CC"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/720755360139579392/FISpW1Df_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3378101476/1444416479"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Fil-Am 4 Trump"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 15630, ""screen_name"": ""MercyL0V3"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Jul 15 23:50:08 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Where your mind is, your ❤ goes. It's how people think. Need to change of how we think. Don't dwell on the sad part. https://t.co/8dm6Y1bKQt"
+Thank you! https://t.co/QV730clsfP
+How can we catch fraud using my credit card? Can someone help me please!!! I don't know what to do.
+I have no money left after paying taxes.  https://t.co/11kcEQxhJa
+&lt;---- teary eyes https://t.co/tBhU8ma6zM
+I know right? Intentionally???  https://t.co/8AkxhJHGpa
+Remember this? Scumbags want him to sign this. He did but they won't support him now cause his winning? Traitors!!!! https://t.co/7fkVV2Lubd
+Thank you!!! https://t.co/YDtlr3uGOe
+R.I.P.  https://t.co/WFUClBUsH3
+"Ben Shapiro, where are you?  https://t.co/E19VmQj1Yh"
+#Trump2016 https://t.co/EULuWdZ1X1
+I'm sure she has a valid reason behind it. Knowing that she is for Trump I can still support her as judge of Justice https://t.co/qJ9WV7Cq9P
+You tell 'em @JudgeJeanine . I like your tenacity just like Trump. #Trump2016 https://t.co/LJ8wJzRXOg
+Correct!!! https://t.co/Rm6eQnPwO7
+Thank you bro! https://t.co/mOfbIgHDIV
+Correct! https://t.co/TkA5bPdTw3
+To all Californian residents= Please register now so you can vote for Trump. Thank you! https://t.co/re1jMN1Mpf
+"To all the Mother's of the world, enjoy this via Susan. Thank you! https://t.co/qIncb77L65"
+Your mom is in heaven rejoicing the gift of eternal life. She is always with you. https://t.co/mmmO8EEsB5
+Obviously....YES!!!    https://t.co/zmbFXYZx5t
+Yay!!! https://t.co/b7N2EZMHsL
+Vote for the one who will fight for your belonging's and not for the one who will sell your deeds. #Trump2016 https://t.co/3ZGOLay5Uc
+"Oh, Yes he will not need them. He is a true winner!!! Losers can't get enough of him. https://t.co/8Rbbm1rJlw"
+Don't pay no attention to her. She is lacking and craving for it. https://t.co/uGjN7Ks3hw
+Neighbors had problem like this? Give them one sign of each to put in front of their yards.  https://t.co/oDANR55UQE
+"Absolutely, definitely, YES!!! https://t.co/fmcC8BBJR4"
+Hell-ary will continue the O' ad legacy. Please no to Hell-ary!!! https://t.co/vhoMbvN9EE
+"The difference between the two:
+Hell-ary = made out of tupperware plastic
+Trump = made out of glass as crystal clear https://t.co/Ocvqy1yrKh"
+Thank you sister!!! https://t.co/TaTPBrtScF
+Hahaha.... https://t.co/sqCL6ra4ms
+Yay!!! https://t.co/Fm5thfPcet
+She is not a presidential material. No to Hell-ary!!!  https://t.co/l72aJUwDFL
+You right! Wicked mother at all times. https://t.co/96PQelUBaY
+"Gosh, why did I vote for him?  https://t.co/ckCEc9azUA"
+Yup! Yes! True! Agreed!!! https://t.co/mqZ61YJjQ0
+"So why vote for her? Wicked as she is, she deserves nothing but pray. https://t.co/4YmQj3MF9q"
+Never forget. She sleep well while the other mom's are sick worried.  https://t.co/N2RxISAczp
+You want deal? This is a great deal.  https://t.co/pGAHtaqVgT
+READ! https://t.co/v54kMVL0YQ
+My heart goes out to the victim. RT...please! https://t.co/DpMyugzxKO
+Correct! https://t.co/1FcTi3d6qF
+You want a true leader? Here he is. Never back down and never apologize. We have brains to be use wisely. Think BIG! https://t.co/7eXgdsPRRt
+"I love this pic. Priceless!
+Vote #Trump2016 https://t.co/Lyi10z0J2T"
+Correct! https://t.co/9OUPHgh9Dz
+Yup! https://t.co/V7Sld0iYpj
+Trump means business and when he does it the result always success. It's proven 101% https://t.co/MfyY6tBfKu
+Trump is for American people. I know so. I believe so. Vote #Trump2016 https://t.co/YfFhOEEX6g
+Thank you!!! https://t.co/BptTKo3kKp
+"All the prayer warriors, please continue to pray for the Trump clan. Enemies are everywhere since he is unstoppable! https://t.co/1YTdyyv8qI"
+Goodbye Bushes!!! https://t.co/cQVB1YFCO4
+The face that will take us to the pit of fire. Don't be deceive by that woman in red. https://t.co/uoMKzisO5s
+&lt;--- Vomitting here!'. https://t.co/Q0P3dHLltV
+Wake up people!!! No to Hell-ary!!!  https://t.co/vhoMbvN9EE
+I feel the same way but trust your instinct. Trump is brilliant!!! https://t.co/p3u0pezncl
+Thank you Jesus for saving my life! https://t.co/jVBK5RJyba
+Only not a smart and wise people will vote for Hell-ary. Stop the stupidity! Protect America!!! https://t.co/hffHOPSFda
+Hell-ary Clinton is like Angela Merkel. No to Hell-ary...Please!!!  https://t.co/UK55wc4Vmw
+Yay!!! https://t.co/vSvq7ZShgo
+Amen! https://t.co/FbnGYN0aqq
+Get him out in the White House...Now!!! https://t.co/sX7SaXXWUw
+I watch him from beginning until now. I believe his motivation will take him there. #Trump2016 https://t.co/cVwOJha394
+Trump is a decent man. Don't mess with him and he will leave you alone. Destroy his territory and will destroy 'YOU! https://t.co/fr8Qt6yHsv
+Vote for Trump USA!! Use your head &amp; vote wisely. USA is one great nation. You don't want to hand it to the enemies. https://t.co/bEBkRa9Pz4
+Yay!!! https://t.co/0ahBSEaZRO
+Yup! https://t.co/kxHQHTJ9jH
+Absolutely!!! https://t.co/xLxlGuDPgk
+"Liar, liar.... https://t.co/O86uCpy2A6"
+Yay!!! https://t.co/H4IzpOOtw4
+I will. Thanks!
+Du30 compared to Trump but not quite. I like both of them. Du30's territory is proven peace cause criminal fear him. https://t.co/COH6eyRvYF
+Yup https://t.co/iNFn04JTxB
+She's just doing her job. Freedom of speech still exist I think??? https://t.co/UGOTDFNtym
+Hahaha..... https://t.co/XGmZIcy6qr
+"Yes, where is she? https://t.co/8dEZGOwPXF"

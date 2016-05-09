@@ -1,0 +1,62 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 93506338, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/729016175221477378/ZpLxeY_U_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2712, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""93506338"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 15, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @MikeHimsworth: If my wife were running for President, and I looked like this, she would drop out to take care of me. https://t.co/tChm1\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729446272529215488, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2302134816, ""indices"": [3, 17], ""id_str"": ""2302134816"", ""screen_name"": ""MikeHimsworth"", ""name"": ""Mike Himsworth""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 2302134816, ""source_status_id_str"": ""729150072202493952"", ""expanded_url"": ""http://twitter.com/MikeHimsworth/status/729150072202493952/photo/1"", ""display_url"": ""pic.twitter.com/tChm1E4oX1"", ""url"": ""https://t.co/tChm1E4oX1"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg"", ""source_user_id_str"": ""2302134816"", ""source_status_id"": 729150072202493952, ""id_str"": ""729150071531446272"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 476, ""resize"": ""fit"", ""w"": 634}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 729150071531446272, ""media_url"": ""http://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 638, ""id_str"": ""729446272529215488"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""If my wife were running for President, and I looked like this, she would drop out to take care of me. https://t.co/tChm1E4oX1"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729150072202493952, ""favorite_count"": 1013, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/MikeHimsworth/status/729150072202493952/photo/1"", ""display_url"": ""pic.twitter.com/tChm1E4oX1"", ""url"": ""https://t.co/tChm1E4oX1"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg"", ""id_str"": ""729150071531446272"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 476, ""resize"": ""fit"", ""w"": 634}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [102, 125], ""type"": ""photo"", ""id"": 729150071531446272, ""media_url"": ""http://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 638, ""id_str"": ""729150072202493952"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 03:24:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/MikeHimsworth/status/729150072202493952/photo/1"", ""display_url"": ""pic.twitter.com/tChm1E4oX1"", ""url"": ""https://t.co/tChm1E4oX1"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg"", ""id_str"": ""729150071531446272"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 476, ""resize"": ""fit"", ""w"": 634}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [102, 125], ""type"": ""photo"", ""id"": 729150071531446272, ""media_url"": ""http://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:01:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2302134816, ""source_status_id_str"": ""729150072202493952"", ""expanded_url"": ""http://twitter.com/MikeHimsworth/status/729150072202493952/photo/1"", ""display_url"": ""pic.twitter.com/tChm1E4oX1"", ""url"": ""https://t.co/tChm1E4oX1"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg"", ""source_user_id_str"": ""2302134816"", ""source_status_id"": 729150072202493952, ""id_str"": ""729150071531446272"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 476, ""resize"": ""fit"", ""w"": 634}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 729150071531446272, ""media_url"": ""http://pbs.twimg.com/media/Ch52IHmVIAAWJG1.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 1377, ""description"": ""Engineer by trade, conservative by nature. I take care of myself cuz I don't expect others to. In love with my wife. \n\n#Trump2016 #trumptrain #VoteTrump #MAGA"", ""friends_count"": 5002, ""location"": ""Ontario"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/729016175221477378/ZpLxeY_U_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/93506338/1455492115"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Jim Pond"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 36, ""screen_name"": ""PondJim"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Nov 29 23:27:31 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Sickened and angered by this behavior. Thank you @ConservativeDom https://t.co/qeafQ9KdtI
+LIAR! https://t.co/ZpYec90eWL
+The madness of Elizabeth Warren (and the left in general) described in 30 seconds. https://t.co/dZ2LyQGm6s
+"Kerry slams Trump's wall, tells grads to prepare for 'borderless world'. https://t.co/BTrrFxNqsh
+
+What an absolute pile of stinky horseshit."
+Idealogical nitwit. https://t.co/AhCceliQ4h
+"That is so frigging gross! 
+
+@justanotherreasontohatehillary https://t.co/04u0WvIZfz"
+"https://t.co/NyzL30ToSj
+Democrats old or new - the message is the same. No friend of yours if you mine coal. And you're voting for Hillary?"
+Bolling: 'Hillary Seems to Take a Sick Pride in Destroying Lives of Coal Miners' https://t.co/OLJUSJOC6C
+"COMMENTS ARE NOW CLOSED: Illegal Alien Convicted of Murder After Stabbing Father of Two to Death, Ripping Out His Liverhttp://bit.ly/1rLJVQV"
+"@seanhannity 
+Unbelievable really the vitriol hurled at you. Must be hitting a nerve - keep it up! https://t.co/Wz7vxSGTdM"
+Another Bill Clinton paramour exposes ‘enabler’ Hillary https://t.co/KyR1joNWu4 via @worldnetdaily
+Build That Wall (Official Video) https://t.co/Kz1DXuLRth via @YouTube
+https://t.co/IQCa9iuwSb
+https://t.co/RSLLNlcRS9
+Good. Thought @ericbolling was going to kill that guy!! https://t.co/KLDKpWD4WD
+"@DefendingtheUSA @LynnePatton @Campaign_Trump 
+
+Wow. Speechless. https://t.co/rtDujEqzNb"
+"When does this stop being ""freedom of speech"" and starts becoming ""incitement of hatred""?? https://t.co/8aAcZq2nVZ"
+Sheila Jackson Lee *shocked* Neil Armstrong guilty of steroid use when racing in the Tour De France!! https://t.co/ucbC9noMm7
+Dimwitted. https://t.co/FNBdo0mcEn
+I guess unless that third party is Bernie Sanders. https://t.co/9cPAPziedf
+"https://t.co/tyQ8ibiKdc 
+@davidafrench
+""An enthusiastic flock of online racists"". I am not a racist. But clearly, you are an asshole."
+"California Turns To China For New Bay Bridge https://t.co/p6IYflOXLC
+
+What did Trump say about China ripping us off??"
+Great article. https://t.co/DebQdg63nF
+What an unbelievable load of CRAP. https://t.co/ET9Ljr0onm
+"Could possibly be 85 miles from London cuz the men-folk are in attendance, so all's good isn't it. https://t.co/4zP3dqehoR"
+Oh yeah Obama. Brilliant. Those radical Muslims who want to KILL MY KIDS - let's not hurt their feelings. https://t.co/kGTXBJeIYi
+Uhm. AWK-WARD! https://t.co/wHHVc6RZd3
+"""Retirement Planning"". @LindsayGrahamSC https://t.co/B5kctuVPDt"
+Props to you my PM. @stephenharper https://t.co/4yECTTzVEG
+"Huckabee to Ryan: 'Lead, follow or get the heck out of the way!"""
+Sickening. #pinheads https://t.co/puus4IG6lQ
+"Mine coal. Sell coal to China. Problem solved! And the environmentalists would be OK - it's us responsible for global warming,  not China."
+You are a LIAR! https://t.co/65A5HKkpgA
+Well holy crap! Who woulda thought?? Well good on you Rick Perry 👍 https://t.co/lR6Nh7jum6
+"@seanhannity 
+
+The phrase ""cleaning house"" comes inevitably to mind when thinking about Trump arriving in Washington https://t.co/tB06PzExm5"
+"Rand Paul On Trump: “I’ve Always Said I’ll Endorse The Nominee” https://t.co/1YVXFeJHRS
+
+Huh! Rand back pedals to save his political career!"
+"Andrea Tantaros mysteriously vanishes from Fox News https://t.co/2qR2F8jarA
+
+@AndreaTantaros Courage!!"
+"Trump Jr. calls Vancouver mayor 'disgusting' 
+https://t.co/pimpzrIKgg
+
+I don't know whether I'm more ashamed of Vancouverites or CTV. Sigh."
+https://t.co/qZzsvkpYv1
+Looks like ol' Glenn should be fasting a little more often if you ask me... https://t.co/3uGX6ybNBm

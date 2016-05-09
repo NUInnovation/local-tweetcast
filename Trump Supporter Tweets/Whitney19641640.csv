@@ -1,0 +1,121 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4392608773, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/713757924351426560/g0HLWgyV.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Baton Rouge, LA"", ""url"": ""https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""c7ef5f3368b68777"", ""name"": ""Baton Rouge, LA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719175419782701057/jRhuqJys_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 211, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4392608773"", ""profile_background_color"": ""022330"", ""listed_count"": 21, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @DanScavino: Message from @IvankaTrump re: Tuesday's #WVPrimary! #VoteTrump\n#MakeAmericaGreatAgain #Trump2016 #TrumpTrain\ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729459235310866433, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 620571475, ""indices"": [3, 14], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}, {""id"": 52544275, ""indices"": [29, 41], ""id_str"": ""52544275"", ""screen_name"": ""IvankaTrump"", ""name"": ""Ivanka Trump""}], ""hashtags"": [{""indices"": [56, 66], ""text"": ""WVPrimary""}, {""indices"": [68, 78], ""text"": ""VoteTrump""}, {""indices"": [79, 101], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [102, 112], ""text"": ""Trump2016""}, {""indices"": [113, 124], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""source_user_id"": 620571475, ""source_status_id_str"": ""729388576899772416"", ""expanded_url"": ""http://twitter.com/DanScavino/status/729388576899772416/video/1"", ""display_url"": ""pic.twitter.com/VHin8Z5OV2"", ""url"": ""https://t.co/VHin8Z5OV2"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg"", ""source_user_id_str"": ""620571475"", ""source_status_id"": 729388576899772416, ""id_str"": ""729388004977037317"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729388004977037317, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 703, ""id_str"": ""729459235310866433"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Message from @IvankaTrump re: Tuesday's #WVPrimary! #VoteTrump\n#MakeAmericaGreatAgain #Trump2016 #TrumpTrain\ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/VHin8Z5OV2"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729388576899772416, ""favorite_count"": 944, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 52544275, ""indices"": [13, 25], ""id_str"": ""52544275"", ""screen_name"": ""IvankaTrump"", ""name"": ""Ivanka Trump""}], ""hashtags"": [{""indices"": [40, 50], ""text"": ""WVPrimary""}, {""indices"": [52, 62], ""text"": ""VoteTrump""}, {""indices"": [63, 85], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [86, 96], ""text"": ""Trump2016""}, {""indices"": [97, 108], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/DanScavino/status/729388576899772416/video/1"", ""display_url"": ""pic.twitter.com/VHin8Z5OV2"", ""url"": ""https://t.co/VHin8Z5OV2"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg"", ""id_str"": ""729388004977037317"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729388004977037317, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 703, ""id_str"": ""729388576899772416"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 19:12:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""expanded_url"": ""http://twitter.com/DanScavino/status/729388576899772416/video/1"", ""display_url"": ""pic.twitter.com/VHin8Z5OV2"", ""url"": ""https://t.co/VHin8Z5OV2"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg"", ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 22767, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/320x180/qOzGS-DRslnYdyyH.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/640x360/f3akYvb2iVK2op4n.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/pl/fQA1Srye4eaptTUa.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/pl/fQA1Srye4eaptTUa.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/1280x720/OSQABbZirTtXs8qo.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729388004977037317"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""video"", ""id"": 729388004977037317, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:53:29 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 620571475, ""source_status_id_str"": ""729388576899772416"", ""expanded_url"": ""http://twitter.com/DanScavino/status/729388576899772416/video/1"", ""display_url"": ""pic.twitter.com/VHin8Z5OV2"", ""url"": ""https://t.co/VHin8Z5OV2"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg"", ""source_user_id_str"": ""620571475"", ""source_status_id"": 729388576899772416, ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 22767, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/320x180/qOzGS-DRslnYdyyH.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/640x360/f3akYvb2iVK2op4n.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/pl/fQA1Srye4eaptTUa.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/pl/fQA1Srye4eaptTUa.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/729388004977037317/pu/vid/1280x720/OSQABbZirTtXs8qo.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729388004977037317"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""video"", ""id"": 729388004977037317, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729388004977037317/pu/img/7-Qfo55Q_HDCj2BH.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 4669, ""description"": ""Fine jewelry sourcing & marketing., Pysch. & Business. \nDie hard L.S.U.   fan. Proud S.E.C. fan. \nAmerican by birth; Southern by the grace of God"", ""friends_count"": 89, ""location"": ""Baton Rouge, LA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719175419782701057/jRhuqJys_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4392608773/1460212143"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/713757924351426560/g0HLWgyV.jpg"", ""name"": ""Lady-Tiger"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2084, ""screen_name"": ""Whitney19641640"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Nov 28 22:18:33 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@FoxNewsSunday @realDonaldTrump #ChrisWallace You know what Hillary did to those women. You covered it when it was exposed.
+@DrWEtzig @FoxNewsSunday @FoxNews @realDonaldTrump As young man. Reagan was a hound as a young man also.
+@ridiculousones @FoxNewsSunday @realDonaldTrump @DailyCaller That's been known since he was governor of Arkansas.
+@FoxNewsSunday @realDonaldTrump #WomanCard https://t.co/FAbOui2S9t
+@BernieSanders Designer Campaign shirts? Sure #Hillary stands w/working class. #LimoLibs https://t.co/pmPckWIuSy
+"@SenWarren 
+ https://t.co/ODXkgWm7Mu"
+"@realDonaldTrump @HillaryClinton https://t.co/ODXkgWm7Mu
+Hillary's staunch defense of women. #DropOutHillary"
+https://t.co/et7kDILcrl #HillaryClinton Laughs while telling how she got a child rapist off by blaming the 12yr old victim. #WarOnWomen
+"@FoxNewsSunday Pointing out that #Hillary has called victims of sex crimes ""trailer trash, stalkers, &amp; liars isn't an attack it's a fact."
+@HillaryClinton @realDonaldTrump Hillary Clinton would allow all ambassadors to fend for themselves. #600requests  #bengazi
+@HillaryClinton @DVF @evafehren @realDonaldTrump #TheWomanCard
+"Nevermind my designer campaign shirts, I'm one you. https://t.co/pmPckWIuSy"
+"@HillaryClinton @DVF @evafehren Bahaha designer campaign shirts scream, "" I'm just like you. "" #DropOutHillary"
+@TuckerCarlson #TedCruz didn't pull off the Derby look very well. Looked a bit ill fitted.
+"@jknoxville @seanhannity @StevenJCBuckley Well then, mission accomplished. 😀"
+@seanhannity @CheriJacobus @jmartNYT @BFischerMartin @MastersPodcast @bpolitics Who in the hell is Cheri Jacabus &amp; why should I care?
+@LouDobbs @BillKristol @weeklystandard @stephenfhayes @McCormackJohn The 3 stooges. Lost all credibility with their behavior. #Rinos
+@jjmart50 @seanhannity Then your wrong
+@jgl61 @krod8273 @HillaryClinton 2008
+@jgl61 @krod8273 @HillaryClinton She has played it for years way b/4 Trump.
+@cocosbentmind @HillaryClinton She laughed &amp; joked about it. #VileHillary
+@Alexarenee1 @krod8273 Depends on the qualifications .
+"@seanhannity @magikcitywonder  When they say Trump backers aren't ""real conservatives. "" They mean right wing &amp; religious fanatics."
+@Rene_gadeCowboy @seanhannity @LeftDial Because it's to kind.
+@LeoVeigaSanchez @HuffPostPol I see fundamentalist in a floral MuMu. That wouldn't be a Trump backer.
+@GMA @greta Bahahaha… Guam. 😄
+"@GlennInvestor @CincinnatusPax Where do you, buy your A/C? Mine was $6000"
+"@GlennInvestor @CincinnatusPax Fulltime &amp; well paying jobs not part-time ""ya want fries 🍟 w/that jobs."
+"@GlennInvestor @CincinnatusPax @seanhannity You, want to put more Chinese than Americans to work?"
+"@FoxNews Well, They did."
+@2sunsky @foxandfriends Not banning. Temporary halt for better vetting. Why is it ok to put American Muslins at risk from extremist?
+@pistolpeteny @2sunsky @foxandfriends Precisely. Not all refugees from Syria are Islamic extremist or even Islamist but all need vetting.
+@curtisky @Shoq @realDonaldTrump Didn't say he was a saint but Lizzy isn't either. Fair enough?
+"@indianadoglover @realDonaldTrump Like Cruz did, she is baiting him."
+@Travelerrd @ericbolling @FoxNews @jhodnot Nothing. That's the problem.
+@ericbolling @FoxNews @jhodnot https://t.co/YksZC17CD2
+#KentuckyDerby #WoodfordReserve The Ice Tea of the Derby. https://t.co/6H4FjGJbmR
+"@JayS2629  Dear Glenn, 
+I am not a pawn for your Political beliefs. I haven't smited in a while but I Haven't forgotten how. 
+
+GOD"
+@JayS2629 @gatewaypundit Even God rolled his eyes at that overly dramatic statement.
+@DanScavino @newtgingrich Ryan is just not ready to commit. He's still hoping his ex @MittRomney  will come back. Love hurts.
+@LouDobbs @dcexaminer Yes &amp; Bill Clinton is a monk whose taken a vow of celibacy. #idiot
+"@drapermark37 @HillaryClinton @BernieSanders Historically, her statements have disproven the ditzy blonde theory as stupidity hits all races"
+@delta1flea @FoxNews After he is psychologically pick apart to better profile these nuts.
+@arifalikazmi @FoxNews That statement doesn't track.
+@debivec @FoxNews Cutlery kills.
+"@FoxNews Extra security, now? How did a grown man get that close to the children in base case? Isn't recess monitored by teachers?"
+@greta @nytimes My utility company is against freedom of this information. 😉
+@IngrahamAngle @realDonaldTrump @bi_politics Political promise or more commonly known as big lie.
+@FoxNews @SenWarren Is trying to be relevant. #WarrenFraud
+"@Papajoe66 @FoxNews Surely there are better strikes. Laundry strike, mowing strike, etc. 😉"
+@MoDaCoatLFPress 2 out of how many?
+@MoDaCoatLFPress Neither can you
+@MoDaCoatLFPress Few people go to court for civil suits. Cheaper to settle whether legit case or not. None if they're guilty.
+@MoDaCoatLFPress That has not been proven. The other has.
+@realDonaldTrump Lizzy is not Native American. She pretended to be to get into college &amp; get a job. THAT is offensive.
+@texanmum @jbristol11 @realDonaldTrump Cruz fits the same description.
+@curtisky @Shoq @realDonaldTrump Never pretended to be Native American for personal gain.
+@MoDaCoatLFPress @realDonaldTrump So it's not offensive to claim your Native American in order to get in a college or get a job?
+@lawhawk @realDonaldTrump @SenWarren Strong women or raving loons. I find her to be the latter.
+@realDonaldTrump The more she rants especially unprovoked the more unhinged she looks.
+"@realDonaldTrump ""Dances with Fools, "" might be. Hard to say as she only has 1 Native American blood cell."
+"@jjmart50 @seanhannity @davidharsanyi Yes, I get that but there was some debate."
+@realDonaldTrump https://t.co/YHLdpV80ro
+"@FoxNews @oreillyfactor @POTUS @realDonaldTrump Well, that was profound😄"
+@greta @KarlRove @GOP @FoxNews What is he up to? What are they trying to pull?
+@theblaze @JebBush Because he is Hillary w/a penis. #MadRino
+@dcexaminer Who?
+@CNNSitRoom @JebBush @realDonaldTrump @HillaryClinton He'll fade into obscurity w/ Ryan.  #BitterRinos
+@thedailybeast Don't have a pic of him kissing the grand poobah but is one of #killary.
+"@POLITICOMag @realDonaldTrump @SenWarren @politico Nah, she fell out of the tree. #killary/Warren 1 in the same."
+#WestVirginiaPrimary https://t.co/hgNi3Lh8vp
+"#WestVirginiaPrimary #Trump2016 Yes, Trump supporters have to vote in the West Virginia Primary."
+@greta @SpeakerRyan @realDonaldTrump @FoxNews #greta No
+@HillaryClinton Who are you tweeting to in Spanish? Are you running in Mexico also? #DropOutHillary
+@realDonaldTrump She has ridden Bill's coat tails &amp; then acts like she got there on her own merits. #DropOutHillary
+@jpnairn @HillaryClinton @BernieSanders She won't do it.
+@HillaryClinton Neither is Trump. He is going to deport illegal aliens. That is the law. If you adhered to laws you might know that.
+@HillaryClinton @realDonaldTrump Ask Vince Foster. Oh that's right he's dead. #Whitewater
+"@FoxNews Odd, you didn't take it very seriously which is why the world is in the toilet. #Nobama"
+"@FoxNews As a Republican &amp; woman, I'm fine with Trump. Libs ignore the real war on women in the middle east."
+@mattwhitby probably spend more effort pretending than if I actually worked😉
+@mattwhitby I have to go &amp; pretend to work. Enjoyed the chat.
+@mattwhitby &amp; my face does
+@mattwhitby B/c my views don't represent the company's necessarily
+@mattwhitby @FreeSpeechGirl Name a leader who hasn't ever been childish.
+@mattwhitby @FreeSpeechGirl I am a woman. Don't coddle me for it. Narcissistic forgets what he has done for people who he didn't know.
+@mattwhitby @FreeSpeechGirl @realDonaldTrump What concerns you about Trump
+"@mattwhitby @Brownbeard75 Well, who is😉"
+"@mattwhitby @conservativevin @Brownbeard75  Wait, aren't the physical altercations in parliament?"
+"@mattwhitby @FreeSpeechGirl @realDonaldTrump What are you concerned about? Not being ugly, just wondering."
+@mattwhitby @Brownbeard75 Do you complain about other world leaders?
+@ScottJonesy @realDonaldTrump True
+"@bigglezuk @realDonaldTrump Sorry to inform you,  but the wig theory was disproved by @megynkelly of all people. There are others though."
+"@realDonaldTrump Eh, can't win em all😉 Some aren't worth winning. #RINOS"
+"@foxandfriends Neice has a friend whose father died. She goes w/5 ""father's."" While it will never be her father, his friends step up."
+"@MeganBeyda @foxandfriends lol, good one."
+@barryten  @newbalance Only if it's the best equipment &amp; vendors don't take advantage of gov. contract $$. Remember the 10k screws?
+"@foxandfriends @newbalance Make a shoe that lasts, works, &amp; don't jack up the price. Then they will."
+@greta @splstphn59 Mint Juleps on the veranda. Mint Juleps for all. #Derby
+"@Just4Americans @jessebwatters Like #JesseWatters said, wait until they pay taxes."
+"@RWorent @ericbolling @realDonaldTrump True, but a convention chairman he's supposed to either back nom or be publicly neutral."
+@ericbolling @realDonaldTrump Ryan approved Obama's budget. He plays to his interests. Wouldn't back Cruz either. #RINO
+@BretBaier @FoxNewsSunday Thanks for the warning. Chris is ok but like you better.
+@FoxNews @realDonaldTrump #Hannity Angry but not surprised. Thus far they have given in to dems. so not shocking they would prefer one.
+@foxandfriends Some said it lasted to long 1.5mins. How long does it take to realize the baby isn't in the house? Want them alive that long.
+@seanhannity @davidharsanyi Can Trump still lose the nomination if he doesn't get 1237? People are concerned. #Hannity
+@FoxNews @oreillyfactor Then they shouldn't bitch about the nominees.
+@JRGrayThunder @seanhannity @SpeakerRyan He won by having won more states with the majority of votes. Votes by voters.
+@mikshelb @seanhannity @AndyWHumphreys @SpeakerRyan That is true of every candidate that has ever run.
+@LouDobbs Who told Trump it's over? He still  needs them to vote in the primary.
+@LouDobbs https://t.co/Kkp9ouwfNH
+@DanScavino https://t.co/Kkp9ouwfNH
+@EllisonTeri @slone Yes he is. Sending emails instructing voters in upcoming States to vote for him. Trump supporters must vote in primaries
+@leerushsmith @col_nj @DrMartyFox Did not say unite.
+@mitchellvii He's emailing supporters to vote for him. Counting on Trump supporters to believe it's over &amp; they don't need to vote.

@@ -1,0 +1,104 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 3461087537, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/711427520026025984/14WDlVXs_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 666, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""3461087537"", ""profile_background_color"": ""000000"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WeNeedTrump: There's a reason we have laws in the USA. Illegal immigrants should be held accountable. Come the right way. #Trump https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729478300649795585, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3284112337, ""indices"": [3, 15], ""id_str"": ""3284112337"", ""screen_name"": ""WeNeedTrump"", ""name"": ""We Need Trump""}], ""hashtags"": [{""indices"": [126, 132], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 3284112337, ""source_status_id_str"": ""729467129012039680"", ""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""source_user_id_str"": ""3284112337"", ""source_status_id"": 729467129012039680, ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 76, ""id_str"": ""729478300649795585"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""There's a reason we have laws in the USA. Illegal immigrants should be held accountable. Come the right way. #Trump https://t.co/IcOk85vPfr"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729467129012039680, ""favorite_count"": 120, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [109, 115], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 76, ""id_str"": ""729467129012039680"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:24:51 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:09:14 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3284112337, ""source_status_id_str"": ""729467129012039680"", ""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""source_user_id_str"": ""3284112337"", ""source_status_id"": 729467129012039680, ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1914, ""description"": ""Trump Supporter ALL THE WAY to the White House! #Trump #Trumptrain #neverhillary"", ""friends_count"": 1120, ""location"": ""Upstate NY"", ""profile_link_color"": ""E81C4F"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/711427520026025984/14WDlVXs_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3461087537/1462301887"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Diane Patterson"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2256, ""screen_name"": ""di8285502"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Aug 27 20:12:40 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@Lrihendry Happy Mother's Day
+@trebortwo https://t.co/jc5ipZb0wO
+@trebortwo https://t.co/dLw3yNkNro
+"@TeamTrumpAZ It is pretty sad they use kids in their ads against Trump. I find it very sickening, but Hillary stoops to low crap!"
+@WeNeedTrump https://t.co/kQq7jonVmY
+@Tide17Crimson @PP15146407 @ImagineAnna @brendanoe60 https://t.co/tZZZxqwXjJ
+"@WayneDupreeShow NO, but is America's REALITY and WE WANT TRUMP!!"
+@Campaign_Trump He's disgusting
+@TrumpTrain8 https://t.co/WFCB4H5bSp
+@amrightnow https://t.co/A07BcM6kzW
+@JohnFromCranber @LauraWilsonGal She is so disgusting the lies afterward &amp; calling fam liars. She even says what does it matter!! Disgusting
+@ROB4TRUMP @Veteran4Trump @catania_bernard https://t.co/i6JitfpT4z
+@Veteran4Trump https://t.co/otLqNm3CTe
+@Veteran4Trump https://t.co/vHhddjDzym
+@DrOlmoVip https://t.co/drgAJd0506
+@josephmdibella @makeitRight16 https://t.co/frx4XTGTF6
+@Trumpazona https://t.co/taFPUEOd6j
+@HilarityClintun @PatriciaBride ewwww
+Juanita Broaddrick Says Bill Clinton Raped Her And Donald Trump’s New Hi... https://t.co/ZNTZ2izVF5 via @YouTube
+@paigepoole00 My Grandmother used to say...Nothing in life is free! Somewhere we need to pay 4 it.
+@grits19577 @MichaelRayAdam2 @rosemarylowe105 @tponews @ccenters1 @shelbydoll1 I can think of worse words scum but prob cn't put them on
+@jimbearNJ @silentmajba @SarCatStyX @MercuryOneOC @redsteeze No Hillary is Obama https://t.co/H6LHbDggqF
+@GGDOVE Happy Mother's Day
+#TrumpTrain #Trump2016 https://t.co/KU9kV1kmss
+"@MarilynHobson2 It's no big deal to her that those men are dead, she says no lives lost!"
+@JeannaEckert @My62Bug @BocaRatonRC I think he took $$$ to drop out &amp; lose
+@wilpat34 She would break the damned thing!!
+@JeannaEckert @My62Bug @BocaRatonRC Slimy Politician he is!! He sold his soul.
+@MichaelBenghazi @kathystone1221 @PatVPeters @townhallcom https://t.co/M94sKuCrQL
+@DHecei @Lagartija_Nix https://t.co/EGTkyv5rtW
+@MaineTrumpah https://t.co/BEnSoi86Og
+@Lagartija_Nix @DHecei https://t.co/Aad9zbpt6m
+@My62Bug @BocaRatonRC @JeannaEckert He was probably paid to lose.
+@alexonthebayou @rescuetracker81 https://t.co/Z3UjebCRtv
+@mitchellvii @rjjj5thavenw https://t.co/7Oiqbee2Bk
+"@Lrihendry @KathyVanKlavere Same 2 u, have a lovely Day!!"
+@realDonaldTrump @GoDonaldTrump https://t.co/DHVeEzX9mP
+@TrumpWife3 Happy Mother's Day to our 1st Lady https://t.co/b08yYerdQi
+@Johnatsrs1949 @YouTube https://t.co/EyxWBPXA2j
+@JimMockley We already had our......Obama!
+@FrankChanged @LogicalReverie @HillaryClinton @realDonaldTrump What a waste of money. The ads they make Trump look better.
+Happy Mother's Day to all the Mom's and Dad's that take the place of a Mom. https://t.co/qgEcVxxJql
+@DeanSchanzel TY also
+@whitpowers5 @BigDuhie1955 https://t.co/dWYwG5Liem
+Eat ur heart out Hillary!! Opps... I forgot u don't have one! @HillaryClinton  https://t.co/HnaZkyza7R
+@tonyr951 @DrivaJane @MiceeMouse @JoxuaLuxor https://t.co/cI7taicANN
+@ItsRickOhio @realDonaldTrump @HillaryClinton Can I chose all of them?
+@ItsRickOhio https://t.co/HTh9TfHfEr
+Ty 2 ~ Mr. Trump to the White House! https://t.co/5gyvf7dWLw
+@kittycoyne @realDonaldTrump @DanScavino https://t.co/D7dWf8EvkE
+Haaa the witch Hillary! https://t.co/0Ek5er31Eh
+@MichiganManInGA @twojacksdetail @Chuck7817 @M_Foresta @JebBush @realDonaldTrump Why wld they give Trump 1 to sign &amp; no 1 else? DT showed 1
+@M_Foresta @JebBush @realDonaldTrump Another dishonest LIAR!! And he wanted ppl to vote for him. Disgusting!!
+@realblair1 @elizabethforma https://t.co/NEEz0yqCMe
+@steingal2 @JulieYankee https://t.co/l8UFMx3CSw
+@hanaxhudo728 @TeamTrumpAZ hopefully they pay hefty fines
+@DMAN0853 https://t.co/kDl8Y0of1i
+@TeamTrumpAZ https://t.co/DqN6k0qDOv
+@BigStick2013 Some of the dipsticks got arrested too!! WTG fools...Get a JOB! Bet mommy &amp; daddy r so proud!
+@_HankRearden @icerinkmomma Ppl trash Trump &amp; never watched or even listened to him...just ignorance. I can say I actually listened to all.
+"@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash Well we will see, still voting for Trump &amp; supporting him. Have gd day"
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash @AP4LP No one is superior to anyone else. Only in ur own mind.
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash We will never agree with ev 1 100% and his policy is better than hers.
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash R u 4 ILLEGAL immigration? getting crushed in trade?
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash Have u even listened to him? I bet not.
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash That is why I will not vote 4 a liar!
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash No  we shld all wnt this Ctry to succeed. I don't believe having a liar
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash @AP4LP https://t.co/MROOG4xZXp
+@AZTRUMPTRAIN @dawngpsalm63 @CarlyFiorina https://t.co/KEB6ZcJq74
+"@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash look who that is coming from Politico, they r worse than Nat. Enquirer"
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash https://t.co/gokLzyJv7W
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash https://t.co/rSIDVJ9HfV
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash watch some older vids of him and then new ones. I don't have room here.
+"@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash ev time Cruz lie he smirks, nods &amp; stutters."
+"@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash things he said Trump was 4 &amp; he lied. His views on refugees, he lied."
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash I have heard him say one thing &amp; then another. He lied about Trump too.
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash @NeverTrump I just don't trust nor like liars.
+@jpwilloughby @Clarkadrummage @alllibertynews @Tbear1Vj @justinamash Don't be jealous cuz Cruz wasn't liked. He lied too much.
+@Clarkadrummage @jpwilloughby @alllibertynews @Tbear1Vj @justinamash @NeverTrump We r in it till he gets to WH. His supporters r loyal.
+@jpwilloughby @Clarkadrummage @alllibertynews @Tbear1Vj @justinamash I think Trump is doing just fine! https://t.co/kjsSKrdDTF
+@CalkinsMark @FinterBrenda @TIB2016 @JaniceRaffa And the women her husband abused.
+NEVER hillary EVER!!! https://t.co/xummQAuFGI
+@guy_next_to_me @celiakw21 They all went bk on their pledge! Shows we r lucky he didn't get far.
+@FoxNewsInsider @jmatheson160 @ericbolling And she lies right to their faces. Typical Hillary.
+@Clarkadrummage @TheColdCivilWar @Tbear1Vj @justinamash oh &amp; the ass pic still applies to u lol
+@Clarkadrummage @TheColdCivilWar @Tbear1Vj @justinamash Try looking up some of the good stories u don't hear about Trump.
+@FinterBrenda And then calls his fam member liars &amp; laughs at their deaths.
+"@Clarkadrummage @TheColdCivilWar @Tbear1Vj @justinamash He donated to ev 1, not just Killary &amp; her death squad. He has helped a lot of ppl!"
+@DoThinkTrump @RedNationRising @ChristieC733 @HillaryClinton I totally agree!! She is the worst. She has no SOUL!
+@DoThinkTrump @RedNationRising @ChristieC733 @HillaryClinton https://t.co/0dXkuAYw2m
+@LegInsurrection @JasonsGrandpa @realDonaldTrump @elizabethforma She is more than Goofy if she thinks she can take on Trump &amp; win battle!!
+@Clarkadrummage @TheColdCivilWar @Tbear1Vj @justinamash Not when it comes to electing a criminal- Killary
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash What is a pledge to u? Word of Honor? They don't know the meaning.
+@richardlsu @MoveOn @sjwar_ @BLMNational @NRA Bring on the Bikers for Trump and watch the sissy's run!
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash https://t.co/ecGumjf2CZ
+@FinterBrenda @JaniceRaffa https://t.co/1iAv8at0AA
+"@magnifier661 @realDonaldTrump @elizabethforma Killary has a worse record, how does any 1 in right mind support her? This woman's mind mush!"
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash No it is their fault 4 going bk on nt support him like promised. Pledge
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash  1 not voting 4 Trump is voting 3 Killary &amp; that will destroy this Ctry
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash https://t.co/JqjNhHQ7M8
+@jpwilloughby @Tbear1Vj @justinamash Hillary is the criminal. She will destroy this Country.
+@Clarkadrummage @alllibertynews @jpwilloughby @Tbear1Vj @justinamash NO 1 is kissing ur ass 4 ur vote! Ur obviously ignorant.
+@Cronikeys @JaniceRaffa Haaa!!

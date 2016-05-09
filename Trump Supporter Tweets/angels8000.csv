@@ -1,0 +1,246 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""0C3E53"", ""default_profile_image"": false, ""id"": 311241090, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme12/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/712536429142937600/9rSOZywH_normal.jpg"", ""profile_sidebar_fill_color"": ""FFF7CC"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2877, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""311241090"", ""profile_background_color"": ""BADFCD"", ""listed_count"": 130, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @trebortwo: DECEITFUL, DISAPPOINTING, AND UNTRUTHFUL, CAN'T BE TRUSTED\u203c\ufe0f OBAMAS POLICIES \u203c\ufe0fSAME OLD CRAP\u203c\ufe0fLIES\u2757\ufe0f https://t.co/TdS6A7TgGR"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729478273822908416, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 199909211, ""indices"": [3, 13], ""id_str"": ""199909211"", ""screen_name"": ""trebortwo"", ""name"": ""TRUMP FOR PRESIDENT""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 199909211, ""source_status_id_str"": ""729476540434665474"", ""expanded_url"": ""http://twitter.com/trebortwo/status/729476540434665474/photo/1"", ""display_url"": ""pic.twitter.com/TdS6A7TgGR"", ""url"": ""https://t.co/TdS6A7TgGR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg"", ""source_user_id_str"": ""199909211"", ""source_status_id"": 729476540434665474, ""id_str"": ""729476539847475200"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729476539847475200, ""media_url"": ""http://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 7, ""id_str"": ""729478273822908416"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""DECEITFUL, DISAPPOINTING, AND UNTRUTHFUL, CAN'T BE TRUSTED\u203c\ufe0f OBAMAS POLICIES \u203c\ufe0fSAME OLD CRAP\u203c\ufe0fLIES\u2757\ufe0f https://t.co/TdS6A7TgGR"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729476540434665474, ""favorite_count"": 5, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/trebortwo/status/729476540434665474/photo/1"", ""display_url"": ""pic.twitter.com/TdS6A7TgGR"", ""url"": ""https://t.co/TdS6A7TgGR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg"", ""id_str"": ""729476539847475200"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 729476539847475200, ""media_url"": ""http://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 7, ""id_str"": ""729476540434665474"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:02:14 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/trebortwo/status/729476540434665474/photo/1"", ""display_url"": ""pic.twitter.com/TdS6A7TgGR"", ""url"": ""https://t.co/TdS6A7TgGR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg"", ""id_str"": ""729476539847475200"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 729476539847475200, ""media_url"": ""http://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:09:08 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 199909211, ""source_status_id_str"": ""729476540434665474"", ""expanded_url"": ""http://twitter.com/trebortwo/status/729476540434665474/photo/1"", ""display_url"": ""pic.twitter.com/TdS6A7TgGR"", ""url"": ""https://t.co/TdS6A7TgGR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg"", ""source_user_id_str"": ""199909211"", ""source_status_id"": 729476540434665474, ""id_str"": ""729476539847475200"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729476539847475200, ""media_url"": ""http://pbs.twimg.com/media/Ch-fDE2XAAAl4mL.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 39167, ""description"": ""Love God, family, law enforcement, medical field, Air Force, ALL branches of US military, my country, fellow patriots! GOD BLESS AMERICA! TRUMP Supporter!"", ""friends_count"": 3169, ""location"": ""Sacramento, CA"", ""profile_link_color"": ""FF0000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/712536429142937600/9rSOZywH_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/311241090/1462085763"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme12/bg.gif"", ""name"": ""Patti"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 30338, ""screen_name"": ""angels8000"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Jun 05 03:38:23 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/xckFYSbISY"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/GO9FgOz7iC"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/cGNszPTHWs"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/aYVe2Hf0lD"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/cLrRqG7HcQ"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/ZC4wlUNdwE"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/8R0Teg65PG"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/YVqGYQGWgk"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/W3t2SttTqu"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/HjgSuG5ZW4"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/S865ROoRHx"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/GaATApjttu"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/4QdrTqiSkG"
+Trump supporters 'boo' Speaker Paul Ryan https://t.co/3hQdPqRTvu
+Donald Trump:  'People loved' taco bowl tweet https://t.co/OO8N9Eumdr
+Priebus on Trump: 'He's trying' https://t.co/SrJ5hTKJu3
+McCain: Trump could be a 'capable leader' https://t.co/6L0ooR66fT
+Trump consolidates control of state parties https://t.co/sNiTRvFDGL
+Top allies break with Ryan over Trump https://t.co/VPaAAgSN7N
+"Cruz, Kasich camps trade postmortem shots in wake of Trump victory | Fox News |  https://t.co/CghHkgp9jj"
+"Trump campaign defends move to fundraise, says 'plenty of time' to unite GOP | Fox News |  https://t.co/Hgv45BlK5u"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/rRiMJyTuJN"
+@SpeakerRyan @DanScavino  https://t.co/6LutZMlh0z
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/sZjSaUErhP"
+"Krauthammer: GOP Led By Non-Conservative As of Now, 'I Don't Think Ill Vote 4 Trump' - Breitbart https://t.co/qCpxLjllJH via @BreitbartNews"
+Saudi Prince Begs America to Reject Trump - Breitbart https://t.co/F9In0ayXYt
+Bill Sex Accusers Back Up Trump Remarks on Hillary The ‘Enabler’ - Breitbart https://t.co/vB3tqahwUg via @BreitbartNews
+EXCLUSIVE: Vicente Fox Blames U.S. for Drug War https://t.co/BPWUikLmQT
+Bill Clinton: Enacting Gun Control 'One Of The Greatest Honors Of My Life' - Breitbart https://t.co/6oD4HIFFi3
+Cruz Campaign: VP Marco Rubio Was Magic Bullet to Defeat Trump https://t.co/02GK7XGBDc
+London's Iconic Red Buses To Declare 'Glory To Allah' https://t.co/tlDouz1Ly6 via @BreitbartNews
+NY Post: Donald Trump Will Troll His Way to Victory - Breitbart https://t.co/WpvK3tM7gH via @BreitbartNews
+Paul Ryan Challenger Paul Nehlen: 'He Has Betrayed Us All' https://t.co/8GAqGCawpy
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/0Avfzq1dJc"
+Full Paul Manafort Interview - Fox News Sunday... https://t.co/vmcKxPImVF via @thelastrefuge2
+Bill Clinton ex mistress says he  wore her frilly nightie and danced https://t.co/1YZoMklbFe via @MailOnline
+I wonder if Paul Ryan REALLY knows how much folks don't like now. @SpeakerRyan @DanScavino  https://t.co/vQvH8867xb
+I have so much admiration for Sessions!  https://t.co/RYiNPnnmwU
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/NEisyvqXRv"
+WOW! Amazing! Great rally too! 🇺🇸 https://t.co/OceCyTxvLx
+https://t.co/0eOchSuHNN
+Juncker: Migrant Crisis 'At A Turning Point' https://t.co/hQDMjCdByC via @BreitbartNews
+Donald Trump Backs UK Leaving European Union https://t.co/kSTXamLZ2g
+"For The First Time In 30 Years, I Desperately Want To Leave London https://t.co/sf37DXA7KE via @BreitbartNews"
+"Trump: Britain Should Make Its Own Decision, But I Think 'They're Better Off' Without the EU - Breitbart https://t.co/NhLfAr4uD8"
+Egyptian Journalist: Zionist Capitalists Control Global Media https://t.co/Eh1YphC1so via @BreitbartNews
+Abbas Confirms He Lied When He Said PA No Longer Pays Terrorists' Salaries - Breitbart https://t.co/5LU7DgYHrX via @BreitbartNews
+Trump: Taxes Will Go Up on Wealthy Once I Negotiate With Dems - Breitbart https://t.co/PJEB4w2LIr via @BreitbartNews
+The Milo Y Show: Sheriff Joe Arpaio Discusses Sanctuary Cities and Trump's Big Heart - Breitbart https://t.co/qfB0DuPtSo via @BreitbartNews
+Trump: Romney ‘Ungrateful’ for My Help in 2012; ‘I Helped Him Win Five States’ - Breitbart https://t.co/uCEI60FCi5 via @BreitbartNews
+California Becoming Third Coal-Free State at a Big Cost https://t.co/KQtlBOYoZe via @BreitbartNews
+"DonaldTrump: If Ryan Fails 2 Endorse, 'I'll Be Very Quick' to Say Whether He Should Chair GOP Convention - Breitbart https://t.co/1vzWg3tlGR"
+Manafort: 'We Have Plenty of Time to Put the Party Together' - Breitbart https://t.co/pP6UPPjCAY via @BreitbartNews
+Breitbart News Sunday: Nehlen at the Border; Allah Comes to London - Breitbart https://t.co/Nmx6TRzfIr via @BreitbartNews
+Republican Party Drafts Playbook for November Victory - Breitbart https://t.co/NYrqhzHTHz via @BreitbartNews
+"Judge Jeanine: Hillary Using Elizabeth Warren to Deflect Her Big Bank, Wall Street Sellouts - Breitbart https://t.co/T5jhU3rmqL"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/HsBSbLq8l5"
+SORRY CARLY=&gt; Cruz Wanted Rubio as VP to Defeat Trump (VIDEO) https://t.co/pv0CKqAohz via @gatewaypundit
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/flFg4HSRW4"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/QhvRpO2z97"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/0mr0XRi0dC"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/LuRaLPOFnA"
+Orthodox Child with Rare Ailment is Rescued Aboard Tycoon’s Jet https://t.co/H9ocMdajKU
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/bZ79lqwMF4"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/x3MuNRtFOM"
+How US covered up Saudi role in 9/11 https://t.co/1LF1qwaRcb via @nypost
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/mvfv9WG3kO"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/invyXAyy75"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/nQqIhRn4tk"
+Thank you for the kind words!  https://t.co/4qm59RCx81
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/4htwi1DaBc"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/SieQN387nY"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/qyPRhyAw5f"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/jkaOuMwj53"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/6m8ihZBFhz"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/JwjkBaevnK"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/6pWFifZ1r4"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/a4ANAu1zdk"
+Kansas Required Work for Food Stamps. Here’s What Happened. https://t.co/A8huHCUAzD @DailySignal
+How Washington Politicians Wasted Billions Trying to ‘Invest in Our Future’ https://t.co/IKA9y3aeZe via @NiconomistLoris @DailySignal
+With the Peshmerga on the Front Lines Against ISIS https://t.co/K8qYXQOsji via @nolanwpeterson @DailySignal
+You’d Better Believe NATO Still Matters Today https://t.co/8YBvSiNFP1 via @JJCarafano @DailySignal
+Press Freedom Is Under Attack Around the World https://t.co/hNkI2QLfyb via @Helledale @DailySignal
+More Guns Does Not Mean More Murders https://t.co/kw88RZWoRF @DailySignal
+Will the Supreme Court Stop Obama’s Illegal Executive Amnesty Program? https://t.co/3eNau1krKu via @SenMikeLee @DailySignal
+State Department Announces Plans to Circumvent US Law in Order to Advance Climate Agenda https://t.co/kcG3c3lU9I @DailySignal
+"In 2015, 19,000 Criminal Illegal Immigrants Were Released From Custody https://t.co/lv2PZgsMXf via @SiegelScribe @DailySignal"
+Paul Nehlen Tours Border with Breitbart Texas' Brandon Darby: 'Agents Need a Fighter' - Breitbart https://t.co/V0zJg9oMch via @BreitbartNews
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/UrUpPkMxYB"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/1SMEo6qtov"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/VfFT6i4kiy"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/mhi2tTMtuC"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/KSvIiDgn6B"
+"Finally, Obama Admits He Doesn’t Think… [VIDEO] https://t.co/yrxZsw0zuh via @dailycaller"
+Less Than 1 Percent Of Immigrants Who Overstayed Visas Were Deported In 2015 https://t.co/06ZlND53ce via @dailycaller
+"Most Trump Supporters Believe In Global Warming, But Not In the Way You Think https://t.co/SmbnHaTJd0 via @dailycaller"
+Dick Cheney Will Support Trump https://t.co/IvnObS3WPa via @dailycaller
+Sessions: Ryan Made ‘A Big Mistake’ Not Endorsing Trump Now [VIDEO] https://t.co/86xBYGoAaj via @dailycaller
+Trump Torches Lindsey Graham For Not Endorsing Him https://t.co/kj5UlhxTqD via @dailycaller
+Donald Trump Gets Huge Endorsement [VIDEO] https://t.co/XLRoqXlO6i via @dailycaller
+Here’s How Carefully Tended White House Propaganda Sold The Iran Deal https://t.co/xAcQ9qdx0E via @dailycaller
+Trump: Hillary Should ‘Take A Look’ At How Bill Talks To Women Before Criticizing Me [VIDEO] https://t.co/QRocSLpCMp via @dailycaller
+Manafort: Trump’s Agenda Has Won Out Over Paul Ryan’s https://t.co/X8uf2t273b via @dailycaller
+ABC News Analyst: ‘Republican Voters Are The Problem For The GOP Elite’ [VIDEO] https://t.co/a2wpkUhC2c via @dailycaller
+Trump Hits Clinton On Gun Rights: ‘She Wants To Take The Bullets Away’ https://t.co/NchUMDjiUM via @dailycaller
+New Poll Shows This Red State Could Be In Play In November [VIDEO] https://t.co/e3GDSLXFcc via @dailycaller
+"Mike Huckabee Wants Me Out Of The Republican Party, Which Sounds Good https://t.co/7qEX93smFp via @dailycaller"
+Trump On Clinton Admin: Hillary ‘Was A Part Of ALMOST Everything’ — Except That [VIDEO] https://t.co/SIGp4YQqrz via @dailycaller
+Here’s What It’s Like To Have Clinton Cronies Sell Out Your Industry https://t.co/43y062ULHe via @dailycaller
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/vHEGHSM7ey"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/0QG51WMhlt"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/yrypwIIPmq"
+"EVERY TRUMP VOTE COUNTS! 
+Need +50% VOTES!
+Fellow Americans THANK U 4 VOTING TRUMP!! 
+🇺🇸!Make America Great Again!🇺🇸 https://t.co/2UTJ8PWcb7"

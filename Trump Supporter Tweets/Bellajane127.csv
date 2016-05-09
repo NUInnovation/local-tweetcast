@@ -1,0 +1,81 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 3192540098, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/672919677472006144/YMYGSnNt_normal.png"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2353, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""3192540098"", ""profile_background_color"": ""000000"", ""listed_count"": 183, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @deep_beige: this clip is an amazing encapsulation of elite media cluelessness https://t.co/a7ZkH7lkMW"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729479738264145920, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 605556917, ""indices"": [3, 14], ""id_str"": ""605556917"", ""screen_name"": ""deep_beige"", ""name"": ""brendan james""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 3361667379, ""source_status_id_str"": ""728333198799847424"", ""expanded_url"": ""http://twitter.com/iramfali/status/728333198799847424/video/1"", ""display_url"": ""pic.twitter.com/a7ZkH7lkMW"", ""url"": ""https://t.co/a7ZkH7lkMW"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg"", ""source_user_id_str"": ""3361667379"", ""source_status_id"": 728333198799847424, ""id_str"": ""728332406906884096"", ""sizes"": {""small"": {""h"": 189, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 356, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 334, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [82, 105], ""type"": ""photo"", ""id"": 728332406906884096, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1915, ""id_str"": ""729479738264145920"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""this clip is an amazing encapsulation of elite media cluelessness https://t.co/a7ZkH7lkMW"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728423638983135232, ""favorite_count"": 2577, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 3361667379, ""source_status_id_str"": ""728333198799847424"", ""expanded_url"": ""http://twitter.com/iramfali/status/728333198799847424/video/1"", ""display_url"": ""pic.twitter.com/a7ZkH7lkMW"", ""url"": ""https://t.co/a7ZkH7lkMW"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg"", ""source_user_id_str"": ""3361667379"", ""source_status_id"": 728333198799847424, ""id_str"": ""728332406906884096"", ""sizes"": {""small"": {""h"": 189, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 356, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 334, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""photo"", ""id"": 728332406906884096, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1915, ""id_str"": ""728423638983135232"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 03:18:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 3361667379, ""source_status_id_str"": ""728333198799847424"", ""expanded_url"": ""http://twitter.com/iramfali/status/728333198799847424/video/1"", ""display_url"": ""pic.twitter.com/a7ZkH7lkMW"", ""url"": ""https://t.co/a7ZkH7lkMW"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg"", ""source_user_id_str"": ""3361667379"", ""source_status_id"": 728333198799847424, ""video_info"": {""aspect_ratio"": [160, 89], ""duration_millis"": 25092, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/pl/2FJHAShBCwPuNoRc.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/pl/2FJHAShBCwPuNoRc.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/vid/322x180/mVKQfHz-EWEcUBM4.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""728332406906884096"", ""sizes"": {""small"": {""h"": 189, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 356, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 334, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""video"", ""id"": 728332406906884096, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:14:57 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 3361667379, ""source_status_id_str"": ""728333198799847424"", ""expanded_url"": ""http://twitter.com/iramfali/status/728333198799847424/video/1"", ""display_url"": ""pic.twitter.com/a7ZkH7lkMW"", ""url"": ""https://t.co/a7ZkH7lkMW"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg"", ""source_user_id_str"": ""3361667379"", ""source_status_id"": 728333198799847424, ""video_info"": {""aspect_ratio"": [160, 89], ""duration_millis"": 25092, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/pl/2FJHAShBCwPuNoRc.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/pl/2FJHAShBCwPuNoRc.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/728332406906884096/pu/vid/322x180/mVKQfHz-EWEcUBM4.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""728332406906884096"", ""sizes"": {""small"": {""h"": 189, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 356, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 334, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [82, 105], ""type"": ""video"", ""id"": 728332406906884096, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728332406906884096/pu/img/-hvbQFuIgwOGRkH3.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 64159, ""description"": ""#LovesJesus #Christian #Conservative #Trump/Cruz #Patriot Pro-Israel ~ NO to Islamization of US & EU! ISLAM: totalitarian political system CLOAKED in religion."", ""friends_count"": 1619, ""location"": """", ""profile_link_color"": ""9266CC"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/672919677472006144/YMYGSnNt_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3192540098/1449211862"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Bella Jane"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 30795, ""screen_name"": ""Bellajane127"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon May 11 21:36:15 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"RT SHARE!
+KEEP VOTING FOR TRUMP in upcoming primaries! https://t.co/UjhUCphNMO"
+"RT SHARE!
+BEWARE OF HILLARY &amp; BILL CLINTON! 
+#NeverHillary  https://t.co/cPEBaQjHGm"
+Donald Trump just exposed America's dirty little secret: Schiff https://t.co/ybtXV6XVxn
+Dinesh Understands the Difference Between Hillary Clinton and a Blowhard Populist Who is Learning On the J... https://t.co/B0ujQ8L0zF via @
+Trump's Muslim backers celebrate his success @CNNPolitics https://t.co/wEZYW0py2M
+Thanks for the recent follow @DMashak @2noame @larouti Happy to connect :) have a great Sunday. (🆓 Insight via &gt;&gt; https://t.co/OsTEIyNGye)
+McCain on Trump: 'Foolish' to ignore will of GOP voters @CNNPolitics https://t.co/U22an5VNiP
+Sarah Palin will work to defeat Paul Ryan in primary for Donald Trump stance - https://t.co/LNEuYdpYQM https://t.co/RdWp4lXfLR
+Mexico mayor murdered one day after taking office | Fox News https://t.co/600rFklLXq
+Cruz Campaign: VP Marco Rubio Was Magic Bullet to Defeat Trump https://t.co/nuXSsh5ubR
+Coulter: Ryan Is 'The Next Eric Cantor' - Breitbart https://t.co/2pkl16coJs
+"Donald Trump: If Paul Ryan Fails to Endorse, 'I'll Be Very Quick' to Say Whether He Should Chair GOP Convention  https://t.co/dE9iCDT0Rx"
+Donald Trump Calls Mitt Romney 'Ungrateful' for His Support - NBC News https://t.co/cpBUSUHBij
+Austria: Police tell blonde victim of Muslim migrant assault to dye her hair https://t.co/thPTjlKk1k via @po_st
+Thanks for the recent follow @Trump4Pres0225 @karwilson8046 Happy to connect :) have a great Sunday. &gt;&gt; Get FREE? https://t.co/93UrGKVQBg
+Thanks for the retweets this week @MNforTrump @BarryKathyJ @RighT_QueeN much appreciated! (🆓 Insight via &gt;&gt; https://t.co/OsTEIyNGye)
+Thanks @ConserValidity @dmc2et @realBethNeale for being top engaged community members this week :) &gt;&gt; Get FREE? https://t.co/93UrGKVQBg
+End Benefits for Illegal Aliens! | Federation for American Immigration Reform https://t.co/AztVhkvh2V
+"“These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but …” https://t.co/UCsiO8fs2l"
+"“Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me a…” https://t.co/TUY6fHDFaT"
+"“Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe th…” https://t.co/aWpBb5YXjP"
+"“For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.” https://t.co/r5DLtkPkt9"
+"“And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my…” https://t.co/KlTL37XCgJ"
+"“And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man tak…” https://t.co/78UAEppbBg"
+"“A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the chil…” https://t.co/Xb7F1HVgwM"
+"“Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorro…” https://t.co/g4oCq3HFTv"
+"“He shall glorify me: for he shall receive of mine, and shall shew it unto you.”
+John 16:14 KJV https://t.co/gsKG0fhDpy"
+"“Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himsel…” https://t.co/iYTrwdmetr"
+"“Of judgment, because the prince of this world is judged.”
+John 16:11 KJV https://t.co/uAjXfEQHsV"
+"“Of righteousness, because I go to my Father, and ye see me no more;”
+John 16:10 KJV https://t.co/nbMtO9D6oj"
+"“Of sin, because they believe not on me;”
+John 16:9 KJV https://t.co/Sn4iK8qDKV"
+"“And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:” https://t.co/wC10WA4EPy"
+"“Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter wi…” https://t.co/nIyI4dreyP"
+"“But these things have I told you, that when the time shall come, ye may remember that I told you of them. And the…” https://t.co/7mE4FYbTxu"
+"“And these things will they do unto you, because they have not known the Father, nor me.”
+John 16:3 KJV https://t.co/6FZA9EDvsr"
+"“They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doe…” https://t.co/pC4U8O6Xs1"
+"“Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.” https://t.co/JiSEcFn6a0"
+"Lynne Patton ""The Trump Family That I Know"" - A Black Female Trump Executive Speaks - YouTube https://t.co/tOquysMqhn"
+@2eyesnears Hillary will flood US w illegals &amp; Muslim refugees for Dem votes. End of GOP &amp; US.
+Brexit 'Could Stop 75 Per Cent Of EU Migrants Taking UK Jobs' https://t.co/xvbe18Kbez
+Sadiq Khan: Britain's Obama https://t.co/Wz3WUyXrmB
+EU Parliament President Claims: 'Vast Majority Do Not Want Borders' https://t.co/ClopX1NulB
+"Whites Need Not Apply: BBC Advertises 'Black, Asian, Or Minority'-Only Positions https://t.co/OpqwCdQTyr"
+Telegraph Freaks Out Over Breitbart and Drudge 'LondonisKhan' Headlines https://t.co/TQ8b9JhUIR
+"Turkey's European Mega-Mosque Complete, Erdogan To Preside Over Opening Ceremony https://t.co/ZEUk8DQYd5"
+PICTURES: Hundreds Of 'No Borders' Activists Protest On Austria-Italy Border https://t.co/of8PMsNVZL
+"10,000 People ""Praying"" At Donald Trump Rally In Indiana - YouTube https://t.co/M9oszcIVJP"
+Twitter lets Ted Cruz know his latest gaffe probably just lost him the state of Indiana - https://t.co/oUK6YvQK5K https://t.co/J033jlY6Tb
+Khan Sworn In At 'Multi Faith Ceremony' At Southwark Goodbye London Hello Shari https://t.co/cFqdLy4fYd
+@hopeful45890551 @GeneticSequence @sabine_durden Obama &amp; Dems care more abt illegals &amp; Muslim refugees than Americans. 😓
+@WO4TG @WeNeedTrump @mmmoonie His 500 companies are doing great. 67K employees w $9.5B profit in 2014. The show Apprentice top rated.
+Trump Willing to 'Sell a Building' to Pump $1 Billion Into Campaign - https://t.co/tWyGLT1Ug3 https://t.co/UhgIRpj2Fx
+"RT Share❗️Cop Works Sanders Rally and Trump Rally On Same Day, But He Never Expected THIS ... https://t.co/YZX403kK6l"
+@pappy_jim @delcaste @RinoRooter @vtul7321 Right on! We don't another American to get killed by terrorists or illegals.
+Poison Pill: Two more GOP leaders announce they WILL NOT vote for Trump - Allen B. West - https://t.co/goyNpDTpyH https://t.co/3AYmwIatbS
+@LarryLuvsUsa @Campaign_Trump Because Democrat controlled King County refused to give them a permit to hold it in Boeing Field hangar.
+"Donald Trump to Spokane supporters, 'We're going to win win win' - Spokane https://t.co/5KdvIw8hd6"
+News from The Associated Press https://t.co/mUm1JmwSqs
+Skygazers prepare for rare Mercury sighting https://t.co/g8kl5z9fMA
+News from The Associated Press https://t.co/auMphVDIH9
+Right-wing extremists rally outside Berlin train station against refugees | Daily Mail Online https://t.co/ICKiejP3eY
+"In a down-on-its-luck Oregon mill town, the savior they're waiting for is Donald Trump - LA Times https://t.co/9GcCN2wZtH"
+Protester confronts Hillary on rope line: ‘You’re a murderer!’ | The American Mirror https://t.co/V9awNIRPIb
+7 Strategies for Preventing &amp; Healing Brain Tumors https://t.co/1XB25UocyM
+"Love it!!!!
+Not too soon! :) https://t.co/5zQ0hoGgNK"
+"WOW!!
+Thanks Lynden WA!
+#TrumpWA  https://t.co/fUdDCrORD1"
+"Former Cruz supporter who is a Trump supporter now.
+#neverTrump
+#MakeAmericaGreatAgain  https://t.co/cowsX5VgQQ"

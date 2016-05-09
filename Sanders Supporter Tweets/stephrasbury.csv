@@ -1,0 +1,118 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""3E4415"", ""default_profile_image"": false, ""id"": 70006976, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme5/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/722124372639641600/D4f6Kr8E_normal.jpg"", ""profile_sidebar_fill_color"": ""99CC33"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 262, ""profile_sidebar_border_color"": ""829D5E"", ""id_str"": ""70006976"", ""profile_background_color"": ""352726"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @VeraFarmigasEye: God bless you, @VeraFarmiga !!You're like a drug! #BatesMotel https://t.co/VesSdHGMwF"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727352107528019968, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 579449271, ""indices"": [3, 19], ""id_str"": ""579449271"", ""screen_name"": ""VeraFarmigasEye"", ""name"": ""Vera Farmiga \u2764\ufe0f""}, {""id"": 1881225786, ""indices"": [36, 48], ""id_str"": ""1881225786"", ""screen_name"": ""VeraFarmiga"", ""name"": ""Vera Farmiga""}], ""hashtags"": [{""indices"": [71, 82], ""text"": ""BatesMotel""}], ""urls"": [], ""media"": [{""source_user_id"": 579449271, ""source_status_id_str"": ""727311131409285120"", ""expanded_url"": ""http://twitter.com/VeraFarmigasEye/status/727311131409285120/video/1"", ""display_url"": ""pic.twitter.com/VesSdHGMwF"", ""url"": ""https://t.co/VesSdHGMwF"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg"", ""source_user_id_str"": ""579449271"", ""source_status_id"": 727311131409285120, ""id_str"": ""727310797156790273"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [83, 106], ""type"": ""photo"", ""id"": 727310797156790273, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 26, ""id_str"": ""727352107528019968"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""God bless you, @VeraFarmiga !!You're like a drug! #BatesMotel https://t.co/VesSdHGMwF"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727311131409285120, ""favorite_count"": 56, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1881225786, ""indices"": [15, 27], ""id_str"": ""1881225786"", ""screen_name"": ""VeraFarmiga"", ""name"": ""Vera Farmiga""}], ""hashtags"": [{""indices"": [50, 61], ""text"": ""BatesMotel""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/VeraFarmigasEye/status/727311131409285120/video/1"", ""display_url"": ""pic.twitter.com/VesSdHGMwF"", ""url"": ""https://t.co/VesSdHGMwF"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg"", ""id_str"": ""727310797156790273"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [62, 85], ""type"": ""photo"", ""id"": 727310797156790273, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 26, ""id_str"": ""727311131409285120"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 01:37:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""expanded_url"": ""http://twitter.com/VeraFarmigasEye/status/727311131409285120/video/1"", ""display_url"": ""pic.twitter.com/VesSdHGMwF"", ""url"": ""https://t.co/VesSdHGMwF"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg"", ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 29117, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/pl/Tp8qsyXMpJ5hHCQB.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/pl/Tp8qsyXMpJ5hHCQB.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/640x360/eKgT8VDT-6u3Jak1.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/1280x720/3pqWUmSfuAYWwt30.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/320x180/pLYDVAxqbnax-smD.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""727310797156790273"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [62, 85], ""type"": ""video"", ""id"": 727310797156790273, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 04:20:30 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 579449271, ""source_status_id_str"": ""727311131409285120"", ""expanded_url"": ""http://twitter.com/VeraFarmigasEye/status/727311131409285120/video/1"", ""display_url"": ""pic.twitter.com/VesSdHGMwF"", ""url"": ""https://t.co/VesSdHGMwF"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg"", ""source_user_id_str"": ""579449271"", ""source_status_id"": 727311131409285120, ""video_info"": {""aspect_ratio"": [16, 9], ""duration_millis"": 29117, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/pl/Tp8qsyXMpJ5hHCQB.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/pl/Tp8qsyXMpJ5hHCQB.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/640x360/eKgT8VDT-6u3Jak1.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/1280x720/3pqWUmSfuAYWwt30.mp4"", ""bitrate"": 2176000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/727310797156790273/pu/vid/320x180/pLYDVAxqbnax-smD.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""727310797156790273"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [83, 106], ""type"": ""video"", ""id"": 727310797156790273, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/727310797156790273/pu/img/BZcSnA5Ho2NBhDwV.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 2519, ""description"": ""See me? I'm still standing. I might be bleeding, but I'm still breathing.\n\nS.O.S. Girl Overboard"", ""friends_count"": 677, ""location"": ""MOV"", ""profile_link_color"": ""D02B55"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/722124372639641600/D4f6Kr8E_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/70006976/1456810668"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme5/bg.gif"", ""name"": ""Stephanie Rasbury"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 878, ""screen_name"": ""stephrasbury"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Aug 30 00:49:09 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"""What's that Nagatha Christie?"" BOB @BobsBurgersFOX"
+@InsideBates gave me all the feels this week #normasconfession #BatesMotel #icried
+I feel you #TGE #girlfriendexperience @GFE_STARZ https://t.co/ggvpMs2CaJ
+Just binge watched all of season 1 of @GFE_STARZ and am still sitting here like whoa #thegirlfriendexperience #TGE where'd my day go?
+Frantically cleaning and re-cleaning and re-cleaning forever
+Adventuring to @AlexandriaZoo tomorrow. Let's hope we can avoid the rain.
+@EmpireFOX KILLED it tonight
+So ready to sleep until Wednesday
+I can't find my copy of boondocks saints :( &gt;:[
+@MidnightsFury just the ones with spinach on them or something. Nothing she'd eat anyway lol
+""" I'm marrying his mother... "" #AlexRomero is a #dream @InsideBates #BatesMotel"
+Yasssss #NowPlaying @everestmovie @crimsonpeak @redbox https://t.co/sa13ifCjsW
+what the fuck is WRONG with you?!!!!?!?!?!?!?!?!
+I've eaten so many popsicles. Fuck you tonsils.
+Linda the therapist on @LuciferonFOX ....... *drools* #LuciferOnFox
+I got sorted into Hufflepuff on #pottermore https://t.co/MEHC9GSYxy #alwaysahufflepuff
+Norman is Norma's robe..... I just cant.. and that ending. Full #Psycho . Emma is going to be devastated #BatesMotel @InsideBates
+@MidnightsFury looooovvvvveeeee this!
+10 Cloverfield Lane??!!!!! It looks so good! #jjabrams #10CloverfieldLane
+@InsideBates is giving me life right now #BatesMotel
+Taco bell and beer to end this long ass day
+I swear I could listen to @TreySongz #TriggaReloaded every day and it wouldn't get old! #NowPlaying #TreySongz #ServeItUp
+"[ I found solace in the strangest place
+Way in the back of my mind
+I saw my life in a stranger's face
+And it was mine ]"
+"[ who are we? 
+just a speck of dust within the galaxy? ]"
+Explaining what silent but deadly farts are to an 8 year old
+"[ I am covered in skin
+No one gets to come in ]"
+Deadpool was all I could have wished for &amp; more!
+I found a tutorial for the kitty nails! @MidnightsFury https://t.co/a9NyLcJFiA
+@stephrasbury also to be a #stripper lol #Priorities
+I can't make a dream board because my life goals are ridiculous... #hiphopdancer #professionalfangirl
+I need a motivational speech from @djkhaled #yousmart
+"Grumpy Old Men, laundry &amp; @MidnightsFury are keeping me entertained this evening"
+@MidnightsFury I just wanna smooch all over your face!
+@MidnightsFury @TheWitchMovie Tiff &amp; I are V free all weekend! Yaaaaassssssss
+@MidnightsFury @TheWitchMovie this needs to happen
+@TheWitchMovie @MidnightsFury I'm itching to see this
+@MidnightsFury sorry I'm so crazy lol
+I want to believe
+@InfluensterVox @Influenster this is my guess for the #GlamVoxBoxGuess https://t.co/ZPfHiPTKCt
+I recieved my Keurig as a gift on Christmas of 2014. I've gotten my use out of it and pro... https://t.co/HdOW19c712 https://t.co/gaY9nMpMF3
+"Fiji water tastes like HEAVEN. If I could, I would buy it in a huge container and hook it... https://t.co/oTKIp69LRV https://t.co/wBPFH2wxau"
+This is the BEST pre-made bottled alfredo sauce on the market. All the other brands taste... https://t.co/2LGKONeBHn https://t.co/qG2AFG8frH
+I use this scrub every time I shower ( every 2-3 days) and while the smell is invigoratin... https://t.co/TtDtIW07il https://t.co/59yqESYzJh
+I was actually very surprised by this phone when I got it because it was definitely bette... https://t.co/MS9nHYswFO https://t.co/1Sal2oe6i5
+I don't trust you @TheWalkingDead #TWD
+Car cat https://t.co/iHijljae77
+Why are you wearing that stupid man suit?
+Sometimes I doubt your commitment to Sparkle Motion.
+I need to see @AutismInLove
+What do we do instead of purging when BED flares up? Living room dance party for an hour! #EDrecovery #BingeEatingDisorder #BED #EDAwareness
+@AlliisonB the resemblance is strong! #FeelTheBern
+"[ I was told when I get older all my fears would shrink, but now I’m insecure and I care what people think ]"
+I just want to play rockband
+Loving this @twentyonepilots https://t.co/4D5laG8xKo
+"""He was the MVP of this game, right? They announced it already?""
+""Who? Pikachu?"" #SB50 #Pokemon20"
+That got real real fast
+@odyssey7theater you have the best PR ever!
+ZzzzzzzzZzzZzzZZZZZZZzzZzzz
+I called that shit 2 damn years ago!
+I was just alerted that @InsideBates season 3 was just added to @netflix.... goodbye world #BatesMotel
+@TonedNTasty those look amazing. I'm gonna have to stop at the store on the way home and get stuff for them!
+I'm on one hell of a @coldplay kick. Thank the Gods for @pandora_radio and their vast musical library #NowPlaying #VioletHill
+[ Is there anybody out there who is lost and hurt and lonely too? ]
+Red can walk my pomeranians any time #TheBlacklist @NBCBlacklist https://t.co/uwdFkTMo5u
+@imserienfieber I took the survey for you
+@imserienfieber I'm a TV junkie :)
+I heard @IGGYAZALEA #ImSoFancy by accident on the way to work this morning &amp; it has literally been stuck in my head since. Is this hell?
+Trying to be friends with girls is the worst
+Whateeveverrrrrr
+"@BruceVentureXXX THE worst. You should never be awake for the transition from drunk to sober :,-("
+ALWAYS CHOOSE RED #TheBlacklist
+I've had a panic attack at least once a day for a week WHY
+https://t.co/UXVGxsyMrD
+I'm going to stand on the other side of the door see you in 2 minutes
+When you take your dogs out at 2am in 5° weather and all they do is stand there
+I wasted all my reading time fucking around on Twitter so now I have to go to sleep extremely unfulfilled #whyamIevenonhere
+@amellywood @Mikii_Manzano I can't quite say how many times I've freaked out after watching 3 episodes then see it's some FINALE and cry
+Yuppie yup yup yup
+At first I related to #ElliotAlderson  and felt happy that my thoughts were mirrored but now I'm scared #MrRobot @whoismrrobot
+Seriously have you seen videos of fans freaking out over celebs? Annoying tf out of them to get an autograph? Hey hey hey hey hey sign this
+I waaaaaaaaaaannnnnt https://t.co/ZT1KCe6P49
+We all just ate ranch popcorn while watching #HotelTransylvania2 and didn't even realize it was #NationalPopcornDay!
+Can I be a professional fangirl? Is that a thing?
+Where did you come from @whoismrrobot???? This whole show is FLAWLESS. #MrRobot
+Unfollowing bots
+"@SpotlightMovie, @danishgirlmov @CarolMovie, or #BrooklynTheMovie tonight? #twitterlesstiff &amp; I are checking out the @AthenaCinema tonight."
+@jtfirewalker it will go by so quickly! I just (literally) finished season 6. You can watch a whole season in 4 hours!
+@jtfirewalker I think it's binging. :-) I am as well! I've watched 5 seasons this week!
+I've found my calling. It only took over 10 years. May I be a doctor whose speciality is the Earth? #SaveTheAnimals #SaveTheEarth
+It must be very hard to be famous. I couldn't imagine... the way people obsess about and degrade celebrities... they're just humans.
+@SamHeughan what a gorgeous brisk morning. The BEST exercise happens when your body is heating up and pumping w/the contrast of the chill
+I dunno if it's because I've had my fair share of addicts in my life but watching #NurseJackie be such a conniving bitch eats right thru me.
+This season of @AHSFX has been such a mess.
+@EW I was laughing so hard tears came to my eyes! #Zoolander2
+@hustlexrose @mozhanistan me too! It's perfect!
+RESSLER NOOOOOOOOO WHAT ARE YOU DOING #THEBLACKLIST @NBCBlacklist
+@iphiginea Def Ben gibbard
+@iphiginea I will deliberate and return with the answer
+THIS BITCH IS CABAL??? #THEBLACKLIST
+@iphiginea I feel you
+Drowning out the world with #Cimarosa
+I just had to sit through #samaranddonald  with disgust but can't get a bone for some #Lizzington ???? Go away Tom. #pooraram #TheBlacklist
+Samar &amp; Ressler??? Not feeling it #TheBlacklist @NBCBlacklist
+@bunnyhunter42 @alanalda either one sound like a good watch :)
+@bunnyhunter42 @alanalda this tweet is SO TRUE
+Classical music and my bed will be my friends.
+I would rather have 0 friends than ones who don't truly care. I am strong enough to end anything that won't benefit my well-being #selflove
+"It wouldn't have mattered if I'd confided in you, you don't listen anyway."
+Gimme all dem coffeez
+This isn't scary to me.. it looks peaceful and undisturbed.. quiet. Beautiful  https://t.co/4BKg1dCQbe
+My MiL is going back to her house today! Hello being able to walk around the house naked!

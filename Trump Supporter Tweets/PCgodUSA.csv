@@ -1,0 +1,66 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""0084B4"", ""default_profile_image"": false, ""id"": 137183203, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/378800000105057281/e120059b9e6c68cb50ce10c0c680b435.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/483788301183508480/Y6U8-T7L_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1388, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""137183203"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 46, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Trump2016Donald: IF TRUMP GETS ELECTED WE'RE LEAVING THE COUNTRY! PLEASE LIKE AND SHARE TO SUPPORT THEIR PLAN! #Trump2016 #TrumpTrain h\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729447433411899392, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3385160385, ""indices"": [3, 19], ""id_str"": ""3385160385"", ""screen_name"": ""Trump2016Donald"", ""name"": ""Trump 2016""}], ""hashtags"": [{""indices"": [115, 125], ""text"": ""Trump2016""}, {""indices"": [126, 137], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""source_user_id"": 3385160385, ""source_status_id_str"": ""729294142916923394"", ""expanded_url"": ""http://twitter.com/Trump2016Donald/status/729294142916923394/photo/1"", ""display_url"": ""pic.twitter.com/WnVkEaenLa"", ""url"": ""https://t.co/WnVkEaenLa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg"", ""source_user_id_str"": ""3385160385"", ""source_status_id"": 729294142916923394, ""id_str"": ""729294137472761856"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729294137472761856, ""media_url"": ""http://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 283, ""id_str"": ""729447433411899392"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""IF TRUMP GETS ELECTED WE'RE LEAVING THE COUNTRY! PLEASE LIKE AND SHARE TO SUPPORT THEIR PLAN! #Trump2016 #TrumpTrain https://t.co/WnVkEaenLa"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729294142916923394, ""favorite_count"": 390, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [94, 104], ""text"": ""Trump2016""}, {""indices"": [105, 116], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Trump2016Donald/status/729294142916923394/photo/1"", ""display_url"": ""pic.twitter.com/WnVkEaenLa"", ""url"": ""https://t.co/WnVkEaenLa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg"", ""id_str"": ""729294137472761856"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729294137472761856, ""media_url"": ""http://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 283, ""id_str"": ""729294142916923394"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 12:57:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Trump2016Donald/status/729294142916923394/photo/1"", ""display_url"": ""pic.twitter.com/WnVkEaenLa"", ""url"": ""https://t.co/WnVkEaenLa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg"", ""id_str"": ""729294137472761856"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729294137472761856, ""media_url"": ""http://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:06:35 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3385160385, ""source_status_id_str"": ""729294142916923394"", ""expanded_url"": ""http://twitter.com/Trump2016Donald/status/729294142916923394/photo/1"", ""display_url"": ""pic.twitter.com/WnVkEaenLa"", ""url"": ""https://t.co/WnVkEaenLa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg"", ""source_user_id_str"": ""3385160385"", ""source_status_id"": 729294142916923394, ""id_str"": ""729294137472761856"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 800, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729294137472761856, ""media_url"": ""http://pbs.twimg.com/media/Ch75J3DWwAABkXJ.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 15457, ""description"": ""#2A #tcot #OiP #Conservative #Constitution  #NoHandouts (work for what you want).  Married to my best friend and wife."", ""friends_count"": 1400, ""location"": ""Pennsylvania, USA"", ""profile_link_color"": ""333333"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/483788301183508480/Y6U8-T7L_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/137183203/1408067228"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/378800000105057281/e120059b9e6c68cb50ce10c0c680b435.jpeg"", ""name"": ""Francesco Talarico"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 574, ""screen_name"": ""PCgodUSA"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Apr 26 01:57:52 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Did you really believe in hope and change? Meme Maker! https://t.co/fudq74eo6X
+"Strong word, but oh, so very true! Jan 20, 2017 can't get here fast enough! https://t.co/WaRH0ZDNo9"
+True Dat! 👈👍 👊 https://t.co/7fmPkDFCbM
+"💗Happy Mothers Day 💗 to all women, and their mothers, who did not murder their children. 👍 https://t.co/GeBrv60stm"
+"#HillaryForPrison2016 ""Yes, I did nothing to try and help those four brave men. I just let them die. Happy mom day!"" https://t.co/QYjNehAeAG"
+What a scumbag! https://t.co/oOjSMPjNwU
+This is so true; I actually remember this. https://t.co/4yMgkwkH9z
+That's because KILLARY is a worthless POS! 💩 https://t.co/hyPB6iBcX2
+"My fitbit #Fitstats_en_US for 5/07/2016: 7,439 steps and 3.1 miles traveled. https://t.co/Bxcq3SiBIi"
+There he goes again: ruining young minds to further his doomed agenda.  https://t.co/eca1ssvxtS
+"My fitbit #Fitstats_en_US for 5/06/2016: 8,042 steps and 3.4 miles traveled. https://t.co/Bxcq3SiBIi"
+There goes liberal logic again! 😁 https://t.co/CmxW4X0Rm0
+"Hillery, you stupid a$$! 😲 https://t.co/QjJu7D3XVq"
+"👳bama, you hypocritical terrorist a$$hole! https://t.co/O4Fvsr2aCd"
+"@kingattax Grab another cup-o-joe. :) I never said Trump won squat. I said he had one foot in the door. GOP needs to unite, not fight."
+#LiberalLogic https://t.co/Anz8uInw5m
+"Unfortunately, this only strengthens 👳bamas failed legacy. 😥 https://t.co/5XuRxNOMx4"
+"My fitbit #Fitstats_en_US for 5/05/2016: 9,837 steps and 4.1 miles traveled. https://t.co/Bxcq3SiBIi"
+"OK, you can wake up now. Ted is out, and Trump has one foot in the door already. Get over it. 👍 https://t.co/AVPD65a2un"
+"Live with that weight, bitches! 👈 😥 https://t.co/QJOOB3iLrV"
+Does everyone else see that #NeverHillaryClinton is playing Americans for Fools? #wakeupamerica https://t.co/AZmezz2id7
+True dat! 👍 https://t.co/JwTUv2nzm5
+"Liberals: is this why you want Muslims to come here? 😲 IDIOTS! If they so peaceful, take a vacation there! Dumb a$$! https://t.co/pafEsxtk53"
+Now that's more like it! Go #TrumpTrain2016 https://t.co/rAzLQqFSnW
+Absolutely  support Chic-Fil-A 100% https://t.co/0D6xEuZLJZ
+DWS looks just like used toilet paper. 🚽 https://t.co/yyEYqk8vvA
+"How nice... They have named the #clinton estate, after their most notable resident. https://t.co/DUlaGfRwM9"
+This about sums it up. I may regress and vote the wrong way! 😁 https://t.co/Qwl5EPjWF7
+"My fitbit #Fitstats_en_US for 5/04/2016: 9,866 steps and 4.1 miles traveled. https://t.co/Bxcq3SiBIi"
+ROFLMFAO😁 I guess it didn't work out too well #trumptrain https://t.co/thGClZ99fU
+"The most astute would know that hillary's a wolf in sheep's clothing (in this case, designer smocks!) @politibunny 😂 https://t.co/iy4WfSvPMy"
+16 down...1 screeching witch to go! #trump2016 Tale of the tape: 16 contenders Trump has knocked out https://t.co/cBRPxXcBpX via @usatoday
+Great POTUS photo. 👍 Better than anything currently available! https://t.co/61GVDoaB8H
+Here go  Liberals! 👎 https://t.co/GGAV6VdLaF
+"@sheila14all #NeverHillaryClinton , sorry..."
+Keep dreaming... https://t.co/IIkJGi9qjO
+#BoycottTarget #boycottlowes 👉 Why is protecting women and kids from predators even a question? https://t.co/s7XeAqxd1M
+💯% agree! 👍 https://t.co/2CurcTDeRQ
+@PolitiBunny @novotertrump @Sal_T_Cracka 👉 hillary still not showing big business speech transcripts. 👎 What the hell is the witch hiding? 😈
+"#NeverHillary lies to Benghazi victims, and to W Virginia coal miner families. When will it end? 😬"
+Say hi to hillary for us. https://t.co/saHTy3d3SV
+"@PolitiBunny @Sal_T_Cracka Wake up, sister...hillary = more 👳bama! 🗽 America can't survive more of that crap 💩"
+@PolitiBunny @Sal_T_Cracka you are so freakin' funny! 😁
+Americans will NEVER forget! We'll remember this in November 2016! https://t.co/n302heR3Ji
+Poor Megyn... 😥 https://t.co/BkWnPh80pi
+"Actually feeling bad for the ""Bern"". He'll put up a good fight, but get over by the corrupt establishment. https://t.co/eKFaCqaYvi"
+"Remember, Liberals #HATE law enforcement https://t.co/ivlWHOdURF"
+"I hate to agree with Amorosa, but what's right is right! https://t.co/fH35vUzYuE"
+You are blindingly foolish to think hillary is a shoe in to beat #Trump. Not very impressive against a socialist! 😕🗽 https://t.co/BDVDHp6lxe
+Good for these a$$hole! https://t.co/3eOa5qEO2E
+Now this news comes out? Should have been eight years ago😕 https://t.co/TsmC4i3PNS
+Absolute must see! # Trump2016 #MakeAmericaGreatAgain https://t.co/98AGxq8tQE
+Absolutely! https://t.co/NWrrvLSvWO
+#CrookedHillary in her finest hour! 👎 https://t.co/CgPaegUisu
+"Yes to boycott! I want ensure my daughter is kept safe from scum predators ""claiming"" to be trannies. https://t.co/8HR5TGxUxp"
+By Bernie Sanders #FeelTheBern https://t.co/1qOJUz08Cr
+Our fearless leader at his worst ...as usual. How sad...😥 https://t.co/u1B8vv1pMR
+This is the legacy that is Barrack Hussein 👳bama! 👎 https://t.co/jbD4bEsaDW
+Thanks 👳bama! Porous borders is not the answer! 👎 https://t.co/zFFhMeRvVG
+"My fitbit #Fitstats_en_US for 4/27/2016: 10,808 steps and 4.5 miles traveled. https://t.co/Bxcq3SiBIi"
+I agree that #BernieSanders should run as independent if not nominated by Dems.👍 https://t.co/pDFd83pJdy
+Wasserman Shultz is a man. Absolutely CANNOT let Hillary into the White House.
+A crazed lunatic!😲
+"If you lived in a cave the last eight years, vote 4 hillary!😬 https://t.co/eLQEYlTm9h"
+"My fitbit #Fitstats_en_US for 4/24/2016: 11,652 steps and 4.9 miles traveled. https://t.co/Bxcq3SiBIi"

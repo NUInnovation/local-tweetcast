@@ -1,0 +1,150 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""231518"", ""default_profile_image"": false, ""id"": 24001196, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/651258533/9wug4vuv6ulg6mrj8jfl.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728209858458062848/vbej_YWI_normal.jpg"", ""profile_sidebar_fill_color"": ""05BFFA"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/vYT5xMf6k5"", ""indices"": [0, 22], ""expanded_url"": ""http://takeresponsibility.wordpress.com"", ""display_url"": ""takeresponsibility.wordpress.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 3033, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""24001196"", ""profile_background_color"": ""EAE3AC"", ""listed_count"": 76, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @joshgremillion: RT to support @pnehlen for Speaker of the House. #DumpRyan #MakeAmericaGreatAgain @realDonaldTrump @DanScavino https://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729477855667720192, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3118705906, ""indices"": [3, 18], ""id_str"": ""3118705906"", ""screen_name"": ""joshgremillion"", ""name"": ""Josh Gremillion""}, {""id"": 706959926879334400, ""indices"": [34, 42], ""id_str"": ""706959926879334400"", ""screen_name"": ""pnehlen"", ""name"": ""Paul Nehlen""}, {""id"": 25073877, ""indices"": [102, 118], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 620571475, ""indices"": [119, 130], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [{""indices"": [69, 78], ""text"": ""DumpRyan""}, {""indices"": [79, 101], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""729450991423082501"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/729450991423082501/photo/1"", ""display_url"": ""pic.twitter.com/ReqGcT03Fa"", ""url"": ""https://t.co/ReqGcT03Fa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 729450991423082501, ""id_str"": ""729450980438204416"", ""sizes"": {""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 574, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 336, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729450980438204416, ""media_url"": ""http://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 221, ""id_str"": ""729477855667720192"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT to support @pnehlen for Speaker of the House. #DumpRyan #MakeAmericaGreatAgain @realDonaldTrump @DanScavino https://t.co/ReqGcT03Fa"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729450991423082501, ""favorite_count"": 201, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 706959926879334400, ""indices"": [14, 22], ""id_str"": ""706959926879334400"", ""screen_name"": ""pnehlen"", ""name"": ""Paul Nehlen""}, {""id"": 25073877, ""indices"": [82, 98], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 620571475, ""indices"": [99, 110], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [{""indices"": [49, 58], ""text"": ""DumpRyan""}, {""indices"": [59, 81], ""text"": ""MakeAmericaGreatAgain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/729450991423082501/photo/1"", ""display_url"": ""pic.twitter.com/ReqGcT03Fa"", ""url"": ""https://t.co/ReqGcT03Fa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg"", ""id_str"": ""729450980438204416"", ""sizes"": {""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 574, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 336, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [111, 134], ""type"": ""photo"", ""id"": 729450980438204416, ""media_url"": ""http://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 221, ""id_str"": ""729450991423082501"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:20:43 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""New York, NY"", ""url"": ""https://api.twitter.com/1.1/geo/id/27485069891a7938.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-74.255641, 40.495865], [-73.699793, 40.495865], [-73.699793, 40.91533], [-74.255641, 40.91533]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""27485069891a7938"", ""name"": ""New York""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/729450991423082501/photo/1"", ""display_url"": ""pic.twitter.com/ReqGcT03Fa"", ""url"": ""https://t.co/ReqGcT03Fa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg"", ""id_str"": ""729450980438204416"", ""sizes"": {""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 574, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 336, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [111, 134], ""type"": ""photo"", ""id"": 729450980438204416, ""media_url"": ""http://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:07:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""729450991423082501"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/729450991423082501/photo/1"", ""display_url"": ""pic.twitter.com/ReqGcT03Fa"", ""url"": ""https://t.co/ReqGcT03Fa"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 729450991423082501, ""id_str"": ""729450980438204416"", ""sizes"": {""small"": {""h"": 190, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 574, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 336, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729450980438204416, ""media_url"": ""http://pbs.twimg.com/media/Ch-HzUoUYAA5uTO.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 26120, ""description"": ""God Bless the USA!!  United We Stand, Divided We Fall!"", ""friends_count"": 2919, ""location"": ""Indiana"", ""profile_link_color"": ""F7410A"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728209858458062848/vbej_YWI_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/24001196/1460031630"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/651258533/9wug4vuv6ulg6mrj8jfl.jpeg"", ""name"": ""Dianne"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1175, ""screen_name"": ""DianneInIndiana"", ""notifications"": false, ""url"": ""http://t.co/vYT5xMf6k5"", ""created_at"": ""Thu Mar 12 18:35:35 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"GOPe &amp; #NeverTrump still hoping for contested convention.
+Trump Supporters get out &amp; vote.
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain; every gender, race, age, class, status! https://t.co/gBybjrt7nM"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain; every gender, race, age, class, status! https://t.co/TUm2XIRMuE"
+"I think the adult children should be taken on a field trip to Cuba and see it for themselves.
+#MakeAmericaGreatAgain https://t.co/jhEk8tcFRU"
+West Point launches investigation into raised-fist photo https://t.co/9eKkNDWOvT via @TIME
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain; every gender, race, age, class, status! https://t.co/zrJed7ntvk"
+"Don't trust them. They are still trying. Keep up the vote!
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+ https://t.co/xXJufw0Dii"
+Submission! https://t.co/SuXwK1rxqz
+"When other countries want a Clinton administration, you know @realDonaldTrump is what America needs and wants!
+#AmericaFirst
+#Trump2016"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain https://t.co/o93pgUq03f"
+"Bubble boys!!
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain https://t.co/hfQGgimcUR"
+...says the #POTUS fundraising after Benghazi &gt;&gt; Obama on Trump: 'This Is Not A Reality Show' - Breitbart https://t.co/PHyi6PWPc7
+...says the #POTUS golfing after beheadings of Americans &gt;&gt; Obama on Trump: 'This Is Not A Reality Show' - Breitbart https://t.co/PHyi6PWPc7
+"Obama:""This is not a reality show, this is serious"": &gt;&gt; Via @NPR: Panel Blasts Government On Gulf Oil Spill Response https://t.co/1uly3n3YFN"
+@DavidSm89581434 says the man who loves to be on TV comedy shows!! He is one big JOKE.
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain https://t.co/MSZRhl5X2n"
+#UniteBlue #P2 #Dems #Liberals #FeelTheBern https://t.co/rhXwWPeHYk
+"Nature's Logic is great! Never a recall, lots of protein. My furbabies love the small kibble. Rabbit, Duck &amp; Salmon https://t.co/0GFuDupUgu"
+"I cannot wait!!
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain https://t.co/zKODSRGRE0"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+All aboard the #TrumpTrain https://t.co/D62Wgqhs1V"
+"#Liberals What the hell is wrong with your common sense?
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016 https://t.co/eQHJAz5dya"
+"I have always wanted to see the pyramids, but no thanks! I will keep enjoying photographs. https://t.co/HLP5ZeOBAK"
+"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me;..."
+lol #ABC #NBC #CBS #CNBC #MSNBC #PBS how many he want? We have 1 or maybe not anymore. https://t.co/Nnj0T0zHVP
+"I believe people, groups, businesses will donate 2 @realDonaldTrump, not 4 favors, but 4 a better USA!
+#MakeAmericaGreatAgain
+#AmericaFirst"
+"@realDonaldTrump is uniting the country &gt; race, gender, class. status. #MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+#AmericansUnite"
+Me now &gt; adorable animals cute cute puppies dog funny puppy - image # 430568 by marky on https://t.co/3Xz1ZtnHy7  https://t.co/IjobcB6DE3
+"@FightNowAmerica That man has totally went over the edge. Sad too coz he inspired me at one time. He, Mark Levin, Rush Limbaugh &gt; no more."
+"Sad part: I don't think politicians realize what they are doing; they only know what it does for them.
+#AmericaFirst https://t.co/HEwhUK9lgV"
+@FightNowAmerica Pretty creepy &amp; despressing! lol
+"Please!!  I have had just about enough of this picture!!  Ugh!!
+#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+ https://t.co/fbwmKAAavk"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016
+#AmericansUnite https://t.co/TGWzzvjdvj"
+"#MakeAmericaGreatAgain
+#AmericaFirst
+#Trump2016 https://t.co/7WxvYgGs5l"
+"Trump passes Romney’s popular vote total, likely to break GOP record https://t.co/XQtni4aKhw"
+"@WilliamNOtis @CrimsonTideWes @JudgeMoroz @GOP Trump passes Romney’s popular vote total, likely to break GOP record https://t.co/XQtni4sl94"
+"Elitist jerk!
+ https://t.co/vFAVHeQu3P"
+Pure freakin' EVIL!!! https://t.co/laSXpU8mPE
+Abortion is only for undesirables. I cannot imagine @HillaryClinton allowing Chelsea to terminate her grandchild. Think outside the box.
+#UniteBlue #P2 #Liberals #Dems https://t.co/yyF1NWV6yo
+"The foundation of the GOPe party are the ones we the people are resisting. Y would @realDonaldTrump want their support?
+#AmericaFirst"
+"Perry was my first pick, #Trump is my current pick, I'd go for that ticket. Perry has military experience. #CIC  https://t.co/qT437MX0SB"
+No one is fully ready to be #POTUS. Reason the best advisors are placed in expert positions. #Obama wasn't and isn't ready to be POTUS!
+"Keep voting Trump. No more #DirtyTricks by #GOPe.
+#Absolutely1237
+#AmericaFirst
+#MakeAmericaGreatAgain
+#Women4Trump
+#CrookedHillary"
+Time to vote in new blood! https://t.co/TKebu5O61C
+Neither have I! #PC gone mad!! https://t.co/g8MZ9MIChG
+Just imagine all the things that could be taken care of if #AmericaFirst! All this to gain votes &amp; keep power. #FAIL https://t.co/m3dUuBRyjy
+Time to weed out the 7 unfollowers I just found on https://t.co/JOIqtEsVmj #whounfollowedme
+It's been real. It's been fun. It's been real fun... tracking unfollowers on https://t.co/JOIqtEsVmj #whounfollowedme
+#UniteBlue #P2 #liberals #BLM #ProLife #Dems #FeelTheBern https://t.co/HiZo0fZEjk
+Bernie &amp; Elizabeth https://t.co/OaDxtufQCJ
+Speaker Ryan donor Koch Bros hate Trump prefer Hillary &gt;&gt; https://t.co/UYQt53C99P
+"Elizabeth Warren got nearly $430,000 teaching at Harvard  https://t.co/EQ8HXLwK3R"
+"Secure the border, save $$, deny democrats votes. #Trump as #POTUS, self deportation!"
+Either one will work. Nits are parasites!! https://t.co/s3VBUSnNsq
+@non1amato Peace thru strength is accurate statement!
+Y do parents PAY 2 send their kids 2 college 2B indoctrinated by lib professors. w/ no job after. Just let them live N UR basement 4 free.
+@non1amato Self destruction. Evil got out of pandora's box!!
+@BarbMuenchen Revolution? Martial Law? Riots? Uprisings? It wouldn't be calm &amp; quiet if that happened.
+"Someone please tell me what happened in London? With all that is happening in the ME, WHY???"
+Our country is 4 years worse because Romney didn't have the cojones to go after Obama about Benghazi! #LOSER #FAIL https://t.co/DYGAP3poGF
+Illegal? I thought that word was banned by this administration and all activity that goes with it. https://t.co/N1du7MQLb8
+I have entered the Twilight Zone! https://t.co/tRKQQPdTqY
+"I know what U mean. People fearful of chalk, needing safe places, want free college, high wages w/o earning it. geez https://t.co/f43ul8VTQW"
+I dare you to listen. https://t.co/QsErUPZlKM
+"#PeopleAreTiredOf liberal ""tolerance""."
+"#PeopleAreTiredOf illegals coming to our country abusing our system, our way of life, our families!
+#AmericaFirst"
+#PeopleAreTiredOf government elitists thinking they know what is best for us.
+#PeopleAreTiredOf riots pretending to be peaceful protests.
+"#PeopleAreTiredOf ""adult"" children needing a safe space from fear of chalk!"
+"Grow it, hunt, fish, &gt;&gt; how can it be free unless YOU do it! #PeopleAreTiredOf brain deadness! https://t.co/h0qCD5yeNJ"
+#PeopleAreTiredOf being tired.
+#PeopleAreTiredOf greedy self-absorbed narcissistic politicians thinking they know what is best for us.
+"#PeopleAreTiredOf pants on the ground, looking at your ass. No class."
+"2 Weeks After 8 Killed in Ohio, No Arrests, Few Answers - ABC News - https://t.co/ISQWRQata3 via @ABC"
+Violent Rhoden Brothers Met a Violent End in Ohio Massacre https://t.co/3ommfWEk3k via @thedailybeast
+"2 weeks after eight Pike County killings, what's not known https://t.co/1ZxFDigMH8 via @chilligaz"
+Elizabeth Warren's  You Didn't Build That Speech  as made famous by Obam... https://t.co/d8gzZPMfzE via @YouTube
+So cute!! &gt;&gt; https://t.co/U8RTX264r3 via @indystar
+"College ""kids"" afraid of chalk &amp; needing safe places make me fear for our military. It will be full of wussies or no one!
+#AmericaFirst"
+"Republicans are not voting for @realDonaldTrump; the AMERICAN people are voting for him.
+#AmericaFirst
+#MakeAmericaGreatAgain"
+"I am looking forward to #Trump being #Trump defeating #CrookedHillary in historic 50 state win!
+#AmericaFirst
+#MakeAmericaGreatAgain"

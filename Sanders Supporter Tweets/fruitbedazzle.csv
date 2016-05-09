@@ -1,0 +1,168 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""3D1957"", ""default_profile_image"": false, ""id"": 121895203, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/506854165838962689/XpuGKQCZ.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/722775734243078148/6mZ6bTxC_normal.jpg"", ""profile_sidebar_fill_color"": ""7AC3EE"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/ox5DcutS6i"", ""indices"": [0, 23], ""expanded_url"": ""http://guttercomics.tumblr.com"", ""display_url"": ""guttercomics.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 686, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""121895203"", ""profile_background_color"": ""3B385C"", ""listed_count"": 15, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @cool_as_heck: This is still my favorite thing that's ever happened on the internet https://t.co/VWPwv3tNWx"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729469272343207936, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 199565175, ""indices"": [3, 16], ""id_str"": ""199565175"", ""screen_name"": ""cool_as_heck"", ""name"": ""james nielssen""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 199565175, ""source_status_id_str"": ""729081236669399041"", ""expanded_url"": ""http://twitter.com/cool_as_heck/status/729081236669399041/photo/1"", ""display_url"": ""pic.twitter.com/VWPwv3tNWx"", ""url"": ""https://t.co/VWPwv3tNWx"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg"", ""source_user_id_str"": ""199565175"", ""source_status_id"": 729081236669399041, ""id_str"": ""729081141366382593"", ""sizes"": {""small"": {""h"": 311, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 936, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 548, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [87, 110], ""type"": ""photo"", ""id"": 729081141366382593, ""media_url"": ""http://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2110, ""id_str"": ""729469272343207936"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""This is still my favorite thing that's ever happened on the internet https://t.co/VWPwv3tNWx"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729081236669399041, ""favorite_count"": 3915, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/cool_as_heck/status/729081236669399041/photo/1"", ""display_url"": ""pic.twitter.com/VWPwv3tNWx"", ""url"": ""https://t.co/VWPwv3tNWx"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg"", ""id_str"": ""729081141366382593"", ""sizes"": {""small"": {""h"": 311, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 936, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 548, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [69, 92], ""type"": ""photo"", ""id"": 729081141366382593, ""media_url"": ""http://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2110, ""id_str"": ""729081236669399041"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 22:51:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/cool_as_heck/status/729081236669399041/photo/1"", ""display_url"": ""pic.twitter.com/VWPwv3tNWx"", ""url"": ""https://t.co/VWPwv3tNWx"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg"", ""id_str"": ""729081141366382593"", ""sizes"": {""small"": {""h"": 311, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 936, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 548, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [69, 92], ""type"": ""photo"", ""id"": 729081141366382593, ""media_url"": ""http://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:33:22 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 199565175, ""source_status_id_str"": ""729081236669399041"", ""expanded_url"": ""http://twitter.com/cool_as_heck/status/729081236669399041/photo/1"", ""display_url"": ""pic.twitter.com/VWPwv3tNWx"", ""url"": ""https://t.co/VWPwv3tNWx"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg"", ""source_user_id_str"": ""199565175"", ""source_status_id"": 729081236669399041, ""id_str"": ""729081141366382593"", ""sizes"": {""small"": {""h"": 311, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 936, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 548, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [87, 110], ""type"": ""photo"", ""id"": 729081141366382593, ""media_url"": ""http://pbs.twimg.com/media/Ch43b2uUYAEJsQB.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -18000, ""statuses_count"": 84351, ""description"": ""also known as jenny. design clothes so hideous they cant be worn ironically. we do dumb shit when we're fucked up. #FeeltheBern"", ""friends_count"": 448, ""location"": ""living in squalor"", ""profile_link_color"": ""E81C4F"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/722775734243078148/6mZ6bTxC_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/121895203/1457328350"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/506854165838962689/XpuGKQCZ.png"", ""name"": ""trash wizard"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 24250, ""screen_name"": ""fruitbedazzle"", ""notifications"": false, ""url"": ""https://t.co/ox5DcutS6i"", ""created_at"": ""Wed Mar 10 23:33:39 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Central Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+new hair/ living 4 this top https://t.co/3j1SwnWTMi
+im so happy to be blonde again
+@partyvowels this haircut is everything honestly a Look
+honestly living for loeylane's lookbook vids https://t.co/qGiOjryrJ1
+@fruitbedazzle the duality of man
+1 year ago vs Right now https://t.co/N8uPSAQzGP
+"happy mother's day to my mom, julianne moore"
+i love the aesthetic of bill nye the science guy episodes
+:( https://t.co/Xvob15xVmi
+dam fine ill stop appreciating ur quilts  https://t.co/CrP4ioOAHZ
+AUUSHEHCKENJXODKQOXUEJXNOCMSJWIIZGS https://t.co/ybw7VtYiNK
+"""i can see you doing that. standing face to face with a bird, trying to reason with it. classic jenny."""
+u ever do some dum shit and not even realize it until days later
+@Kiwikunt @FunhausTeam show me where i said i was not Also a poser show me🕵🏼🕵🏼🕵🏼🕵🏼🔍🔎🔍🔎🔍🔎⁉️❓
+@Kiwikunt @FunhausTeam bc ur a #poser
+"""chihuahuas shake like they owe everybody money"" https://t.co/lcCXFBN1gE"
+im bored asf!!!!!!!!!!!!!!!!!!!!! AAAAAAA
+my mom hates when people in mexican markets/restaurants speak to her in spanish but my grandma LIVES for it
+"mom: ""they always assume i speak spanish""
+me: ""bc youre brown""
+mom: ""they always talk to me in spanish like i speak it""
+me: ""you DO"""
+@Kiwikunt wtf are we NOT BFFLs ?!!! binCH
+@Kiwikunt honestly let me live
+@Kiwikunt dont u fucken dare omg
+@Kiwikunt whenever i DAM feel like it nerd
+"""i would chug the jazz"""
+what if i just shove it in even tho it doesnt fit what happens
+how are you supposed to know its the wrong size if you cant take it out of the bag wtf
+"you cant return something if the seal on the bag is broken............
+i had to break the seal to get it out of the bag...........?????"
+"i just want
+
+a clicker"
+and now i cant screw on one of my spikes on my current septum ring so yeah
+"i swear to fuck, if they dont let me exchange it for the right size i will attack someone"
+"i ordered a cute clicker and it literally got to texas to my mailbox in 2 days and i love it
+
+But i got the wrong gauge size
+WOW"
+i hope sandy knows shes the best dog ever
+i give my dog 100 kisses every day
+christ https://t.co/GnaKS3bmjo
+"thats like asking someone what an asian jew is
+like..........
+its someone whos asian........and jewish.....
+latino.........and white........"
+the other day someone asked me what a white latino was and i was genuinely shocked that they couldnt understand the concept
+@fruitbedazzle im applebees i thnk ive been to chilis once
+which were u
+2 ppl have complimented my alien hoodie
+"""ill feel like a pedophile""
+""WE'RE ALL 18+"" 
+
+stop lmao she has a child"
+Jejdqkjxjw the Bros are making this 30 yr old woman decide which of them is hottest and she doesnt wanna answer bc shes older than them
+"""shut up youre foreign"" overhead in class just now lol"
+HAHAHAHAHAHA https://t.co/feUFutuatq
+a lunch lady brought out a bunch of chili dogs and yelled FREEEEE FOOOD!!!! and people swarmed like wild dogs
+"friend: yeah since trump dropped out id take like paul ryan maybe hes alright
+me: hes hot"
+lrt: uqodjeidjwjxijqixjs
+@yueship I LOVE THEM!!!!!!!!! i want 2 kiss their arrow shaped faces
+those target dogs w the pointy faces r so cute i cry
+@yueship I LOVE HER
+"@yueship i need him
+i love his pointy face and cute name im cryinfg"
+"@yueship i
+am
+screaming"
+theres a kid that goes to my school who runs everywhere even just to go a couple feet to a vending machine
+"currently reading Rebel Without a Crew (or how a 23 yr old with $7,000 became a hollywood player) the story of robert rodriguez"
+im not a reader but when i do read books theyre about film
+guys im reading a book
+@trippygirvffe https://t.co/Ft9hScrzAO
+@BHAReramuse Mission: Annihilate Baby was a Success
+I LOVE THIS DOG https://t.co/jdywi88wuG
+todays my last day of classes thenk u jesus
+u need new glasses https://t.co/3CdIv1srJe
+hitting 'place order' is like a drug
+"this summer catch me in nashville, dc, columbia and rolla
+2 have me visit UR city: pay for my trip there"
+jenny: coming 2 a city near u (probably not tho)
+smooch https://t.co/K7uowalB5I
+@Kiwikunt vtgbhjjnk https://t.co/f7iGebKekZ
+@Kiwikunt youre being level 10 gay rn
+@Kiwikunt have fun in hell
+@Kiwikunt i dont care if u have your own life insurance policy if u ask an 80 yr old youre a child in the grand scheme of things
+@Kiwikunt for starters what the fuck is wrong with you for seconders youre a child and your mothers an adult so like
+@Kiwikunt this tweet raises so many fucking questions and concerns i dont even know right now what the fuck
+im returning this and getting you an old shoe for mothers day
+im damn trying to tell her about my day and all shes doing is watching fuckin big bang theory and going 'uh huh' every once in a while
+i spent $36 on a mothers day present for my mom and im regretting it hardcore rn
+@rancidthong this revolution came to me today after i watched the hangover and vacation bloopers
+...im listening https://t.co/4oKLqbHHLI
+giving someone more ice so u have to give them less soda is fucking sadistic
+taco bell hack: say light ice so u get more baja blast
+"""not to sound like a nazi but the earth kinda does look flat"""
+im gonna be 40 and still worrying if something is over 18 smfh
+i am god damn 20 years old and STILL when i see an event is +18 i have a tiny moment of disappointment
+anyone else think jason sudeikis is the hot version of ed helms
+"""im so stoned im just thinkin about mirrors"""
+@____lillian what like the poor summer class kids get no snacks
+...why are old people so bad at taking hints
+i went to 2 different vending machines and theyre both empty they have like 3 bags of chips wtf refill that shit
+Tfw poli sci exam
+@Kiwikunt nerd
+"""happy cinco de mayo slap a mexican kid on the back"" ok mom"
+i rewatched sixteen candles today &amp; realized im sam but its more pathetic bc im 20 not 16
+"me before a test: ill remember all of this when i see it on the test
+me during a test: Hmm."
+Hmmm.
+perhaps i should study 4 my final tomorrow
+why the fuck am i watching a lars von trier film
+trump is the only republican left and janet jackson is pregnant even tho shes 50 wtf 2016
+today i found out this girl in my scriptwriting class is in a band and i just looked her up on facebook im diggin it
+That feel when ur hungry but ur also lazy do i get up or go 2 sleep idek
+my lipstick pipe finally came in NICE
+bernie is the projected winner of indianna ? dope
+"@Kiwikunt yeah idk i think hes only won his home state
+but he hasnt dropped out yet lol"
+@Kiwikunt kasich is still in the race
+omfg cruz dropped out what
+"me: buys exactly what my mom requested for mothers day
+my mom: you didnt need to spend so much wtf
+make up your mIND"
+i hate spending money on people other than myself it pained me to hit place order ouch
+i just ordered my moms mothers day present i envy those whose mothers dont expect presents
+y are squirrels annoying as fuck
+i just ordered this so i can finally b like fka twigs https://t.co/Rox4ri8U71
+"and girls who are described as ""she works out a lot even though she doesn't have any weight to lose"""
+"theres an asian kid whos really smart with strict parents, a mexican kid who surprise surprise is a drug dealer,"
+this guy in my class wrote the worst script ive ever read not to mention the sexism and racism in it
+.@CaptainAmerica I stand with #TeamCap. #TweetMe https://t.co/rX5WhgZzRt
+i just want 2 sleep
+currently watching the new GoT and its jusT getting good but i have 2 go 2 class smh
+i dont understand fashion #MetGala
+why does every family on this show ride the short bus to school
+"family on intervention: just stop doing drugs
+addict: thanks i never thought of that im cured"
+im afraid to watch the new game of thrones episode everyone said its the best episode ever pls
+watching intervention.............yet again
+@____lillian then why u ask
+@____lillian dreads
+i dont like this day
+im scresming im so fuckinen bored
+when u dont know how to keep a friendship goin and u feel it slippin away https://t.co/hTGqN2RRea
+say the f word
+this is too real https://t.co/LKaimPTRed
+ryan reynolds is jim carrey as fuck in deadpool like y are u trying to be raunchy jim carrey
+im watching deadpool again lmao
+lrt i hate men when will they Stop
+me last night https://t.co/6kJt3kbrkA
+"@Kiwikunt what is she, gay"
+this was too much lmao
+@Kiwikunt que
+I'm playing #Plink - a multiplayer music experience by @DinahmoeSTHLM Try it here: https://t.co/vghJqNPtGy
+me: is dork
+"tfw u faceswap with ur dog,,, https://t.co/1MdZEwl9Db"
+i want to be a dog masseuse can u say dream job
+my mom used to make fun of me for saying people were fake but shes said fake like 800 times today SHES the fakest of all
+@rancidthong thankey
+@____lillian https://t.co/gDL0ZoEa3s
+@JakeWikstrom thank u!!
+@Seaphire ily!!
+i feel like halsey w this hair
+@raining_muses Ty!!

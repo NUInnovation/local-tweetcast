@@ -1,0 +1,219 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""663B12"", ""default_profile_image"": false, ""id"": 28005908, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/724825793/5358d11125bfea2a7bffc49462ed049f.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/647324725190918144/JoQQpxuy_normal.jpg"", ""profile_sidebar_fill_color"": ""DAECF4"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/vnFsL7H7lA"", ""indices"": [0, 23], ""expanded_url"": ""http://www.heart2win.com/replay/"", ""display_url"": ""heart2win.com/replay/""}]}, ""description"": {""urls"": [{""url"": ""https://t.co/xfi5sqgcHq"", ""indices"": [0, 23], ""expanded_url"": ""http://fb.com/LiAgashi"", ""display_url"": ""fb.com/LiAgashi""}]}}, ""followers_count"": 431, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""28005908"", ""profile_background_color"": ""C4DDE8"", ""listed_count"": 35, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729430102367408128, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729430102367408128"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:57:43 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 2695, ""description"": ""https://t.co/xfi5sqgcHq ... Free spirit. Free thinker. Maverick. Alien on this Earth. Butterfly. Philosophe. Lover. Mother. Helper of Mankind."", ""friends_count"": 548, ""location"": ""Las Vegas !!!"", ""profile_link_color"": ""FA743E"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/647324725190918144/JoQQpxuy_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/28005908/1443154576"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/724825793/5358d11125bfea2a7bffc49462ed049f.jpeg"", ""name"": ""Lia King"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 102, ""screen_name"": ""LiAgashi"", ""notifications"": false, ""url"": ""https://t.co/vnFsL7H7lA"", ""created_at"": ""Wed Apr 01 00:27:09 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Cheers to the epitome of Mothers! True understatement. #ILoveMyMommy https://t.co/F9LG4CqxWd
+"Prom 2016 .. my baby boy, Konnor and his girl, Samara https://t.co/OgMttCRZwj"
+Cheers to all the Mothers!! Happy Mother's Day!!  #mymommylovesme #ilovemymommy https://t.co/Nn9jGd0wvX
+I posted a new photo to Facebook https://t.co/GWGX5FqvkS
+I posted a new photo to Facebook https://t.co/dHkJXNgYjz
+I posted a new photo to Facebook https://t.co/dmcNkkkLRU
+It must be love on Prom night!!! https://t.co/Iy3dirR4XP
+I shed a tear watching this. #trump2016 https://t.co/aDP0CIVW9A
+Hilarious but true. https://t.co/qF0tHd0EcQ
+https://t.co/AwmxFrL8sX
+I am in awe with these two beautiful human beings ...  They came from God's special pile of… https://t.co/DZlApwrT6t
+#believeitornot https://t.co/K59UDYuyYo
+https://t.co/MzahizEREZ
+"... e.g. the banking industry, the irs, the federal reserve !!! https://t.co/MZ3xBsjo3L"
+https://t.co/P0IizvK20t
+Breaking the Illusion of Limitation https://t.co/1M9k2GKbKn
+https://t.co/tlp2pU8qA3
+Learning Truth on The Future Of Cryptocurrencies https://t.co/MlnLFa7M2g
+Wall Street is taking notice. Fortune 500 companies are taking notice. Bank industry is taking notice.  Bank of... https://t.co/2kC248JGOB
+"If this young lady is thoughtful enough to become aware, we have no excuse to bury our heads in the sand.... https://t.co/jhyAAO9qkv"
+https://t.co/sI7KxgJHtu
+#choosetheredpill https://t.co/Ki4tl60Gds
+https://t.co/HiyiLuPwdy
+Recommended reading...  #forbes https://t.co/A0NkBo0V9E
+https://t.co/IGcRBF1WqU https://t.co/5MSY9kV8Ci
+I am most definitely okay with trading in my depreciating dollars for an appreciating commodity!!... https://t.co/ThiNfHgdbj
+https://t.co/wKFOmpvb1H
+I posted a new photo to Facebook https://t.co/Og7tE64Ojo
+I posted a new photo to Facebook https://t.co/p72DWXflgt
+I posted a new photo to Facebook https://t.co/Q6Xv1GeZvS
+I posted a new photo to Facebook https://t.co/ma7O8POEJX
+I posted a new photo to Facebook https://t.co/Fz5rZgDtWW
+I posted a new photo to Facebook https://t.co/jhHBxE2LvJ
+I posted a new photo to Facebook https://t.co/Na7zG9LXxy
+I posted a new photo to Facebook https://t.co/0EDu3Xu0w2
+I posted a new photo to Facebook https://t.co/lxtMP7zrIL
+I posted a new photo to Facebook https://t.co/XwwUcDSzOi
+I posted a new photo to Facebook https://t.co/doVBxzFIyW
+I posted a new photo to Facebook https://t.co/mkXsDOe8A4
+I posted a new photo to Facebook https://t.co/ro6TNjuLR6
+I posted a new photo to Facebook https://t.co/STPoEhdYj7
+I posted a new photo to Facebook https://t.co/5yvzLfL16d
+I posted a new photo to Facebook https://t.co/PCXVc9gYV8
+I posted a new photo to Facebook https://t.co/RVIU9jkt1f
+I posted a new photo to Facebook https://t.co/H8OhpMzYfa
+I posted a new photo to Facebook https://t.co/va8xPbRTm9
+I posted a new photo to Facebook https://t.co/7I73WbhIcE
+I posted a new photo to Facebook https://t.co/r1INZyIFFs
+I posted a new photo to Facebook https://t.co/bGGcgAPGOc
+I posted a new photo to Facebook https://t.co/JW4V0tJkAP
+I posted a new photo to Facebook https://t.co/1MwQnHWk3Y
+I posted a new photo to Facebook https://t.co/Pu74bqiEM0
+I posted a new photo to Facebook https://t.co/bfZWotQknb
+I posted a new photo to Facebook https://t.co/3uaq6HBDeM
+I posted a new photo to Facebook https://t.co/fNSc7QgvPk
+I posted a new photo to Facebook https://t.co/2HxxgipS4M
+I posted a new photo to Facebook https://t.co/VFNwrQdfMv
+I posted a new photo to Facebook https://t.co/X7vCYzzsq1
+I posted a new photo to Facebook https://t.co/jQkiH6XHYu
+I posted a new photo to Facebook https://t.co/HoALxfnaSV
+I posted a new photo to Facebook https://t.co/5l3hd7DLy0
+I posted a new photo to Facebook https://t.co/IxE1sDEpln
+I posted a new photo to Facebook https://t.co/P2Se5GQLUS
+I posted a new photo to Facebook https://t.co/g8IMkuyoz1
+I posted a new photo to Facebook https://t.co/gJNC6kd7jK
+I posted a new photo to Facebook https://t.co/ZmaTJoTd10
+I posted a new photo to Facebook https://t.co/Xw4UpE1mm3
+I posted a new photo to Facebook https://t.co/srAiQ5RAnY
+I posted a new photo to Facebook https://t.co/zKzFNweLK1
+I posted a new photo to Facebook https://t.co/coWm1fVs5t
+I posted a new photo to Facebook https://t.co/jU0U9e7Dbj
+I posted a new photo to Facebook https://t.co/KdGNNXgOSy
+I posted a new photo to Facebook https://t.co/IcdoKOtuyR
+I posted a new photo to Facebook https://t.co/D2FVpLqIC9
+I posted a new photo to Facebook https://t.co/5Wi892Ed87
+I posted a new photo to Facebook https://t.co/HeTu2ml7Oc
+I posted a new photo to Facebook https://t.co/0sfqVZGdWA
+I posted a new photo to Facebook https://t.co/YCPhMEdrmW
+I posted a new photo to Facebook https://t.co/wgJQziFpsL
+I posted a new photo to Facebook https://t.co/eHQSoGfZgj
+I posted a new photo to Facebook https://t.co/vBbHQ6o6rD
+I posted a new photo to Facebook https://t.co/tpKfyqNazc
+I posted a new photo to Facebook https://t.co/Mcck1DwFbl
+I posted a new photo to Facebook https://t.co/XXD4i79Bm6
+"GOD has built us to be EVERLASTING beings!! 
+#divinetruth https://t.co/txqpLGAjxa"
+"LIVE DIGITAL CURRENCY 101
+6:30 PST / 9:30 EST
+https://t.co/rZ2GWNTMLk https://t.co/MHw5n7mLB1"
+"LIVE EDUCATION NOW
+GO ON YOUR PHONE 
+Digital Currency https://t.co/rZ2GWObo9U  
+Now via Google Voice https://t.co/TLQ0L9uA9K"
+https://t.co/rZ2GWNTMLk https://t.co/fjF3TOISDv
+https://t.co/u1i1i3vVTd https://t.co/50RKOMeYzr
+"LIVE
+https://t.co/rZ2GWObo9U"
+Omgoodness! !! https://t.co/oxgso12OZW
+I would venture to say the business that I am in is on the front edge of the biggest race in history - #trumpcoin... https://t.co/9D7PeKNu6F
+Meet the Amazon Best Selling Author of The 7th Disruption - The Rise of the Digital Currency Billioniare and... https://t.co/IwujHZyx4t
+"Wow. #UnprecedentedmeteoricRiseofOneCoin
+.10  Euros to 6.47 euros in little over 1 year. Closing in on Bitcoin in... https://t.co/z0p0Vkl1sd"
+"This is my son: ""Mom , I was able to achieve a feeling like I was on acid or mushrooms trip this morning for half... https://t.co/IMXEhv7Hv1"
+"Konnor made me 3 a.m. pancakes. Now he's off to the gym. We had deep conversation about angels, God, death and... https://t.co/Laa3FLTevu"
+"Marisa Ann Hutcherson my big Sister ... 
+Happy Sibling Day. We may not have been raised together but we sure do... https://t.co/OpgMZlu0Ph"
+For all my Spanish speaking friends who want a way out of the ratrace .... Introducing OneCoin in Spanish!... https://t.co/7uo1tHSgVP
+https://t.co/iI6Df12eAu https://t.co/EZXTEdtqdV
+I gave my left kidney to my brother over 20 years ago. 6/3/1993 Tissue matching indicated that we are almost... https://t.co/vxS3N6qqdo
+TBS... LOL.. #throwback https://t.co/Gh7iGO0kDg
+https://t.co/BsBMDIA6hd
+I'm a Christian! ! https://t.co/4lTuiD9hs5
+https://t.co/GTIZiNCjcs
+https://t.co/fHLdKxtYyy
+https://t.co/Mz8AT4aYTx
+"Since YESTERDAY ... 3,926 new members learning how to buy, sell, trade and transact and conduct business in... https://t.co/LTdZJ4ls5D"
+https://t.co/vHywHOuHmN
+The story of Naomi. One of my most favorite books in the Bible: Ruth. I cried so much that Sunday morning that... https://t.co/kWR6wu1dZO
+A message about Naomi. One of my favorite books in the Bible: Ruth. I cried so much this Sunday morning that... https://t.co/zgGbhYpouk
+I just started following The Crossing Christian Church on @Vimeo: https://t.co/RHaVnxbadX
+"This message was one of the most amazing I've heard explaining why God ""allows"" suffering and pain. #Riveroftears... https://t.co/xWk4iqoTII"
+Oh my. Yes please . https://t.co/JSK55AEuoe
+"Old news ... but it begs being repeated.
+ I hope the majority who realize this truth have made a conscious... https://t.co/eDA4oO4Wur"
+Did we NOT know thus already? #hardtruth https://t.co/VBUN5m4g9P
+"My theme song this month!!! :)  #womenonfire
+ Joelle King Marie Guilbeault Marisa Ann Hutcherson Arianna Verano... https://t.co/f316fI4kMy"
+Become your OWN bank! #neverendingpossibilitiesoffreedom https://t.co/UuFVODu8EE
+"#vegaslife  #UnlimitedPossibilitesofFreedom 
+#lasvegas #gucci  #prada ##candidinvegas #vegasbaby https://t.co/IXebbEoVsa"
+#FriskyFridayNights https://t.co/TwVTNsdcLq
+Falls are a leading cause of death among the elderly. https://t.co/qmxcieh615
+"""DIGITAL CURRENCY"" by @LiAgashi on @LinkedIn https://t.co/GiuxuIqEh8 #ibuythingswithdigitalcoins  #digitalcoinIQ #bankofme #bitcoin"
+#onecoin #onecoin #bitcoin #coinlifestyle #cryptocurrency #digitalcoinrevolution https://t.co/3hFs4HjT0z
+https://t.co/74vxp9WTb2
+Elon Musk's SolarCity Is Installing Solar Panels for Whole Foods https://t.co/vP0sUlIZt0
+I posted a new video to Facebook https://t.co/wSJOfiaRhv
+"For my doll, Arianna Verano! 
+Cerebral Palsy Awareness Month!! #warriorclass #shestheawesomest #lovemyAri"
+My theme song today .... https://t.co/Q9fE1wGhYp
+@DonnyBudMon hi.. sorry I didnt see your message
+Going!! https://t.co/oBK3cZziuR
+I met the soilders from Benghzi. It's all about choices. I can't vote for a liar ... especially when people are... https://t.co/eRKepwTJmD
+"If u wa t to classify me, on Matters of the Heart I tend to be very liberal; but for matters of the my... https://t.co/BkQq9bE9J1"
+https://t.co/sG4T03r6f2
+RIP https://t.co/sE8qTnrVlP
+It's stinks when you F-up and you can't recoil and start over ... especially in written form.
+https://t.co/3V1mSWkyrX
+Be afraid ... be very afraid!!! ;)  #iamthestorm #strengthpower https://t.co/wHvCNhwiwW
+https://t.co/V7cgVjGm0V
+https://t.co/DN6YsB9l7e
+https://t.co/g4JggNpsXq
+I posted a new video to Facebook https://t.co/V7MWApmZeV
+I posted a new video to Facebook https://t.co/vzvHNteaGQ
+"OMGosh .. This is a terrible video, but I couldn't help but laugh!!! https://t.co/DohCxLCYzX"
+Urgent Public Service Announcement. I'm not a doomsdayer. I am a prepper. Get prepping now!! https://t.co/RqggPVFyN3
+https://t.co/lnmBmwWgwa
+I honor Creation by tending my health https://t.co/PnRFpE1oBA
+This is me! ... wearing my hambok. Korean was my first language. #KoreanGirl #mixedbutnotshaken… https://t.co/zMlSxZvRAY
+"#mysillyson #mySonshine #youngmanoldsoul
+He has always been the one to keep us all laughing ... :*) https://t.co/nRaomakCnp"
+"fit7_web https://t.co/rxjaHfb0kr #OneCoin,DigitalCurrency for the masses, out-paced #Bitcoin in only 1 yr"
+#OneCoin making the grade... as viewed by leading Financial IT magazine #financialIT https://t.co/2OwX4KnBEI
+"#guesswhoiswho #throwback 
+#mybabies https://t.co/Zj1mXs33Ai"
+#lilbootygang https://t.co/fOUxiwPURh
+#Lmao #justdoit #nike #legday https://t.co/VXcEGGidv2
+@KaikoData Thank U for the like! https://t.co/WIqgxuuQlT 4 a copy of bestselling ebook #The7thDisruption:Rise of the DigitalCoin Billionaire
+@WalwusReddit  Thank you for the like!!! Here is a copy of best selling ebook on the digital currency disruption! https://t.co/WIqgxuuQlT
+"https://t.co/WIqgxuuQlT Livin' the #coinlifestyle!Changin' the #world!Savin' God's people from corruption,greed&amp;manipulation #Bitcoin"
+Message me 4 a copy of the best selling e-book of @ThomasMcMurrain's The 7th Disruption:Rise of the Digital Coin Billionaire #coinlifestyle
+"Session 2 of the  #1 #Cryptocurrency Mastermind #LasVegas!! Best selling author, Tom @ThomasMcMurrain will #Skype in with us next week!"
+@XSLasvegas_Ken Thanks for the retweet!! Come join us in Las Vegas! #digitalcoinbillionaire #digitalcoinrevolution
+"I posted 4 photos on Facebook in the album ""#1 Cryptocurrency Mastermind Las Vegas"" https://t.co/AcnBO2SF3x"
+"I posted 4 photos on Facebook in the album ""#1 Cryptocurrency Mastermind Las Vegas"" https://t.co/46LoF2JN3X"
+"I posted 2 photos on Facebook in the album ""#1 Cryptocurrency Mastermind Las Vegas"" https://t.co/6o2Z1DdTOf"
+"I posted 5 photos on Facebook in the album ""#1 Cryptocurrency Mastermind Las Vegas"" https://t.co/Famylis9oF"
+I posted a new photo to Facebook https://t.co/ROSRePUdKL
+Packed house!!! Thank you everyone who came to hear and learn about the exciting world of cryptocurrency!  Our... https://t.co/WprN2bYQVW
+"Thrilled to announce that our first ever
+ #1  Cryptocurrency Mastermind Las Vegas will commence tonight at 7... https://t.co/lDzfecVetC"
+Powerful message. Some of them actually care to help their constituents. #soundingOFF https://t.co/ud7b8vIZB2
+Sign the petition to put solar on the ballot in Nevada: https://t.co/ghjTVXs98Z #bringbacksolar
+#coinlifestyle #onecoinlife #bitcoinlife https://t.co/Ty0LuiST59
+LIVE on #Periscope: ONE COIN CRYPTOCURRENCY EVENT #LASVEGAS  #LIASCOPE  https://t.co/mIUwViPiyk
+#warriorclass #thisgirlisonfire https://t.co/CbvTq7XNaL
+New Superfood Drink Boosts your Energy the Healthy Way https://t.co/FCBeyCUb2U
+Anti-carcinogenic foods for our tum-tums! https://t.co/IL1h4nm2Nr
+#Impressedwithmyself.The untimely #DeathbyLia didn't happen to this beautiful #orchid.I'll now name her ..Daisy #lol https://t.co/0bclXTLrtl
+#wiredmagazine #cryptocurrency #bitcoin https://t.co/ePIX5XSaqb
+#AlexaRating Top 1/2% #onecoin https://t.co/IowmHeJs75
+"Oh, my back ... Perfect hip opener poses to relieve the back! https://t.co/aHwHnfOOwh"
+Just for fun ... #girlsjustwannahavefun https://t.co/7j3ik21pDo
+Hair by @kingjoelle #hairart #highlights #lasvegas #MileyCyrus #hair #haircolor #haircut #SummerLinMall #ultabeauty https://t.co/4va2WMW8XU
+"Sweet! But the caffeine in coffee does promote wrinkles as pointed out by my personal cosmetologist, Joelle King :) https://t.co/ah5GgH06Yz"
+Delicous .. AND Healthy!!  Love it! https://t.co/BuOGEaIzL6
+"New Years 2016 #vivalasvegas 
+Photo by Mark King https://t.co/nD9MCZa0p4"
+"Happy New Year!!!!! Love, Lia #happynewyear #lasvegas #2016 https://t.co/aB90seKQKA"
+"Let's not fool ourselves, Folks! #digitalcurrencyrevolution  #bitcoin  #gold  #GramsofPureGold https://t.co/vSmoo7hx4Y"
+Happy New Year World!!! #happynewyear Goodbye 2015!!
+"I'm proud to be affiliated with this brilliant man. 
+#SpaceX  #ElonMusk  #innovator  #Tesla  #SolarCity https://t.co/LPJiT8zkcr"
+Buy Gold!!! Buy Digital Currency!! I have an avenue to both. PM me!!  I am putting my money where my mouth is and... https://t.co/d4xKumzraX
+5 Sites to Make You a Cryptocurrency Wizard - The Bitcoin Channel https://t.co/jAarot2o8s
+Happy New year!!!
+https://t.co/wr0gR0d8aR
+"Yeah, because Koreans are a brilliant tribe!!! https://t.co/xo6iOsoRV5"
+"Oh, yeah ... https://t.co/5iKVnksjhk"
+I like this song. Bomb lyrics!! Kudos to #PalmerSquares https://t.co/DnKY2uDJPD
+"A day early .. but I couldn't help it. #TBT 
+Oh, goodness... where did the time go??? https://t.co/LaTrGk5Hgw"
+https://t.co/Rbj6B4jgk4
+https://t.co/SvHGt7T5au
+https://t.co/al8AsAZj3J
+Like they say: You can't argue with stupid.
+"I have less hope in humanity today than I did yesterday. 
+Praying I find the silver lining tomorrow ..."

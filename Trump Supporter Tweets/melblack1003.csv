@@ -1,0 +1,87 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4301404576, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/670391351989506048/fuxt3LGQ_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 565, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4301404576"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 9, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @joshgremillion: RT if you think @realDonaldTrump will unite the party and defeat 'Crooked @HillaryClinton' in November. @DanScavino htt\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729407486550233088, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3118705906, ""indices"": [3, 18], ""id_str"": ""3118705906"", ""screen_name"": ""joshgremillion"", ""name"": ""Josh Gremillion""}, {""id"": 25073877, ""indices"": [36, 52], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 1339835893, ""indices"": [94, 109], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 620571475, ""indices"": [124, 135], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""728670360992784384"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 728670360992784384, ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1560, ""id_str"": ""729407486550233088"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT if you think @realDonaldTrump will unite the party and defeat 'Crooked @HillaryClinton' in November. @DanScavino https://t.co/ZGs1C4AgER"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728670360992784384, ""favorite_count"": 1270, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [16, 32], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 1339835893, ""indices"": [74, 89], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 620571475, ""indices"": [104, 115], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1560, ""id_str"": ""728670360992784384"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 19:38:46 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""New York, NY"", ""url"": ""https://api.twitter.com/1.1/geo/id/27485069891a7938.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-74.255641, 40.495865], [-73.699793, 40.495865], [-73.699793, 40.91533], [-74.255641, 40.91533]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""27485069891a7938"", ""name"": ""New York""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:27:51 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""728670360992784384"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 728670360992784384, ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1354, ""description"": ""Donald Trump for president 2016!!!"", ""friends_count"": 703, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/670391351989506048/fuxt3LGQ_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Mel B."", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 13143, ""screen_name"": ""melblack1003"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Nov 27 23:55:21 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@PRyan @realDonaldTrump donald trump is our choice!you establishment people keep talking about unity, make it a reality and get behind him!!"
+Savage @LouDobbs!! 😂😂 https://t.co/tXj9kXC30l
+@MSNBC @NBCNews @HillaryClinton WOMAN CARD
+Welcome back Jon Snow!! #GameofThrones
+@FL4TRUMPDOTCOM @DebAlwaystrump @realDonaldTrump @DanScavino more like a thousand calories!! 😂😂
+"@GMA no of course not! I think women on maternity leave should get more than 12 wks, let's worry about the MOMS first!!"
+@GMA it's called vacation time...
+@Trumping2day @DanScavino text TRUMP TO 88022 it will ask you for your zip code 😆
+@CNN has @HillaryClinton ever stayed in a holiday inn?🤔🤔
+"I can feel the love in the air at #TrumpTownHall, what an amazing president he will be! #MakeAmericaGreatAgain @realDonaldTrump @greta"
+#MakeAmericaGreatAgain just saw on @FoxNews that @realDonaldTrump won every County in every state tonight! This is history in the making!!
+#CTPrimary My mom and dad voted for @realDonaldTrump today in ct! Everyone get out and vote!! #MAGA @DanScavino https://t.co/B0hAhzxWJM
+@DanMalloyCT @HillaryClinton of course you voted for her look at what you have done to ct! Both are disgraces!
+@usweekly love The Rock but...NO NO NO!
+@exposeliberals @HouseCracka this is disguisting...
+@DanScavino @realDonaldTrump @mitchellvii https://t.co/u44N3OFC5V
+@StephanieSimoni @realDonaldTrump @ReneeChmiel @WTNH you mean YUGE!!😂
+@Almighty__Dame there's a ton of people there already!
+"Crowds already gathering for @realDonaldTrump in Waterbury, Ct!!! https://t.co/4DAc8LKZoP"
+"#KeepItClassical, just like the art of war. #Outlander
+https://t.co/wE1jTLGvO4"
+"Hope you're driving to heaven in your "" little red corvette"" love you #Prince, rest in peace."
+@Jerseybrowngirl @realDonaldTrump listen more closely!
+Let the kids wear masks! And good for them for standing up to the school after they got kicked out of final round! https://t.co/ZLAmsgHWdo
+Vote Trump for president!!! 🖒🌎 #SaveTheEarthIn4Words
+How is that even possible?! Haha https://t.co/d5OFUXszSU
+To all voters in #PAprimary #MarylandPrimary #CTPrimary #DelawarePrimary #RIPrimary  vote @realDonaldTrump!! https://t.co/cQ2XQ8JNRA
+"#PlayThePawn and maintain the alliance with Prince Charles. #Outlander
+https://t.co/WOc8FcnoqL"
+@mimere @verter88 @Outlander_STARZ so good😍!!
+@FoxNews @ChristiChat @tedcruz without the people's choice?
+#IFeelOldWhen I realize Home Alone came out 26 years ago! 😕
+@DanScavino @joshshiney @realDonaldTrump I was there too!! Hardly any protestors when we got there! Go Trump! Can't wait to vote April 26!
+"#IrritateMeIn4Words Hillary Clinton, Bernie Sanders 😝"
+Yes they did wouldn't let us down the stairs to parking garage only to protestors! https://t.co/4bZJ05tJfy
+@slone it was amazing!
+@greta @johnrobertsFox @realDonaldTrump @FoxNews protestors were the ones hurting people! Chaining their arms and plowing through people!
+@realdonaldtrump was amazing tonight! So glad I was a part of history in the making!  #Hartford https://t.co/SdMxXZQziW
+@HouseCracka @realDonaldTrump it was awesome!
+"@wpjenna yes he did! And a protest started right in front of me, they chained their arms together and plowed through people, hurt some!"
+I was there it was amazing! He Threw about three groups of protestors out!! #MAGA https://t.co/kB3BbrVdrW
+"@CNN @CNNPolitics sounds just like Trump, no denying that."
+@ABCPolitics 😑 no you won't!
+@DanScavino #TheChalkening https://t.co/bRd5zHhHMP
+Just got my tickets to see @realDonaldTrump in Hartford on friday!! Can't contain my excitement right now!!! #Trump
+"#StunTheCrowd I have one chance to make a first impression. #Outlander
+https://t.co/CHqYSA2VSl"
+"#MyAdviceToTrump Don't change 
+ for the people that don't get you, the ones that have been there from the beginning will still be here!"
+"#InquireInnocently I always have my eyes and ears open for gossip. #Outlander
+https://t.co/XoA5HMecqf"
+This is a fact ladies! All you feminists should be voting for this man as he is the ONLY 1 that gives #EqualPayDay! https://t.co/X2ur48bqQc
+Can't wait to see the wonderful #TrumpFamily in the white house! Beautiful and loving family!
+@Ricky_Vaughn99 I will be voting for Trump here in Ct!
+God bless our troops! https://t.co/oKskZe6APB
+This man is my hero! @realDonaldTrump https://t.co/EcaQPHd8cc
+Love this Woman! 👇👇 https://t.co/Z3BHRTWiG4
+@greta @TheJusticeDept defrauds thousands and gives it to @tedcruz and @HillaryClinton #Trump2016
+@TIME the whole 8 years?
+@GMA @aauthorsmusic Donald J. Trump!
+"@greta @FoxNews 
+#greta yes"
+This really is unbelievable! You will get my vote here in CT!  @realDonaldTrump https://t.co/2JSyhuRhnH
+And go up 206 dollars under @BernieSanders plan! #WakeUpAmerica https://t.co/sAEIXFcJWi
+"Brilliant man @realDonaldTrump..I don't understand why people can't see that, but I, and the #TrumpTrain pasngrs do! https://t.co/3mwOhYtZKI"
+Sicko @HillaryClinton https://t.co/WojiXR69Tk
+@bryancrabtree @townhallcom oh oh will he give us longer recess too? Pffftt #Trump
+@usweekly no she has enough money
+@thehill @cape2cape99 so arrogant @HillaryClinton
+"@jessebwatters almost made me crash when I heard bill fantasizes about hillary in handcuffs..
+But great job hosting factor tonight!"
+Yeessss!! https://t.co/LJ7NWcgSDU
+Oh my..
+Switched from unaffiliated to REPUBLICAN  today so I could vote for @realDonaldTrump in #CT primary!! #MakeAmericaGreatAgain
+@FoxNews @USAHipster #NeverCruz
+#Trump #Trump #Nevercruz #AlwaysTrump https://t.co/JIZFTjsd8E
+#WomenForTrump https://t.co/mRPKIOJDt8
+"@TIME cue the @jimmyfallon ""EEEEWWWWW"" @tedcruz is worse than stepdad Gary!"
+"@FoxNews @tavissmiley this guy on @oreillyfactor made me cringe the other night, called #trump racist while spewing hate and anger #unite"
+@realDonaldTrump for president! https://t.co/5CSD2Gt4pb
+Watching @Outlander_STARZ season 1 again and still gives me all the feels! Cant wait for season 2!! @caitrionambalfe @SamHeughan 😍😍😍😍
+@JLarryHanna @Ricky_Vaughn99 Im the tuesday after in Ct! @realDonaldTrump #TrumpCountry
+"#Musket Because I want to get the job done. #Outlander
+https://t.co/8dukVZzv4E"
+@greta @realDonaldTrump @FoxNews yes! #greta
+Here you go @BernieSanders supporters! Perfect reason NOT to vote for him! #AlwaysTrump https://t.co/qsX5u0qtik

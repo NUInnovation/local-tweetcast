@@ -1,0 +1,93 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2453605819, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/722442820221407232/i7HVrvmg_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 867, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2453605819"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 47, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @dovorah001: \ud83c\uddfa\ud83c\uddf8 I'll take this sinner saved by grace over career politicians lying to my face any day\ud83c\uddfa\ud83c\uddf8 #Ohio #Missouri #Illinois https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729422811366727681, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 594233612, ""indices"": [3, 14], ""id_str"": ""594233612"", ""screen_name"": ""dovorah001"", ""name"": ""dovorah""}], ""hashtags"": [{""indices"": [107, 112], ""text"": ""Ohio""}, {""indices"": [113, 122], ""text"": ""Missouri""}, {""indices"": [123, 132], ""text"": ""Illinois""}], ""urls"": [], ""media"": [{""source_user_id"": 594233612, ""source_status_id_str"": ""709751748940865537"", ""expanded_url"": ""http://twitter.com/dovorah001/status/709751748940865537/photo/1"", ""display_url"": ""pic.twitter.com/Rue5xfn7v7"", ""url"": ""https://t.co/Rue5xfn7v7"", ""media_url_https"": ""https://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg"", ""source_user_id_str"": ""594233612"", ""source_status_id"": 709751748940865537, ""id_str"": ""709751743895048193"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""small"": {""h"": 513, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 709751743895048193, ""media_url"": ""http://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1558, ""id_str"": ""729422811366727681"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""\ud83c\uddfa\ud83c\uddf8 I'll take this sinner saved by grace over career politicians lying to my face any day\ud83c\uddfa\ud83c\uddf8 #Ohio #Missouri #Illinois https://t.co/Rue5xfn7v7"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 709751748940865537, ""favorite_count"": 1707, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [91, 96], ""text"": ""Ohio""}, {""indices"": [97, 106], ""text"": ""Missouri""}, {""indices"": [107, 116], ""text"": ""Illinois""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/dovorah001/status/709751748940865537/photo/1"", ""display_url"": ""pic.twitter.com/Rue5xfn7v7"", ""url"": ""https://t.co/Rue5xfn7v7"", ""media_url_https"": ""https://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg"", ""id_str"": ""709751743895048193"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""small"": {""h"": 513, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 709751743895048193, ""media_url"": ""http://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1558, ""id_str"": ""709751748940865537"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue Mar 15 14:42:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/dovorah001/status/709751748940865537/photo/1"", ""display_url"": ""pic.twitter.com/Rue5xfn7v7"", ""url"": ""https://t.co/Rue5xfn7v7"", ""media_url_https"": ""https://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg"", ""id_str"": ""709751743895048193"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""small"": {""h"": 513, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 709751743895048193, ""media_url"": ""http://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:28:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 594233612, ""source_status_id_str"": ""709751748940865537"", ""expanded_url"": ""http://twitter.com/dovorah001/status/709751748940865537/photo/1"", ""display_url"": ""pic.twitter.com/Rue5xfn7v7"", ""url"": ""https://t.co/Rue5xfn7v7"", ""media_url_https"": ""https://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg"", ""source_user_id_str"": ""594233612"", ""source_status_id"": 709751748940865537, ""id_str"": ""709751743895048193"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""small"": {""h"": 513, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 558, ""resize"": ""fit"", ""w"": 370}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 709751743895048193, ""media_url"": ""http://pbs.twimg.com/media/CdmLc12UEAEbnCj.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 24756, ""description"": ""retired teacher, passion for politics, active in local political scene. #Trump all the way!"", ""friends_count"": 1193, ""location"": ""California"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/722442820221407232/i7HVrvmg_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2453605819/1456864552"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Cherry Bethea"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 212, ""screen_name"": ""cherry_bethea"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Apr 19 19:24:57 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+.@mitchellvii This election is about issue that others turn on:  Are we going to have a country with borders or blend into a hellish stew?
+Total lie. https://t.co/qLJdq7tTP5
+.@jaketapper Have Kathleen Willey on to show difference in Trump past with women and Clinton's.
+"Ryan will endorse and, if Ryan ever wants to be prez, he'll never push a borderless USA. EU is screwed. https://t.co/ToHy4aATym"
+@PatriotByGod @JOHNCOSSEL Mass immigration as a result of Arab Spring was key part of borderless counties. Those executed are irrelevant.
+@Scarlett210 @Momstaxi104 @marylene58 Rubio did not think Cruz would beat Hillary.
+@wallaceme @billpostmus Your problem is that Muslim voters will increase far more than others.
+@Koxinga8 @ceci8775 yes.  Compassion was never meant to be suicidal. Europeans totally failed by their countries' leaders.
+"So, Trump must be destroyed-he does not want a borderless USA. Everyone has 3rd world life but upper crust like Kerry, Obama's etc? Madness."
+@SecKerry Do me a favor. Sell all you have. Live like the poor. Then give ur speech on borderless world.
+Read Putin will give free land in Russia to disillusioned Brits if they want to move there.
+"@JoeNBC If all did was tweet, no; but, he does lots more. He will win!"
+"If true, that 3rd Party candidate will be called the scum of the Earth forever! https://t.co/r1fWKHgJy2"
+@Slate @johnnyreb1864 My heart leaped that Trump would go all the way he announced. I also think RPerry will play a special role in US.
+"So, did Huma have to read and explain her mail to her? https://t.co/XyVOFuygXA"
+@Peggynoonannyc @theo9873501 Yes. You nailed it months ago when you wrote about migrants/elites. The well-to-do live above it all.
+@KamVTV @bstanley3 They'll comfort HRC after her loss.
+@Drawmark @BPPope @ByronYork @jbarro Paul doesn't know a new crew is in town. Bend or break. We want none of your unvetted migrants.
+Pelosi so wealthy she'll never be touch led by her own policies. Sickening. https://t.co/T3rFbttogl
+Millions of Trump voters standing between freedom and tyranny of the New World Order. https://t.co/XfSkwRX1xH
+Is the CIA training the very agents that will reek hell in the West? (Being forced to by high ups)
+@fed_up32189 @risetoflyy @susanfujioka @JulieYankee To beat the masses into obedience?
+@BigStick2013 Trump picking up more voters with their silliness!
+@BarryHart7 They are not EXTREME. They have commonsense.
+@fed_up32189 @risetoflyy @susanfujioka @JulieYankee It won't be Christianity I bet.
+"@Conservative_VW  @__jacquelyn_ Only if they did not. After making pledge, Trump never FIRST said that he would not support nominee."
+@NoPrisoners08 @Debramax @realDonaldTrump @DonaldJTrumpJr Chief of Staff material?
+Globalism. https://t.co/ICheY7vZXZ
+.@SpeakerRyan  https://t.co/ESW7DWGpxJ
+Ppl don't count in EU anymore just the suicidal leaders count. https://t.co/QWHmnBfZjZ
+@JonahNRO Keep ur eye on mayor in London. Watch guy in video standing next to him give same one finger salute IS uses.
+@cvpayne Trump repeatedly cites government policy as the problem.
+@Smittyshs Why do they call them right wing extremists?
+I'd love that. Rudy is a patriot. https://t.co/8gVqloidSe
+Be sure the Obamas will live above it all as will his wealthy friends. https://t.co/qVmYcH1cGS
+"US secrets-Poor judgment no excuse. Under law, NOTHING excuses taking chance with secrets..  https://t.co/6NwD14fhFR"
+@NPete2 @sabine_durden Obvious DC and media don't give a damn as long as $ flows their way.
+"@WalterHudson Establishment: No warriors/For amnesty, loose borders/Incompetent in making trade deals/Some assisted in Arab Spring. Got it?"
+@replouiegohmert Anything Trump did to Cruz pales in comparison to Cruz deceit regarding Carson in Iowa.
+I am a conservative for Trump.  Hope Ryan/crew realize they are not in charge anymore. Too many fell under Obama's spell.
+WSJ's Peggy Noonan Rips #NeverTrump as Doomed 'Private Club' - Breitbart https://t.co/7MuyKupZes
+Scarborough:Trump Doesn’t Need Paul Ryan’ Breitbart https://t.co/wdr1RIdGU1 @Hughhewitt No amnesty. No unvetted migrants. Ryan is dangerous.
+.@hughhewitt Big issue: Enemy is within here now. Many pushing for borderless countries. Ryan out of touch. 8 yrs. of Obama spending.
+Fantasy. HRC being played.  https://t.co/1dBYtWLR4j
+@ChrisLewisLouie Yes
+@Jay_Severin Obama reign = Horror Show
+@Jay_Severin Yes. Cruz on SC.
+Suggested by Obama's  MB advisors? Rs stand by like hapless loons. Funded by Ryan? https://t.co/dITdepQ0m3
+Wait till Clinton women light their fires. HRC should not use Trump and the word women in same paragraph. https://t.co/TYz4teQrSL
+Lunacy of plan on MoJo: .@BillKristol House Ds vote HRC. Rs split btween DT/Sasse. HRC wins. You get NOTHING you want. .@Morning_Joe
+".@SteveRattner DT never said no trade deals. He said fair deals. Joe, why let him lie? .@Morning_Joe"
+@FoxNews @DavidWohl @SpeakerRyan @realDonaldTrump @HillaryClinton Or they get 3td Party and throw election to House.
+"Scenario on MoJo: Sasse runs 3rdPty/wins FL,CO,OH,NC/House picks Sasse. (Every Rep whose Dist voted DT will lose seat in '18 if vote Sasse.)"
+.@Morning_Joe If Sasse tries 3rd Party/wins a few states/gets picked by House/every Rep in a Trump dist will lose their seat in 1218.
+@FoxBusiness Obama reign Horror Show.
+.@smerconish You all know damn well intent is irrelevant as to HRC exposing classified docs to hacking. Poor judgment is adequate.
+#RoutRyan.  Defeat and cause to retreat in disorder
+@polifictionfact @customwww @HouseCracka #RoutRyan
+@PJStrikeForce @Po_st The intent is irrelevant according to the law.
+@DavidMDrucker No. the Politics of Restoration.
+@MarkHalperin @ceci8775 @BillKristol @MittRomney Wonder if Mitt wants borderless countries?
+@greta @peachesgirli23 Obama has put on a Horror Show. Only groups to make progress: wealthy and Islam.
+@Goldilocks19 @costareports Will take bucks to defeat D and no reason for DT to pay it all. DT will walk away from his biz to save US.
+@mkues65 @MediaJuggernaut #RoutRyan
+@hitch4life @TB_Times #BitterBushes. Trump is squeezing juice out of many lemons.
+Amen Sister! https://t.co/VFxTSzv9nE
+@JudgeJeanine @woitekj @FoxNews Obama prefers to run a Horror Show!
+Ride em Cowboy! https://t.co/fcx3tUTBGl
+@WayneDupreeShow @LindseyGrahamSC You despised the Tea Party. You are the con job.
+"@BreitbartLondon Stupid, incompetent UK leaders."
+.@sullivanradio I'll take a reality show over an Obama Horror Show.
+Excellent response.  Sen Graham was all in on Arab Spring the best I remember. https://t.co/iXnL1otIgs
+@BBCBreaking @JebBush @realDonaldTrump @HillaryClinton @BBCNews .#BitterBushes. After all we have been through...
+@jonathanweisman @blakehounshell @SpeakerRyan @realDonaldTrump @jestei Only if Ryan wants borderless countries and NWO like Obama and crew.
+@Exiledathome @justonepatriot @CNNPolitics #BitterBushes
+@watchdoggy @jimboazil Beck seems blinded by hate.
+#BitterBushes. Loving legacy above country. https://t.co/Z3ZpWgSulQ
+@NPete2 Spread the word.
+#BitterBushes.  Too bad.  They do love the Clintons. They can comfort Hill after Nov.
+Bitter Bushes are chummy friends with Clintons. https://t.co/niW3JcleAu
+".@Morning_Joe Only a millionaire would talk like you do. To stay alive, UK has to fight, flee or submit to Islam."
+@BerkeleyBrett @JoeNBC Trump right. Ds will vote for D if HRC has to govern from jail in orange suit.
+"@Writeonright @SkyNews This is only the beginning. Won't be long before UK is Islamist State. Fight, Flee or Submit."
+@WalshFreedom @petefrt Obama prefers a HORROR SHOW presidency like his.
+@Pollizer @RighT_QueeN She won't be. Obama knew about ALL she was doing is my guess.
+#RoutRyan https://t.co/SpEpiKVFE4
+Ryan is about to meet a Warrior. https://t.co/GBPxrhAMo2
+I think that any reality show presidency will be far better than Obama's HORROR SHOW presidency.
+@AndrewLuck23 @MittRomney @JoePerticone @CandyCrowley Sec Kerry said for us to get ready for borderless countries.  UK insane to stay in EU.
+"Does Ryan want borderless countries like the Pope? Of course, Pope will keep his special wall. https://t.co/7DSmmMGO9m"
+Yahoo https://t.co/I2HTMhvFEr
+Sec Kerry wants borderless countries. Does Ryan? Wide open door for Islam. https://t.co/c0vGIzweuQ

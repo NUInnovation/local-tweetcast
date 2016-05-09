@@ -1,0 +1,77 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 344164779, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/669768750153928704/uM6GwEf0_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/lQw0cgTJ79"", ""indices"": [0, 23], ""expanded_url"": ""http://www.donsselfstorage.com"", ""display_url"": ""donsselfstorage.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 109, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""344164779"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729425146012794880, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729425146012794880"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:38:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 312, ""description"": ""Owner: Self Storage complex"", ""friends_count"": 115, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/669768750153928704/uM6GwEf0_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""MitziBP"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 4300, ""screen_name"": ""mboshearsperry"", ""notifications"": false, ""url"": ""https://t.co/lQw0cgTJ79"", ""created_at"": ""Thu Jul 28 16:55:05 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@asamjulian ~ ""We"" agree with Donald Trump's policies!!"
+@louiswu5 @seanhannity @SpeakerRyan @realDonaldTrump ~Paul Ryan's constituents ARE Americans..UNITED States ~ let's be ONE Nation under God!
+@DebAlwaystrump @steph93065 ~ that's sorry!
+😊 https://t.co/fqEtivSaFK
+@RobertCFP @seanhannity ~ that's why he was voted as the presumptive Republican nominee for the president of the United States….
+@jjauthor ~ great question!
+@FoxNews @IngrahamAngle @realDonaldTrump ~ Thank You for your positive Trump text!!!!!
+"@RedGalBlueState ~ Yes, he is a U.S Representative!"
+@Sklakebum @seanhannity @SpeakerRyan @realDonaldTrump ~ Paul Ryan ~ U.S. Representative
+@txrebel1960 @seanhannity @SpeakerRyan @realDonaldTrump ~ That's why Trump is the presumptive republican nominee. 🇺🇸
+@seanhannity @SpeakerRyan @realDonaldTrump ~ I totally agree... Paul Ryan needs to Support the American people that put him where he is!!
+@USATODAY ~ Thank you Rick Perry!  Every republican politician needs to follow your example!
+@theblaze ~ how Un American!
+@twitod ~ Donald Trump is the man that God is using to unite Americans and make America great again!  No doubts!!!! We ARE SMART!
+@glennbeck ~ find joy in KNOWING God is in control of EVERYTHING!  Kings and kingdoms.
+@realDonaldTrump ~ We are praying for your health and SAFETY!
+@realDonaldTrump @PaulManafort ~ thank you for all of your hard work!! I'm so proud of you ALL!
+@mitchellvii ~ IKR
+@JohnKasich ~ He needs to listen to the American people..... DROP OUT!
+@DanScavino
+@WeNeedTrump ~ YOO-HOO! Yaaaaa
+I honor the veterans and first responders who paid the ultimate price for my freedom. #CarryTheLoad https://t.co/Zpo1OHQdca
+@MELANIATRUMP ~ Happy Birthday🎈
+@Campaign_Trump~ I hope they threw this woman in jail with the most brutal people alive!  She needs to have the same thing done to her!!
+@CNN ~ Apple needs to lower the prices of their phones... How wealthy is wealthy?!
+"@FoxNews ~ Donald Trump is a brilliant entertainer. Our Country needs laughter and honesty it's like ""Good Medicine"" Thank you Donald Trump!"
+@greta ~ the expense would be a biggie!
+@RealBenCarson ~ Ben Carson would make a great Vice President !!!
+@williebosshog ~ Happy Birthday🎈
+@Campaign_Trump ~ I hope so!!!
+@3cats2kidslater @mitchellvii ~ LOL Not I!
+@JustSayn2000 @GretchenCarlson ~ NO
+@mitchellvii ~ I Hope so! Thank You for your positive outlook. I've been bombarded with negativity.
+@seanhannity ~ glad you're back! United we WILL win!#DonaldTrump
+@DanScavino @realDonaldTrump @NewYorkGOP @ChairmanEdCox @SheriffButchDC @KatrinaPierson @GOP @TeamTrump16 @TrumpAdvance ~ GREAT JOB in NY!
+@FranklinMan25 @tedcruz @CNN ~ I thought Ted Cruz and his family did a good job last night as well!
+@realDonaldTrump @andersoncooper ~ very delightful!!
+@DanScavino @CNN @andersoncooper ~ Thank you for such a great show! The Trump family was delightful!
+@DiamondandSilk @AC360 ~ Pitiful!
+@greta @FoxNews ~ YES we have a corrupt political system!
+"@FoxNews ~ what a horrible shame to ""We the People!"
+@theblaze ~ very untrue statement!!
+@Justified_Not @mitchellvii ~ don't give up!
+@renomarky @StatesPoll ~ WHY?!!?!
+@LindaSuhler @realDonaldTrump @DanScavino ~ GREAT explanation on Trump tax reform!
+@IzzabooLady @Eliz_Hightower ~ he is a great man!  Makes us WANT to pay him!!!
+@ericbolling ~ Thank You for all of the research you share with us!
+@KLSouth @BluegillRises ~  LISTEN TO THIS!! What an eye opener!
+Trump comes out with extraordinary 7-point healthcare reform plan https://t.co/QRpHc1uYfg via @examinercom
+"@David360NC ~ no ""Fair &amp; Balanced"" that's for sure!"
+@Campaign_Trump ~ LOL
+@seanhannity @clynnsingon @FoxNews ~ but not Sean Hannity🙂
+@realDonaldTrump ~ thank you for your heart!
+@glennbeck ~ If your predictions are correct on economic collapse it won't matter if Trump is President or Cruz. It is what it is!
+@Campaign_Trump ~ we need truth not drama queens!
+@seanhannity ~ Donald Trump
+@seanhannity @Donald Trump
+@greta @realDonaldTrump ~ NO
+@AnnCoulter @CLewandowski_ @realDonaldTrump that's too funny!
+@Campaign_Trump @realDonaldTrump ~ Unethical
+#greta ~ yes!  Why should we have to borrow money ...
+@LessGovMoreFun ~ @Ben Carson would make a great vice-president!
+@LessGovMoreFun ~ great point!
+@PMBrief ~ what goes around comes around!
+"@PMBrief @mckaycoppins ~ exactly this pic started the whole ""wife bashing"" debate! 😊"
+@PMBrief~ Goal: 1. to have a large turnout of voters for Cruz: 2. To degrade Trump with the pic of his wife nude in a magazine... YEARS AGO!
+@leilaprelec1 @DavidWohl @FoxNews @realDonaldTrump @NBCNews ~ I agree!
+@PMBrief ~ No proof found .. I showed you the truth~ where is yours? Show us your solid proof!
+@PMBrief ~https://t.co/Fmt4jiYwuw Facts DO matter!
+@PMBrief ~ it was Cruz super pac that put a pic of Trumps wife FIRST!  If you live in a glass house don't throw rocks!
+@PMBrief ~ @realDonaldTrump @tedcruz ~Cruz seems to never know what's going on in his campaign ... What happens if he becomes pres.?
+"@foxandfriends @NBCNews ~Cruz has forgotten that it was HIS super pac that started this whole ""wife bashing"" Deal!"
+"@FoxNews @DavidWohl @heidiscruz @realDonaldTrump @NBCNews Cruz has forgotten that it was HIS campaign that started this whole ""wife bashing"""
+@FoxNews @realDonaldTrump @tedcruz ~Cruz seems to never know what's going on in his campaign ... What happens if he becomes pres.?
+"@NBCNews ~Cruz has forgotten that it was HIS super pac that started this whole ""wife bashing"" If you Live in a glass house don't throw rocks"
+@VivaLaAmes @LindaSuhler ~ Cruz seems to never know what's going on in his campaign ... What happens if he becomes pres.?

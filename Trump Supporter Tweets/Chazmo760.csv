@@ -1,0 +1,206 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 704154252998914048, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""California, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""fbd6d2f5a4e4a15e"", ""name"": ""California, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/714515393969258496/RdbJnQ3G_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 139, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""704154252998914048"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @chadsdaddy: Some DEMOCRATS disagree w America in general_ https://t.co/FRT1iU5fRr"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729479961342447616, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 174780445, ""indices"": [3, 14], ""id_str"": ""174780445"", ""screen_name"": ""chadsdaddy"", ""name"": ""chadsdaddy""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 174780445, ""source_status_id_str"": ""729442472720478208"", ""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg"", ""source_user_id_str"": ""174780445"", ""source_status_id"": 729442472720478208, ""id_str"": ""729442472183644161"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [62, 85], ""type"": ""photo"", ""id"": 729442472183644161, ""media_url"": ""http://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""729479961342447616"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Some DEMOCRATS disagree w America in general_ https://t.co/FRT1iU5fRr"", ""is_quote_status"": false, ""in_reply_to_status_id"": 729441885215965184, ""id"": 729442472720478208, ""favorite_count"": 2, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg"", ""id_str"": ""729442472183644161"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [46, 69], ""type"": ""photo"", ""id"": 729442472183644161, ""media_url"": ""http://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg""}]}, ""in_reply_to_screen_name"": ""chadsdaddy"", ""in_reply_to_user_id"": 174780445, ""retweet_count"": 3, ""id_str"": ""729442472720478208"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""174780445"", ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 22:46:52 +0000 2016"", ""in_reply_to_status_id_str"": ""729441885215965184"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg"", ""id_str"": ""729442472183644161"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [46, 69], ""type"": ""photo"", ""id"": 729442472183644161, ""media_url"": ""http://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg""}, {""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AED3XEAAnVGl.jpg"", ""id_str"": ""729442471902646272"", ""sizes"": {""large"": {""h"": 270, ""resize"": ""fit"", ""w"": 508}, ""small"": {""h"": 181, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 270, ""resize"": ""fit"", ""w"": 508}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [46, 69], ""type"": ""photo"", ""id"": 729442471902646272, ""media_url"": ""http://pbs.twimg.com/media/Ch-AED3XEAAnVGl.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:15:50 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 174780445, ""source_status_id_str"": ""729442472720478208"", ""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg"", ""source_user_id_str"": ""174780445"", ""source_status_id"": 729442472720478208, ""id_str"": ""729442472183644161"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [62, 85], ""type"": ""photo"", ""id"": 729442472183644161, ""media_url"": ""http://pbs.twimg.com/media/Ch-AEE6WwAEf3Fh.jpg""}, {""source_user_id"": 174780445, ""source_status_id_str"": ""729442472720478208"", ""expanded_url"": ""http://twitter.com/chadsdaddy/status/729442472720478208/photo/1"", ""display_url"": ""pic.twitter.com/FRT1iU5fRr"", ""url"": ""https://t.co/FRT1iU5fRr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-AED3XEAAnVGl.jpg"", ""source_user_id_str"": ""174780445"", ""source_status_id"": 729442472720478208, ""id_str"": ""729442471902646272"", ""sizes"": {""large"": {""h"": 270, ""resize"": ""fit"", ""w"": 508}, ""small"": {""h"": 181, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 270, ""resize"": ""fit"", ""w"": 508}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [62, 85], ""type"": ""photo"", ""id"": 729442471902646272, ""media_url"": ""http://pbs.twimg.com/media/Ch-AED3XEAAnVGl.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 923, ""description"": ""Calif Trump Supporter \n#wreckwashington \n#PatriotParty\nHardcore 2a advocate.\nMy first vote was for Reagan. The establishment and media Hated Ron too. #Trump2016"", ""friends_count"": 68, ""location"": ""California, USA"", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/714515393969258496/RdbJnQ3G_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/704154252998914048/1460748344"", ""profile_background_image_url"": null, ""name"": ""Chuck Mobley"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 818, ""screen_name"": ""Chazmo760"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Feb 29 04:00:31 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@BartMcCoy5 @Bob4Trump Satan
+@AJDelgado13 @Ricky_Vaughn99 I woulda knocked that hand away. Ya the SS would have taken me away but it would have been worth it.
+@mrntweet that's the million dollar question. But guaranteed it was for political reasons. Someone will tell in the end. They always do.
+@mrntweet its horrible. Brave men lost their lives becuz God forbid Obama might get bad press b4 the election. Nothing sicker than that.
+@kinni00 @HillaryClinton @RichardWeaving well they kinda are.
+@ramzpaul @UghToHillary @glennbeck and how Satan has taken over his mind. #Exorcism
+@mrntweet shill was ill equipped. Our boys fought 2 their death 2 save the consulate and the people there. That bitch didn't want the press
+@RealAlexJones @natashalarebel NWO.  1000 Points of light. Blah blah. Fn Globalist.
+@TimAlexander429 @TrumpTrain8 @YLu1220 @newtgingrich yikes dude. Hahaha.
+@TrumpTrain8 @seabreeze1103 @newtgingrich what would b fun is if he picked Cruz. Levin and Becks heads would explode. Hahaha.
+@marklevinshow @seabreeze1103 @ABC  coming from the guy that hates the establishment. Give it up Levin u preached a shake up and here it is
+@Veteran4Trump @immigrant4trump https://t.co/QYOMPiehh7
+@Cernovich @PrimMrs @BBCR4Sunday @IbrahimMogra @ShuruqNaguib wouldn't allow my wife 2 walk out front door alone if we lived around muzzies
+@MikeHimsworth @PrimMrs @billclinton Aids?
+@SurfPHX @HouseCracka he's still beta.
+@LaurieAtBoston @elizabethforma Good God you are a sheep. That bitch lied about her heritage to advance herself.  Wake up.
+@elizabethforma @realDonaldTrump shut up you fraud. Nobody gives a crap about you.
+@chrgdup1973 @realDonaldTrump I feel ya. I live in Imperial County. So ya.
+@Ricky_Vaughn99 @UghToHillary @HillaryClinton Hahaha. That's a Pro Trump ad. You're losing it Shillary
+@mitchellvii That's easy.  Putting coal miners out of work. And pretty much every one else.
+"@SenatorRonbo @kyramarat1 can't stand that murdering, traitor, lying, corrupt, butt ugly evil bitch. How's that?"
+Shrillary is a demonic whore. https://t.co/ESOXvIyorL
+@theHeatherCorke @SenatorRonbo @glennbeck he was living vicariously thru Cruz.
+@Portosj81J @nsaidian they've been dictating to us for years. Trump will tell them to piss off.
+"All @realDonaldTrump haters are #Shrillary Shills. Ignore them. Including Beckbots, Levindorks, and Nevertrump beta males"
+@SSbridges51 @ProudInfidel33 ignore the Shillary Shills
+@SSbridges51 @JudgeMoroz @GOP makes sense. Corrupt  Shillary playing her reindeer games.
+@shitlordarmy @shadowofthebat1 @LeftardsEurope the pendulum has swung.
+@shitlordarmy @shadowofthebat1 @LeftardsEurope Europe is hosed. https://t.co/Bx4IYBHopk
+@kinni00 meh. I've been called a racist misogynist pig for 8 yrs. Means nothing to me any more.
+@shadowofthebat1 @shitlordarmy @seanhannity to each there own.
+@shadowofthebat1 @shitlordarmy I disagree. But hey that's why we debate.
+@shitlordarmy @shadowofthebat1 @seanhannity ya I know. Just sayin. But I have very little sympathy for jihadis
+@shadowofthebat1 @shitlordarmy @seanhannity no our tax dollars shouldn't. But waterboarding isn't killing.
+@shitlordarmy @shadowofthebat1 @seanhannity true but that wasn't the question. But ya.
+@shadowofthebat1 @shitlordarmy cuz him and Bush should be tried for war crimes. But waterboarding isn't one of them.
+@shadowofthebat1 @shitlordarmy torture is less than killing. Fact is you kidnap my child and you would be begging to be waterboarded
+@shadowofthebat1 @shitlordarmy kill?  Um ask Obama
+@shitlordarmy @LoordyMarie @seanhannity @LeftDial I would say liberal schools or no Daddy in their life. Or they were ignored as children.
+@shadowofthebat1 @seanhannity @LeftDial we already jumped that shark with Obamas Drone killings.
+@seanhannity @kinni00 @LeftDial yes then I would put one between his eyes.
+@Drudge_Report_ @CBCNews wow this thing is bad.
+@Nero makes me understand why Billy was fucking so many women. But did he have to beat the shit out of too.
+@BoSnerdley @NBCNews traitors
+@BoSnerdley @AJDelgado13 @CNNPolitics ya may want to step up your scrutiny on Hillary first. Many scandals in her closet.
+@TheGreekBrah a duck
+@hottiesfortrump how do I look?
+Omg this is funny right thuuur https://t.co/ni6F71GeWV
+@StefanMolyneux @Nero Omg that was freaking classic.  Stefan is the man.
+@CutAcrossMatty @JudgeJeanine @blumarine @HerveLeger she is sexy. Love strong woman.
+@JudgeJeanine @blumarine @HerveLeger right one.
+@LindaSuhler @BreitbartNews how is it conservative to smash your face in cheetos? How is it conservative to call 65% of your base racist?
+@Ma1973sk @politico #dumpryan has heartburn ovr Trump based on 3 blown out of context statements. @PaulRyanSpeaker wonders y we r pissed.
+"@gqforbes @seabreeze1103 @realDonaldTrump @AnnCoulter @DonaldJTrumpJr 
+
+#Shillary"
+"@EleusianMystery @Saul_Rosenblum @NolteNC 
+https://t.co/H30Jn4EyFk"
+@EleusianMystery @Saul_Rosenblum @NolteNC you do realize that New World Order come out of the mouth of the Globalist HW Bush.
+@FirstTeamTommy @BenSasse I hope so I made it up. I may go viral. Sweet.
+@Drudge_Report_ @DonaldJTrumpJr @EricTrump best move he can make.  Hell do that and I'm good.
+@Drudge_Report_ @WIRED Trump will make Mt St Helens great again.
+"@FirstTeamTommy @BenSasse 
+Only 1 canidate left our brothers to die in Benghazi. https://t.co/YdDlnF7cyW"
+@SurfPHX @brant_roger @tedcruz @GOP I hear ya.
+@SurfPHX @brant_roger @tedcruz @GOP it's the same thing. That's venacular they use. He's toast
+Remember @glennbeck only one canidate left our Brothers to die in Benghazi and lied about it. https://t.co/y1weW7Lb1j
+"@BradThor 
+ remember only one canidate left our brothers to die in Benghazi.  #nevershrillary"
+@jtLOL Damn Boring life you got there.
+"@NowThisGIF accidently?  If I  ""accidentally"" punch my wife I would expect to be arrested. Or at least apologize right away."
+The next 8 yrs.  I mean really. https://t.co/0nKbq4WZog
+"Anyone thst thinks this bitch can win isn't listening. 
+
+https://t.co/flh57oGSH7 https://t.co/7H7G2MEJqu"
+@jane_spillane he won't be talking about Trump now. At least that is what he said. But. He lies like the rest of them so there's that
+@ElishivaAhmose Conservative Review. Ect ect
+@kinni00 that's right.  I'm with you.
+@AJDelgado13 @kinni00 and Beck and Levin and the list is endless
+Jesus Cruzers. Get over it already. Your so called conservatives screwed us. We don't trust u anymore.
+Rich Lowery has no clue. We voted 4 conservatives. They got elected and then turned on us. We r sick of it. That's why the people r 4 Trump
+@realDonaldTrump Won Biggly. You have to love his non scripted speeches. This is awesome.
+@AJDelgado13 @joeydivito ya but he did right cross and elbow his wife. So there's that.
+Has anyone checked on @glennbeck and @marklevinshow?
+@AJDelgado13 YES
+Holy Crap Cruz laid a Right Cross and elbow on Hiedi.
+Watch how fast those #NeverTrump accounts get deleted. @realDonaldTrump  will win the WH
+Hiedi looks high.
+"@mcmoynihan @jpodhoretz 
+And your problem with that is?"
+@realDonaldTrump will take at minimum 120 Delegates from just Calif and that will be that. Focus on #Shillary ignore the GOP and @tedcruz
+After tonight @realDonaldTrump needs just 41% of the remaining Dels.  So it's time that all @realDonaldTrump supporters focus on Shillary.
+@JayS2629 and the world is still turning. Go figure
+@benshapiro @Nero time to support the Republican Nominee @benshapiro. @realDonaldTrump is that person.
+@JayS2629 is the Nominee.  Repeat. IS THE NOMINEE
+@PrisonPlanet Hahaha.
+@BornToBeGOP @Ella_Boo_Bella @realDonaldTrump and the Nomination for the Ruplican Party.
+"@camefromempires @gelraquell
+
+ IS the Nominee.  Time to focus on Shillary"
+@_HankRearden let's focus on Shillary. @realDonaldTrump won the Nom. Let's ignore the naysayers. Be positive and let's put Trump in the WH
+Alright folks.  @realDonaldTrump is the Republican nominee. Ignore @tedcruz and #NeverTrump traitors.  It's time to focus on Shillary.
+@Patriotic_Me we will be ignoring Cruz after tomorrow.
+Omg those Indiana guys where hilarious and we all watched @tedcruz Lie and Lie. Yes Indiana doesn't want #lyinted. Go @realDonaldTrump
+@nohilary @Only4RM Show the Transcripts. #Black privilege
+@realDonaldTrump Now the fun really begins. https://t.co/c0qjY9M0P4
+"@HidalgoFor51st vote Marine Sgt Maj Juan Hildago for Calif 51st District. The only ""Juan"" for job. He's not a politician nor a Lawyer."
+"51st District of Calif. Juan Hildago
+Running to oust the incumbent Juan Vargas. https://t.co/t1fAzQyHHb"
+@juanhildalgo event. Running for the 51st district of Calif to unseat Juan Vargas. It's a tough district.  Loads of Ds.  Make change locally
+When @realDonaldTrump reaches 1237 he wins. We will ignore the Dels.  We know who won.  GOP does not honor they will regret that decision
+"@JudgeJeanine @LindaSuhler @nypost 
+
+@realDonaldTrump Right Again"
+@sarahsside @idrawrobots @Joe_Reinhard @KatTimpf @GOP um ever take a Sexual Harrasement Course?
+@sarahsside @KatTimpf @LaieHi @HillaryClinton you're blaming the Victims. Wow. Pretty liberal of u. Hey do you feel the same for Bill Cosby?
+"@christianna_j @seabreeze1103 
+That's ok. We know the numbers. It won't go very well for them."
+"@gelraquell @realDonaldTrump 
+
+Wednesday @tedCruz will be forced out by the Media. Hell, they are saying it now."
+"@Arkansas_72701 @Chazmo760 
+Fake scandals. Ooookay. Well guess we have nothing to discuss. You're obviously brain washed with Clinton lies."
+@UghToHillary wow this should just about finish Glenn Beck.
+@Arkansas_72701 @Chazmo760 many. Here are just a few. https://t.co/mG3IJ7MA4y
+@AdBell45 @realDonaldTrump nice.
+@I_AmAmerica @seabreeze1103 in other words you're a intelligent American.
+"@KamVTV @WayneDupreeShow @DanScavino @TruthFeedNews 
+Damn I got emotional right there.  You're right he's gonna win. Hell he's already won."
+@seanhannity @LindaSuhler @SenTedCruz @WendyDamron @shotwave @rushlimbaugh @FoxNews can't please everyone Sean. Keep doing you.
+@DebAlwaystrump @deeluttrell1960 @suzost @seanhannity @LouDobbs @realDonaldTrump @DanScavino @MSNBC doesn't matter. We are keeping score
+@Arkansas_72701 ya may want to try some of that sense of humor thing.
+"George Will, David Brooks, et al are dinasaurs and your time is over. There is a new Republican party forming and your old ideas are mute."
+@RightWingWatch WTF is wrong with this guy. Was I ever duped by him. Jeez
+@AnnCoulter @LindaSuhler @DailyMirror can't have the truth out there. God forbid.
+@IngrahamAngle @realDonaldTrump they tried that when it didn't happen. So ya there's that.
+@Drudge_Report_ @DailyCaller ya big dummy.
+@mitchellvii it's simple. You get Cruzs email list and start calling. Pretty sad really.
+@immigrant4trump fire the first shot and try and take it.  Idiots.
+@SenatorRonbo @StephenGHubbard @KVeklerov for now. But any harm comes to Trump and I believe that will be the last straw
+@1432721 @LindaSuhler @ChristiChat @guypbenson they are libs
+Love this.  Hahaha. Trump the Boss https://t.co/1EfB38RTSJ
+@Rockprincess818 @LindaSuhler Omg Trump is freaking awesome. Hahaha. @PrimMrs
+@Drudge_Report_ @DailyMirror ah new yorker I'm not. Where's the Calif list dang it.
+"@Drudge_Report_ @DailyMirror 
+Doggonit I was hoping to be on that list. Any excuse you Muppets. Any excuse."
+@Nero ya gotta eat brother.
+@PrimMrs Omg that is the shiznit. Trump is the new Most Interesting Man in the World. #dosequis
+@IngrahamAngle @cnsnews breathing is Racist. Swimming is Racist. Talking is Racist. Living is Racist.
+@PrimMrs seriously did that happen?
+@Oliviafoxradio @hawkguy83 and those Kings and Queens sold you to slavery.
+@Oliviafoxradio @rollingitout @reaIDonuIdTrump Racist
+"@Drudge_Report_ 
+we look like fools. Putin playing with Obama. Sad"
+@marklevinshow @CR anyway I can return your book? Levin is the most inconsistent pundit know to man. Well there is Beck.
+"@marklevinshow @TheRightScoop 
+Mark Levin was against Carly b4 he was for Carly. You sir have lost all credibility = rating tumbles."
+"@Nero @BreitbartNews 
+Brilliant"
+@ljkoolone @Patriotic_Me @pashaterri @FoxNews shes a bushy
+@kinni00 @JorgeLZambrana1 @TweetBrettMac plus strict guns laws.
+@C_82l @LindaSuhler @LodiSilverado this crap better calm down or see avatar
+"@gelraquell @AndreaTantaros 
+Gel, you are one smart women. Gives me great hope for our countries future."
+@AndreaTantaros @gelraquell I love you girl.  But just saying it doesn't make it fact. Please do better research.
+@ArRuple @PrimMrs and then have the nerve to blame it all on Trump. #bizzaroworld
+"Trump Foreign Policy 
+
+https://t.co/ceVoe1ovi1"
+@latimes consider the source.
+@JSanbower @DewsNewz @grammarox very proud of them.
+Just make sure your kids are raised correctly. That's all you can do. https://t.co/jXvrbRjeLB
+@DewsNewz @grammarox here they are while my 2 sons are working to protecting them and my daughter working to patch them up. Get a job.
+@Tlore50 @kincannon_show @socalmike_SD they don't either.
+@socalmike_SD @JTSantucci we are out here. Just a minority in this jacked up communist state. Isnt the Assymbly and Sen now 65% commie now?
+@Patriotic_Me @nypost my biggest concern is that.
+@Patriotic_Me @nypost oh shit
+@Patriotic_Me @Chazmo760 @nypost @YouTube watch this video.  Take the few mins. Well worth it. https://t.co/nryiEyfMzP
+"Must watch Video. #1 Threat to earth and it ain't Global Warming or Nuclear weapons. 
+
+https://t.co/nryiEyfMzP"
+@Patriotic_Me @nypost https://t.co/Mpcdhodmpw
+@Patriotic_Me @nypost not earth facing thank God. Looks out in front of earth almost on the crest. Check out Suspicious0bservers on utube
+@ejsillycat @Cernovich @aimeedcornett they are the same as the Cruz/nevertrump babies. Left reality long ago.
+Awesome.  Protestors completely irrelevant. https://t.co/fGoD04nXnX
+@JulieFoster @Patriotic_Me well its So Cal. We're pretty chill. We just can't believe someone finally standing up for americans 1st.
+Well well well. Isnt that interesting. https://t.co/qsNS95z9Cj
+@Cernovich @PrimMrs nope
+@realDonaldTrump @ABC ugh choice.
+You know you're the right chose when someone wants to kill you. @realDonaldTrump https://t.co/ZWcbUMHE1b
+@TheGreekBrah don't even consider them. Carry a Mexican flag then you're not American.
+Couple of YUGE earthquakes today. Vanuatu 7.0 and Mexico 6.8.
+MSM they don't get it. Everyone loves @realDonaldTrump https://t.co/kZxqKZSYGF
+@pilasunderland @Nero stefan molyneux and milo. Would be epic
+@AdamBomb7869 @Chazmo760 @leach_deanna @katyperry as usual.  But yes.
+@AdamBomb7869 @leach_deanna @katyperry no they want to sell it and keep the money. It belongs to the Nuns. https://t.co/BK1ke4YjF0
+@AdamBomb7869 @Chazmo760 @leach_deanna @katyperry Their is shady shit going on.  But yes she has that right. Nobody arguing that.
+@socalmike_SD @PageSix to much cocaine on the set of Vinyl
+Archdiocese let Nuns have their property. And @katyperry give up buying the convent. Do the right thing. #FreetheNuns
+@gelraquell @Nero https://t.co/k9pF2t7xPR
+@gelraquell @Nero https://t.co/YPCw5PdbDx
+@kinni00 @AndreaTantaros @FoxNews really? Why?
+"Does this woman ever know anything going on around her.
+
+Hillary Clinton on Walmart https://t.co/mNErY8LOpn via @YouTube"

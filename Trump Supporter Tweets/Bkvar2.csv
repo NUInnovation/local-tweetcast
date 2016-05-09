@@ -1,0 +1,140 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3520243753, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/705617093287227392/yCNonmYa_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 134, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3520243753"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 5, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @TheFoundingSon: Retweet if you agree that Donald Trump could become one of the best US presidents ever! https://t.co/9CvlwK99vr"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729407539364831234, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4508630900, ""indices"": [3, 18], ""id_str"": ""4508630900"", ""screen_name"": ""TheFoundingSon"", ""name"": ""John Davis""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 4508630900, ""source_status_id_str"": ""729373811527680001"", ""expanded_url"": ""http://twitter.com/TheFoundingSon/status/729373811527680001/photo/1"", ""display_url"": ""pic.twitter.com/9CvlwK99vr"", ""url"": ""https://t.co/9CvlwK99vr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg"", ""source_user_id_str"": ""4508630900"", ""source_status_id"": 729373811527680001, ""id_str"": ""729253074762665984"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [108, 131], ""type"": ""photo"", ""id"": 729253074762665984, ""media_url"": ""http://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 135, ""id_str"": ""729407539364831234"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Retweet if you agree that Donald Trump could become one of the best US presidents ever! https://t.co/9CvlwK99vr"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729373811527680001, ""favorite_count"": 93, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/TheFoundingSon/status/729373811527680001/photo/1"", ""display_url"": ""pic.twitter.com/9CvlwK99vr"", ""url"": ""https://t.co/9CvlwK99vr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg"", ""id_str"": ""729253074762665984"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [88, 111], ""type"": ""photo"", ""id"": 729253074762665984, ""media_url"": ""http://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 135, ""id_str"": ""729373811527680001"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 18:14:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/TheFoundingSon/status/729373811527680001/photo/1"", ""display_url"": ""pic.twitter.com/9CvlwK99vr"", ""url"": ""https://t.co/9CvlwK99vr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg"", ""id_str"": ""729253074762665984"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [88, 111], ""type"": ""photo"", ""id"": 729253074762665984, ""media_url"": ""http://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:28:03 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4508630900, ""source_status_id_str"": ""729373811527680001"", ""expanded_url"": ""http://twitter.com/TheFoundingSon/status/729373811527680001/photo/1"", ""display_url"": ""pic.twitter.com/9CvlwK99vr"", ""url"": ""https://t.co/9CvlwK99vr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg"", ""source_user_id_str"": ""4508630900"", ""source_status_id"": 729373811527680001, ""id_str"": ""729253074762665984"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [108, 131], ""type"": ""photo"", ""id"": 729253074762665984, ""media_url"": ""http://pbs.twimg.com/media/Ch7TzsiXEAAAVAc.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 2343, ""description"": ""Golden State Minority 4 DTrump,  anti party Establishment"", ""friends_count"": 125, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/705617093287227392/yCNonmYa_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Kathleen Dang"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 541, ""screen_name"": ""Bkvar2"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Sep 10 22:46:00 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@PlaysTrumpCard @ChrisMorfeld @SpeakerRyan @EricCantor @pnehlen @DRJAMESCABOT Paul Nehlen has our support. No more career politicians period
+@realDonaldTrump @KathleenLong @RayBurkhart1 @chiligal47 @dragonian3333 @bfraser747 @BringtheFlag please go out 2 vote Trump.No media&amp;polls
+@Conservative_VW not exactly! ! It will be a collectible item
+@DWestsirman @realDonaldTrump @RayBurkhart1 @immigrant4trump @Gospel_is_Light US better not ban BACON in restaurants like Germany! Lame EU
+@ftvoc @bigrain @KSNNews @JoeWalsh eagles is for old old folks
+@ftvoc @bigrain @KSNNews @JoeWalsh old old band! Get Kid Rock.
+"@RayBurkhart1 @BringtheFlag @dragonian3333 @debdew2 if DT takes a low road 2 silent HRC, picks Lewinsky for a VP. War against women,Hillary?"
+"Black cadets cause West Point stir with raised fists.Traitors of West Point. Watch out,they may enlist w Isis next https://t.co/FQEJwn3rZu"
+@Goducks33David @LindaSuhler his TV show blaze sucks. Stop following him a long time ago. He's too crazy
+"@Tdc_1994 @bfraser747 yep! Who wants a pant suit woman ? She's in line with E warren, pelosi,boxer.Why are dem political women unattractive?"
+"@Repub4Democracy @LaneyCrews @BigStick2013 @MailOnline I'm glad Mexico, Saudi Arab are afraid of Trump. He doesn't play their game."
+@realDonaldTrump @dragonian3333 @BringtheFlag @watchdoggy @RayBurkhart1 I never knew smallpox could transform E Warren fr Apache 2 Viking
+"@Writeintrump 😂😂😂😂I never met a blond hair, blue eyed Cherokee or Apache. Maybe she is immune to smallpox, it transformed her entirely."
+@WillCarrFNC only cowards wear mask to conceal their face. What are they afraid off ?
+@JohnRStitesII @InkaBinka yep! It's the party of people. It's not an elite Club
+"@Socratic_Oath @realDonaldTrump @dragonian3333 @The_Trump_Train Stop paying $$$to illegals so they can head back 2 Mexico.No welfare,housing"
+@realkingrobbo @BringtheFlag @RayBurkhart1 @dragonian3333 LA sanctuary city buy backs guns fr citizens w gift cards.Leave us defenseless
+"@LynoMN @keywestcliff2 @realDonaldTrump Agreed, I hope weR not outnumbered by the left&amp;far right who oppose Trump. We'll die trying however."
+"@paxdickinson @JoeNBC nobody is listening to the corrupt media anymore. Joe,You are bought &amp;paid by Bush/Clinton"
+"Jeb Bush says he won't vote for Trump.Bush/Clinton's empire has 2 end.TheyR in control 4decades,raked in millions $$ https://t.co/6V04UWZsgS"
+@InkaBinka @BringtheFlag @RayBurkhart1 @corina6977 @debdew2 The Clinton/Bush families controlled US 20 yrs as prez&amp;not incl other positions
+@Conservative_VW @glennbeck the system is rigged like Trump said.They'll hit Trump only 4 being an outsider.so many skeletons in closets @WH
+@BobG231 @klsmith68 @warnerthuston @BreitbartNews When they get robbed. Don't show up when they call for help.
+"@sweetyw @billbong9059 @elizabethforma @realDonaldTrump Warren, u R phony Indian,career fraud politician, crooked warren. Die witch!"
+"@LynoMN @keywestcliff2 @realDonaldTrump DT may not have a chance in commie state Ca,they R rigged with illegal voters.WeRely on other states"
+"@Mrcoyote1967 @PayAttnLibs @lynn_weiser The ballots were pre printed, mine in CA still has his name also. Just choose Trump"
+@BobFritz_Pa @P0TUSTrump @JebBush The truth about Politicians! They're arrogant and sore losers
+@LaneyCrews @PaulRyan @BocaRatonRC Paul will lose your job when it's time for re election. We all took notice of you. Immigrants 4 Trump
+"Clinton supporters begin targeting top Bush donors. The bushes, clintons are the elites didn't care 4americans  https://t.co/JBMTQuVi0d"
+Snowden: Clinton 'ridiculous' to think emails were secure. a nail to clinton's prez bid  https://t.co/AE7r960HSF
+Data guru Nate Silver admits: We got Trump wrong. He's a genius whether u like him or not.His mind works differently https://t.co/oj4schOffh
+"@stevewightman1 @michaelbeatty3 I'm so sick of hearing the illegals,minority libtards demand freebies while contributed nothin'.Veterans1st!"
+"@VetsForDonald @I81Too While the illegals have government subsidized housing,welfare,free college tuition. That's wrong in many ways"
+"@LadyAodh @ThisIsWhyTrump Progressive whites kill whites who oppose them by stoking hatred, racism to get minorities 2 do their dirty work."
+"@JohnFromCranber @I81Too No cutting in line, get in line if you want us citizenship. Leave US and enter legally."
+@BradmanTV @realDrumpf this guy hates trump but uses his acct with DT's name. He can vote 4 Hillary. Immigrants 4 Trump!!
+Chagrined anti-Trump Republicans seek to recruit third-party candidate https://t.co/WneTMYrEJz Desperate action from the far right.
+Illegal immigrant numbers skyrocket at Mexican border. They come crashing in before the Walls go up. Deport illegals https://t.co/W7hAeFcYRc
+@JohnRiversToo @BluegillRises @NoRacistLogo @totemranch613 @deejayndn The transparency of the far far left
+"@SteveButcher13 @Cernovich @Bellajane127 bush, Clinton's days are way over. Stupid donors spent 100M for jeb. We can use $$$ for veterans"
+@Ziplok_ @dominos Totally! That's y we need to stop the witch of the east
+"@Ziplok_ @dominos wait until min wage is up to 15 /HR, ur pizza price will double dude"
+@herewegokids7 @michaelbeatty3 @surftheturf His arrogance annoyed me. We'll take our party to Trump. He has no party left to be in.
+"@herblady0519 @michaelbeatty3 @politico Ryan's democrat lover that hasn't come out of the closet yet. In due time, you'll see"
+@DLoesch @slone Dana go vote for Hillary so she can strip your guns off of you if you think Trump is bad.
+@AIllinoi @michaelbeatty3 @trump2016fan @DanScavino he changed his looks to look like a Muslim
+@ShennaFoxMusic @ToryAll Trump had so much experience over Hillary. 16 vs2 that she has 2 debate against &amp;still could not shake off Bernie
+@FightBackUS as to how 2 woo the minority? Rubio or Martinez to round up Hispanic population
+@FightBackUS Maybe a VP ticket ?
+Maverick Mexico governor tips Trump to win presidency. Mexico'spaying attention 2Trump.He's coming w the wall's bill https://t.co/Ky6E0tLNxs
+@Manni_syd @ToryAll Stop Killing the Americans!!!
+"@TheMattJansen @BobFritz_Pa You're Fired! IRS, EPA"
+@thehill @Barbaraafifty She will tweet saying they come out to support her from the aerial view only. She will lie like that
+@DefendingtheUSA @ftvoc @SpeakerRyan Obamas new lap dog
+"@michaelbeatty3 @realDonaldTrump @RonSantoFan @SpeakerRyan We,the people, take our party to  Trump.The Rinos will be left behind orfollow DT"
+"@ToryAll @oreillyfactor @realDonaldTrump We,as the people of America will die trying to derail the corrupt system in DC. Enough is enough"
+@RickMad @ellasgymmom never hate any pres before until this traitor showed up
+@Chris11962 @BobFritz_Pa @CBSNews there's an article says Cruz's campaign gave her campaign $500k before she dropped out.Truthcame out 2lite
+@TheVoiceOfPaulR Bernie needs a makeover look. He looks like a communist guy from a poor country.
+@Chris11962 @BobFritz_Pa @CBSNews and SHE Fell and Fail
+@hrkbenowen @LaneyCrews @Matt_Belvedere master of game plan who defies gravity to rise above all. Great strategic man.
+"@EricTrump Gates, Buffett, zuckelberg won't help the country. Your father is, that's why we trust him.I'm a legal immigrant, love capitalism"
+"@immigrant4trump @realDonaldTrump Thank you for the wonderful honest video!!!
+Pls keep it coming to inform us."
+@immigrant4trump @Glutton4Pnshmnt @BigJBeezy @AngryAmerican97 @DLoesch Great video from Ca. We maybe outnumbered but will fight4Trump
+@DonnaLedford8 @LaneyCrews @AnnaShahan start with Obama first then go down the list. He's a Muslim
+"@mrsmaryfisher @immigrant4trump they don't want 2 work, that's the bottom line. Parasites"
+"In Donald Trump’s Rise, Allies See New American Approach https://t.co/6hWFNxMo4i. Trumphenomenon is getting the Globe's attention. merica1st"
+Chick-fil-A customers respond to de Blasio's boycott request | https://t.co/AXhVkkatL9 Trump's movement? go against government's boycott CFA
+"The running boom is over, and you can blame millennials. https://t.co/KamyQLKAV0 via @WSJ
+Good until they shifted 2 more protests than work"
+House Speaker Paul Ryan says he's not ready to support Trump as nominee. Didn't Ryan rollover 2 pass Obama's budget? https://t.co/LNl27y225F
+"@EloquanVryl @expatblackcat @bfraser747 @realDonaldTrump I gave T lots of credits 4running Prez when he's 69&amp;has$$$.where R Gates,Buffett ?"
+@Boazziz @billbong9059 This lady should be on the $20 dollar bill also. Strong woman
+@people @corina6977 he's not even attractive looking! I guessed $$$ works for the mistress until now.
+@yogafied @people I'm against people who use innocent fruits as sex objects. That's so wrong &amp; sick. 😂
+@MikeTurnerLives @FoxNews @THEHermanCain @seanhannity maybe in the future Sean will run. Long wait
+@JohnRStitesII @InkaBinka we will die trying to defeat HRC &amp; her followers
+@FoxNews @philipaklein Bye bye. If they choose HRC then they were never Real republican
+"@FoxNews @DanaPerino @realDonaldTrump Hillary lied even when she got caught, she still denied. Professional liar"
+@davidjbrewer @FoxNews @THEHermanCain #hillary
+"@MikeTurnerLives @FoxNews @THEHermanCain pick the lesser of the two evil. Nobody is perfect. Pick a less corrupt,$$ hunger. You know who?HRC"
+@Glutton4Pnshmnt @billbong9059 @BigJBeezy @FightBackUS what's wrong with America?sports illustrated willhave hermaphrodite BruceJ posin nude
+@ThePatriot143 @BluegillRises They R in bed with corrupt democrats. They will fight hard 2 Keep the corruption going. No layoff for them
+So-called 'Never Trump conservatives' vow to support Clinton. Truth came out GOP in bed with dem all along  https://t.co/qj2B1LjI1P
+"@EloquanVryl @expatblackcat @bfraser747 @realDonaldTrump If we don't win, at least we die trying. DT is our last hope. No faith in GOP/dem"
+@EloquanVryl @expatblackcat @bfraser747 @realDonaldTrump Agreed! DT's movement is2 derail the corrupt sys in DC. The elites pol betrayed us
+"@EloquanVryl @expatblackcat @bfraser747 @realDonaldTrump Obama is king, Hillary is queen , the laws don't apply to them, so they think"
+@asamjulian @LaneyCrews They all lost !!shes terrified now. Can't wait 2 see her face dropped @the debate w DT. She had it easy w Bernie
+"@expatblackcat @EloquanVryl @bfraser747 @realDonaldTrump Hillary,bill is the elite, greedy,corrupt,lying couple. A disgrace couple"
+"@EloquanVryl @bfraser747 @expatblackcat @realDonaldTrump those thugs on the streets were paid for by the dems, they're Bernies supporters."
+@dawnellemurray @DianaBialkowski @Eidotheia @umpire43 I did too vote for any GOP in the past. We lost our job. Trump will be my vote.
+"@JohnKStahlUSA #gop HRc let your sons and daughters die in foreign land like Benghazi.
+She won't wake upif anyone disturbed herbeauty sleep"
+@JohnKStahlUSA send this chic to Syria please do she can create sand jobs
+"@truclear @billbong9059 thank God we have John Wayne's spirit in this country, otherwise we'll be like Europe having jihadists every where"
+@jenny_mcgirr @DianaBialkowski @dryheat115 @John_Yuma @immigrant4trump United we stand
+"@AriFleischer @navinjay trump is not the enemy. Hillary is The enemy, traitor of the country"
+"@Bobbyh214 @WestJournalism they lied to get attention,to seek sympathy. Pathetic. If they want ppl to support'em, have integrity first"
+A Woman's Anti-Millennial Rant Has Been Watched Over 40 MILLION Times https://t.co/pAT2dtFihe
+@JohnKStahlUSA bill &amp; hill is the most corrupt couple in politics
+@michaelbeatty3 @billbong9059 @realDonaldTrump brilliant idea !!!
+$900k spending on campaign combatting with over$100M in negative ads against Trump. He showed America his business skills
+@BobFritz_Pa @pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 working folks like us build America.we paid taxes
+"@BobFritz_Pa @pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 I'm not rich,not poor, not jeal of others wealth"
+@BobFritz_Pa @pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 White priv? Yay!! Only losers want 2 be poor
+@pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 @BobFritz_Pa Hillary'll wear mini skirts 2 attract male votes
+@GlennFranco68 @ImaFreespeaker he'll drive Hillaryinsane if she couldn't take Berniebefore.Guarantee she'll wear mini skirts 2 get votes
+@Bigmacblack @AuditTheMedia I pray you are right !!!
+"@mitchellvii @BluegillRises big win tonight! Marching on to Cal next, no stopping"
+@Always_Trump @TrumpFam2016 @realDonaldTrump @Nero Congrats to Indiana !
+@pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 @BobFritz_Pa Yuge Congrats to Indiana &amp; to my friends !😊
+@pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 @BobFritz_Pa U wanna B where everyobody knows your name!
+@pcgameplayer1 @corina6977 @RickMad @JudgeMoroz @warrenwarmachi1 @ChadBurns19 @BobFritz_Pa we need 2go2 Rehab after election.Ppl R tensed up
+@Conservative_VW your neighbor is peaceful and happy to be in America
+@G6throughF5 @joeinthejeep it's a jungle out there whenever you leave home.u may stumble into a jungle https://t.co/0trnbHrV1D
+"@TheColdCivilWar @G6throughF5 @andieiamwhoiam those are libtards vocabulary,they're stuck there pretty much until new hate words come along"
+"@G6throughF5 @joeinthejeep U say Hey nigga then it is racist, my nigga/yo nigga is showinglove. Gotta learn da hood lingo here."
+@joeinthejeep @G6throughF5 so it must be ok for non black ppl to call Obama nigga like Larry did? It's not a copyright word owned by blacks
+@virgiltexas @col_nj @johnnyt471 @ArRuple freedom of speech trump's sharia crap
+@virgiltexas @ArRuple @col_nj why don't you move to Syria if you love sharia law? Don't come back here ever.
+@col_nj @virgiltexas @ArRuple he's so stone out of his head. Ignore him
+"@chiligal47 @MamolkcsMamol @bluehawkenator you're right, should count my blessings for being an American."
+"@chiligal47 @MamolkcsMamol @bluehawkenator  I would blow up the men who wrapped me up in the bedsheet like that, too claustrophobic."
+"@chiligal47 @MamolkcsMamol @bluehawkenator strange culture that likes to keep women in the dark. What's the suicidal rate there, I wonder ?"
+"@chiligal47 @MamolkcsMamol @bluehawkenator that's ok,I don't want people drive on the road that have cloth cover their whole head.Dangerous"
+"@FoxNews @EricTrump Eric, your father is an unselfish billionaire. I wondered y smart ppl didn't run 4prez in the past. Now,I know it's ugly"
+@Obomination1 @BluegillRises @TXFairTaxer wait till the welfare $$ run out. All hell break loose
+"@akckhim @RebekahWorsham @BluegillRises lol, what about the arms, legs &amp; a head still in tact?"
+"@BluegillRises Hillary , Bernies must be proud! Very promising future of democrats.Who's leading after the rhinos die?whichdonors support em"
+"@BluegillRises already looking like 2x4, just saying"
+@BluegillRises where is Lgbltq group complaining or they don't read Spanish? Ignorance is a bliss in this case
+"@BluegillRises @Welshdellboy I wouldn't doubt that . Anything goes these days as long as u can speak Spanish, the gov will help"
+@Welshdellboy @BluegillRises they wondered why they couldn't do math and write proficiently
+@WinterExpert @BluegillRises @JaredWyand promising young democrats!! Hopefully they're outnumbered or US will be found on doodoo
+"@BluegillRises nice language to teach school agechildren. My young adult children don't even use the word ""bastards"" they think it's crude."
+"@PatDollard @LaneyCrews @tedcruz @CarlyFiorina saw her ex hubby's article saying she's a user, all about being in the spot light &amp; wealth"
+@faagifts @LaneyCrews @realDonaldTrump @Reince @RichardTBurnett commie state w lots of fraudvoting going on. 2many elected commies bycommies
+@Lrihendry @mitchellvii @realDonaldTrump Bono&amp;other Hollywood libtards think comic can cure Muslim'sviolent nature.Send libtards 2entertain

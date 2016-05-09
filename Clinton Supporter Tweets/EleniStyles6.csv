@@ -1,0 +1,63 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2447808295, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Boston, MA"", ""url"": ""https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""67b98f17fdcf20be"", ""name"": ""Boston, MA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/594891520022548480/f4VY1kKf_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 307, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2447808295"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @stem_network: #MilkyWay Over the #Oregon Coast! https://t.co/ymGhL0Xi3d https://t.co/rpKPkvXVlX"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729075888965439490, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2927483712, ""indices"": [3, 16], ""id_str"": ""2927483712"", ""screen_name"": ""stem_network"", ""name"": ""STEMN""}], ""hashtags"": [{""indices"": [18, 27], ""text"": ""MilkyWay""}, {""indices"": [37, 44], ""text"": ""Oregon""}], ""urls"": [{""url"": ""https://t.co/ymGhL0Xi3d"", ""indices"": [52, 75], ""expanded_url"": ""http://buff.ly/23XbHHU"", ""display_url"": ""buff.ly/23XbHHU""}], ""media"": [{""source_user_id"": 2927483712, ""source_status_id_str"": ""722672660954619904"", ""expanded_url"": ""http://twitter.com/stem_network/status/722672660954619904/photo/1"", ""display_url"": ""pic.twitter.com/rpKPkvXVlX"", ""url"": ""https://t.co/rpKPkvXVlX"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg"", ""source_user_id_str"": ""2927483712"", ""source_status_id"": 722672660954619904, ""id_str"": ""722672659880878082"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [76, 99], ""type"": ""photo"", ""id"": 722672659880878082, ""media_url"": ""http://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""729075888965439490"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""#MilkyWay Over the #Oregon Coast! https://t.co/ymGhL0Xi3d https://t.co/rpKPkvXVlX"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 722672660954619904, ""favorite_count"": 7, ""source"": ""<a href=\""http://bufferapp.com\"" rel=\""nofollow\"">Buffer</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [0, 9], ""text"": ""MilkyWay""}, {""indices"": [19, 26], ""text"": ""Oregon""}], ""urls"": [{""url"": ""https://t.co/ymGhL0Xi3d"", ""indices"": [34, 57], ""expanded_url"": ""http://buff.ly/23XbHHU"", ""display_url"": ""buff.ly/23XbHHU""}], ""media"": [{""expanded_url"": ""http://twitter.com/stem_network/status/722672660954619904/photo/1"", ""display_url"": ""pic.twitter.com/rpKPkvXVlX"", ""url"": ""https://t.co/rpKPkvXVlX"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg"", ""id_str"": ""722672659880878082"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [58, 81], ""type"": ""photo"", ""id"": 722672659880878082, ""media_url"": ""http://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""722672660954619904"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed Apr 20 06:26:03 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/stem_network/status/722672660954619904/photo/1"", ""display_url"": ""pic.twitter.com/rpKPkvXVlX"", ""url"": ""https://t.co/rpKPkvXVlX"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg"", ""id_str"": ""722672659880878082"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [58, 81], ""type"": ""photo"", ""id"": 722672659880878082, ""media_url"": ""http://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 22:30:12 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2927483712, ""source_status_id_str"": ""722672660954619904"", ""expanded_url"": ""http://twitter.com/stem_network/status/722672660954619904/photo/1"", ""display_url"": ""pic.twitter.com/rpKPkvXVlX"", ""url"": ""https://t.co/rpKPkvXVlX"", ""media_url_https"": ""https://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg"", ""source_user_id_str"": ""2927483712"", ""source_status_id"": 722672660954619904, ""id_str"": ""722672659880878082"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [76, 99], ""type"": ""photo"", ""id"": 722672659880878082, ""media_url"": ""http://pbs.twimg.com/media/Cgdy9I0WIAIneWY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 464, ""description"": ""heyy :) this is me , I am a writter at my free time and I study Law. xx"", ""friends_count"": 826, ""location"": ""Boston, MA"", ""profile_link_color"": ""B30089"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/594891520022548480/f4VY1kKf_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2447808295/1409445903"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Elena Pavlou"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 968, ""screen_name"": ""EleniStyles6"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Apr 16 18:53:32 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": ""Tijuana"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+#Playing1Dreamboy2 why is Louis naked whenever we kiss
+"#Play1Dreamboy2
+I'm playing 1Dreamboy 2 dating sim game here: https://t.co/uDecrYWty0"
+"""What Are You So Scared Of?"" on #Wattpad https://t.co/P2sj9YaErA https://t.co/EICeDmN5kw"
+Referral Code: PEZJCMASEN https://t.co/iPMEScvglj
+@onedirecifion @we1DGiveaway @plasticdale  done 💕💕
+"Want to win Win a Sacred site pilgrimage to Glastonbury with Tanishka, bes? I just entered to win and you can too. https://t.co/zhg3HGTkv3"
+I just entered to win the golden ticket for an experience of a lifetime! https://t.co/zhg3HGTkv3
+@orfray haha yeah
+FGHD #EMABiggestFans1D
+HBFG #EMABiggestFans1D
+UHGIF #EMABiggestFans1D
+HYBFYERG #EMABiggestFans1D
+JNGDK #EMABiggestFans1D
+SUYDFH #EMABiggestFans1D
+JHFUOWH #EMABiggestFans1D
+JHGB #EMABiggestFans1D
+HFGYDG #EMABiggestFans1D
+IUY7GRFHG #EMABiggestFans1D
+KJHDZFGW #EMABiggestFans1D
+XJBFGD #EMABiggestFans1D
+DEG #EMABiggestFans1D
+GHGFR #EMABiggestFans1D
+FDGER #EMABiggestFans1D
+FBDHT #EMABiggestFans1D
+FBHJ #EMABiggestFans1D
+BVCF #EMABiggestFans1D
+DGHDF #EMABiggestFans1D
+GBVND #EMABiggestFans1D
+FGD #EMABiggestFans1D
+FHF #EMABiggestFans1D
+tghh #EMABiggestFans1D
+hjffgsg #EMABiggestFans1D
+fehthe #EMABiggestFans1D
+#EMABiggestFans1D - MTV EMA | Vote - http://t.co/hlUKqKkqEe best fans
+#EMABiggestFans1D - MTV EMA | Vote - http://t.co/hlUKqKkqEe 1d
+#EMABiggestFans1D - MTV EMA | Vote - http://t.co/hlUKqKkqEe one direction
+#EMABiggestFans1D - MTV EMA | Vote - http://t.co/hlUKqKkqEe
+@zaynmalik KEEP WHAT UR DOING BEST ! X :)
+@zaynmalik zaynnn
+@zaynmalik love youuu &lt;3
+#MTVHottest One Direction 1d
+#MTVHottest One Direction
+what are you talking about ? https://t.co/K83h70Kf6M
+@NiallOfficial what decisions ?? omg Niall....
+OMG i was not expecting that either  https://t.co/u31L1SoVXj
+@zaynmalik too late bro
+First photoshoot is done &lt;3 http://t.co/HCNuLpSa0A
+@AustinMahone #PromposalMania i love you &lt;3
+"#HappyStPatricksDay 
+I wish you a day filled with barrels of beers , pots of gold and loads of happines :) http://t.co/zhmgahhQEW"
+@we1DGiveaway @LouisUniverses done &lt;3
+@we1DGiveaway please &lt;3
+@delicatelouis yeahhhh i hope for a Larry come out
+"ELEANOR AND LOUIS ""BROKE UP""? WHO SAYS? 
+https://t.co/m1a8Jr8xP9 @Louis_Tomlinson"
+@AgniPav wow
+@AgniPav vlaka
+@johnnybek18 μια χαρα σχετικοτατο ηταν
+@johnnybek18 ......................αντε διαβασε τα ανεκδοτα σου και μην μιλας χδ
+@johnnybek18 εννοειται ειμαι θεα και τα ξερω ολα χδ
+@johnnybek18 ξερεις εσυ ^^

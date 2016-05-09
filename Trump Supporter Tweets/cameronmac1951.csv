@@ -1,0 +1,79 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3025829997, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/729104143181336576/ldCd_Bf6_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2496, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3025829997"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 50, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BBCOne: Enter: @twhiddleston. #BAFTATV https://t.co/Gn7Qmcewyc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729458024457326592, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 871686942, ""indices"": [3, 10], ""id_str"": ""871686942"", ""screen_name"": ""BBCOne"", ""name"": ""BBC One""}, {""id"": 391037985, ""indices"": [19, 32], ""id_str"": ""391037985"", ""screen_name"": ""twhiddleston"", ""name"": ""Tom Hiddleston""}], ""hashtags"": [{""indices"": [34, 42], ""text"": ""BAFTATV""}], ""urls"": [], ""media"": [{""source_user_id"": 871686942, ""source_status_id_str"": ""729410282259398656"", ""expanded_url"": ""http://twitter.com/BBCOne/status/729410282259398656/photo/1"", ""display_url"": ""pic.twitter.com/Gn7Qmcewyc"", ""url"": ""https://t.co/Gn7Qmcewyc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg"", ""source_user_id_str"": ""871686942"", ""source_status_id"": 729410282259398656, ""id_str"": ""729410215347662849"", ""sizes"": {""large"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [43, 66], ""type"": ""photo"", ""id"": 729410215347662849, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 205, ""id_str"": ""729458024457326592"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Enter: @twhiddleston. #BAFTATV https://t.co/Gn7Qmcewyc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729410282259398656, ""favorite_count"": 555, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 391037985, ""indices"": [7, 20], ""id_str"": ""391037985"", ""screen_name"": ""twhiddleston"", ""name"": ""Tom Hiddleston""}], ""hashtags"": [{""indices"": [22, 30], ""text"": ""BAFTATV""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BBCOne/status/729410282259398656/photo/1"", ""display_url"": ""pic.twitter.com/Gn7Qmcewyc"", ""url"": ""https://t.co/Gn7Qmcewyc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg"", ""id_str"": ""729410215347662849"", ""sizes"": {""large"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""photo"", ""id"": 729410215347662849, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 205, ""id_str"": ""729410282259398656"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:38:57 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BBCOne/status/729410282259398656/photo/1"", ""display_url"": ""pic.twitter.com/Gn7Qmcewyc"", ""url"": ""https://t.co/Gn7Qmcewyc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg"", ""video_info"": {""aspect_ratio"": [2, 1], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Ch9iue1WsAExeyd.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729410215347662849"", ""sizes"": {""large"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""animated_gif"", ""id"": 729410215347662849, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:48:40 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 871686942, ""source_status_id_str"": ""729410282259398656"", ""expanded_url"": ""http://twitter.com/BBCOne/status/729410282259398656/photo/1"", ""display_url"": ""pic.twitter.com/Gn7Qmcewyc"", ""url"": ""https://t.co/Gn7Qmcewyc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg"", ""source_user_id_str"": ""871686942"", ""source_status_id"": 729410282259398656, ""video_info"": {""aspect_ratio"": [2, 1], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Ch9iue1WsAExeyd.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729410215347662849"", ""sizes"": {""large"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 250, ""resize"": ""fit"", ""w"": 500}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [43, 66], ""type"": ""animated_gif"", ""id"": 729410215347662849, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch9iue1WsAExeyd.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 47737, ""description"": ""West Coast :: Dead Pool : Star Trek : Prometheus ..."", ""friends_count"": 1744, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/729104143181336576/ldCd_Bf6_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3025829997/1453077956"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""JaKe...."", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 66296, ""screen_name"": ""cameronmac1951"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Feb 09 01:21:41 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@RickRWells he is not very braw looking that beak
+Tomorrows papers .full of Cameron's shit if we leave Europe ### bullshit..trying to scare ppl ..it's war if we leave Europe ..crap talk 😡😡😡
+Want more ☺️☺️☺️ #homefires
+@BAFTANY @twhiddleston @BAFTA the next bond
+@bluehand007 @andyvblue because he been a wee bad boy our Khan the man .☺️☺️☺️☺️🙀🙀🙀
+@BBCOne @LennyHenry don't know him to young ..strange ppl find him funny ..only in bed adds
+@BBCOne @BegumNadiya does she live with them now ..Nadi...can't she afford her own home
+@choare11 be worth it ☺️☺️☺️
+@AgentP22 @DAM_THE_EU daft bitch
+She is sick in the head lied to all Scottish ppl ..we will vote to leave Europe but stay in UK as one .☺️☺️☺️☺️ https://t.co/EI5LoCPYWk
+@JoeRhinobhs @DylanSixPackBoy wow and why
+@JoeRhinobhs @DylanSixPackBoy did he wear dresses
+@JoeRhinobhs @DylanSixPackBoy who
+@ILNewsFlash @TRobinsonNewEra fucking sick Moslems
+"Yes once again the sick Moslem death lover strike again 
+I wonder if wee Khan in londonstan says anything about this https://t.co/IAgHRBtMwO"
+Time to get out of Europe ..before turkey is let loose on us ..no more bloody immigrants
+It's just great ..cant wait for more #TheDurrells
+@BAFTA wtf is wolf hall never seen or heard of it
+@BBCNewsEnts more shit must just BBC tv that wins ..
+@BBCOne @bbceastenders now old Peggy coming back to die .please take your kids and the half baked cast with you to the grave .thanks 😌😌😌
+"@BBCOne @bbceastenders this shit give ppl money back 
+We have to put up with crap actors payed for nothing next will be camels"
+@Topcliffe @BBC it's far eastenders they have to keep the strange ones happy fix
+"More moslim death lovers 
+America should put them all on a island and let them starve https://t.co/XXevWsbGX6"
+@jessrainefans @BAFTA wtf is wolf hall never heard of it
+@IanWest_PA @houseoffraser @BAFTA never heard of it 😧😧😧😧😧😧😧😧
+@GBXMovement @TLiftit @TRobinsonNewEra @SadiqKhan @AdamBienkov their are to many Moslems in londonstan wee Khan can u remove some 😡😡😡😡
+@michaelkeyes @Stonewall_77 done by lovers of death ..Moslems 😞😞😞
+@col_nj @Stonewall_77 just throw out the Moslems it would be easier ..😡😡😡
+@CrusaderEnglish @TLiftit this should be banned in Britain it not our custom...move 😌😌😌😡
+Hobbits here for dinner 😌😌
+23 June vote yes for a better life .closed borders..get rid of scum and empty prisons...plenty of homes then to go around . ☺️
+@muftiullahqc your boring me now you all talk the same so just block me or I will you ..or join ur brothers in Europe .they just rape women
+@JazzTheJourno oh please go catch your bus your bloody boring now ..bye please block me ..or I will ..twat 😍😍😍😍😍😍
+@muftiullahqc man you must be stupid throwing them of buildings that must be a Moslem sex play ..get real ..don't reply u all talk same shit
+@JazzTheJourno just because you didn't get the bus ..as I thought you wouldn't ..enjoy the sunshine 😌😌😌
+@muftiullahqc oh and stop killing gays 😡😡😡
+@muftiullahqc ..me twat I wasn't born .bye 😌😌😍😍
+@paulchowdhry what a lot of pure shite jet lag my ass he got beat that's it ...simple the other guy was better 🤑
+@JazzTheJourno u back ..mate shame the bus don't go where you live ..we got private insurance.bye 😝😝😝
+@JazzTheJourno no mate ..I'm posh not down at your level and never will be ...we got to much scum here free loading...bye 😌😌😌🤗🤗🤗🤗
+Well us Christian ppl should not give any money to any Moslem country ..I won't ..let them get on with it ..😌😌😌🤑 https://t.co/nafOwyv9n5
+"All them twats from other countries hate us very much ..
+But they want to live here and bring us down to their shit  level #bbctbq..move 😡😡"
+@MarianneSansum @BreitbartLondon he will bite with them teeth or peck you with the nose 😌😌😌😌
+@BreitbartLondon @MarianneSansum man that evil look Moslems have ..and the nose ..trump will put him down ..banned from America hoot hoot 😌
+@TRobinsonNewEra oooops bang knocked out 6 round
+Pure shit McKellen Bowing to a Moslem ..haven't you seen sick pictures what they do to gay ppl ..😡around the world 😡 https://t.co/ZY7bWbj434
+@PoliticalShort @SadiqKhan WTF .does he forget what Moslems do to gays ...Mckellen  your of my list of fine actor for ever.😡😡😡
+@UKIPPOOLE didn't take long for wee Khan the man from londonstan to start on others with that big mouth of his ..Moslems do this .🙀😁😩😩😩😩😩
+It's very bad for ppl in Canada with them fires ..😫😞😞
+@KyleKalbfleisch for me Superman..Spider-Man and Star Trek...☺️
+@Daniel__Brookes Canelo won the fight knocked out Khan 6 round
+Khan goes down ..we are not invincible  #CaneloKhan
+Pure brill .☺️☺️☺️☺️ https://t.co/hiUWSYuhOF
+@KyleKalbfleisch great ..what a punch ☺️
+@81privatealexxx keep strong
+Hell no .so piss off https://t.co/N7cwKDQyFf
+@81privatealexxx be strong lots of guys out there for you ☺️☺️☺️
+Trump to win in USA ....and Europe ☺️☺️☺️
+Soon be bedtime 💤💤💤
+Pure brill  https://t.co/jRgf0Jeb91
+The old queen won't be happy with a wee Khan telling her ppl what to do .💩💩 https://t.co/lFLs7fgR8z
+Pure crap shit  https://t.co/SzCfcFtbN5
+#WhenIFellInTheShower I wanted my mummy ☺️☺️☺️
+... Love them all  #Alien
+@ScreenFormat @thehill I hope he does in the USA he will sort out them and then Europe then londonstan
+@thehill @ScreenFormat Khan the wee man has spoken with fork tongue...the one who is racist against whites
+@thehill @ScreenFormat twat trump will eat him for dinner ..
+Moslems are allowed ...brain dead lovers https://t.co/1dc3W1dG9u
+Pure crap again ..same old ... #Stormtroopers
+.... Pure brill......... #Prometheus
+Love it can't wait for the follow up ..next year .☺️☺️☺️☺️☺️☺️ #Prometheus
+@AppleNewsUK old Khan news it's Saturday
+@WeAreSTV @Beyonce WTF same old crap
+@WeAreSTV she should have got the gold buzzer not fukin stupid dancers ten a penny

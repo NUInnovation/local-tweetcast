@@ -1,0 +1,68 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4818110147, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/707404133595222017/TuQyxeAd_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1328, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4818110147"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 25, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @PDN_Spring: Which Corrupt Republican would you say this little boy grew up to be? https://t.co/NRoHIEVyLt"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729477507032952836, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3321777673, ""indices"": [3, 14], ""id_str"": ""3321777673"", ""screen_name"": ""PDN_Spring"", ""name"": ""Da Mama""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 3321777673, ""source_status_id_str"": ""729465615564464128"", ""expanded_url"": ""http://twitter.com/PDN_Spring/status/729465615564464128/photo/1"", ""display_url"": ""pic.twitter.com/NRoHIEVyLt"", ""url"": ""https://t.co/NRoHIEVyLt"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg"", ""source_user_id_str"": ""3321777673"", ""source_status_id"": 729465615564464128, ""id_str"": ""729465614566227970"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [86, 109], ""type"": ""photo"", ""id"": 729465614566227970, ""media_url"": ""http://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""729477507032952836"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Which Corrupt Republican would you say this little boy grew up to be? https://t.co/NRoHIEVyLt"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729465615564464128, ""favorite_count"": 8, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/PDN_Spring/status/729465615564464128/photo/1"", ""display_url"": ""pic.twitter.com/NRoHIEVyLt"", ""url"": ""https://t.co/NRoHIEVyLt"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg"", ""id_str"": ""729465614566227970"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [70, 93], ""type"": ""photo"", ""id"": 729465614566227970, ""media_url"": ""http://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""729465615564464128"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:18:50 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""Missouri, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-95.774704, 35.995476], [-89.098843, 35.995476], [-89.098843, 40.613641], [-95.774704, 40.613641]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""2526edd24c06e60c"", ""name"": ""Missouri""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/PDN_Spring/status/729465615564464128/photo/1"", ""display_url"": ""pic.twitter.com/NRoHIEVyLt"", ""url"": ""https://t.co/NRoHIEVyLt"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg"", ""id_str"": ""729465614566227970"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [70, 93], ""type"": ""photo"", ""id"": 729465614566227970, ""media_url"": ""http://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:06:05 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3321777673, ""source_status_id_str"": ""729465615564464128"", ""expanded_url"": ""http://twitter.com/PDN_Spring/status/729465615564464128/photo/1"", ""display_url"": ""pic.twitter.com/NRoHIEVyLt"", ""url"": ""https://t.co/NRoHIEVyLt"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg"", ""source_user_id_str"": ""3321777673"", ""source_status_id"": 729465615564464128, ""id_str"": ""729465614566227970"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [86, 109], ""type"": ""photo"", ""id"": 729465614566227970, ""media_url"": ""http://pbs.twimg.com/media/Ch-VHJAVAAIxpZi.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 8411, ""description"": """", ""friends_count"": 748, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/707404133595222017/TuQyxeAd_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4818110147/1454684995"", ""profile_background_image_url"": null, ""name"": ""Orange Conservative"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8404, ""screen_name"": ""ACommonSenseWay"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jan 16 14:01:34 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+https://t.co/5SXl67kF4Y
+Thank you! #MAGA  https://t.co/HRmgBbm0PE
+Check out the primary schedule and delegate totals - RT AND ASK ALL TO VOTE! #MAGA #VOTETRUMP https://t.co/GIbrBklUp7
+"This is legal or illegal status - not nationality, not religion - this is what it is Laws Broken! https://t.co/EvpnAvRM6k"
+@SpeakerRyan pushed Obama Trade deal (WI not liking it) and he is no Republican - look at this https://t.co/LxtYX11vwP
+Paul Ryan Likely to Push Obama Trade Deal as Speaker https://t.co/BaZhgfc7pY
+It's all a sham - all of it.  https://t.co/o206UiZRVv
+Absolutely - there is rumor Bill is sick and she will use that for sympathy - don't lamb last a guy who can't defend https://t.co/gRiZqHXall
+Shame on MSM for not investigating and exposing multiple lawsuits against Clintons!  https://t.co/UO1C58gugK
+"McCain knows what time of day it is, veteran politician! https://t.co/mMAW0Of0Vn"
+Lol https://t.co/6IjpaC7yPh
+"Did the ""Hills"" play the woman's card? https://t.co/HguOh7wXZO"
+"#CrookedHillary knew a man was guilty of raping a child, defended him and laughed about it? https://t.co/4ABVXJnpJo"
+RT because if this happens and this is used we will be ahead of it and eyes will be open to the sick game #MAGA https://t.co/xOqG9CYeW7
+The Millenia women need to see and hear about this Hillary who attacked women who her husband damaged. https://t.co/LdOXw2W0Iu
+This is a sad hit on those who sacrifice for us. #NeverHillart https://t.co/18aLeIE5iX
+Cryin Ryan :(  https://t.co/wpHSWYMYWp
+Can't imagine the honorable American Indians want her anyway https://t.co/1ONMp0Xx6q
+Yes sir @Reince you are speaking our language #NeverHillary #MAGA https://t.co/8ayripIxVx
+Yes because the rest of the world speaks Spanglish right lol? https://t.co/jOQdWYZ7hR
+@realDonaldTrump has spine of steel and he represents the PEOPLE https://t.co/wpHSWYMYWp
+Lol  https://t.co/40IYudFIIU
+Hell No Kerry https://t.co/UnkKAZOhAY
+#VoteTrump #MAGA https://t.co/jpSsHcATQF
+@RichAdams49 @FredZeppelin12 One of 15 who spoke out - Hillary worked at silencing them all - research each story https://t.co/85dweAeNo2
+Unbelievable  https://t.co/N1jZFyxtfG
+@SpeakerRyan sold his vote to highest bidder? Sure sounds like it https://t.co/ufp5JGhRUj
+"If you haven't watched this do so &amp; get it to every woman. Hillary always knew, worse she silenced Bill's victims   https://t.co/2uqAqGz5Mu"
+@greta @MullinsJodi And you are a global traveller providing exposure for those in need. thank you Greta!
+Right because London is no longer London it's more Middle Eastern than English!  https://t.co/spgMz79BEY
+Yes they support Trump because the people want it that way!  https://t.co/thXSlwLIk5
+@glennbeck Listen Up! God has words in the bible for this....beware of false messengers who come claiming my name... https://t.co/4CI8ZW6iTY
+@SpeakerRyan POLICIES SOUND LIKE #NEVERHILLARY! What is his rate for giving speeches? https://t.co/lFas3NzIGT
+@SpeakerRyan is sad because his NAFTA and his Syrian immigrants are in jeopardy.  https://t.co/lFas3NzIGT
+No doubt - the only one hurt is @SpeakerRyan (why can't he use his own name on his Twitter?) Trump crowds blossom! https://t.co/66foQfyUSs
+"@glennbeck is overweight, bloated physically, mentally, and emotionally and needs to cleanse. Maybe a good fast? sad https://t.co/4CI8ZW6iTY"
+Lol you think he feels Threatened? He is merely amused and slightly annoyed! 😂😂 https://t.co/A0YOXR4XqW
+All Asshats should stay home! https://t.co/k3jaRejUEi
+No...SHE WON'T because she has screwed the people of The United States too many times https://t.co/uOuUmpFU0g
+We hear she says it and then repeats herself - such class  https://t.co/hzUo7qRkg2
+@ThePlumbLine50 Using the same Woman's Card - albeit a stupid marketing ploy
+Happy to see @Reince supporting Trump!  https://t.co/1ifYPWdvq7
+And Warren never endorsed her ? https://t.co/rruMA0CBIc
+True it's laughable  https://t.co/STijC5XEeo
+True story https://t.co/AbSPPMdhbp
+Arghhhh  https://t.co/X0Ed9TeJ13
+Fabulous hat! https://t.co/cAqQP8HKCS
+Of course he did  https://t.co/63RSd2IxnX
+Thank you @Reince  https://t.co/5B7ubw3gDs
+Lol https://t.co/rWehLEEOQ6
+Meanwhile we have homeless and veterans needing our help - sacrilegious to do this before our own! #NEVERHILLARY https://t.co/5YNtFchzMJ
+"At the very least after SHE GAVE THEM HELL AND TAX AUDITS! This is a woman against women if it means her ""money"" https://t.co/zHlU8QjGc9"
+Yes and he has #TeamstersForTrump https://t.co/jyQUuPEKdu
+And he already has! OMG this woman doesn't care about is working  https://t.co/jyQUuPEKdu
+She flat LIED https://t.co/KiRt4RidxD
+Weak https://t.co/6EGLPXXITB
+Already: #CryinRyan  https://t.co/UMz5XUxUQe
+Calling BS on @elizabethforma She trolled her way into this spotlight - A page from Dems? Pivot &amp; blame - NOT INDIAN https://t.co/smxta5ZoUz
+Never forget Hillary LIED to the families of lost patriots.  https://t.co/eliFFE9r2i
+This will blow over MSNBC just saw Fox ratings sink - But no one should be promoting  3rd party - we call BS https://t.co/h0JvPPMOF0
+Get this on TL of all those Hillary TL of millennial women - they don't know these truths about Hillary. It's time! https://t.co/ckUsqUhGiB
+So much sensible speak - not sure GOP is mature enough  https://t.co/ZNOdvk4KSE
+Always about money another one who got rich off the people https://t.co/aEvqeSlydo
+True story - and this works https://t.co/kc0fiM117r
+@BiekerLori @steph93065 oh I totally agree
+"Laws founded on GOD We Trust, Our Judeo-Christian Republic of These United States. https://t.co/m7bKApN6m4"
+Begin EVERY @realDonaldTrump Rally with this! LISTEN and ACT with courage to take back our country! https://t.co/0anPOk7Cyr

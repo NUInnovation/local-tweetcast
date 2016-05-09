@@ -21,7 +21,11 @@ def add_to_gensim_dictionary_and_corpus(dictionary, corpus, id_to_path_dict, pat
     block_of_tweets = ''
     with open(path_to_tweets_csv) as tweetsfile:
         tweetreader = csv.reader(tweetsfile)
-        metadata = tweetreader.next()
+        try:
+            metadata = tweetreader.next()
+        # this may fall through if the CSV is empty for some reason
+        except:
+            return dictionary, corpus, id_to_path_dict
         for tweetrow in tweetreader:
             tweetstring = tweetrow[0]
             block_of_tweets += tweetstring
@@ -95,19 +99,55 @@ def test_tfidf_knn(training_set_size_fraction, k_neighbors):
     wrongcount = 0
 
     for testing_filepath in testing_set:
-        text = get_block_of_tweets(testing_filepath)
-        classification = classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict)
-        for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
-            if folder_name == testing_filepath.split('/')[0]:
-                true_candidate = candidate_handle
-        if classification == true_candidate:
+        try:
+            text = get_block_of_tweets(testing_filepath)
+            classification = classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict)
+            for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
+                if folder_name == testing_filepath.split('/')[0]:
+                    true_candidate = candidate_handle
+            if classification == true_candidate:
+                rightcount += 1
+            else:
+                wrongcount += 1
+        except:
+            # still getting empty csv errors
+            pass
+    return rightcount / float(rightcount + wrongcount)
+
+def create_svm(training_set, dictionary):
+    simple_training_vecs = [[0 for i in range(max(sorted(list(dictionary.iterkeys()))))] for trainer in training_set]
+    for i in range(len(training_set)):
+        # print dictionary.doc2bow(get_block_of_tweets(training_set[i]))
+        for word_id_count_tup in dictionary.doc2bow(get_block_of_tweets(training_set[i])):
+            # print i, word_id_count_tup[0]
+            simple_training_vecs[i][word_id_count_tup[0] - 1] = word_id_count_tup[1]
+    inv_candidate_supporter_tweets_folders = {v: k for k, v in candidate_supporter_tweets_folders.items()}
+    training_classifications = [inv_candidate_supporter_tweets_folders[trainer.split('/')[0]] for trainer in training_set]
+    clf = svm.SVC(kernel='rbf')
+    clf.fit(simple_training_vecs, training_classifications)
+    return clf
+
+def test_tfidf_svm(training_set_size_fraction):
+    testing_set, training_set = split_to_testing_and_training(training_set_size_fraction)
+    tfidf, index, dictionary, id_to_path_dict = create_tfidf(training_set)
+    # print dictionary.doc2bow(get_block_of_tweets(testing_set[0]))
+    clf = create_svm(training_set, dictionary)
+    inv_candidate_supporter_tweets_folders = {v: k for k, v in candidate_supporter_tweets_folders.items()}
+    simple_testing_vecs = [[0 for i in range(max(sorted(list(dictionary.iterkeys()))))] for tester in testing_set]
+    testing_classifications = [inv_candidate_supporter_tweets_folders[tester.split('/')[0]] for tester in testing_set]
+    for i in range(len(testing_set)):
+        for word_id_count_tup in dictionary.doc2bow(get_block_of_tweets(testing_set[i])):
+            simple_testing_vecs[i][word_id_count_tup[0] - 1] = word_id_count_tup[1]
+
+    rightcount = 0
+    wrongcount = 0
+
+    for i in range(len(testing_classifications)):
+        if clf.predict(simple_testing_vecs[i]) == testing_classifications[i]:
             rightcount += 1
         else:
             wrongcount += 1
     return rightcount / float(rightcount + wrongcount)
-
-def test_tfidf_svm(training_set_size_fraction):
-    testing_set, training_set = split_to_testing_and_training(training_set_size_fraction)
 
 def predict_candidate(blob_of_tweets, k_neighbors):
     training_set = []
@@ -128,16 +168,14 @@ def predict_candidate(blob_of_tweets, k_neighbors):
     return classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict)
 
 
-print predict_candidate('hello world woot woot hello democrat republican', 7)
-
 # testdict = {}
 # # for i in range(3, 30):
 # testdict[7] = test_tfidf(0.3, 7)
 testdict = {}
 # # for i in range(3, 30):
-testdict[7] = test_tfidf_knn(0.3, 7)
-pprint(testdict)
+testdict[7] = test_tfidf_knn(0.7, 7)
+# pprint(test_tfidf_svm(0.7))
 # testing_dict = {}
 # for kn in range(4, 18):
 #     testing_dict[kn] = test_tfidf(0.7, kn)
-# pprint(testing_dict)
+pprint(testdict)

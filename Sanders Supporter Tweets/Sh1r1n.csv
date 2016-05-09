@@ -1,0 +1,81 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""ED0562"", ""default_profile_image"": false, ""id"": 28747260, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/24812212/8335906-md.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/694758946414936064/z3m-C_hN_normal.jpg"", ""profile_sidebar_fill_color"": ""89E05E"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/DjyBMXIEDu"", ""indices"": [0, 23], ""expanded_url"": ""http://www.firstdirt.com/"", ""display_url"": ""firstdirt.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 195, ""profile_sidebar_border_color"": ""16240D"", ""id_str"": ""28747260"", ""profile_background_color"": ""1F3819"", ""listed_count"": 9, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Latinos4Bernie: Hey New Jersey! Are you ready to #FeelTheBern?! Bernie will be in town starting tomorrow! #NJPrimary https://t.co/99SEr\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729140942482116609, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3195763956, ""indices"": [3, 18], ""id_str"": ""3195763956"", ""screen_name"": ""Latinos4Bernie"", ""name"": ""Latinos for Bernie""}], ""hashtags"": [{""indices"": [53, 65], ""text"": ""FeelTheBern""}, {""indices"": [110, 120], ""text"": ""NJPrimary""}], ""urls"": [], ""media"": [{""source_user_id"": 3195763956, ""source_status_id_str"": ""729102415115345920"", ""expanded_url"": ""http://twitter.com/Latinos4Bernie/status/729102415115345920/photo/1"", ""display_url"": ""pic.twitter.com/99SErHZnyB"", ""url"": ""https://t.co/99SErHZnyB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg"", ""source_user_id_str"": ""3195763956"", ""source_status_id"": 729102415115345920, ""id_str"": ""729102407678885889"", ""sizes"": {""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 729102407678885889, ""media_url"": ""http://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 364, ""id_str"": ""729140942482116609"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Hey New Jersey! Are you ready to #FeelTheBern?! Bernie will be in town starting tomorrow! #NJPrimary https://t.co/99SErHZnyB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729102415115345920, ""favorite_count"": 342, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [33, 45], ""text"": ""FeelTheBern""}, {""indices"": [90, 100], ""text"": ""NJPrimary""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Latinos4Bernie/status/729102415115345920/photo/1"", ""display_url"": ""pic.twitter.com/99SErHZnyB"", ""url"": ""https://t.co/99SErHZnyB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg"", ""id_str"": ""729102407678885889"", ""sizes"": {""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 729102407678885889, ""media_url"": ""http://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 364, ""id_str"": ""729102415115345920"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 00:15:36 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Latinos4Bernie/status/729102415115345920/photo/1"", ""display_url"": ""pic.twitter.com/99SErHZnyB"", ""url"": ""https://t.co/99SErHZnyB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg"", ""id_str"": ""729102407678885889"", ""sizes"": {""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [101, 124], ""type"": ""photo"", ""id"": 729102407678885889, ""media_url"": ""http://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 02:48:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3195763956, ""source_status_id_str"": ""729102415115345920"", ""expanded_url"": ""http://twitter.com/Latinos4Bernie/status/729102415115345920/photo/1"", ""display_url"": ""pic.twitter.com/99SErHZnyB"", ""url"": ""https://t.co/99SErHZnyB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg"", ""source_user_id_str"": ""3195763956"", ""source_status_id"": 729102415115345920, ""id_str"": ""729102407678885889"", ""sizes"": {""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 729102407678885889, ""media_url"": ""http://pbs.twimg.com/media/Ch5Kxt6VAAEo2I-.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 11527, ""description"": ""Her smile is like a chemical extract of perfection, rare mineral."", ""friends_count"": 210, ""location"": ""NJ/NY "", ""profile_link_color"": ""F06609"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/694758946414936064/z3m-C_hN_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/28747260/1454478414"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/24812212/8335906-md.jpg"", ""name"": ""Shirin"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 392, ""screen_name"": ""Sh1r1n"", ""notifications"": false, ""url"": ""https://t.co/DjyBMXIEDu"", ""created_at"": ""Sat Apr 04 05:29:23 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+If you can please do!!!! Gotta support our boy!!! #BernieSanders  #donate #FeelTheBern #stillsanders
+"If I get ONE more ""happy cinco de mayo"" text I'm going to scream!!!!!!"
+#moneyhungry #HillaryDropOut https://t.co/QtQ9K7mbCn
+@Sairapture this isn't bs... she defended a rapist and blamed the victim for what happened.
+If this helps this is from #CNN #IMWITHHER #Forwomen #hillarydropout https://t.co/XxoT0TSOpA
+Oh so you're #withher ??? Watch this #HillaryDropOut  https://t.co/aDh7A5Fegp
+Support the rights of workers #verizonstrike
+#ImWithHer hahahaha yeah right!! Her agenda matters more than American lives #WakeUpAmerica #BernieOrBust https://t.co/gYd0UR31gk
+Open primaries are where it's at!!  #IndianaPrimary THANK YOU #FeelTheBern
+Hey are you really still #withHer ??? Just wondering #ImWithHer #StillSanders https://t.co/d2KgH4CWDs
+😔 R.I.P https://t.co/fzwL6JCbYD
+Coooooooome on #Indiana #IndianaPrimary #FeelTheBern #TioBernie
+You ought be ashamed of yourselves #Verizon #verizonstrike
+Quality vs quantity??? https://t.co/HuYGVcFXIV
+Something about being a mother ... I just love it.
+HILLARY you're a piece of work #FeelTheBern #donate #phonebank #Bernieorbust #Bernie2016 https://t.co/lcEcwY0QFg
+@Oteachjohn @JHoff484 exactly!!!!!!
+F*ck you #facebook!!!!!!! #FeelTheBern #BernieSanders #BernieOrBust
+@deBlasioNYC #democracy #comeonNY #WEWANTTOVOTE https://t.co/k439eTaIOx
+@MsRobiinson @NomikiKonst @CNN HEY @rubendiazjr you haven't done anything to change the Bronx stop lying!!!! #BX
+"Vote for Bernie and HIS DELEGATES ONLY!!!! Even if it tells you to pick an ""EXTRA"" one #NYPrimary"
+#FEELTHEBERN #Bernie2016 #BernieSanders #BernieOrBust  https://t.co/OJgWnWBdrJ
+#independents Go to your polling place and ask for a PROVISIONAL Ballot and explain you expect a favorable court ruling. #NYPrimary
+TODAY IS AN IMPORTANT DAY! GO VOTE bring as many people #Independents4Bernie  you can vote too! #NYforBernie #Bernie2016 #FeelTheBern
+Hey #NEWYORK ARE YOU GONNA STOP FIGHTING FOR BERNIE WHILE HE'S AWAY #HELLNO #FOREVERSANDERS #FEELTHEBERN https://t.co/lh8HVaxVqs
+@ThisIsFusion Bernie is a TRUE NEW YORKER!
+The chant at the end just makes my heart so happy #DemDebate #FeelTheBern #TogetherAsOne #Undios #BernieSanders https://t.co/T4xfugRt8d
+#ForeignPolicy #DemDebate #feelthebern https://t.co/OCoG95aCX0
+How about the PEOPLES VOTE?!?!? FORGET YOUR PLEDGED DELEGATES #DemDebate #FeelTheBern #BernieInNY
+So pledge delegates matter more to Hillary #notwithher #DemDebate #FeelTheBern
+I'm brown and #notwithher #FeelTheBern
+In other words we will keep creating instability around the world under my Presidency #DemDebate #HillNo #Nothankyou
+You're right he introduced a bill all while running for the Dem. Nomination #DemDebate #FeelTheBern
+Why couldn't she say that to the protestor who she kicked out #DemDebate #toolate #flipflopper #hillno
+Being smug isn't going help you Hillary  #DemDebate #FeelTheBern
+"""Legal"" or not doesn't make it right! Stop trying to police the world!! #HillNo https://t.co/BnlEfrioqn"
+#HillarySoQualified to create instability in other countries &amp; not take responsibility #hillno https://t.co/BnlEfrioqn
+@clairecmc comprising is what messed up the middle class!!!! You're on the wrong side!!!!!!!
+@paulysong You shouldn't have to defend yourself any further. Me along with others at the rally understood what you really meant!
+I love how Clinton supporters are bashing @paulysong but say nothing about how they were insulting Jane Sanders #hypocrites #neverforget
+#Chicanos4Bernie #WashingtonSquarePark #LatinosPorBernie #FeelTheBern #BernieSanders https://t.co/HvYNC1qr00
+@KillerMike hey why haven't you joined the fam up here in NYC?!?!? #FeelTheBern #ogberniesupporter
+Sooooo excited to see Bernie tomorrow!!!!! #FeelTheBern #WashingtonSquarePark #NYC #Bernie2016
+How do I always end up being the mommy who plays with everyone else's kid?!? Lol My child always has to share me
+@Outasight you come in second cause I just #FeelTheBern
+Wyoming you guys rock!!!!!!!!! #FeelTheBern
+Still awake......this insomnia wth!?!?!
+WE can't stop donating to Bernie!!!!! BIG STATES AHEAD #StillSanders #FeelTheBern #Bernie2016
+#BernieMadeMeWhite #BernieSanders #FeelTheBern #LatinosUnidos #LatinosForBernie https://t.co/zGYjHbrwc5
+#VoterSuppression #voterfraud #ArizonaPrimary  https://t.co/uLcLXo78zH
+#ArizonaPrimary #VoterSuppression #voterfraud
+"Sigh just heard about went on in Turkey, it's truly left me with a heavy heart #PrayForTurkey"
+Dear phone...I thought we were allies? Did you really just send a delayed text at 5 am originally to be sent over a week ago?!?!!!! 😖
+@USAprogression @MaxMaxsilva1946 it's nice to know when can it comes to the big show down we still stand together!
+@MaxMaxsilva1946 @USAprogression I absolutely agree!!! No matter what we gotta vote Blue our voices will not be heard other wise
+@USAprogression @MaxMaxsilva1946 Hillary could have made a difference in NY but didnt  https://t.co/vSxIRDccc1
+@USAprogression @MaxMaxsilva1946 these people were not his direct constituents but he fought for them https://t.co/QY9OitL1zJ
+@MaxMaxsilva1946 @sadybeaches nope not at all! We can discuss why or not
+@mars_vzx @DeePort28 if you can send them my way I sure as heck will!!!! I couldn't find any
+@awkturtlesteph not yet but we can change that!!!!!
+El mensaje mas importante de Bernie es #JUNTOSSIPUEDE #DemDebate #univisiondebate #Bernie2016
+To ALL MY LATINOS BROS &amp; SISTERS we gotta educate our communities about BERNIE! He is OUR Man!!! #DemDebate #univisiondebate #BernieSanders
+@politico @BernieSanders @vine because it's important!
+And unfortunately don't inform themselves aside from what they see on #univision  https://t.co/caburqM26U
+Agreed!!!!!!!!!! https://t.co/LvVfsIVJ16
+Who is Hillary kidding Bernie supporters know damn well he would never approve of a koch bros. Ad that was prob her campaign #DemDebate
+I'm so proud of Bernie no more Mr. nice guy!!! He's always been on the right side of history sorry Hillary #DemDebate #univisiondebate
+Hillary got waaaaaaaay too much time and for what?!?! She said nothing important #DemDebate #univisiondebate
+Thank you to Jorge Ramos being the ONLY moderator tonight to make sure Bernie spoke #DemDebate #univisiondebate
+Yes to our sister out in the crowd shouting #FeelTheBern #DemDebate #univisiondebate
+@dulcecandy https://t.co/pdMQpE9xzI
+#Michigan #primary  https://t.co/Wi6NaOglxL
+Gain some damn dignity #WashingtonPost #FeelTheBern
+Love NYC on beautiful days like this.
+Mis Latinos Hermanos ven ESTO!!!!! #BERNIE2016 https://t.co/pdMQpE9xzI
+how are people suppose to feel encouraged to participate when things like this stand in the way #OurRightToVote  https://t.co/3t5JwEmB81
+#KansasCaucus I thank you!!!!!!!!!! #FeelTheBern #Bernie2016
+#Joy https://t.co/XO1YPVnBd2
+"oh Hillary you just really know how to ""talk"" to people #whichhillary https://t.co/4nXjNkcmVp"
+Thank you #Oklahoma #Bernie2016

@@ -1,0 +1,73 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 181764964, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme18/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/706340172078551041/qo4SIVbc_normal.jpg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 634, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""181764964"", ""profile_background_color"": ""ACDED6"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @kanyewest: Found this in Mom's storage.  I love and miss you. https://t.co/5EYVY5HGLj"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729426926184468480, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 169686021, ""indices"": [3, 13], ""id_str"": ""169686021"", ""screen_name"": ""kanyewest"", ""name"": ""KANYE WEST""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 169686021, ""source_status_id_str"": ""729367967637458945"", ""expanded_url"": ""http://twitter.com/kanyewest/status/729367967637458945/photo/1"", ""display_url"": ""pic.twitter.com/5EYVY5HGLj"", ""url"": ""https://t.co/5EYVY5HGLj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg"", ""source_user_id_str"": ""169686021"", ""source_status_id"": 729367967637458945, ""id_str"": ""729367966983196674"", ""sizes"": {""large"": {""h"": 1280, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""photo"", ""id"": 729367966983196674, ""media_url"": ""http://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 29470, ""id_str"": ""729426926184468480"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Found this in Mom's storage.  I love and miss you. https://t.co/5EYVY5HGLj"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729367967637458945, ""favorite_count"": 103203, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/kanyewest/status/729367967637458945/photo/1"", ""display_url"": ""pic.twitter.com/5EYVY5HGLj"", ""url"": ""https://t.co/5EYVY5HGLj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg"", ""id_str"": ""729367966983196674"", ""sizes"": {""large"": {""h"": 1280, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [51, 74], ""type"": ""photo"", ""id"": 729367966983196674, ""media_url"": ""http://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 29470, ""id_str"": ""729367967637458945"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 17:50:49 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/kanyewest/status/729367967637458945/photo/1"", ""display_url"": ""pic.twitter.com/5EYVY5HGLj"", ""url"": ""https://t.co/5EYVY5HGLj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg"", ""id_str"": ""729367966983196674"", ""sizes"": {""large"": {""h"": 1280, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [51, 74], ""type"": ""photo"", ""id"": 729367966983196674, ""media_url"": ""http://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:45:05 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 169686021, ""source_status_id_str"": ""729367967637458945"", ""expanded_url"": ""http://twitter.com/kanyewest/status/729367967637458945/photo/1"", ""display_url"": ""pic.twitter.com/5EYVY5HGLj"", ""url"": ""https://t.co/5EYVY5HGLj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg"", ""source_user_id_str"": ""169686021"", ""source_status_id"": 729367967637458945, ""id_str"": ""729367966983196674"", ""sizes"": {""large"": {""h"": 1280, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [66, 89], ""type"": ""photo"", ""id"": 729367966983196674, ""media_url"": ""http://pbs.twimg.com/media/Ch88TTaVEAI7ZKV.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 19821, ""description"": ""tell me something good #karvio"", ""friends_count"": 408, ""location"": ""Los Angeles,California"", ""profile_link_color"": ""89C9FA"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/706340172078551041/qo4SIVbc_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/181764964/1462076756"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme18/bg.gif"", ""name"": ""Big Brother"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1777, ""screen_name"": ""KompAREN"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Aug 23 00:39:40 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@tavibot me last time...  https://t.co/t6t9Jj37t3
+@saadeyess they'll be at The Forum until October 1 😢
+@Cxsaur97 have fun!! 😄
+currently crying because @Cxsaur97 saw @JeffreeStar at DRAGCON 😭💖💖💖💖
+"@JJ1297_ @itsjuliemulie chill, she's only going to get mad. That's it"
+@JJ1297_ @itsjuliemulie Block her
+@JJ1297_ @itsjuliemulie she can go again with you haha
+@JJ1297_ take Julie
+"Watch ""Harvest of Empire"" and shut up everyone who gets mad on why so many Latin Americans have came to the US."
+@tavibot ihy 😂😂
+@tavibot you hurt Sarah's feelings because you did the opposite 😭
+"Yes, anyone can celebrate the success of the battle but not by appropriating my culture, then I'd stop complaining  https://t.co/VoMtU0pN1H"
+I get mad every Cinco de Mayo tbh...
+relatable  https://t.co/8QXiGKaMKE
+deactivate  https://t.co/YvCwSHXAwa
+#CincoDeMayo https://t.co/Xg7KVvuXO1
+@sebmeza_ NO 😢😢😢
+@sebmeza_ Ihy
+@sebmeza_ I'm listening to a podcast 🙃🙃🙃🙃🙃
+@sebmeza_ hang on 😩 almost
+@tavibot @tavibot
+still waiting for the proletariat revolution...
+@sebmeza_ I know that :D jk hahahah
+@sebmeza_ talking shit?
+@KompAREN  https://t.co/MqEas53fLw
+@tavibot this is why you're scared of birds.... https://t.co/MQM4thzS1L
+4 people unfollowed me // automatically checked by https://t.co/7ggM9tRVVp
+@tavibot it's cute though 😊
+@tavibot then I'll do it
+@tavibot I was going to but that's fucked up hahaha
+@tavibot https://t.co/C2WKkVR3BJ
+@sebmeza_ I LOOK DUMB 😂😂😂😂
+11 months 😭 https://t.co/RIDmIVxgTz
+@Paysoee_Da_God @tavibot I was supposed to imitate you 😊
+what better view than you? 😍 https://t.co/v6j5vFCLge
+@itsjuliemulie 😭😭😭 I haven't tweeted since
+@sebmeza_ I just remember being out of breathe for laughing so much
+@jojomoyes why did you break my heart
+@tavibot and also the sweater
+@tavibot it was about Grad Nite
+"I love how my Chicano Studies professor is ""radical"" and talks shit about capitalism in class 😊"
+"disgusting (Top L.A. County sheriff's official sent emails mocking Muslims, blacks, Latinos and women)https://t.co/KsZkHiu73x"
+@kickmekayla thanks for including RHCP 😍
+crying because this what I used to listen to 😂😂 https://t.co/rGwSG0DecK
+the last month of the semester is the worst 😩
+@tavibot 😭💖
+I started laughing so bad when @NycDragun surprised the photographer 😂😂😂😂
+@tavibot i cried... but not as much as I did for Mulan 2 😩
+@tavibot 😒
+@tavibot BLOCKED
+"just watched my first drag show, it was AMAZING"
+@tavibot shut up 😂
+@Mrs_Cr7 June 7th 😊
+"I like how they use this pic, she shows how evil she is  https://t.co/MAfdN7vzdE"
+wow @ New York
+@tavibot sorry 😚
+@ me https://t.co/0P3nziypMD
+the class I fall asleep in lmfao
+whaaaat I got a perfect on my music test
+https://t.co/UClB7dMxid 😭 #Bernie4Prez
+@tavibot https://t.co/UOW8BCwQNC
+@tavibot lmfao you're not going anywhere
+@vaniaaaa_ thanks 😊
+@tavibot this was you https://t.co/LjYlnTeyH9
+@vaniaaaa_ this sounds sooo good 😭 where did you get it?
+@tavibot yo is that Voldemort https://t.co/2H0bDmRF4x
+@tavibot 😘
+@HillaryClinton still not voting for you though 😘
+thank you @HillaryClinton 😘
+Yeaaahhhh! Women reproductive rights!!! #DemDebate
+"I am crying, Octavio told me I was glowing today. Shout out to my highlighter 💁🏻"
+Don't avoid the question #DemDebate

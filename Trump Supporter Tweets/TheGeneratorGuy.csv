@@ -1,0 +1,84 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 136963726, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/533789733/Sherrill_FJ.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/659072545912565762/oWi3RUOw_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/CBPqarrxKI"", ""indices"": [0, 23], ""expanded_url"": ""http://www.thegeneratorguy.com"", ""display_url"": ""thegeneratorguy.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1876, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""136963726"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 57, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @_Makada_: I'm voting for Donald Trump for POTUS, no more career politicians!!!#TRUMP2016 #MakeAmericaGreatAgain #TrumpTrain https://t.c\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729428049121312769, ""favorite_count"": 0, ""source"": ""<a href=\""http://www.tweetcaster.com\"" rel=\""nofollow\"">TweetCaster for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4510755552, ""indices"": [3, 12], ""id_str"": ""4510755552"", ""screen_name"": ""_Makada_"", ""name"": ""Makada""}], ""hashtags"": [{""indices"": [82, 92], ""text"": ""TRUMP2016""}, {""indices"": [93, 115], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [116, 127], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""source_user_id"": 4510755552, ""source_status_id_str"": ""728805063993462784"", ""expanded_url"": ""http://twitter.com/_Makada_/status/728805063993462784/photo/1"", ""display_url"": ""pic.twitter.com/mnNIySsbC7"", ""url"": ""https://t.co/mnNIySsbC7"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg"", ""source_user_id_str"": ""4510755552"", ""source_status_id"": 728805063993462784, ""id_str"": ""728805056145850368"", ""sizes"": {""large"": {""h"": 882, ""resize"": ""fit"", ""w"": 882}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728805056145850368, ""media_url"": ""http://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1203, ""id_str"": ""729428049121312769"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""I'm voting for Donald Trump for POTUS, no more career politicians!!!#TRUMP2016 #MakeAmericaGreatAgain #TrumpTrain https://t.co/mnNIySsbC7"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728805063993462784, ""favorite_count"": 2043, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [68, 78], ""text"": ""TRUMP2016""}, {""indices"": [79, 101], ""text"": ""MakeAmericaGreatAgain""}, {""indices"": [102, 113], ""text"": ""TrumpTrain""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/_Makada_/status/728805063993462784/photo/1"", ""display_url"": ""pic.twitter.com/mnNIySsbC7"", ""url"": ""https://t.co/mnNIySsbC7"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg"", ""id_str"": ""728805056145850368"", ""sizes"": {""large"": {""h"": 882, ""resize"": ""fit"", ""w"": 882}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 728805056145850368, ""media_url"": ""http://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1203, ""id_str"": ""728805063993462784"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 04:34:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/_Makada_/status/728805063993462784/photo/1"", ""display_url"": ""pic.twitter.com/mnNIySsbC7"", ""url"": ""https://t.co/mnNIySsbC7"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg"", ""id_str"": ""728805056145850368"", ""sizes"": {""large"": {""h"": 882, ""resize"": ""fit"", ""w"": 882}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 728805056145850368, ""media_url"": ""http://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:49:33 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4510755552, ""source_status_id_str"": ""728805063993462784"", ""expanded_url"": ""http://twitter.com/_Makada_/status/728805063993462784/photo/1"", ""display_url"": ""pic.twitter.com/mnNIySsbC7"", ""url"": ""https://t.co/mnNIySsbC7"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg"", ""source_user_id_str"": ""4510755552"", ""source_status_id"": 728805063993462784, ""id_str"": ""728805056145850368"", ""sizes"": {""large"": {""h"": 882, ""resize"": ""fit"", ""w"": 882}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728805056145850368, ""media_url"": ""http://pbs.twimg.com/media/Ch08VlIVAAA8GnU.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -18000, ""statuses_count"": 24285, ""description"": ""Owner The Generator Guy   Electrical Contractor, GE , Kohler, and Generac Generator Sales & Service.     The Generator Guy"", ""friends_count"": 1598, ""location"": ""Tulsa, Oklahoma"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/659072545912565762/oWi3RUOw_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/136963726/1457455379"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/533789733/Sherrill_FJ.jpg"", ""name"": ""Ed  Kelley"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 963, ""screen_name"": ""TheGeneratorGuy"", ""notifications"": false, ""url"": ""https://t.co/CBPqarrxKI"", ""created_at"": ""Sun Apr 25 11:41:16 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Central Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@PRyan SARAH PALIN Announces She Will Work to Defeat Paul Ryan in Primary https://t.co/udVY1aQ0sX
+You really are a dumbass"
+My daughter https://t.co/mxX8WcQ48D and loves it RT @Michel_Cendana: Audi RS5 https://t.co/XVWSfAfAxu
+"@FOX23 $30,000.00 donkey?"
+@jamesaydelott 200 ft is not longer than a football field
+@FOX23 please tell Hector that 200 ft is not longer than a football field.
+Graham is a assclown that works as Obama's Towel boy  https://t.co/Xf8qtnK0gK
+You are not a Reliable Republican  https://t.co/0fDNjP4Pn4
+Canced my trip to South Carolina I had planned . As long as @LindseyGrahamSC is their Senator I am Boycotting SC.
+It was last time RT @marymauldin: BREAKING!!! BREAKING!!! BREAKING !!! https://t.co/i2MWCnJ09W
+"No, he'll won by 22% RT @LessGovMoreFun: . New Poll --&gt; Trump up by 15 points in #Indiana
+Will this hold on Tuesday? https://t.co/r7rGGrKLRL"
+"A friend has one. RT @Conservative_VW: Dang‼️
+
+What an awesome backyard find is this😏‼️👍
+
+Wish that I found it‼️‼️ https://t.co/zg2agbirOz"
+"Flamethrower @_Teufelshunde: BREAKING: Anti-Trump Protests In MEXIFORNIA Go VIOLENT
+Protesters (cont) https://t.co/s66tNJIzpZ"
+Run over them https://t.co/LnOzTNm2wH
+Dumbass https://t.co/DBbfXLJMUV
+I like Abortions but this is funny https://t.co/v5JkePMrXh
+"Would have done it when I work at Great Lakes Carbon, Boss was a ASS https://t.co/heTE2tNK17"
+"Do something Positive today .  
+Make the World better.
+At least don't pick your Nose at red lights."
+even Monks can have a bad day https://t.co/shWaarIRc0
+"Busy day , we have had crews working all night Help Customers with all the Power Outages."
+@Dustinblack85 it our job
+@marklindesr sad you can't see
+"Woo hoo RT @KJRH2HD: Power outages:
+15,720 OG&amp;E statewide
+5,624 RURAL electric
+1,825 PSO (cont) https://t.co/XWVlula9Q6"
+@TheOrangeCone Cone Rules!
+@GrantHermesKWTV now your talking
+@LindaSuhler you need to watch tonight's NCIS new Orleans. Omg Valerie Jarret must have wrote it
+@weirdmedicine been there and done that..
+@weirdmedicine hey Doc. Hope all is well
+"@Bencampbell01 me too, Thunder Up"
+@RobManess Thank you Sir.
+"Breakfast,  how I start my day. (@ Lily's Cafe) on #Yelp https://t.co/TOHJuRZZHg"
+Late dinner with my love  (@ Rio Bravo Tex-Mex Cuisine) on #Yelp https://t.co/DnX3NfSO8U
+Chocolate Myers in the NASCAR apologist
+Paul Ryan: I'm no John Boehner @CNNPolitics https://t.co/vRq7B7gNFJ Wow youre better that a turd. woo hoo
+@MichaelSeger Our yard is a swamp
+Happy Hump Day https://t.co/qiNeQgfSoq
+"@MichaelSeger OK I know we all asked for rain last year, But you can STOP IT now."
+Spring is in the Air. https://t.co/heJCrWfhNn
+@ThatKevinSmith seeing Morris Day and the Time;  bucket list
+@AnnCoulter towel boy at a South Beach bathhouse.
+@Trucker_Keith I gained 30 after I quit. I'm 55 and getting back in shape would have been easier if I would have started sooner
+@Trucker_Keith I've lost almost 10% body fat in the last year. Do miss fried foods
+@Trucker_Keith good. G2 is a good drink too. No sugar and low carbs. Brown rice is OK rice pasta is good
+@Trucker_Keith the dew has Suger
+@RonTerrell any info on why 20+ BAPD cars went west on 51st in to Tulsa and PD still blocking some intersections?
+@jamesaydelott your power doesn't have to go out.
+@SportsCenter he would have beat Jordan if someone would have passed him the ball 1 more time
+@MichaelSeger did $100.00s of dollars damage
+RT @LamarOKC: Loving the new @okcthunder billboards! https://t.co/056SDK4d9I
+@CharisB cool
+Thats big RT @severestudios: USGS has upgraded Ecuador quake to a 7.8 mag. https://t.co/1YE63OwdPn
+"@FoxNews done , when you justify Sharpton you lose. The race baiter should be in jail"
+"Do you eat them or ?
+ https://t.co/NBbLb1Hb0J"
+Sad the people are the 1 that lose @Midgespeaks: Come on you are better than that! https://t.co/xs8yQ8Lasp
+"Of the Shoe fits stick it in their ass. @E. vilEsq: .@ColoGOP ""staffers"" should resign. https://t.co/IJAEf1kFqk"
+"Colorado CRUZ GOPe BACKFIRE ! ! ! https://t.co/2g8lceFK6F via @YouTube
+I did this 2 years ago. @GOP"
+@jamesaydelott remember to add power outages too.
+#LindseyGrahamSCDumbass Can we get this to TREND?
+"He's right. RT @FoxNews: .@davecatanese: ""I think for Sanders to say Clinton is not qualified (cont) https://t.co/lFROiyTK2w"
+"@megynkelly Your new haircut is some kind of birth control. Not attractive,"
+I'm #NeverHilary   RT @21damone: Ted Cruz must be delusional. RETWEET IF YOU ARE #NEVERCRUZ  &amp; WILL ONLY VOTE TRUMP. https://t.co/EbVLFzMHb2
+@MittRomney @Darren32895836: @Carolin17951107 @ToriDukes https://t.co/Obor5kkPlf
+"This must be why the trams shut down for 20 min RT @jacelarson: Here is a photo of Julia Price, the (cont) https://t.co/cZ55ztyHKs"
+#WalkingDead writer has a squirrel on his head
+@MichaelSeger here's a crowd pic this morning Coco beach sunrise https://t.co/GxyA8vI8u9
+@CharisB your more than a beautiful face. You are a great person. Never forget
+Check out this photo of Antojitos Authentic Mexican Food on #Yelp https://t.co/RkJad161Kj
+"This is all I need to 100% Support Mr. TRUMP
+ RT @BreitbartNews: Arianna Huffington: Trump ‘a (cont) https://t.co/v93KkaqeOe"
+@AZTrumpGirl Trump yes

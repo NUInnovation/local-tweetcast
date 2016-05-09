@@ -1,0 +1,100 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 227642288, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728040707286392833/fzaf793I_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 167, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""227642288"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 6, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WeNeedTrump: There's a reason we have laws in the USA. Illegal immigrants should be held accountable. Come the right way. #Trump https:\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729473420484808704, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3284112337, ""indices"": [3, 15], ""id_str"": ""3284112337"", ""screen_name"": ""WeNeedTrump"", ""name"": ""We Need Trump""}], ""hashtags"": [{""indices"": [126, 132], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 3284112337, ""source_status_id_str"": ""729467129012039680"", ""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""source_user_id_str"": ""3284112337"", ""source_status_id"": 729467129012039680, ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 75, ""id_str"": ""729473420484808704"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""There's a reason we have laws in the USA. Illegal immigrants should be held accountable. Come the right way. #Trump https://t.co/IcOk85vPfr"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729467129012039680, ""favorite_count"": 120, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [109, 115], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 75, ""id_str"": ""729467129012039680"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:24:51 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:49:51 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3284112337, ""source_status_id_str"": ""729467129012039680"", ""expanded_url"": ""http://twitter.com/WeNeedTrump/status/729467129012039680/photo/1"", ""display_url"": ""pic.twitter.com/IcOk85vPfr"", ""url"": ""https://t.co/IcOk85vPfr"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg"", ""source_user_id_str"": ""3284112337"", ""source_status_id"": 729467129012039680, ""id_str"": ""729467120002674688"", ""sizes"": {""large"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 403, ""resize"": ""fit"", ""w"": 403}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729467120002674688, ""media_url"": ""http://pbs.twimg.com/media/Ch-WexMWMAAfTah.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 3310, ""description"": ""Maria, a Hispanic female living in Ohio voting for Trump! I want safe borders, balanced trade, strong military, strong economy. States decide the rest!"", ""friends_count"": 125, ""location"": ""Ohio, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728040707286392833/fzaf793I_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/227642288/1461163032"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Maria Fm OH4Trump"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2622, ""screen_name"": ""StargateWindlow"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Dec 17 11:42:48 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@RobertIHuey @TheDonaldNews We're tired of their little clicks !
+#WeThePeople voted for Trump! @USAforTrump2016 Could care less about @SpeakerRyan #DumpRyan  https://t.co/o4rfNqmw5B
+@thehill extortion !!
+@TheDonaldNews https://t.co/ZtCA0kzEEf
+@FoxNewsInsider @PatMcCroryNC @FoxNewsSunday sounds like extortion!
+@thehill @USAforTrump2016 trump voters won't vote for him!
+@TeamTrumpAZ @Cynthia_Jeanne3 😂😂I stayed off FB so came to Tweeter to slam @HillaryClinton instead 😂😂
+@The_Trump_Train @maroney_casey https://t.co/iyHaHCgMxr
+@HillaryClinton your ads are backfiring! @USAforTrump2016 @GOP @politico @FoxNews @CNN @MSNBC #Hispanics4Trump  https://t.co/7fi3aSVFbb
+@USAforTrump2016 @FBI #prosecuteHillary https://t.co/KcF6j4PMU8
+@JudgeMoroz @jko417 @TheVGBlog https://t.co/NRXOHRtTnd
+@politico @HillaryClinton @GOP https://t.co/h5klkTYOsy
+@JohnKStahlUSA @AuditTheMedia https://t.co/TRF9m17zeu
+@politico #hillaryLooseCannon https://t.co/9hjAnVC9IU
+@chucktodd @NBCPolitics @realDonaldTrump securing borders is not racist.ProtectingUSA people1st thenSay wel2America https://t.co/lccSGqTc2E
+@chucktodd @NBCPolitics @realDonaldTrump securing borders is not racist it's Protecting USA people 1st then say welcome2America
+@mite72 @IngrahamAngle @HouseCracka https://t.co/DdnGJk9Y3T
+@Buc_fever @IngrahamAngle https://t.co/D3mb5AUZGH
+@Anativeamerican @IngrahamAngle @politico https://t.co/crfU4nenE8
+@SouthernJetNC @IngrahamAngle @realDonaldTrump I guess they think Trump voters will just roll over and vote4them https://t.co/K8enHhUopa
+@SouthernJetNC @IngrahamAngle @realDonaldTrump I guess they think all of Trump voters will just roll over and vote for them.
+@IngrahamAngle @politico @SpeakerRyan ENOUGH SAID!! #WeThePeople @GOP #DumpRyan https://t.co/lb7zzwO8H7
+@TheDonaldNews @realDonaldTrump RT names of ignorant fools that are too busy licking their wounds to care about USA @GOP@politico@FoxNews RT
+RT names of ignorant fools that are too busy licking their wounds to care about the USA @GOP @politico @FoxNews  https://t.co/qQEHMjgw93
+@maxlydic @Cynthia_Jeanne3 https://t.co/LT3BCqGCws
+@CNNPolitics https://t.co/HgMYV4JhbU
+@DefendingtheUSA @LindaSuhler @realDonaldTrump @crimson_i_m @politico @HillaryClinton @USAforTrump2016 https://t.co/H8MMAAkYdc
+@PamelaKealer13 @Cynthia_Jeanne3 racist @HillaryClinton 😂 #crookedHillary https://t.co/4lEsdUuc9W
+@garway95 @Cynthia_Jeanne3 https://t.co/FQrWz953si
+@immigrant4trump We 💕our VETS! @politico @gop @USAforTrump2016
+@FoxNews @MSNBC @politico @thehill OUT #dumpryan @gop https://t.co/zkD5uNQQml
+@USAforTrump2016 @politico @FoxNews @GOP @MSNBC @CNN https://t.co/drLmTUAVQB
+"Breaking: Rand Paul endorses Donald Trump, brushes off #neverTrump https://t.co/WMRVuSAGoR"
+@R_MooreW4 @Ella_Boo_Bella @mdpeace4u2 @AmyMcKe91512587 #traitorRomney Get out! https://t.co/DLFl36DbzN
+RT #WomenAgainstHillary @GOP @politico @FoxNews @msnbc @USAforTrump2016 @CNNPolitics #hispanicWomanAgainstHillary RT https://t.co/K0JummK2P9
+@keksec__org @Ella_Boo_Bella @realDonaldTrump https://t.co/Tq3gxT5GTq
+@TimRunsHisMouth @LindaSuhler glad to hear that! #dumpRyan #dumpRommey
+https://t.co/g8DeWbaW4a
+@Darren32895836 @Cynthia_Jeanne3 https://t.co/IIGnaOUFbr
+@TeamTrumpAZ @Cynthia_Jeanne3 https://t.co/R7LFknOyc2
+@WeNeedTrump Sooo ..@HillaryClinton @politico @FoxNews @CNN @MSNBC @DonaldJTrumpJr @EricTrump
+Sooo ..@HillaryClinton @politico @FoxNews @CNN @MSNBC @USAforTrump2016 @EricTrump @DonaldJTrumpJr  https://t.co/6NtDFYfFUJ
+@GStephanopoulos @ABCPolitics @realDonaldTrump @ThisWeekABC #poutyRyan #DumpRyan listen to the voters or get out!
+@UpYoursTwitr @mcarrington We want Trump to set a record nobody else will ever break. Vote!! @realDonaldTrump @DonaldJTrumpJr @EricTrump
+We want Trump to set a record nobody else will ever break. Vote!! @realDonaldTrump @DonaldJTrumpJr @EricTrump  https://t.co/ufS856KJfE
+@thehill What's good for the goose must not be good for the gander! @GOP @politico @FoxNews @CNN @MSNBC
+What's good for the goose must not be good for the gander! @GOP @politico @FoxNews @CNN @MSNBC  https://t.co/kBY3jzx06A
+@thehill @MittRomney sore loser! Your jealous slip is showing @GOP @politico @FoxNews @CNN @MSNBC
+@MittRomney sore loser! Your jealous slip is showing @GOP @politico @FoxNews @CNN @MSNBC  https://t.co/cDgB6Ltcva
+@HillaryClinton @GOP @BernieSanders @politico @FoxNews @CNN @CBSPolitics @USAforTrump2016  https://t.co/QEtT8VqWBs
+#creepyTraitorGOPRyan #dumpRyan @GOP @politico GOP needs the trump voters!Pull it together you wimp!@USAforTrump2016 https://t.co/wiAj7swypb
+@realDonaldTrump @EricTrump @DonaldJTrumpJr @GOP @politico @USAforTrump2016  https://t.co/RKgdUJeAOs
+@OnlyHotyP @Ella_Boo_Bella Bella Just brings in more votes for @USAforTrump2016 @GOP @politico  https://t.co/C1cUPQvPSF
+@OnlyHotyP @Ella_Boo_Bella Bella Just brings in more votes for @USAforTrump2016 @GOP @politico
+@thehill @MittRomney #GOPtraitorMitt  @GOP @politico #poutingMitt wants to take his ego &amp; go play somewhere else@newtgingrich @FoxNews
+@MittRomney #GOPtraitorMitt  @GOP @politico #poutingMitt wants to take his ego &amp; go play somewhere else@newtgingrich https://t.co/Je25SQWpKg
+@FoxNews @HillaryClinton #CrookedHillary traitor to America! @politico @CNNPolitics https://t.co/Dx9VfGlZyf
+@Kotcha301 @LindaSuhler Ohians for Trump!
+@gregorykorte @USATODAY otherwise Obammer will say the darnest things
+@foxnewspolitics @FoxNews https://t.co/i3UTH7cnCf
+@DanScavino @JebBush @GMA @GStephanopoulos @realDonaldTrump #careerPoliticians never keep their word! @GOP @politico https://t.co/SKoaOpOGC3
+@DanScavino @JebBush @GMA @GStephanopoulos @realDonaldTrump #careerPoliticians never keep their word! @GOP @politico
+@thehill @MittRomney traitor to the @GOP @politico @CNNPolitics @fox @CBSPolitics  https://t.co/RSPp8smS1K
+@thehill @MittRomney traitor to the @GOP @politico @CNNPolitics @fox @CBSPolitics
+@thehill https://t.co/vz7a6HyNOY
+@USAforTrump2016 @AllysiaFinley Awful article!
+@politico https://t.co/CmhE22TEZm
+@immigrant4trump https://t.co/mRXX0ZjVCI
+@doug69 @Trump2Win https://t.co/lJOM9ixRse
+#DumpRyan @SpeakerRyan @pnehlen @GOP @politico  https://t.co/wX62vMNKiB
+@politico https://t.co/IfMURf2BBm
+@debdew2 @mcarrington @realDonaldTrump @DiamondandSilk https://t.co/2YAf18xY5J
+@thehill https://t.co/3sp4VNXVoR
+@foxandfriends https://t.co/C5vEeIH6oT
+@SpeakerRyan @pnehlen @GOP @politico @CNNPolitics @FoxNews @USAforTrump2016  https://t.co/rWVRR91pHd
+"BREAKING: Trump-Hating Ryan Goes too Far, Gets Huge Bad News From Home&amp;#8230; Is He Finished? https://t.co/hWFEXRvWqd"
+@TheDonaldNews @realDonaldTrump I will donate to @GOP but only if they pull it together! Stop the BS! @Reince
+@Trump2Win @pnehlen @SpeakerRyan #DumpRyan
+@CNNPolitics tell Jed Bush to take a hike! Stop moping around. The @GOP will not stop @realDonaldTrump ! #WeThePeople havespoken @EricTrump
+@thehill NOT without out votes! @GOP @politico @FoxNews @CNNPolitics @USAforTrump2016
+@ed_hooley @GOP @FoxNews @politico @CNNPolitics @ABCPolitics @USAforTrump2016 https://t.co/sIlut94h8F
+@MSNBC @Reince @SpeakerRyan@politico #stopSlamingTrump#OurVotesMatter@GOP @politico #dumpRyan #dumpGraham @LindseyGrahamSC @PaulRyanSpeaker
+@steph93065@LindaSuhler@politico #stopSlamingTrump@politico #dumpRyan #dumpGraham @LindseyGrahamSC @PaulRyanSpeaker https://t.co/O9tF428UmP
+@politico #stopSlamingTrump #OurVotesMatter @USAforTrump2016 @GOP @politico #dumpRyan #dumpGraham @LindseyGrahamSC @PaulRyanSpeaker
+@Cynthia_Jeanne3 @BreitbartNews #stopSlamingTrump #OurVotesMatter @USAforTrump2016 @GOP @politico
+@AP #stopSlamingTrump #OurVotesMatter @USAforTrump2016 @GOP @politico
+#stopSlamingTrump #OurVotesMatter @USAforTrump2016 @GOP @politico  https://t.co/s6ImUERH63
+In denial! @thehill AwsomeBut not getting there withoutOurVotes#OurVotesMatter @USAforTrump2016@GOP@politico@FoxNews https://t.co/AHt21O87Jn
+"@thehill Awsome, but not getting there without our votes! #OurVotesMatter @USAforTrump2016 @GOP @politico @FoxNews @CNNPolitics"
+@CNNPolitics #dumpGraham @GOP @politico @FoxNews https://t.co/a6K2Hv4Ch0
+@NBCPolitics Could care less about what #Obammer thinks @USAforTrump2016 @GOP @politico @CNNPolitics @FoxNews
+@trump2016fan @Cynthia_Jeanne3 @DanScavino https://t.co/VV6I01aeRT
+@PennyHicks13 @SpeakerRyan @GOP @fireclan55 @SurfPHX @BreitbartNews https://t.co/shU7XA4nEe
+#DumpRyan @gop @politico @FoxNews @CNNPolitics  https://t.co/uE3r0dZcea
+@FoxNews this republican woman decided when I voted  @USAforTrump2016 @GOP @politico @CNNPolitics @FoxNews
+@realDonaldTrump @DonaldJTrumpJr @EricTrump @USAforTrump2016 @GOP @politico @FoxNews  https://t.co/FzyUaT12kt
+@FoxNews too late #Obammer you had your chance! There's a new sheriff in town! @USAforTrump2016 @FoxNews @AP https://t.co/4ooqFA6WKo
+@thehill #dumpObama doesn't care about #America1st @GOP @CNNPolitics @politico
+@ABCPolitics @realDonaldTrump @JTSantucci https://t.co/zhoHzc67yF

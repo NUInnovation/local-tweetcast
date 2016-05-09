@@ -1,0 +1,165 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4499581109, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721429697272254465/y7aBkwDl_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 66, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4499581109"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @NatShupe: Don't worry America, they were fully vetted by the DHS, @NSAgov, @FBI &amp; INS.\n\nLet that sink in..\n\n#WakeUpAmerica https://t.co\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729350152847118336, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 158060289, ""indices"": [3, 12], ""id_str"": ""158060289"", ""screen_name"": ""NatShupe"", ""name"": ""Nat Shupe""}, {""id"": 2248872301, ""indices"": [70, 77], ""id_str"": ""2248872301"", ""screen_name"": ""NSAGov"", ""name"": ""NSA/CSS""}, {""id"": 17629860, ""indices"": [79, 83], ""id_str"": ""17629860"", ""screen_name"": ""FBI"", ""name"": ""FBI""}], ""hashtags"": [{""indices"": [116, 130], ""text"": ""WakeUpAmerica""}], ""urls"": [], ""media"": [{""source_user_id"": 158060289, ""source_status_id_str"": ""673232812938399744"", ""expanded_url"": ""http://twitter.com/NatShupe/status/673232812938399744/photo/1"", ""display_url"": ""pic.twitter.com/3HYSzg7ot8"", ""url"": ""https://t.co/3HYSzg7ot8"", ""media_url_https"": ""https://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg"", ""source_user_id_str"": ""158060289"", ""source_status_id"": 673232812938399744, ""id_str"": ""673232810400866305"", ""sizes"": {""large"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""small"": {""h"": 305, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 673232810400866305, ""media_url"": ""http://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3901, ""id_str"": ""729350152847118336"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Don't worry America, they were fully vetted by the DHS, @NSAgov, @FBI &amp; INS.\n\nLet that sink in..\n\n#WakeUpAmerica https://t.co/3HYSzg7ot8"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 673232812938399744, ""favorite_count"": 2745, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2248872301, ""indices"": [56, 63], ""id_str"": ""2248872301"", ""screen_name"": ""NSAGov"", ""name"": ""NSA/CSS""}, {""id"": 17629860, ""indices"": [65, 69], ""id_str"": ""17629860"", ""screen_name"": ""FBI"", ""name"": ""FBI""}], ""hashtags"": [{""indices"": [102, 116], ""text"": ""WakeUpAmerica""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/NatShupe/status/673232812938399744/photo/1"", ""display_url"": ""pic.twitter.com/3HYSzg7ot8"", ""url"": ""https://t.co/3HYSzg7ot8"", ""media_url_https"": ""https://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg"", ""id_str"": ""673232810400866305"", ""sizes"": {""large"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""small"": {""h"": 305, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 673232810400866305, ""media_url"": ""http://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3901, ""id_str"": ""673232812938399744"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat Dec 05 20:09:45 +0000 2015"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""Enterprise, NV"", ""url"": ""https://api.twitter.com/1.1/geo/id/009d3c3d41dbb00e.json"", ""country"": ""United States"", ""place_type"": ""city"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-115.316075, 35.9607531], [-115.152796, 35.9607531], [-115.152796, 36.0768564], [-115.316075, 36.0768564]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""009d3c3d41dbb00e"", ""name"": ""Enterprise""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/NatShupe/status/673232812938399744/photo/1"", ""display_url"": ""pic.twitter.com/3HYSzg7ot8"", ""url"": ""https://t.co/3HYSzg7ot8"", ""media_url_https"": ""https://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg"", ""id_str"": ""673232810400866305"", ""sizes"": {""large"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""small"": {""h"": 305, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 673232810400866305, ""media_url"": ""http://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 16:40:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 158060289, ""source_status_id_str"": ""673232812938399744"", ""expanded_url"": ""http://twitter.com/NatShupe/status/673232812938399744/photo/1"", ""display_url"": ""pic.twitter.com/3HYSzg7ot8"", ""url"": ""https://t.co/3HYSzg7ot8"", ""media_url_https"": ""https://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg"", ""source_user_id_str"": ""158060289"", ""source_status_id"": 673232812938399744, ""id_str"": ""673232810400866305"", ""sizes"": {""large"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""small"": {""h"": 305, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 456, ""resize"": ""fit"", ""w"": 509}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 673232810400866305, ""media_url"": ""http://pbs.twimg.com/media/CVfNrJMU4AEqS35.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 198, ""description"": ""Retired Banker, Future Realtor. Likes working out, photography, music, church, family, community, friends. Attempts golf. #AlwaysTrump #MAGA"", ""friends_count"": 72, ""location"": ""Vero Beach, FL"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721429697272254465/y7aBkwDl_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4499581109/1460844493"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Jay"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 241, ""screen_name"": ""jayh2800"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Dec 16 05:17:51 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+🇺🇸💪🚂 #Trump2016  https://t.co/XmosM6DGvQ
+He can mind his own business and keep his mouth out of ours. #Trump2016  https://t.co/3Ip4pYMB2j
+🚫 #CrookedHiliary  https://t.co/fkOp4K0Q3u
+These people are a joke. Any elected official that backs this should be voted OUT! #Trump2016  https://t.co/Oeka8jXzao
+Put them in prison and let them work to rebuild our roads and bridges. #Trump2016  https://t.co/z2CJyvipER
+YES!!!!!   #Trump2016 🚂 https://t.co/fU092XOItK
+Everyone is beneath her! #CrookedHillary #Trump2016  https://t.co/W42Poy1J7o
+Twins! #CrookedHillary #Trump2016  https://t.co/H7aXvoAWHk
+"Bye, bye. Have a good life. #Trump2016  https://t.co/Az8IY8N5ia"
+Can you say #slickwillie?? #Trump2016  https://t.co/0fO3U0AptL
+A picture speaks a thousand words. #Trump2016  https://t.co/nzjTIYwQWX
+A friend in need is a friend indeed. #Trump2016 #maga 🇺🇸💪 https://t.co/KaKzQ7cI55
+#Trump2016 🚂 https://t.co/WCgTgVu9EE
+Same Obama strategy. #Trump2016  https://t.co/5kSvooeD3p
+Amen Doctor! #Trump2016  https://t.co/ib9CnlXwIl
+We've had enough thank you. #Trump2016  https://t.co/IJtzvWdnSv
+Bout time. #Trump2016  https://t.co/hmLpJbqFOp
+👍🇺🇸🚂 https://t.co/bHGjlgZfQj
+It will only get better. #Trump2016 🚂🇺🇸💪 https://t.co/IJQQ9VAXbK
+"Sure, I believe him. #Trump2016  https://t.co/MR5NqgCrAW"
+#Trump2016 #CrookedHillary  https://t.co/EId1FsnqIq
+#🚫3rdparty #Trump2016  https://t.co/pGp2Y0HDTz
+LMAO! #TrumpTrain  https://t.co/nP7XwrVOl4
+Excellent reading. GOP needs to listen to the people. #Trump2016  https://t.co/gcqioA6EUL
+Thank you Sheriff. #Trump2016  https://t.co/wPE5HPpr02
+Bye Bye. Who cares. The people have spoken. #🚫3rdparty #Trump2016  https://t.co/M1ztTf8QtG
+"Westmoreland, embrace Trump now, or roll out the red carpet for a President Hillary Clinton. #unitenow 
+
+ https://t.co/7kAy630DhM"
+#Trump  #🚫3rdparty https://t.co/aQFGIwnqMy
+#Trump2016 🚂 https://t.co/RKuiworVFZ
+"@dmbrocks43 
+Thank you!"
+Truth ain't bait. #Trump2016.  #media doesn't get it.  https://t.co/RFLpOrZCDX
+Great analysis. #Trump2016  https://t.co/BAS3TdNULu
+No doubt about it! #Trump2016  https://t.co/8fTANoAdBu
+#Trump2016 #TrumpTrain https://t.co/mk7exTBy3J
+Beautiful!  #Trump2016 🚂 https://t.co/7mVH24dRvL
+Congratulations Mr. President! 🚂 #Trump2016  https://t.co/kVDgPY335V
+BS! The media totally underestimates the movement that is sweeping America! 🇺🇸🇺🇸💪💪 https://t.co/GPPDDtddPL
+Yes! #Trump2016  https://t.co/hrlLvUVk7K
+"Get on the #trumptrain, or be left behind! 💪💪🇺🇸🇺🇸👍👍 https://t.co/eo5PnAAFDD"
+Yes sir!!💪💪💪🇺🇸🇺🇸🇺🇸🎉🎉 https://t.co/kEvQzNKFRn
+Yes Sir! 🇺🇸🇺🇸💪💪 https://t.co/7qlHUaPDBy
+No doubt about it. RNC get on the Trump Train! We Republicans are!!  https://t.co/DrH7ciU7nG
+Can't wait! #Trump2016 #CROOKEDCLINTON 🚂 https://t.co/VYeOg4Fis1
+#LyinTed is out!! #Trump2016 🚂 https://t.co/psg3OPHUcD
+Voters are smart. Establishment isn't. 🚂💪🇺🇸 https://t.co/NX0cxBfopX
+#Trump2016 #TrumpTrain  https://t.co/0Z9QRwsn4k
+"Trump #Trump2016 Hillary #crookedhillary, can't wait!! #TrumpTrain  https://t.co/Md5eaguK3g"
+Landside!🚂 https://t.co/tltgmjtVJX
+Is this man an American? 🇺🇸💪#Trump2016  https://t.co/zSK3ge9j37
+Respect begets Respect. #Trump2016  https://t.co/n0zK7xft3R
+Go home!! #MAGA  https://t.co/nM4eiPnyAj
+Aren't they just the perfect couple?? #badjudgement #CrookedHillary #Trump2016  https://t.co/tw4NT5aFZB
+YES!! #Trump2016  https://t.co/hCSTlcbU54
+Fantastic!! #MAGA #Trump2016 🚂 https://t.co/cR6KTdP0uf
+No surprise here!  https://t.co/E6LNe9a3Bk
+🇺🇸🇺🇸💪💪#Trump2016  https://t.co/DEHqjn1K1e
+"Absolutely, no doubt! #Trump2016 🚂 https://t.co/Xnj9Qon8SB"
+I'll NEVER forget her words! #crookedhillary #Trump2016  https://t.co/BMZxM8yk9I
+"Sound principles don""t change. #Trump2016  https://t.co/wFcAmOE8Cc"
+Sure sounds good to me! 🙏 https://t.co/YVEx80V6s2
+"@carolinagirl63 
+YES!"
+"What a joke! Why on earth would either of them do this? Maybe ""Desperation"" or ""Delusional""??!! 🚂 https://t.co/ewwox2464l"
+Bottom line. #Trump2016 🚂 https://t.co/HmYaK5M9KV
+"Full Speech: Donald Trump Holds Rally in Terre Haute, IN (5-1-16) https://t.co/tmvp4YFC3y via @YouTube"
+Super Bowl! https://t.co/iV8UhWzKpH
+#Trump2016 #TrumpTrain 🚂 https://t.co/9wr0QJm86q
+Very interesting.  https://t.co/bxhC8PiXQL
+Great!! #Trump2016  https://t.co/pO0yggKP3U
+Donald Trump Leads Ted Cruz by 15 Points in Crucial Indiana Race https://t.co/xoQKhAnvbC via @nbcnews
+Amen! 🇺🇸💪 https://t.co/QFQaFyGj8B
+This is awesome! https://t.co/mDqyiOxvky
+"Another great endorsement. We must protect and respect law enforcement, our military and our vets. #Trump2016  https://t.co/nKUgcoZPLE"
+Love Students For America!!  ❤️ #Trump2016  https://t.co/zwJVTXUapg
+Wow! This is powerful!! #Trump2016 #AmericaFirst 🇺🇸🚂 https://t.co/TsGvmwXKmQ
+"She has already deminished us is many, many ways. #CrookedHillary  https://t.co/bwkTQgR4cv"
+Here’s an interesting photo shot at the recent big Climate Control meeting in Paris. Really??!!  #Trump2016 🚂 https://t.co/2fnlBkKsiq
+Hell yes!!  #Trump2016 🇺🇸🇺🇸🚂 https://t.co/Ch9tlJyzix
+That's more like it!! #Trump2016  https://t.co/RjYXSOnpAO
+"So true! I believe her words in Congressional hearings were ""so what, four Americans were killed"". Think about it!  https://t.co/CF0PF1UsQ0"
+Oh what a cute couple. Give me a break. #Trump2016  https://t.co/SkV5NFLdIv
+Time to stand up for AMERICA! #MAGA https://t.co/VDZs9ZrcsV
+Amen. #TrumpTrain  https://t.co/LT2ooOHtTK
+"Only in politics, sadly. We, the people, have the power of the vote. #Trump2016 #eliminated Let's don't waste it!  https://t.co/AWmRcFD4aS"
+I hope and pray everyone listens to what this legendary builder of championship teams and PEOPLE says. 900 wins!  https://t.co/TfRRgT7Lcl
+This is what this is all about. Well said and totally true. #Trump2016  https://t.co/T5pQkGHVUI
+He's the joke and a bad one.  https://t.co/4HdwWEpeJr
+No kidding. Where has the media been?? https://t.co/HrHWGkPUgf
+What a joke. Maybe he should take responsibility for the harm he has done to OUR country! 🇺🇸🇺🇸#Trump2016 #TrumpTrain https://t.co/dIoZHUpTcN
+I cannot watch this embarrassment any longer.  https://t.co/Vm97nrIILm
+"Doe the word ""DUMB"" mean anything to them??!! https://t.co/aRCS9ryPLg"
+It's about time the RNC got behind Trump so we can #MAGA! https://t.co/u9qwo0kuab
+This is GREAT! #Trump2016  https://t.co/BNUPvvMSwc
+Way overdo! #Trump2016 #TrumpTrain  https://t.co/9wwBNpf2Gz
+YES! https://t.co/fCIKoNubVO
+"Will everyone please look at these people??!! Who is our government kidding??!!
+#Trump2016 #TrumpTrain  https://t.co/ZmrgX872Cg"
+"OMG. I am so sorry for your loss. God bless him. We CANNOT let him, and those that died for our Freedom, down!!  https://t.co/s3UEvGaLnr"
+Look at the expression on that girl's face!!! And his! What if that was YOUR child??!! https://t.co/kRmXczYLo5
+"Oh isn't that just wonderful??!! What the HELL is going on with our government???!!!
+#Trump2016 #BuildThatWall  https://t.co/7bahLenCE2"
+"Does the word ""LOSER"" sound about right! #Trump2016 #eliminated 💪💪🇺🇸🇺🇸 https://t.co/35QdGP0T5H"
+Eight years of his leadership along with #crookedhillary have proven that.  https://t.co/9ESXO3qwrV
+LMAO! #eliminated #Trump2016  https://t.co/0ce7A88Nsx
+Train is rolling!! #TrumpTrain #eliminated #indiana #CaliforniaPrimary  https://t.co/lGQOApiTE4
+🇺🇸💪 https://t.co/chmIOHvQb0
+#MAGA #Trump2016  https://t.co/VpqoKNk08b
+Yes we are! #IndianaPrimary #Trump2016 #TrumpTrain 🇺🇸🇺🇸💪💪 https://t.co/bqR1uXhirz
+A disgrace for our children. #Trump2016 #MAGA https://t.co/WeABFyBtyS
+That picture says it all.  https://t.co/Gl46srSxMo
+No surprise. Just took a long time to get through the wall the WH built around it to protect their sorry behinds. https://t.co/7BF3veeLhd
+Trump is our President! 🇺🇸💪 https://t.co/nOldnuyf3w
+Trump is in!! Get use to it!! https://t.co/ZMr5Q1IIa4
+Is he a clown?? https://t.co/QpiQeTSGAv
+"It will only get worse unfortunately. These people are desperate to preserve their dependent lifestyle. ""JOBS""??  https://t.co/AhC74aOWiw"
+"Liker the boxer, knock them out and there is no decision. You WIN!
+💪💪🇺🇸🇺🇸 https://t.co/xInImk99lT"
+@carolinagirl63 @jayh2800 Thank you! 😊
+"@carolinagirl63 
+Sorry for your loss. My mom had the same and died in 2013."
+You have to be kidding! https://t.co/4uHXbVCNJD
+Wow! https://t.co/xInImjRxXj
+republican delegate count - Google Search https://t.co/igwDC8FKEg
+What a joke. How stupid can they be? https://t.co/dUz8oSxzTL
+Wow! https://t.co/KwHxdRE7Wh
+Thank you Mr. President! #Trump2016  https://t.co/0yJS6hjcNI
+What a loser. You can see it in his face.  https://t.co/yj8R3c5lLJ
+You got that right https://t.co/e5PbzIs679
+Amen Bobby! You are a great man! #Trump2016 #TrumpTrain  https://t.co/JA53ZpudUe
+Beautiful! !🇺🇸🇺🇸💪💪 https://t.co/QwzTacMiEd
+"Trump is defining ""Presidential"". Isn't it about time someone does?? #Trump2016  https://t.co/DTwE2gOyfY"
+Bout time!! https://t.co/DyeMvYyHb3
+YES!! https://t.co/WvpQgh8Ms0
+#Trump2016 #TrumpTrain 🇺🇸🇺🇸💪💪 https://t.co/OaR9uPCAAM
+"LIVE Stream: Donald Trump Rally in Costa Mesa, CA (4-28-16) https://t.co/PIbBiZvkNx via @YouTube"
+You are the problem. I hope you understand that for the sake of our Country that has blessed you. Think about it.  https://t.co/zHJDwqj0Vn
+Big day for sure! #TrumpTrain #Trump2016  https://t.co/1uU6jEDXoa
+Theses people scare me with their thinking.  https://t.co/UavkHR6gYb
+That's why I'm talking about! #1237! https://t.co/YXa4rGrEZu
+YES!! https://t.co/feGyjED43c
+Absolutely correct and shamefully so.  https://t.co/jWVIPiF5oY
+Donald+Trump+and+the+Media https://t.co/ndtXUHP30n
+"Hard to imagine, and twice!! https://t.co/PaAndCogB5"
+How huge is this?? #Trump2016 is leading in Calif. by more than Cruz and Kalish  combined!! Get on the #TrumpTrain! https://t.co/hrx37e0vEW
+New bumper sticker. They're going fast! https://t.co/A8ynakDvaw
+California is HUGE! #MAGA  https://t.co/SjhvcEIEdt
+"@AnnCoulter 
+We, Individually, must be Great parents to OUR children. I have seen this displayed many times by Donald Trump."
+Amen Drill Sargent!!  💪💪 https://t.co/ezlLyt9i5z
+Inconceivable. Does this represent America?? Hell no!! https://t.co/q7gJIbne2M
+"Sure, bring them here. Are you kidding??? https://t.co/GvKWMCX6dR"
+Amen.  https://t.co/zE1IkY1Jo8
+This endorsement says it all. 💪 https://t.co/kbqwKTvtUf
+"It's about the PEOPLE! Thank God for those that stand up to US, as in ""USA""! https://t.co/HWIJnn5i5P"
+"You will kick her a--!!!!!! ""#CrookedHillary"", PERFECT!! https://t.co/wnge7Ev9Vi"
+"@KarlRove That's the past. Thank you, but move on. Our future is in jeopardy."
+https://t.co/9lnyaB5Ico via @youtube
+@DiamondandSilk
+Ronald Reagan tells joke about Democrats https://t.co/JbTE9u5zv1 via @YouTube
+More true today than ever! https://t.co/ifZ2ym6wgS
+The movement continues to grow! https://t.co/tOfjtCr3lK
