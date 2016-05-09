@@ -33,16 +33,30 @@ def hello():
             flash('Error: All the form fields are required. ') 
     return render_template('hello.html', form=form)
 
-@app.route('/results/<location>')
+@app.route('/results/<location>', methods=['GET', 'POST'])
 def results(location):
+    form = ReusableForm(request.form)
+    print(form.errors)
+    if request.method == 'POST':
+        if form.validate():
+            # Save the comment here.
+            loc= request.form['name']
+            if loc is not None:
+                return redirect(url_for('results', location=loc))
+            else:
+                flash('Please enter a valid location.')
+        else: 
+            flash('Error: All the form fields are required. ') 
+
     tweets = tw.get_tweets_from_location(api, location)
     if tweets:
         users = tw.get_users_from_tweets(api, tweets)
         if users:
             corpus = tw.get_tweets_from_users(api, users)
-            res = srch.predict_candidate(corpus, 10)
+            guess, res = srch.predict_candidate(corpus, 10)
+            res = srch.get_candidate_percentages(res)
 
-    return str("Supports:" + res + "\nTweets Used" + corpus)
+    return render_template('results.html', res=res, city=location, form=form)
 
 if __name__ == '__main__':
     app.debug = True

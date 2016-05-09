@@ -153,7 +153,47 @@ def predict_candidate(blob_of_tweets, k_neighbors):
     mode = max(set([tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]]), key=[tup[0].split('/')[0] for tup in sortedresult[:k_neighbors]].count)
     for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
         if folder_name == mode:
-            return candidate_handle
+            return candidate_handle, sortedresult
+
+def get_candidate_percentages(sortedresult):
+    x = { "CR": [0,0], "TR": [0,0], "CL": [0,0], "SA": [0,0]}
+    res = { "CR": 0, "TR": 0, "CL": 0, "SA": 0}
+    res_dem = { "Clinton": 0, "Sanders": 0}
+    res_rep = { "Cruz": 0 , "Trump": 0}
+    res_party = { "Democrat": 0, "Republican": 0 }
+    for i in sortedresult:
+        if i[0].startswith('Cruz'):
+            x["CR"][0] += 1
+            x["CR"][1] += i[1]       
+        elif i[0].startswith('Trump'):
+            x["TR"][0] += 1
+            x["TR"][1] += i[1]        
+        elif i[0].startswith('Sanders'):
+            x["SA"][0] += 1
+            x["SA"][1] += i[1]    
+        elif i[0].startswith('Clinton'):
+            x["CL"][0] += 1
+            x["CL"][1] += i[1] 
+
+    res["SA"] = x["SA"][1] / x["SA"][0]
+    res["CL"] = x["CL"][1] / x["CL"][0]
+    res["TR"] = x["TR"][1] / x["TR"][0]
+    res["CR"] = x["CR"][1] / x["CR"][0]
+    total = res["SA"] + res["CL"] + res["TR"] + res["CR"]
+    res_party["Democrat"] = (res["SA"] + res["CL"]) / total
+    res_party["Republican"] = (res["TR"] + res["CR"]) / total
+    res_dem["Clinton"] = res["CL"] / (res["CL"] + res["SA"])
+    res_dem["Sanders"] = res["SA"] / (res["CL"] + res["SA"])
+    res_rep["Trump"] = res["TR"] / (res["TR"] + res["CR"])
+    res_rep["Cruz"] = res["CR"] / (res["TR"] + res["CR"])
+
+    winners = {}
+    winners["party"] = max(res_party, key=res_party.get)
+    winners["dem"] = max(res_dem, key=res_dem.get)
+    winners["rep"] = max(res_rep, key=res_rep.get)
+
+
+    return {"res_party": res_party, "res_dem":res_dem, "res_rep":res_rep, "winners":winners}
 
 # testdict = {}
 # # for i in range(3, 30):
