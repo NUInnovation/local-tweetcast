@@ -1,0 +1,153 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 594233612, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/701289282707689472/DM8uflXl_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 5631, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""594233612"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 118, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Ricky_Vaughn99: CHUCK TODD #BTFO https://t.co/amq3CfZS8T"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729481767648890881, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2288462990, ""indices"": [3, 18], ""id_str"": ""2288462990"", ""screen_name"": ""Ricky_Vaughn99"", ""name"": ""Ricky Vaughn""}], ""hashtags"": [{""indices"": [31, 36], ""text"": ""BTFO""}], ""urls"": [], ""media"": [{""source_user_id"": 2288462990, ""source_status_id_str"": ""729425819442003969"", ""expanded_url"": ""http://twitter.com/Ricky_Vaughn99/status/729425819442003969/video/1"", ""display_url"": ""pic.twitter.com/amq3CfZS8T"", ""url"": ""https://t.co/amq3CfZS8T"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg"", ""source_user_id_str"": ""2288462990"", ""source_status_id"": 729425819442003969, ""id_str"": ""729425529435213824"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 854}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [37, 60], ""type"": ""photo"", ""id"": 729425529435213824, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 57, ""id_str"": ""729481767648890881"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""CHUCK TODD #BTFO https://t.co/amq3CfZS8T"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729425819442003969, ""favorite_count"": 102, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [11, 16], ""text"": ""BTFO""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Ricky_Vaughn99/status/729425819442003969/video/1"", ""display_url"": ""pic.twitter.com/amq3CfZS8T"", ""url"": ""https://t.co/amq3CfZS8T"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg"", ""id_str"": ""729425529435213824"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 854}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 729425529435213824, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 57, ""id_str"": ""729425819442003969"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:40:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""expanded_url"": ""http://twitter.com/Ricky_Vaughn99/status/729425819442003969/video/1"", ""display_url"": ""pic.twitter.com/amq3CfZS8T"", ""url"": ""https://t.co/amq3CfZS8T"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg"", ""video_info"": {""aspect_ratio"": [427, 240], ""duration_millis"": 30000, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/pl/OKUAIEv_uvj1xolh.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/vid/640x360/39kdKpQzpHlBVRuT.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/vid/320x180/VHkRRmlmiIHXHdjQ.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/pl/OKUAIEv_uvj1xolh.m3u8"", ""content_type"": ""application/x-mpegURL""}]}, ""id_str"": ""729425529435213824"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 854}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""video"", ""id"": 729425529435213824, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:23:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 2288462990, ""source_status_id_str"": ""729425819442003969"", ""expanded_url"": ""http://twitter.com/Ricky_Vaughn99/status/729425819442003969/video/1"", ""display_url"": ""pic.twitter.com/amq3CfZS8T"", ""url"": ""https://t.co/amq3CfZS8T"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg"", ""source_user_id_str"": ""2288462990"", ""source_status_id"": 729425819442003969, ""video_info"": {""aspect_ratio"": [427, 240], ""duration_millis"": 30000, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/pl/OKUAIEv_uvj1xolh.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/vid/640x360/39kdKpQzpHlBVRuT.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/vid/320x180/VHkRRmlmiIHXHdjQ.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/729425529435213824/pu/pl/OKUAIEv_uvj1xolh.m3u8"", ""content_type"": ""application/x-mpegURL""}]}, ""id_str"": ""729425529435213824"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 854}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [37, 60], ""type"": ""video"", ""id"": 729425529435213824, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/729425529435213824/pu/img/p-S5iQ9Ec69NYtnS.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 69575, ""description"": ""Happily married Navy wife Marine daughter Army mom REAGAN Common Sense Conservative\u2764\ufe0f Trauma Surgical Nurse. Not a liberal bone in my body #RNR #NRA #Trump2016"", ""friends_count"": 4880, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/701289282707689472/DM8uflXl_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/594233612/1449319486"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""dovorah"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 84817, ""screen_name"": ""dovorah001"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed May 30 02:44:02 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Talk about bought and paid for. She owes our enemies a lot of favors. #NeverHillary #Trump2016  https://t.co/b2PosZq0xz
+@cheaptrickone @Mich3lleGarcia @JCCentCom @BenSasse @JayCostTWS hilarious! These idiotic tactics aren't going to work CruzCult. Go home😆
+#MothersDay #MothersDayQuotes Don't you look at me with that tone of voice! https://t.co/JZgipT5OaA
+"@RealDonaldFlop @TheVoiceOfPaulR @PolitiBunny @FullbirdRight @AP4LP See? If you were a General you'd get it. Sadly, your just a troll. 😆"
+@RealDonaldFlop @TheVoiceOfPaulR @PolitiBunny @FullbirdRight @AP4LP Your not important enough in this world for full disclosure. 😆😆😆😆😆
+@RealDonaldFlop @TheVoiceOfPaulR @PolitiBunny @FullbirdRight @AP4LP why don't you go to his website and educate yourself.
+Been there. Done that. Got the T-Shirt #MothersDay https://t.co/pDUqwALVPF
+"Because #Trump has stood up for those forgotten by BOTH PARTIES, we have a obligation to get him to the WH. #MAGA  https://t.co/dO2olVU5PM"
+This lying piece of garbage.  https://t.co/SQb23sR0Fk
+@slone @gppart that's great because Cruz was never ever NEVER going to be considered for VP. Not w/a questionable birth cert😆
+@swebs if we are dependent we are controlled.
+@tonyzump it was incredible actually. Even Orlando went overwhelmingly for Trump. Quite a phenomenon.
+@tonyzump in Fla alone the majority of women voted for Trump.
+@Ricky_Vaughn99 @CraazzyKarl https://t.co/ZMUAZwggNa
+@tonyzump Hispanics loathe him. I live in Fla. They were overwhelmingly against him. Miami is where CAIR is headquartered. That's all he won
+@tonyzump I doubt he would risk losing 1/2 his base by suddenly supporting little Rubio &amp; his amnesty debacle. Even FOR the delegates.
+@pwnz0r3d @Ricky_Vaughn99 @CraazzyKarl 1/2 my family is still in Israel. I'm correct jackass. 😆
+@Ricky_Vaughn99 @CraazzyKarl the non religious probably do but true orthodox rabbis would never. The flock does what it's told.
+@Ricky_Vaughn99 @CraazzyKarl im Jewish. That's exactly how it is Ricky. Those in the Levitical tribe (rabbis) are forbidden by Torah to vote
+"@tonyzump the difference is, it's respectable disagreeing. Intelligent &amp; well thought out. That's rare. I appreciate that."
+@streetglide12 @LyndaG1963 @NekoArc @lukiOC @virleehol ROFLMAO!
+@tonyzump LOL. ❤️ I'm glad. I enjoy our differences.
+@tonyzump that can't happen. His amnesty screw up prevents him from being chosen. He's too polarizing. Could have been good tho.
+Hey @Reince Listen carefully.  https://t.co/aXAkYnZe7V
+@Ricky_Vaughn99 @CraazzyKarl FYI. Rabbis &amp; their families don't vote. It's forbidden in the Torah. Even if you're in Yeshiva you can't vote😆
+@mparkertng that was @Reince 's plan. He infected the party with liberals. It's his only success.
+What is it with Progressives &amp; killing jobs? Why don't they ever want anyone gainfully employed? #Trump2016  https://t.co/gDsf66ATJL
+@Chiefchuck24 @jko417 @CarmineZozzora @Cory_1077 @healthandcents im sure a jerk was involved. Just not a knee jerk. 🙄
+@stinnett_doug @jko417 @TheVoiceOfPaulR @CarmineZozzora @Cory_1077 even scum has standards😍
+@MuncTomm @sparksburns @LindseyGrahamSC I don't know. Fox seems to enjoy slathering us with idiots. It's their new venue
+@mitchellvii @SurfPHX I doubt he would have contained himself reading the Corker Bill!
+@streetglide12 @LyndaG1963 @NekoArc @virleehol @DDwarf51 @lukiOC because the Libatard handbook says so😳
+@SmackdownFan @NekoArc @virleehol @DDwarf51 @lukiOC even marine life gets it. Everyone gets it but her. PLANTS are male &amp; female too😂
+@Tim_Groseclose @CarmineZozzora ROFL! Sometimes more is just more. 😆😆😆😆😆😆😬😬😬😬😬
+@LaFalangeNueva @NekoArc @LyndaG1963 @virleehol @lukiOC that's what they want. They do nothing while feeling entitled to everything #Useless
+@xertx3 @TEN_GOP yes. We are happy to help you too.
+@GOPBlackChick @BreitbartNews it was so white you needed sunglasses to watch him! 😎
+@tonyzump your not snarky are you? 😆💋💋💋💋💋 Good to see you Anthony! I thought you blocked me! Haven't seen you in a while!
+Brilliant😆😆😆😆😆😆‼️ https://t.co/nHIJqvrxJc
+@LyndaG1963 @NekoArc @virleehol @DDwarf51 @lukiOC she's babbling. She has no defense. 😆😆😆
+@LaFalangeNueva @NekoArc @LyndaG1963 @virleehol @lukiOC I've never been a victim in my entire life😊
+@virleehol @NekoArc @DDwarf51 @LyndaG1963 @lukiOC Yes it does. I'm sorry that happened to you.
+@NekoArc @virleehol @DDwarf51 @LyndaG1963 @lukiOC you're boring now hon. See ya! 😆😆😆😆😆
+@NekoArc @virleehol @DDwarf51 @LyndaG1963 @lukiOC EVEN the animal kingdom understands male &amp; female. Lions don't accidentally mount males. 😆
+@NekoArc @virleehol @DDwarf51 @LyndaG1963 @lukiOC Even atheists know a penis makes you a man and a vagina makes you a female. Try again. 😆
+@orion99da @Donald4Change many people got duped by that little liberal bastard. REINCE infested the party with them.
+@LyndaG1963 @NekoArc @virleehol @lukiOC I AM a professional &amp; so is my husband. 👏🏽👏🏽👏🏽👏🏽
+@virleehol @NekoArc @DDwarf51 @LyndaG1963 @lukiOC my kids would laugh their asses off frankly. ESP if they tried to push this BS on them.
+@virleehol @DDwarf51 @NekoArc @LyndaG1963 @lukiOC just because you feel a certain way doesn't make it real. That's life.
+@virleehol @DDwarf51 @NekoArc @LyndaG1963 @lukiOC what people deserve honey bunches is TRUTH! Always TRUTH.
+@NekoArc @virleehol @DDwarf51 @LyndaG1963 @lukiOC what does deserving have to do with anything. Genetics are deaf &amp; blind.
+@DDwarf51 @NekoArc @LyndaG1963 @lukiOC @virleehol HOW DO ORGANS equate to bigotry? 😬😬 #Hilarious
+@MAGA_1958 @mavrick803 @SpeakerRyan @SenTedCruz im armed so im not worried. It's the LIBATARDS who have to fear.
+@virleehol @NekoArc @LyndaG1963 @lukiOC growing up requires knowing if your genetics get you pregnant OR make someone pregnant FIRST😆
+@NekoArc @virleehol @LyndaG1963 @lukiOC calling me a bigot doesn't change my knowledge of anatomy. Vaginas &amp; penises are always neutral.
+@virleehol @NekoArc @LyndaG1963 @lukiOC im not talking to you hon.
+The #CruzCrew #CruzCult #CruzFew are the biggest #hypocrites on earth😆 No wonder they only know EPIC LOSS‼️ #NutJobs https://t.co/KFFpJHwEbn
+"Less than 100,000 began terrorizing Germany &amp; Switzerland within the 1st 30 days of arrival &amp; she wants us UNARMED😱 https://t.co/OOIW6c2dFH"
+"@NekoArc @virleehol @LyndaG1963 @lukiOC if your brain doesn't grasp that a vagina belongs to a woman only, you absolutely are mentally ill."
+"@NekoArc @virleehol @LyndaG1963 @lukiOC um, YES. In health care we don't get to lie to folks. We need to tell you if you have a vagina 😆"
+@LyndaG1963 @NekoArc @lukiOC @virleehol but it's YOUR FAULT Lyda. You created ovaries testicles and the uterus in that lab in your garage
+@LyndaG1963 @NekoArc @lukiOC @virleehol it's not hard! 😆😆😆😆 our hormones agree.No matter how you carve the body w/o hormones you revert back
+@NekoArc @LyndaG1963 @lukiOC @virleehol the fact you believe such utter nonsense makes me fear you have a brain tumor which CAN be fixed👍🏽
+@NekoArc @LyndaG1963 @lukiOC @virleehol im not a bigot. Science is science. Intersex people still have a dominate hormone trait. Sorry. 😂
+@virleehol @NekoArc @lukiOC @LyndaG1963 it's not even average. It's anatomy &amp; physiology. It's like arguing your dog could be a butterfly😂
+@LyndaG1963 @NekoArc @lukiOC @virleehol @a219224 @GoalieBill328 @sawmilltaters No! Please! Let them be! They are comedic relief! 😂😂😊
+@NekoArc @lukiOC @virleehol @LyndaG1963 UM. Yes they do. Even hermaphrodites have a specific genital configuration. Take anatomy. 😆
+Dear CruzBots. Im NOT a CRUZBOT. Even if I was I wouldnt be NOW b/c Cruz lost😊He's a loser😋He was born a loser😊STOP following me#BlessYour❤️
+🔥🔥BOOM🔥🔥 https://t.co/hldEwpJ1bM
+"@heavenlyitalian @realDonaldTrump we pick ourselves up, thank God for the life lessons and press onward. Dust shakes off easily. ❤️🇺🇸❤️"
+@LyndaG1963 @NekoArc @lukiOC @virleehol @a219224 @GoalieBill328 @sawmilltaters It's YOUR fault Lynda that a penis makes a man a man😂
+@NekoArc @lukiOC @virleehol @LyndaG1963  The penis &amp; vagina identifying gender has been around LONG before political parties hon😆
+@CLIFFBELL888 @keywestcliff2 @mitchellvii @republic2016 @adam041590 @Women4Trump @fooschamp95 I wanted to forget that. Thanks so much😁
+@heavenlyitalian that's true too but everybody knows that. 😆😆😆😆
+#Hillary @SpeakerRyan &amp; @SenTedCruz have 1 thing in common. They have no problem forcing us to be their neighbors.  https://t.co/UwpKxizhI6
+Why does the @GOP @Reince &amp; the @FoxNews pundits want us to rally around failed human beings?  https://t.co/ck5MT99IWs
+There's irrelevant and then there is Ben Shapiro. He's perfect t for Fox now. Zero integrity.  https://t.co/XC1HGwdVIB
+@mitchellvii @benshapiro I hope Michelle Fields was worth it. 😏
+@mitchellvii @republic2016 @adam041590 @Women4Trump @fooschamp95 Cruz discussed Jefferson &amp; Washington more often than he discussed policy😁
+"#Trump has already unified the @GOP. Rather than applaud that, they spit in our faces. How sad. #Trump2016 https://t.co/peQ8WduK7D"
+@richg4021 @THExTRUMPxTRAIN well said.
+Listen to Rich! 👍🏽 https://t.co/z51HiRRpPM
+That's about right. 😆 https://t.co/er1bk4Nh2c
+@michaelkeyes 👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽
+@CabinGirl822 @Campaign_Trump @Rockprincess818 @Got2bTrump @PatriotByGod @heavenlyitalian thanks for the heads up.
+Beautifully said.  https://t.co/iVnvjpoWwb
+Not for long.  https://t.co/6tE5pJzChN
+"@SpeakerRyan It doesn't say, We The Delegates or We The Donor Class. Only a traitor doesn't know that. #FireRyan  https://t.co/SbJYNNacnX"
+@wingsnhooves @JudgeMoroz @realDonaldTrump @GOP actually it's pathetic. Not sure what's in your H20 bottles but it's giving you delusions😆
+God bless our warriors! You are the best of us all. #MAGA  https://t.co/opDK8kbpxL
+You can't vote away the Syrian refugees once they are here. Wake up! Last call for sovereignty. #Trump2016  https://t.co/ijpRq7RwXM
+"@Women4Trump @IrishRose23525 @IngrahamAngle the woman is only ""nice"" on camera. She's a pit bull behind the scene."
+@bad_robot_57 @EvelynGarone absolute fact👍🏽
+We can't WAIT to see your record turn out #WestVirginiaPrimary We are praying for your jobs to come back ❤️🙏🏼❤️ https://t.co/c3oinTOz34
+It's stunning how many people wish communism upon us. #WakeUpAmerica Last chance to take your country BACK🇺🇸 #Trump https://t.co/Psvtt2hSwJ
+Always trust a man with tattoos on two wheels. They will defend you to the death.  https://t.co/m4I15YBYuo
+Not for long.  https://t.co/J1r1dkmNRF
+@MissLizzyNJ @EvelynGarone @Sanjay25_ the parties have abandoned everyday working America. #Trump represents US not a good old boys club.
+@ritewords @drewwyatt I can't wait until the stench is removed from Washington.
+@ritewords that's the compliment of my life. Thank you! You are too my friend.
+@Women4Trump @IngrahamAngle @realDonaldTrump me too. Things I didn't want to see. I'm grateful for that. But I think Condi will be neutral
+Why do the @FoxNews stock holders think we give a CRaP what they have to say? #Trump2016 #MAGA  https://t.co/xQXZ0LIoCU
+@JudgeMoroz @realDonaldTrump @GOP @wingsnhooves Cruz lost by MILLIONS upon MILLIONS. Not even common core math could save him.
+#WomenForTrump 🌺 #TRUMPettes 🎺#LadiesForTrump 💅🏽 Strong independent  women support him. AND we are always right😊 https://t.co/R1W8DfolEu
+@WayneDupreeShow @joegooding i don't think Putin would do that to #Trump. Putin enjoys disrespecting Obama. He's weak to him.
+@Women4Trump @IngrahamAngle @realDonaldTrump she did a lot more than support a war. She kept the animals in check. Know what I mean?
+@Women4Trump @IngrahamAngle @realDonaldTrump we will see. Frankly Condi would be the best thing to happen to him. She's an amazing woman
+@777Francejacque @WhiteTricks that's usually what it takes.
+@TakeSTLBack @hanin03 @HitmanStan The Republicans enabled  the Dems. They are equally to blame.
+@alaskanikaika @PhdFor @realDonaldTrump @BarbMuenchen @mountaingyrl99 these are debase people. Nothing should surprise you b
+@RealRickyVaughn @PennyHicks13 @HillaryClinton ask Carly &amp; Nikky Haley. They seem to embrace losers and like it.
+@Women4Trump @IngrahamAngle @realDonaldTrump that was 2007. Im not sure with what he knows now if that would be his position. TY for this❤️
+@Women4Trump @IngrahamAngle @realDonaldTrump OOOHHH. I wasn't aware of that. Thank you for the feedback!
+@777Francejacque @WhiteTricks the Church is standing behind #Trump. Eyes are finally wide open.
+The RNC/DNC need us to hate each other. We are just demographics to them. #Trump tears down those walls.  https://t.co/SbHLWwSWJ0
+@TheVoiceOfPaulR @MaxBoot @latimes no lifelong republican would wish communism on America b/c their Earth-Christ was rejected by the masses😂
+@Women4Trump @IngrahamAngle @realDonaldTrump Condi was the best thing to step into Washington in 40 years.
+@Women4Trump @IngrahamAngle @realDonaldTrump No. He's never blasted her. No one would. She's the most feared woman the MidEast ever knew
+@IngrahamAngle @realDonaldTrump She won't. She has too much class. She also knows the threats we face w/o borders &amp; a nuclear Iran.
+I'm sorry. We DONT live in a BORDERLESS WORLD you insolent FUCK! And you WONT succeed in tearing down ours. #Asshole https://t.co/3ym27Fp0Fc
+@Jnetab @Trumpforpotus16 Lindsey is simply a douche NOZZEL.
+@Trumpforpotus16 @Jnetab ROFL!
+@KamVTV @politico Let's pray the delegates have a moral compass.
+Dear @FoxNews pundits @SpeakerRyan CONSERVATIVES expresses RAGE over the loss of this woman's child😡 #Trump2016  https://t.co/Anncbqv1hG
+@Trumpforpotus16 thank you. I didn't think it was human.
+@cleotiger17 @UrbanMarine1 @jko417 Not ewwww. Nothing sexier than a armed woman and the smell of men covered in lead &amp; sweat. 😍
+@TBradleyNC @philmonaco67 CRUZ voted to FUND Ocare! Don't forget to include that little weasel😡 https://t.co/qJDTMWenqK
+"Hey @gop pundits @SpeakerRyan @ORiellyFactor ""Presidential"" is the tone #Trump takes when he stands for them first. https://t.co/VI8nAjXJvj"
+@UrbanMarine1 @cleotiger17 @jko417  muzzies are going 2 be REAL SHOCKED when they see WOMEN picking them off like rats w/o breaking a nail💅🏽
+🇺🇸 Semper Fi 🇺🇸 https://t.co/0JpdQe6idV
+Every word out of #Trumps mouth is presidential. We've had enough suck ups in office  https://t.co/SpEPjkqggU
+@777Francejacque @WhiteTricks and she used that testosterone to attack school lunches NOT Isis. What a waste of a dick.
+@777Francejacque @WhiteTricks our dictator and chief
+@fixerofthings @BreitbartNews I know that. You know that. They don't know that😆 #CuckIssues
+👇🏽 I believe him👍🏽 Just WATCH😎 #MAGA  https://t.co/e2O6ILp9Vo
+@mycotropic what country to you live in? We have 19 Trillion in dept. He's waged 4 wars &amp; lost &amp; unemployment is worse than when Carter sat
+@lorettatheprole @gabeschoenfeld Clinton was promised her sec of state position to drop out. She handed him the WH as much as Mitt did.
+@lorettatheprole @gabeschoenfeld Obama got in b/c NO ONE wanted the 1st 1/2 black POTUS to serve 1 term. It would have been rude.
+@lorettatheprole @gabeschoenfeld I agree. Clintons numbers are fabricated bullshit. She's the weakest DNC candidate in history.
+"When Mexico deports more folks than we do, it's time for #Trump. Let's stop the BS already. https://t.co/5nBuU2zSdW"
+Fuck you @BillKristol. After this election you'll finally be irrelevant.  https://t.co/6I72eVTk8u
+@Patrici15767099 I just want to call him Traitor. 😡
+@Patrici15767099 @Jst1tC @alta247 @TrueKoranist the Cruz cult flaps it mouth while forgetting to mention Cruz voted WITH the DNC on It ALL
+@Patrici15767099 @Jst1tC @alta247 @TrueKoranist NONE of them were conservs😡 TPA Ocare Corker &amp; NOT auditing the Fed is what we wanted.
+@WhiteTricks @777Francejacque he has a vagina. Why would he need them? 😆
+@JohnTDolan @Lrihendry @surfermom77 @LeahR77 @MiceeMouse @steph93065 that's beautiful.
+@12voltman60 @JangoBear @jimlibertarian @mavrick803 @TFHClovesbacon they are scripted attacks. Throw facts at them &amp; they cower.
+@MiceeMouse https://t.co/kZi0HZY0aC
+@MiceeMouse AAAaAHHHHHH😫😫😫😫😫😫😫😫😫 MY EYES‼️‼️‼️‼️‼️‼️
+@Jm0712Penny @SchoolerLA yes. My bible tells me judge not lest you be judged. His clearly blessed of the Lord. Unlike you loserCruz cultists
+@wro1111 @hebo1310 thank you. Live long and prosper!😆🖖🏽
+@wro1111 @hebo1310 IM a better person now.

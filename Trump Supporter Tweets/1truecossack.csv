@@ -1,0 +1,69 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 717811526208331776, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/726269511872061440/fjotMZAM_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 171, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""717811526208331776"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @USNavy: RT to thank our #USNavy moms serving on the front lines and the home front. Happy #MothersDay! https://t.co/Rf5APAcuXB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729466749188460544, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 54885400, ""indices"": [3, 10], ""id_str"": ""54885400"", ""screen_name"": ""USNavy"", ""name"": ""U.S. Navy""}], ""hashtags"": [{""indices"": [28, 35], ""text"": ""USNavy""}, {""indices"": [94, 105], ""text"": ""MothersDay""}], ""urls"": [], ""media"": [{""source_user_id"": 54885400, ""source_status_id_str"": ""729312729115308032"", ""expanded_url"": ""http://twitter.com/USNavy/status/729312729115308032/photo/1"", ""display_url"": ""pic.twitter.com/Rf5APAcuXB"", ""url"": ""https://t.co/Rf5APAcuXB"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg"", ""source_user_id_str"": ""54885400"", ""source_status_id"": 729312729115308032, ""id_str"": ""729312594234900480"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""medium"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [107, 130], ""type"": ""photo"", ""id"": 729312594234900480, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 254, ""id_str"": ""729466749188460544"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT to thank our #USNavy moms serving on the front lines and the home front. Happy #MothersDay! https://t.co/Rf5APAcuXB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729312729115308032, ""favorite_count"": 405, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [16, 23], ""text"": ""USNavy""}, {""indices"": [82, 93], ""text"": ""MothersDay""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/USNavy/status/729312729115308032/photo/1"", ""display_url"": ""pic.twitter.com/Rf5APAcuXB"", ""url"": ""https://t.co/Rf5APAcuXB"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg"", ""id_str"": ""729312594234900480"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""medium"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""photo"", ""id"": 729312594234900480, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 254, ""id_str"": ""729312729115308032"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 14:11:19 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/USNavy/status/729312729115308032/photo/1"", ""display_url"": ""pic.twitter.com/Rf5APAcuXB"", ""url"": ""https://t.co/Rf5APAcuXB"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg"", ""video_info"": {""aspect_ratio"": [32, 21], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Ch8J8L2XAAAz-wA.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729312594234900480"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""medium"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [95, 118], ""type"": ""animated_gif"", ""id"": 729312594234900480, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:23:20 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 54885400, ""source_status_id_str"": ""729312729115308032"", ""expanded_url"": ""http://twitter.com/USNavy/status/729312729115308032/photo/1"", ""display_url"": ""pic.twitter.com/Rf5APAcuXB"", ""url"": ""https://t.co/Rf5APAcuXB"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg"", ""source_user_id_str"": ""54885400"", ""source_status_id"": 729312729115308032, ""video_info"": {""aspect_ratio"": [32, 21], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/Ch8J8L2XAAAz-wA.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""729312594234900480"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""medium"": {""h"": 252, ""resize"": ""fit"", ""w"": 384}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [107, 130], ""type"": ""animated_gif"", ""id"": 729312594234900480, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/Ch8J8L2XAAAz-wA.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 107, ""description"": ""loves----my family,nature,fishing,,bowhunting. ....likes----honesty,no matter how much it can hurt sometimes...dislikes------sneaky people..liars.."", ""friends_count"": 147, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/726269511872061440/fjotMZAM_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_background_image_url"": null, ""name"": ""CONNECTICUT 4 Trump"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1262, ""screen_name"": ""1truecossack"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Apr 06 20:29:38 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Exit polls. In 18 states SUPPORT TRUMPS BAN ON MUSLIMS BY OVER 60 percent
+Msnbc..meet the press trump. Is on
+@LucidHurricane_ @TammaraMaiden1 TOTALLY AGREED!!!
+"Jenifer rubin and rob stutzman of ""nevr trump victory California. https://t.co/OwEL17v9vy"
+@CO4Trump16 @rock2352 at least they have one thing in common😢
+"@elizabethforma @realDonaldTrump. Ms warren. ➡paleface who speak with forked tongue 
+u r an insult to the native and American people"
+Msnbc...obamacare is going up at least 10 percent next year!. Nice job Barack..take more from people thru forced extortion!!
+@LucidHurricane_ @RockMetalKittyX first Muslim mayor IN UK..heck. WE HAVE A MUSLIM PRESIDENT!!
+https://t.co/qCi7VbcoiR. A real good watch
+No longer can they piss in my ear and say its raining outside!!!!..
+WE VOTE TRUMP!!!!!!#
+FINALLY..A TRUE PERSON THAT CARES FOR THE AMERICAN PEOPLE
+"Oh are we amped up!!!..TRUMP
+.TRUMP
+
+Trump"
+@Sgperformer @jprincess9269 thank u
+"@RogerJStoneJr @Alaska_Guy_01 @realDonaldTrump @BushCrimes mr Stone
+Thanks..pic worth thousand words!!"
+@LindaSuhler @ardellbecky1 great tweet!!
+To all the mothers out there....HAPPY MOTHERS DAY!!
+@immigrant4trump is the video goin on utube etc.?
+@michael_babb1 @syoka68 thank u!
+@NobamaDotCom @Angelabasso5 yea sickening...and im sure a child that age has no use for all the virgins guaranteed from allah
+@DefendingtheUSA @realDonaldTrump @crimson_i_m so well said!!
+@Angelabasso5 @NobamaDotCom thats a good one
+@SEAAdams2 @NobamaDotCom @Angelabasso5 @winegirl73 paleface who speak with fork tongue
+"""Land that i love"" https://t.co/HyYpaxqTJq"
+https://t.co/UbV82uxwax
+Hillary and obama got us change..TRUMP will get u jobs https://t.co/esUnICZMAQ
+@immigrant4trump sometimes it takes people time to honesty accept and acknowledge the truth
+NEW POLL..PEOPLE WILL VOTE TRUMP JUST TO STOP CLINTON!!
+Osama bin obama live speaking at howard university..absolutely repulsive!!..
+@FOX4 @KDFW there u have it..open door for pervs and pedos...
+Sorry to say..Hillary's got our vote....hahahahajaha.NOTTTT!!! https://t.co/g2YNFlAErf
+@mitchellvii @ChargerGreg almost bet..dr.Carson!!
+https://t.co/VKBhFFE7Vz
+@FoxNews @Alaska_Guy_01 may God bless him!!..rest in peace and thank u for ur fearless service!!
+@Patrici15767099 @PiggyShitCock @JakRoyal3 im gay...happy..😀 to be a lesbian trapped in a mans body.I LOVE WOMEN😀
+@BigDuhie1955 every day in my front yard..here it is https://t.co/zmWf8GLT3k
+@1truecossack and five more per cent arrested
+IF 30000 supporters get checked.y cant 1000 protesters get checked?..70 per cent would have been deported!#!!!!
+@USA4TRUMP and push drugs on our children
+"Just true blue
+
+.DIRTBAGS https://t.co/ZP6rvnteOo"
+"Nice boys
+.bring home to parents for dinner https://t.co/A7P5noB0EY"
+@jpanzar @LaurieBailey if ne one else did that. At a hillary convention or otherwise they would be in the pokey..y not for true AMERICANS?
+If that poor guy that was attacked in Costa mesa has Obama care....hes screwed
+@drapermark37 @realDonaldTrump gooood riddance!!!!!
+To the violent anti American racist protesters https://t.co/XlZbwehjtz
+@Lagartija_Nix @LaurieBailey like the mark bolan!
+"@Franklin_Graham @SamaritansPurse thank u for honoring separation of ""church and state""..GOD BLESS"
+https://t.co/s09yQI9Mz5
+"My ""puppy"" loves violent protesters!!..---for breakfast!! https://t.co/fXNEHkT1V1"
+@Genie115 @wildflower6422 @realDonaldTrump so true!!
+"To our California friends and all others !.we drowned out ""their"" bs with this in Hartford Connecticut https://t.co/9tEZsatoHi"
+My front yard.. https://t.co/bCQvU2NMjn
+@DailyCaller @DianeRainie1 THAT ➡MAN⬅SHOULD HAVE BEEN GIVEN A MEDAL!!!!!!!!!
+@Al_Baldasaro @JudyBaldasaro @realDonaldTrump so kool!!
+@CajunKangaroo absolutely repulsive!
+@ThePatriot143 it shows their true allegiance..NOT AMERICA!!
+This is ur next step Ted https://t.co/IU79RSgAMR
+@mitchellvii @USATODAY holy cow...EVEN NUTTIER THAN WE THOUGHT!!
+https://t.co/nKZTGRiOmR
+Hartford https://t.co/7zcG7ZeGQf

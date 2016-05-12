@@ -1,0 +1,92 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 594663070, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""United States"", ""url"": ""https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""96683cc9126741d1"", ""name"": ""United States""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/721210209104826369/tXqNesOu_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 72, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""594663070"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @realkingrobbo: Career criminal, rape apologist... and weapons dealer. via /r/The_Donald @Claudia_Rufina \u2026 https://t.co/Sqjz6LylT5 https\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729477431451471872, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3364589120, ""indices"": [3, 17], ""id_str"": ""3364589120"", ""screen_name"": ""realkingrobbo"", ""name"": ""King Robbo""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/Sqjz6LylT5"", ""indices"": [110, 133], ""expanded_url"": ""http://ift.tt/1WhPyCz"", ""display_url"": ""ift.tt/1WhPyCz""}], ""media"": [{""source_user_id"": 3364589120, ""source_status_id_str"": ""729472511402971136"", ""expanded_url"": ""http://twitter.com/realkingrobbo/status/729472511402971136/photo/1"", ""display_url"": ""pic.twitter.com/yUzqqUCkYh"", ""url"": ""https://t.co/yUzqqUCkYh"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg"", ""source_user_id_str"": ""3364589120"", ""source_status_id"": 729472511402971136, ""id_str"": ""729472511092633600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729472511092633600, ""media_url"": ""http://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""729477431451471872"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Career criminal, rape apologist... and weapons dealer. via /r/The_Donald @Claudia_Rufina \u2026 https://t.co/Sqjz6LylT5 https://t.co/yUzqqUCkYh"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729472511402971136, ""favorite_count"": 3, ""source"": ""<a href=\""http://ifttt.com\"" rel=\""nofollow\"">IFTTT</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/Sqjz6LylT5"", ""indices"": [91, 114], ""expanded_url"": ""http://ift.tt/1WhPyCz"", ""display_url"": ""ift.tt/1WhPyCz""}], ""media"": [{""expanded_url"": ""http://twitter.com/realkingrobbo/status/729472511402971136/photo/1"", ""display_url"": ""pic.twitter.com/yUzqqUCkYh"", ""url"": ""https://t.co/yUzqqUCkYh"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg"", ""id_str"": ""729472511092633600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729472511092633600, ""media_url"": ""http://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""729472511402971136"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:46:14 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/realkingrobbo/status/729472511402971136/photo/1"", ""display_url"": ""pic.twitter.com/yUzqqUCkYh"", ""url"": ""https://t.co/yUzqqUCkYh"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg"", ""id_str"": ""729472511092633600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729472511092633600, ""media_url"": ""http://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:05:47 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3364589120, ""source_status_id_str"": ""729472511402971136"", ""expanded_url"": ""http://twitter.com/realkingrobbo/status/729472511402971136/photo/1"", ""display_url"": ""pic.twitter.com/yUzqqUCkYh"", ""url"": ""https://t.co/yUzqqUCkYh"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg"", ""source_user_id_str"": ""3364589120"", ""source_status_id"": 729472511402971136, ""id_str"": ""729472511092633600"", ""sizes"": {""large"": {""h"": 960, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729472511092633600, ""media_url"": ""http://pbs.twimg.com/media/Ch-bYkkWsAAfAQy.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 536, ""description"": ""Proud wife, mom, and Grammy waiting to see America Great Again! #Trump2016\nPlease pray for those who have served, are serving, and have died for our freedom!"", ""friends_count"": 118, ""location"": ""United States"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/721210209104826369/tXqNesOu_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/594663070/1460784886"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Brenda"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 512, ""screen_name"": ""bbixby224"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed May 30 15:03:12 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@non1amato @The_Trump_Train I will NEVER say that! 
+#HillaryForPrison2016 
+#MAGA https://t.co/NLASFQYjZG"
+"@non1amato @The_Trump_Train @VetApologist @AP4LP How about TRUMP over HRC so generations after us don't have to suffer? #SCOTUS 
+#Trump2016"
+"@amrightnow @jacksfreetime10 Not sure why people have such a difficult time understanding what's so clear.Oh yeah, could be dishonest media."
+"@non1amato @The_Trump_Train @VetApologist @AP4LP More power to ya if you like losing and if Billary somehow wins, we'll blame you!"
+@non1amato @The_Trump_Train @VetApologist What exactly have the other candidates done for women? Billary has the worst record for women!
+"@SarahPalinUSA If you recall, Sarah was attacked relentlessly so she chose to end her term early for the good of the party. True Patriot!"
+"@FoxNews @newtgingrich @realDonaldTrump
+TRUMP supporters: Thoughts on #Newt4VP?"
+"@ROB4TRUMP @jacksfreetime10 @JaredWyand @gaylenanny @HillaryClinton Clintons - Most corrupt couple in America!
+
+#HillaryBelongsInPrison"
+"@realkingrobbo Dang! Now I'm gonna have nightmares!
+#HillaryForPrison2016"
+"@ChanceJerry @jacksfreetime10 @KLSouth @tymadisonmom @HillaryClinton 
+:'(
+#HillaryBelongsInPrison"
+"@realDonoldDrump @realDonaldTrump Why, thank you POSER! Best compliment yet coming from you!
+#Trump2016 
+#NeverHillary 
+#MAGA
+#NeverBernie"
+"@mitchellvii Now that the delegate process is more clear, the mystery of how McCain and Romney became the nominees is solved-Establishment!"
+@rksmythe @FoxNews @KarlRove I guess we'll see but no vote = a vote for Hillary :(
+"@rksmythe @FoxNews @KarlRove Sooooo, you're voting for Billary even with the possible SCOTUS appointments at risk? WOW!"
+SHE belongs in prison but is running for the POTUS.. WTH is wrong with this picture?! https://t.co/l2jrtVKlf5
+PEACE THROUGH STRENGTH!! https://t.co/FaysmOwURX
+"@realDonoldDrump @realDonaldTrump Looks like the time is up to jump on the #TrumpTrain!
+#Trump2016 
+#MAGA
+#TrumpForPresident"
+@realDonoldDrump @realDonaldTrump Poor DonOLD. UR just an envious ignoramus who has to use 'parody' cuz you have no thoughts of your own.
+"@realDonaldTrump Let's go #Indiana and finish this thing so we can focus on #CrookedHillary !!
+#Trump2016 
+#MAGA"
+"@ThomasF304 @ProgressOutlook @realDonaldTrump Awww, Mr. Flynn, don't be jealous. Your life matters too! 
+#Trump2016 WILL #MAGA!!"
+@Shawn23G @DonaldJTrumpJr @realDonaldTrump THANK YOU!! #Trump2016  #MAGA
+"@DonaldJTrumpJr @realDonaldTrump #Indiana Vote #Trump2016 so we can move on to taking down #CrookedHillary!! 
+#TrumpTrain #MAGA"
+"@Harbingers4end @ProgressOutlook @realDonaldTrump You have just described Billary and Cruz! #LyingTed #HillaryLies 
+#Trump2016 will #MAGA!!"
+@Harbingers4end @ProgressOutlook @realDonaldTrump What the others have said/done has enlightened me that Trump's the one that can #MAGA
+@AJDelgado13 @Trader_Moe Paid agitators!
+@ProgressOutlook @realDonaldTrump Maybe someday you and the other lost NeverTrumpers will be enlightened and #MAGA. #Trump2016
+@greta @ChatRevolve @FoxNews DEFINITELY YES! #NoMorePC
+"@ProgressOutlook @realDonaldTrump Nothing I stated is false &amp; we all know it.At least those who are honest or not ideologically driven
+#MAGA"
+@PamelaKealer13 Awkward! https://t.co/rQWHmlaCYv
+"@ProgressOutlook @realDonaldTrump Hmm..A successful businessman vs a criminal, a Socialist, and a Lyin' Politician
+#VoteTrumpIN 
+#Trump2016"
+@newsjunkie523 @NerdsCanFixThat @greta @tedcruz @realDonaldTrump @FoxNews Cruzifer is a professional liar. AKA Experienced POLITICIAN.
+"@ucsbgaucho00 @greta @tedcruz @realDonaldTrump @FoxNews SMACK DOWN! 
+Trump Patriot 1.. Cruz ZERO! 
+Time to go home Ted!
+Nobody wants you!"
+@CSteven @BikersForTrump @KLSouth @Mr_Pinko HAHAHAHA! WTH? The epitome of a Libtard!
+@BigStick2013 @Mediaite I just can't believe there are ANY people who would still consider voting for Billary. She truly belongs in prison!
+@FoxNews @tedcruz @BretBaier Why Ted? Just like the Indiana Patriot said..We don't want you. Take what's left of your dignity and skedaddle!
+@slone @LaneyCrews HA! They're freaking out knowing all the corruption is being exposed and We The People are no longer silent! #MAGA
+@DRUDGE_REPORT WTH is wrong with people?! They belong in prison (if not death penalty) for the rest of their worthless lives.
+@redstatenation @BreitbartTexas @SarahPalinUSA @DailyCaller Um.. Heidi Cruz=Goldman Sachs..
+@Ricky_Vaughn99 @LaneyCrews I'm just LOL!! https://t.co/zbkPcRbz5x
+"@BikersForTrump You're awesome! 
+Go Trump!
+#Trump2016 
+#TrumpTrain"
+@ProgressOutlook @realDonaldTrump @YouTube Wrong answer but it's up to you to believe what you want. I'm voting to Make America Great Again!
+"@ProgressOutlook @realDonaldTrump If we don't vote for @realDonaldTrump, we are going to forever lose our great America!
+ #TrumpTrain!"
+@ProgressOutlook @realDonaldTrump @YouTube So out of context.. Very pathetic.
+@LexingtonBobby @realDonaldTrump @CBSNLive Ha!AWESOME Trump supporter showing strength &amp; constraint and calling out condescending LYIN CRUZ!
+"@BobbyCzzzz They send OUR money to countries who hate us in addition to lining all their own pockets! 
+#Trump2016"
+"@ShannonBream @FoxNews @realDonaldTrump Shannon, Cruz's NJ campaign manager proves why his name is ""LYIN TED""! Shameful!!"
+@AnnCoulter Hmmm.. That's a difficult one..
+@DebiDkruse @THEHermanCain https://t.co/km55yvtXGx
+@GayleHall05 @Campaign_Trump @RogerJStoneJr @veganvecoh Rent-a-mob! Classic!
+@DRUDGE_REPORT @CBSLA Liberalism at it's finest. Harm those who don't agree with you. WAKE UP AMERICA!!
+Trump Supporter Talks About Being Injured During Melee « CBS Los Angeles https://t.co/OUkU0hMGhd Welcome to Billary and Bernie's Liberalism.
+@DiamondandSilk @YouTube Very disturbing and so very sad. THANK YOU for your honesty Ladies. UR saying what everyone else is afraid to say.
+@USMC_Proud @NYDailyNews We WERE going to go to Eureka Springs in May.. We're NOT now! Thanks for the article.
+@USMC_Proud @NYDailyNews Hopefully he'll go to prison as a known child molester. Just sayin...
+@JohnTrumanWolfe @amazonbooks Looking forward to reading your book.
+"@realDonoldDrump @realDonaldTrump Oh poor  DONOld, YOU are so envious of @realDonaldTrump hence why you want to be like him."
+@AJDelgado13 Can't wait to hear the details!!
+@MEUonamission @realDenaldTrump @Trump20never101 https://t.co/nCLnatFbbj
+@MEUonamission @realDenaldTrump @Trump20never101 FOUR AMERICANS DIED! Hillary's response: https://t.co/FZ0rJkSpyM

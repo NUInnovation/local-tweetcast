@@ -1,0 +1,82 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2767378727, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/550674749773185024/nliQrS_E_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 651, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2767378727"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 16, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @FoxNews: .@newtgingrich: \u201cWhen people say [@realDonaldTrump] doesn\u2019t stand for any issues, I wonder what planet they\u2019re on.\u201d https://t.\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729414498478481408, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1367531, ""indices"": [3, 11], ""id_str"": ""1367531"", ""screen_name"": ""FoxNews"", ""name"": ""Fox News""}, {""id"": 20713061, ""indices"": [14, 27], ""id_str"": ""20713061"", ""screen_name"": ""newtgingrich"", ""name"": ""Newt Gingrich""}, {""id"": 25073877, ""indices"": [47, 63], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1367531, ""source_status_id_str"": ""728767335234863104"", ""expanded_url"": ""http://twitter.com/FoxNews/status/728767335234863104/photo/1"", ""display_url"": ""pic.twitter.com/oX6jyhFMUK"", ""url"": ""https://t.co/oX6jyhFMUK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg"", ""source_user_id_str"": ""1367531"", ""source_status_id"": 728767335234863104, ""id_str"": ""728683298638077952"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728683298638077952, ""media_url"": ""http://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1636, ""id_str"": ""729414498478481408"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": "".@newtgingrich: \u201cWhen people say [@realDonaldTrump] doesn\u2019t stand for any issues, I wonder what planet they\u2019re on.\u201d https://t.co/oX6jyhFMUK"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728767335234863104, ""favorite_count"": 2637, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 20713061, ""indices"": [1, 14], ""id_str"": ""20713061"", ""screen_name"": ""newtgingrich"", ""name"": ""Newt Gingrich""}, {""id"": 25073877, ""indices"": [34, 50], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/FoxNews/status/728767335234863104/photo/1"", ""display_url"": ""pic.twitter.com/oX6jyhFMUK"", ""url"": ""https://t.co/oX6jyhFMUK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg"", ""id_str"": ""728683298638077952"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728683298638077952, ""media_url"": ""http://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1636, ""id_str"": ""728767335234863104"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 02:04:07 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/FoxNews/status/728767335234863104/photo/1"", ""display_url"": ""pic.twitter.com/oX6jyhFMUK"", ""url"": ""https://t.co/oX6jyhFMUK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg"", ""id_str"": ""728683298638077952"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728683298638077952, ""media_url"": ""http://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:55:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1367531, ""source_status_id_str"": ""728767335234863104"", ""expanded_url"": ""http://twitter.com/FoxNews/status/728767335234863104/photo/1"", ""display_url"": ""pic.twitter.com/oX6jyhFMUK"", ""url"": ""https://t.co/oX6jyhFMUK"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg"", ""source_user_id_str"": ""1367531"", ""source_status_id"": 728767335234863104, ""id_str"": ""728683298638077952"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 576, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728683298638077952, ""media_url"": ""http://pbs.twimg.com/media/ChzNmXEVIAAF520.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 5946, ""description"": ""Christian. I will die for the love of Jesus Christ. Retired army sergeant. I am not ashamed of the gospel of Jesus Christ."", ""friends_count"": 768, ""location"": ""Louisville, ky"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/550674749773185024/nliQrS_E_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""My info LuisMB13"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2912, ""screen_name"": ""lmirandabermud1"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Sep 11 19:00:32 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@Nysportsfan621 @DebAlwaystrump can't go wrong with Newt.
+@Nysportsfan621 @DebAlwaystrump Yep! You're right.
+@Nysportsfan621 @DebAlwaystrump True! Sessions been with him all the way.
+@Nysportsfan621 @DebAlwaystrump Correct! I like that she supports him but she wouldn't be a good candidate for VP.
+"@Nysportsfan621 @DebAlwaystrump Possible VP candidates would be Scott brown, christy, palin, huckabee, sessions, other supporters."
+@BlissTabitha correct! Obama has destroyed the middle east!
+@Squids_Politics @hotairblog Graham don't even listen to the people in his own state.
+@BlissTabitha what many people been saying that the deal will start a nuclear race in the middle east.
+"@StatesPoll If Hillary is having a hard time against Bernie, she's going to have a real hard time with trump!"
+@MDontheright @realDonaldTrump Awesome!
+@Nascar_Tom @rninfl I will have to agree with Egypt. But they are a lot smarter and took actions before it was too late.
+@10thAmendment @JOEROWE409 @BreitbartNews What's the matter. Is he scared of the future boss?
+@slone correct.
+@FriendlyJMC @dever_o @kohlweiler @realDonaldTrump @immigrant4trump Trump 2016!!
+@ocdnewsjunkie @kathystone1221 @WeNeedTrump Correct! That's irresponsible. Impeach him.
+@kohlweiler @FriendlyJMC @realDonaldTrump @immigrant4trump If women don't want to suffer like in Germany now. Trump is the only answer.
+@FoxNews @KirstenPowers @MittRomney correct! Only the ones that are against trump!
+@Dianestraley oh yeah! Under what lie?
+@AlyLovesMovies @realDonaldTrump people that are totally against the wall might be benefiting from drug trafficking and the cartels.
+@asamjulian @AmaliaDiaz93 @elizabethforma @realDonaldTrump it definitely won't work this time.
+@NorthSTLCounty @Portosj81J we want to see real change in Washington. The same old stuff has to go.
+@Portosj81J Correct! CHRISTIANS don't trust Obama. Coal miners don't trust Obama. Our allies don't trust Obama. Who then trust him ?
+@NolteNC yep! They need a total cleansing. They won't listen to the people's voices.
+@RogerJStoneJr @Contumedia @realDonaldTrump shows that republican establishment only care about their little club.
+@Real_Estate_IM Great! He said right. Do what's right for the country.
+@pink_lady56 @arrjet17 I guess I'm racist if I eat a taco bowl on 5 de mayo. What a bunch of idiots.
+@PhxKen @Dixieglo True!
+@JaredWyand @Dixieglo @elizabethforma Correct! Democrats live on lies.
+@BreitbartNews @kyliving Michael Moore? Really!
+@slone @BreitbartNews he should be in the psyche ward.
+@AIIAmericanGirI what a loser!
+@slone @syoka68 @TheLastRefuge2 That's true!
+@HENSONmike @arrjet17 @realDonaldTrump Reason for the wall. 1 illegals. 2 drugs. 3 drug cartels. 4 ISIS. 5 to save money. TRUMP 2016!
+@AJDelgado13 @HillaryClinton Right we do! And some spanglish also every now and then.
+@BlissTabitha @Granner1 Democrats are full of BS. Every where you look there is a liar.
+@syoka68 @CNNPolitics he knows what's best for November. Trump is the only one that can beat HILLARY.
+@AIIAmericanGirI @FoxNews yeah! Another liar who benefited from her lie that she was native American.
+@bazisgirl @teed_chris They must be stopped and never allowed to enter the USA.
+@Callisto1947 The dude is a Muslim full of bigotry.
+@10thAmendment @BreitbartNews Good!
+@DianeHauschildt @003a04f8c2054b7 @SpeakerRyan @TheMattJansen Yes! But what goes up must come down! He's going to hit the ground.
+@FoxBusiness @realDonaldTrump SMART AND GOOD FOR THEM. #NeverHillary . TRUMP 2016!!
+@DRUDGE_REPORT @jphillipsjack @CBSLA of course. The left is either their way or no way. That why we need TRUMP.
+@DanScavino Awesome!!!
+@FoxNews @newtgingrich @HillaryClinton Then she has the evil face to lie to them in front of their faces.
+@lauracgilleslil @katlivezey @SpeakerRyan @pnehlen @harrisonchief Ryan should be impeached.
+@francisdominicu @syoka68 Where were you Hillary at 3 am whole our ambassador was under attack?
+@unclebubba9 @syoka68 @NetworksManager Cruz=Evil liar as is the son of the devil.
+@teed_chris Women! Wake up before it's too late or that head will be your son or husband's head. VOTE TRUMP 2016!
+@AJDelgado13 @SpeakerRyan maybe!
+@OBAMA_GAMES @cspanwj Correcto!! He would rather help his buddies than to help poor comunities.
+@ed_hooley @ALLENnKELLY @Men Well. A liar will tell lies to cover her lies. She's a serial professional liar.
+"@PamelaGeller @omartin41 Hmm! Lybia, iraq, syria, and he almost wrecked Egypt also. Except they were a lot smarter."
+"@FoxNews @JamesRosenFNC can Hillary keep Bernie's supporters. Of not, she will loose. Trump will get most of them. Watch it!"
+@cristinalaila1 correct! Hillary said she will continue Obama's policies and be like Merkel. Bad combination for USA.
+@SMSS4 @DanSpeaksTruth yeah him and Hillary are not welcome in the coal areas.
+@slone yep. Includes me. I don't watch much of FOX any more.
+@AnnCoulter Why idiots from FOX keep saying college educated people will not vote for Trump. I'm college educated and I'm voting Trump!
+@watersurf58 Cartels bribed our politicians. They're operating inside the USA. Build the wall. Shutt them out. Trump 2016!!
+@LeahR77 #NeverHillary
+@sandyaschneider Won 1 state. He's a DEMOBLICAN. Too much to the left for me to support him.
+@AJDelgado13 I agree A.J.!
+@Maxinerunner @Trump4Pres0225 @mitchellvii @FoxNews @AnnCoulter What a sad face. She's been Trumped!
+@FoxNews @xkr99 @GeraldoRivera @realDonaldTrump I'm glad you acknowledge that Geraldo. Although we all knew that long ago.
+@FoxNews @DLoesch Don't be sad. Be happy!
+@slone @GODZCHILD30240 The drug cartels will continue passing him money to the end. He's their last hope before Trump becomes POTUS.
+@BigStick2013 @CashBama @BreitbartNews like I said. The GOP will destroy itself for ever if THEY pull that mess.
+@slone @doctorglc77 true!
+@NavyVets4Trump @Portosj81J @FoxNews Cartels in Mexico use illegal immigrants to smuggle drugs into the USA.
+@syoka68 @Salon I love the Lord and Ted is no Jesus.
+@RandPaul @HillaryClinton Hillary will continue Obama's job killing policies
+@heavenlyitalian @Stonewall_77 they may have also been bribed by Mexican cartels.
+@Tinawanis @RickCanton Learning and following his teachings were his instructions to all of us that believe in the truth.
+@drogbae_ @Tinawanis That's correct! Learning and doing his teachings were his instructions.
+@AmyMek I guess Kent can stone her to death.
+@CourageOfWisdom Many of those negative polls must be polling democrat women.
+@CCCINNC @Kotcha301 @YouTube Maybe she fainted when she saw Heidi.
+@WDFx2EU @tedcruz Me and you both!
+@mitchellvii I agree!
+@Suthen_boy @BreitbartNews Yeah! It's bs that they can beat up on Trump supporters and the damn media will just ignore it.
+@RoninGreg @dunn_cheri @Nero she looks like meat for the cartels in Mexico.

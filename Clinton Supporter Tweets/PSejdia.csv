@@ -1,0 +1,111 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2669145015, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/651329970011181056/_6lqnxDe_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 81, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2669145015"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HillaryClinton: Hoosiers, head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/1CClTdef0F"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727710769878585348, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1339835893, ""indices"": [3, 18], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""727482940914057217"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/727482940914057217/photo/1"", ""display_url"": ""pic.twitter.com/1CClTdef0F"", ""url"": ""https://t.co/1CClTdef0F"", ""media_url_https"": ""https://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 727482940914057217, ""id_str"": ""727482512667250688"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 727482512667250688, ""media_url"": ""http://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1480, ""id_str"": ""727710769878585348"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Hoosiers, head to the polls today. RT this if you\u2019re voting for Hillary. https://t.co/1CClTdef0F"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727482940914057217, ""favorite_count"": 3362, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/727482940914057217/photo/1"", ""display_url"": ""pic.twitter.com/1CClTdef0F"", ""url"": ""https://t.co/1CClTdef0F"", ""media_url_https"": ""https://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg"", ""id_str"": ""727482512667250688"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [73, 96], ""type"": ""photo"", ""id"": 727482512667250688, ""media_url"": ""http://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1480, ""id_str"": ""727482940914057217"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Tue May 03 13:00:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HillaryClinton/status/727482940914057217/photo/1"", ""display_url"": ""pic.twitter.com/1CClTdef0F"", ""url"": ""https://t.co/1CClTdef0F"", ""media_url_https"": ""https://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg"", ""id_str"": ""727482512667250688"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [73, 96], ""type"": ""photo"", ""id"": 727482512667250688, ""media_url"": ""http://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed May 04 04:05:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1339835893, ""source_status_id_str"": ""727482940914057217"", ""expanded_url"": ""http://twitter.com/HillaryClinton/status/727482940914057217/photo/1"", ""display_url"": ""pic.twitter.com/1CClTdef0F"", ""url"": ""https://t.co/1CClTdef0F"", ""media_url_https"": ""https://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg"", ""source_user_id_str"": ""1339835893"", ""source_status_id"": 727482940914057217, ""id_str"": ""727482512667250688"", ""sizes"": {""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [93, 116], ""type"": ""photo"", ""id"": 727482512667250688, ""media_url"": ""http://pbs.twimg.com/media/ChiJfavXEAAN5dR.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 211, ""description"": ""Hey,mos u lut per nje jete te lehte,por lutu qe Zoti te jape force per te perballuar sfidat....@"", ""friends_count"": 202, ""location"": ""Albania"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/651329970011181056/_6lqnxDe_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2669145015/1444764653"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""prenda.sejdia"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2638, ""screen_name"": ""PSejdia"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Jul 03 20:31:24 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+https://t.co/FiSpuM2Eiz
+"Le te shpresojme...
+     Ate qe na ndane,eshte koha te kene kthyer mendje... https://t.co/nL3afYfPeH"
+"Nuk ka armiqesi as miqesi te perjetshme...
+                     Eshte thjesht ceshtje kohe.... https://t.co/irIJpWmZDS"
+"Miqesia,lulja me e bukur.. https://t.co/m6J6124D1D"
+Miqt e mij paqi nje mbremje te qete e te kendshme dhe nje jave te mbare e plot surpriza te kendshme... https://t.co/CNcaSz9dcc
+@btlarrslan https://t.co/ezhYlGL9M4
+https://t.co/7X1xpYuzNY
+"Eeee ditet javet muajt e vitet ikin....
+Dhe ,vetem....kujtimet mbeten... https://t.co/66NrzZS79p"
+@OraNewsRTV     A ka ndonje pune me te hajrit ky Lu se sa te merret me magjyp se po na ngaterrohet mes tyre dhe se gjejme dot
+@Balkanwebcom
+2006 ??!!! https://t.co/Qq2Jh2Qwmj
+Nje mbremje te kendshme per Ju miq http://t.co/8eoG1SsSN0
+Twitter https://t.co/6SocomObVE
+Te diel te mbare miqesia ime http://t.co/p6MMrMR3Qv
+@GazetaTema
+Just posted a photo https://t.co/OlW6olLTYW
+Just posted a photo https://t.co/MzpcJSrph7
+Just posted a photo https://t.co/6VGYSMYrh1
+@Rio2016_en
+Just posted a photo https://t.co/P95uu2QClR
+Just posted a photo https://t.co/ZooXfB0QmW
+Just posted a photo https://t.co/EAcD104zHL
+Just posted a photo https://t.co/R3X0XbWcr6
+Just posted a photo https://t.co/MM5sEPhx3A
+Just posted a photo https://t.co/dQG0qKeF7T
+Just posted a photo https://t.co/KJ3mntNjqn
+Just posted a photo https://t.co/quUx6Im0NX
+Just posted a photo https://t.co/qWOKtgDJda
+Just posted a photo https://t.co/A0APJ2Do9Q
+Just posted a photo https://t.co/Asf6mqXv3e
+Just posted a photo https://t.co/sDtfiAEvym
+Just posted a photo https://t.co/kddQ3hMysR
+@Jarlie86 wonderful
+Just posted a photo https://t.co/A4K4BRbgH7
+Just posted a photo https://t.co/NDgwd7HyoP
+Just posted a photo https://t.co/W3DmEzEhft
+Just posted a photo https://t.co/ZebCNP4VJ0
+Just posted a photo https://t.co/yeaL6xwEl6
+Just posted a photo https://t.co/RSLEE7C71I
+Just posted a photo https://t.co/n8LtwyrDPa
+Just posted a photo https://t.co/PRHYJspMDP
+Just posted a photo https://t.co/6jhObgVTca
+Just posted a photo https://t.co/JYe7iE0Rg9
+Just posted a photo https://t.co/e3tfIWzYQC
+Just posted a photo https://t.co/nlyQiclVoq
+Just posted a photo https://t.co/0tmxOtIAbJ
+Just posted a photo https://t.co/Obj39i6cFt
+Just posted a photo https://t.co/EUnc7VYfJc
+Just posted a photo https://t.co/3HsvvhweYv
+Just posted a photo https://t.co/QQfHgTDAiF
+Just posted a photo https://t.co/zT6gdTS1xq
+Just posted a photo https://t.co/DRoqpPnSnj
+Urojme Gezuar Festat https://t.co/DVO6ZitVXC
+Just posted a photo http://t.co/w5WYir0ixP
+Just posted a photo http://t.co/5G8Xx1sh2d
+Just posted a photo http://t.co/UBxj9zW3Sx
+Just posted a photo http://t.co/CNt9GANXuj
+Just posted a photo http://t.co/7qkrixnBme
+Just posted a photo http://t.co/cMsoWIUFIo
+Just posted a photo http://t.co/pSGBWVTo7m
+Just posted a photo http://t.co/4ZFOeePHMU
+Just posted a photo http://t.co/Qty8O9nbfR
+Just posted a photo http://t.co/k9MHpyK4sO
+Just posted a photo http://t.co/rL8r5tu8aB
+Just posted a photo http://t.co/5wJZLznbPy
+Just posted a photo http://t.co/pxUfIyOVoy
+Just posted a photo http://t.co/AdYi8TeUmo
+Just posted a photo http://t.co/hr6l4kpLJw
+Just posted a photo http://t.co/ZWI0zaiFRc
+Just posted a photo http://t.co/Nbsvxk1Wls
+Just posted a photo http://t.co/7jdZshgQhf
+Just posted a photo http://t.co/LraZHacT7y
+Just posted a photo http://t.co/KQaXEdRXCW
+Just posted a photo http://t.co/pU8Ykmjm7D
+Just posted a photo http://t.co/GtTM4z79TF
+Just posted a photo http://t.co/fH0wmsmO2K
+Just posted a photo http://t.co/VOTdwsFQ3D
+Just posted a photo http://t.co/uwlqn5zT4J
+Just posted a photo http://t.co/maE1U8nkzu
+Just posted a photo http://t.co/XhDO1Gb8YZ
+Just posted a photo http://t.co/LIyiMD5Ah4
+Just posted a photo http://t.co/JI2vypzREa
+Just posted a photo http://t.co/KGxEarGND8
+Just posted a photo http://t.co/8fLHl2wARY
+Just posted a photo http://t.co/1xTmkAOPbk
+Just posted a photo http://t.co/EYBq2HCZQ6
+Just posted a photo http://t.co/jj7SPUByCP
+Just posted a photo http://t.co/bLhfk9QNuN
+Just posted a photo http://t.co/LMTMAtBr6y
+Just posted a photo http://t.co/gXBVoaAolO
+@shqiptarian hahahahaha  vertete e lezetshme
+Just posted a photo http://t.co/vlM5US5Jpi
+Just posted a photo http://t.co/F7yPqAYC4D
+http://t.co/mCmuvUIuo0
+@lajmifundit
+Just posted a photo http://t.co/BcC3PFfkRR
+Just posted a photo http://t.co/c6guPcAFov
+Just posted a photo http://t.co/7FnILnIRPa
+Just posted a photo http://t.co/cloCNlZYFg
+Just posted a photo http://t.co/kZ8ngiUF4u
+Just posted a photo http://t.co/UgqnCEyrHW
+@EarlyStart wou OMG
+Just posted a photo http://t.co/rNnOvlsrOi
+Just posted a photo http://t.co/IbqOcOZAW4
+Just posted a photo http://t.co/NSaDZX0xRN
+Just posted a photo http://t.co/fecisUpWX1
+Just posted a photo http://t.co/bb2l7T51xV

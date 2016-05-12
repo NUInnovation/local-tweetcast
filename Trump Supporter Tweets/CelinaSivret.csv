@@ -1,0 +1,81 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2573900950, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/692919544059400194/kv3AN8qs_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 581, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""2573900950"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @USAforTrump2016: Former UFC Champion Chris Weidman has endorsed Donald Trump for President! #Trump2016 #TeamTrump #USAforTrump2016 http\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728834735850409984, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 705902960967094272, ""indices"": [3, 19], ""id_str"": ""705902960967094272"", ""screen_name"": ""USAforTrump2016"", ""name"": ""VOTE TRUMP 2016""}], ""hashtags"": [{""indices"": [96, 106], ""text"": ""Trump2016""}, {""indices"": [107, 117], ""text"": ""TeamTrump""}, {""indices"": [118, 134], ""text"": ""USAforTrump2016""}], ""urls"": [], ""media"": [{""source_user_id"": 705902960967094272, ""source_status_id_str"": ""728749073545764871"", ""expanded_url"": ""http://twitter.com/USAforTrump2016/status/728749073545764871/photo/1"", ""display_url"": ""pic.twitter.com/c2s4q2sWaE"", ""url"": ""https://t.co/c2s4q2sWaE"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg"", ""source_user_id_str"": ""705902960967094272"", ""source_status_id"": 728749073545764871, ""id_str"": ""728749070525718528"", ""sizes"": {""small"": {""h"": 466, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""medium"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728749070525718528, ""media_url"": ""http://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 58, ""id_str"": ""728834735850409984"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Former UFC Champion Chris Weidman has endorsed Donald Trump for President! #Trump2016 #TeamTrump #USAforTrump2016 https://t.co/c2s4q2sWaE"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728749073545764871, ""favorite_count"": 125, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [75, 85], ""text"": ""Trump2016""}, {""indices"": [86, 96], ""text"": ""TeamTrump""}, {""indices"": [97, 113], ""text"": ""USAforTrump2016""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/USAforTrump2016/status/728749073545764871/photo/1"", ""display_url"": ""pic.twitter.com/c2s4q2sWaE"", ""url"": ""https://t.co/c2s4q2sWaE"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg"", ""id_str"": ""728749070525718528"", ""sizes"": {""small"": {""h"": 466, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""medium"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 728749070525718528, ""media_url"": ""http://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 58, ""id_str"": ""728749073545764871"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 00:51:33 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/USAforTrump2016/status/728749073545764871/photo/1"", ""display_url"": ""pic.twitter.com/c2s4q2sWaE"", ""url"": ""https://t.co/c2s4q2sWaE"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg"", ""id_str"": ""728749070525718528"", ""sizes"": {""small"": {""h"": 466, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""medium"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 728749070525718528, ""media_url"": ""http://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 06:31:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 705902960967094272, ""source_status_id_str"": ""728749073545764871"", ""expanded_url"": ""http://twitter.com/USAforTrump2016/status/728749073545764871/photo/1"", ""display_url"": ""pic.twitter.com/c2s4q2sWaE"", ""url"": ""https://t.co/c2s4q2sWaE"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg"", ""source_user_id_str"": ""705902960967094272"", ""source_status_id"": 728749073545764871, ""id_str"": ""728749070525718528"", ""sizes"": {""small"": {""h"": 466, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""medium"": {""h"": 768, ""resize"": ""fit"", ""w"": 560}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728749070525718528, ""media_url"": ""http://pbs.twimg.com/media/Ch0JaycU4AA5dwd.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 3243, ""description"": ""Well I love baking, cooking, horseback riding, fishing & camping.  Also a big animal lover, also love The Dead Files."", ""friends_count"": 834, ""location"": ""Thunder Bay Ontario"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/692919544059400194/kv3AN8qs_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2573900950/1403825942"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Celina Maccadanza"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3509, ""screen_name"": ""CelinaSivret"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat May 31 13:59:48 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@USAforTrump2016 @tedcruz 
+HAHAHAHAHAHAHAHA!!!!"
+"@DonaldJTrumpJr @electricalgirl @DemsRRealRacist 
+Hahahahahaha 😂"
+"@DanScavino 
+Would LOVE to go to a Trump rally...GO TRUMP!"
+"@stevedischiavi 
+Sounds like you'll have lots of beautiful memories with your lovely lady!
+Happy for you both Steve!"
+"2 republicans ganging up on their own front runner AND fellow republican?
+PRETTY DISGUSTING!!!!!"
+"@stevedischiavi 
+Loved last nights episode...have fun at the resort ;-)"
+"@heavymetaIovers @realDonaldTrump 
+Wow that's a really mean thing to say to ANYONE, you should be ashamed of yourself."
+"@stevedischiavi 
+We get to see the show on the travel and escape channel, I think we're a little behind in episodes compared to the states"
+"@BellaBeas @stevedischiavi 
+Travel and escape channel"
+"@stevedischiavi 
+It's only just starting here in Canada...I'm waiting for the episode to finish recording b4 I watch"
+"How does Trump make his supporters feel? 
+https://t.co/J5syqgcnLQ"
+"@End_of_Europe @BreitbartNews 
+Sharon stone just lost any admiration I ever had for her, she needs to get a brain!"
+"@End_of_Europe 
+So true!"
+"@VOTETRUMP4USA 
+Thank you for the follow :-)
+My husband and I are both rooting for Mr.Trump!"
+"Want a 1 of a kind paintjob?
+Come down to Thunder Bay Harley Davidson! 
+Anubis Airbrush can help you out! https://t.co/cpKotKvq3E"
+"@JenaC2 @vine 
+Awwwwww just wanna cuddle and comfort him."
+"@CarrionTrilevel 
+Yesssss! Lovin this Carrion!"
+"@realDonaldTrump @andersoncooper 
+Watched Mr.Trump and family tonight, I was very impressed !
+Trump for President!"
+"@ItsRickOhio @GOP @Reince @cologop 
+I hope you reported his threat to the police!
+What a pos!!!"
+"@stevedischiavi 
+That plane is so cool!"
+"@PaintHighlands 
+Thanks for the follow :-)"
+"@USAforTrump2016 @realDonaldTrump 
+LOVE IT!!!"
+"@realDonaldTrump @RSBNetwork 
+Tried to watch but just a black screen :-("
+"@End_of_Europe @BreitbartNews 
+What a bunch of assholes, they say Trump supporters are violent?
+What a joke!"
+"@truefaithcheck @End_of_Europe 
+Yes! I agree!"
+"@JimVitari @CelinaSivret 
+Your most welcome!"
+"@debski2222 
+You sound so educated...NOT."
+"@debski2222 @realDonaldTrump 
+According to the bible, YOUR wrong.
+Baby murderers are ALWAYS wrong.
+I didn't want a fight over this."
+"@debski2222 @realDonaldTrump 
+That's your opinion and that's your right.
+I was just asking a question."
+"@debski2222 @realDonaldTrump 
+If abortions are illegal and a woman goes for one, then isin't she breaking the law?
+Just askin."
+"@USAforTrump2016 
+Hahahahahaha 😂 
+Serves her right!
+Keep their hands to themselves!"
+"@MissAmericaPie @AuditTheMedia 
+If you punch, most ppl will hit back or mace you lol
+I would have punched back for sure!"
+"Enough bashing,  let the votes do the talking! https://t.co/bz7pAZFBuF"
+"@USAforTrump2016 
+Love this!"

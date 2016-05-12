@@ -1,0 +1,106 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 4903822932, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""San Francisco, CA"", ""url"": ""https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""5a110d312052166f"", ""name"": ""San Francisco, CA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/709210273597362176/XuOEHhyU_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1333, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""4903822932"", ""profile_background_color"": ""000000"", ""listed_count"": 58, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @OnlyTrumpCard: RETWEET the TRUMP CARD for BOTH SEXES\nBuy here! No Paypal Sign-up required\nhttps://t.co/p6GZ6ruewP       \n#Trump2016 htt\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729475074168754176, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 728345312654336000, ""indices"": [3, 17], ""id_str"": ""728345312654336000"", ""screen_name"": ""OnlyTrumpCard"", ""name"": ""TrumpCardOfficial""}], ""hashtags"": [{""indices"": [125, 135], ""text"": ""Trump2016""}], ""urls"": [{""url"": ""https://t.co/p6GZ6ruewP"", ""indices"": [94, 117], ""expanded_url"": ""http://www.officialtrumpcard.com"", ""display_url"": ""officialtrumpcard.com""}], ""media"": [{""source_user_id"": 728345312654336000, ""source_status_id_str"": ""729474936423616512"", ""expanded_url"": ""http://twitter.com/OnlyTrumpCard/status/729474936423616512/photo/1"", ""display_url"": ""pic.twitter.com/Hgm5w6Rbbq"", ""url"": ""https://t.co/Hgm5w6Rbbq"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg"", ""source_user_id_str"": ""728345312654336000"", ""source_status_id"": 729474936423616512, ""id_str"": ""729474934804635649"", ""sizes"": {""large"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""small"": {""h"": 292, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729474934804635649, ""media_url"": ""http://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""729475074168754176"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RETWEET the TRUMP CARD for BOTH SEXES\nBuy here! No Paypal Sign-up required\nhttps://t.co/p6GZ6ruewP       \n#Trump2016 https://t.co/Hgm5w6Rbbq"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729474936423616512, ""favorite_count"": 2, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [106, 116], ""text"": ""Trump2016""}], ""urls"": [{""url"": ""https://t.co/p6GZ6ruewP"", ""indices"": [75, 98], ""expanded_url"": ""http://www.officialtrumpcard.com"", ""display_url"": ""officialtrumpcard.com""}], ""media"": [{""expanded_url"": ""http://twitter.com/OnlyTrumpCard/status/729474936423616512/photo/1"", ""display_url"": ""pic.twitter.com/Hgm5w6Rbbq"", ""url"": ""https://t.co/Hgm5w6Rbbq"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg"", ""id_str"": ""729474934804635649"", ""sizes"": {""large"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""small"": {""h"": 292, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729474934804635649, ""media_url"": ""http://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""729474936423616512"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:55:52 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/OnlyTrumpCard/status/729474936423616512/photo/1"", ""display_url"": ""pic.twitter.com/Hgm5w6Rbbq"", ""url"": ""https://t.co/Hgm5w6Rbbq"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg"", ""id_str"": ""729474934804635649"", ""sizes"": {""large"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""small"": {""h"": 292, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729474934804635649, ""media_url"": ""http://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:56:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 728345312654336000, ""source_status_id_str"": ""729474936423616512"", ""expanded_url"": ""http://twitter.com/OnlyTrumpCard/status/729474936423616512/photo/1"", ""display_url"": ""pic.twitter.com/Hgm5w6Rbbq"", ""url"": ""https://t.co/Hgm5w6Rbbq"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg"", ""source_user_id_str"": ""728345312654336000"", ""source_status_id"": 729474936423616512, ""id_str"": ""729474934804635649"", ""sizes"": {""large"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""small"": {""h"": 292, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 443, ""resize"": ""fit"", ""w"": 516}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729474934804635649, ""media_url"": ""http://pbs.twimg.com/media/Ch-dlpmU4AEdv91.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 9296, ""description"": ""Love baseball (SF Giants!), Sous Chef, Conservative in SF for #Trump #MakeAmericaGreatAgain #AlwaysTrump"", ""friends_count"": 1472, ""location"": ""San Francisco, CA"", ""profile_link_color"": ""981CEB"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/709210273597362176/XuOEHhyU_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4903822932/1455422762"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""PassionOfTheMarc"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 15678, ""screen_name"": ""Marc_Smash"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Feb 13 23:00:57 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@IvanJoyederpuss @FuturisticHub @realDonaldTrump @POTUS Happy Mother's Day, Ivan! You mother fucker you!"
+Why I'm voting for Donald Trump #MakeAmericaGreatAgain #Trump2016 https://t.co/GPDMqsKHjV via @YouTube
+"Boom!
+https://t.co/iK3TlRqFNE"
+Creedence Clearwater Revival: Bad Moon Rising https://t.co/oMOGdIC2dv via @YouTube
+I'm watching Black Dynamite. One of the funniest underrated movies ever.
+"If and when Hillary comes to SF, I will be sure to find enuff of my old gangbanger friends(they're not anymore)2 protest the shit out of her"
+"#Hillary said she ""misremembered"" because she was tired.This, bitch.
+https://t.co/ic2KlFydN5"
+"Watch out for the medallion my diamonds are wreckless
+Feels like @benshapiro  hanging from my neckless
+https://t.co/Us3JJABNTv"
+@JulianLis2 Truth. Ted Cruz is a pant load.
+I remember missing the back&amp;forth's between Trump and Jeb after Jeb dropped out.I honestly don't miss anything about #LyinTed.  #Trump2016
+@alwaysssomethin @FluffyDogAttack Have you seen the heinous creatures that vote democrat?
+@alwaysssomethin @FluffyDogAttack People tend to forget that Hillary has been a hated bitch since Bill entered the White House.
+@SignsBeliever @Midgespeaks Is that Erick Erickson?
+"Feminist Slam Poetry is Comedy - YouTube https://t.co/ELCFG2cuJD
+@nero"
+@SpeakerRyan You thought you were going to get the nomination at the Convention but for once the peoples voices were heard.
+"0bama is a deceptive tard. #VoteTrump2016 #MakeAmericaGreatAgain
+Obama tackles race in university address https://t.co/S8mxsscwjC"
+"Watching the 80s on #CNN when progressives used to protest against nuclear weapons. Now they give them to Iran because ""racism"" or something"
+"LIVE Stream: Donald Trump Rally in Lynden, WA (5-7-16) https://t.co/WJ3xNfbJAp via @YouTube"
+@ninja_kach @ClintFord06 I did to until her dog shit all over my house. LOL. Grrrrrrr. I'm not having a very good day.
+Coulter: Ryan Is 'The Next Eric Cantor' - Breitbart https://t.co/wYPFFrmOKI
+@ninja_kach @ClintFord06 Now that she's here she's saying she's for Trump because it's been prophesied. 😱
+@ClintFord06 @ninja_kach LOL! Not as bad but she's Catholic.I tell her no and she does it anyway.I guess it's better than Cruz or Glenn Beck
+"LIVE Stream: Donald Trump Rally in Spokane, WA (5-7-16) https://t.co/HohdKSlgwM via @YouTube"
+@alwaysssomethin 😥
+@FluffyDogAttack LOL. I gotta try that today :D
+"@FluffyDogAttack Holy Water, Holy Oil and talisman's all over; under pillows, in coat pockets, church pamphlets left of tables."
+@CathyMAGA I wish. She thinks she's some church choir singer and can't carry a tune to save her life. All high pitched and wailing.
+@FluffyDogAttack Ha! She's a crackpot. She's about 30yrs older than me but strange.She leaves flasks of Holy Water hidden around the house.
+"I have a cousin coming over today (who is a Cruz supporter) and she said she's going to pray over me cuz I support Trump. Oh, brother."
+@elizabethforma @realDonaldTrump And Hillary has always told the truth because she's a woman? LOL. You people are pathetic.
+@T64Pamela @CathyMAGA @FluffyDogAttack Night!
+@T64Pamela @FluffyDogAttack @CathyMAGA Damn. I've never seen this fish before. I wanna go to the aquarium now. :(
+@CathyMAGA @T64Pamela @FluffyDogAttack I used to when I first got my laptop because wasn't used to small screen and couldn't see my typos.
+@T64Pamela @FluffyDogAttack @CathyMAGA Yeah.They send u head shots taken from above so their face looks tight and then opposite in person
+@CathyMAGA @T64Pamela @FluffyDogAttack U already got me hooked. I subbed and will be watching on the TV. I'm a nerd like that.
+@T64Pamela @FluffyDogAttack @CathyMAGA THAT'S RIGHT! I FOTGOT. OKAY?
+@T64Pamela @FluffyDogAttack @CathyMAGA ...suspicious of anyone who acted like that. So many fake chick pics and you go to meet them and FAT
+@T64Pamela @FluffyDogAttack @CathyMAGA She seemed like one. I'm still not sure if she is who she says she is though. AOL chatrooms made me..
+"@T64Pamela @FluffyDogAttack @CathyMAGA ""Cruzbot?! I like Trump. Okay? Okay? Okay?"""
+@T64Pamela @FluffyDogAttack @CathyMAGA Yeah. She's two cans short of a six pack.
+"@T64Pamela @FluffyDogAttack @CathyMAGA LMAO, The CV chick?"
+"@T64Pamela @FluffyDogAttack @CathyMAGA LOL. Kidding, But can you imagine tho?I bet they're people really like that."
+@T64Pamela @FluffyDogAttack @CathyMAGA So ur talking to another BBer behind my back?!We were supposed to vacation 2gether in BreitbartLondon
+@CathyMAGA @T64Pamela @FluffyDogAttack I've watched videos on YouTube of people buying new fish and they get so excited to add new fish
+@T64Pamela @FluffyDogAttack @CathyMAGA You might have but I don't remember. Do tell!
+@T64Pamela @FluffyDogAttack @CathyMAGA Then I have to spend half the day trying to figure out what they mean.
+@T64Pamela @FluffyDogAttack @CathyMAGA At least it looks relaxing. My dreams are lucid and they get weird really fast.
+@T64Pamela @FluffyDogAttack @CathyMAGA Now I see why your wallpaper is fish! It's all starting to make sense now. :D
+@CathyMAGA @T64Pamela @FluffyDogAttack I want fish now. Damn you two!
+@T64Pamela @FluffyDogAttack @CathyMAGA I've always wanted eels but I hear they are harder to keep than the fish.
+@CathyMAGA @T64Pamela I betMy stepmom used to have a huge aquarium when she first met my Dad.I'd spend more time watching fish than with Dad
+@T64Pamela @FluffyDogAttack @CathyMAGA Good lord. How long do they live?
+@T64Pamela @FluffyDogAttack @CathyMAGA Damn. How much does it cost to start and keep one of those?
+@CathyMAGA @T64Pamela That's beautiful. i bet it's better than watching TV.
+@FluffyDogAttack @T64Pamela @CathyMAGA @alwaysssomethin  https://t.co/QOHAxzmKvp
+@CathyMAGA @T64Pamela All that work pays off tho. I love going to the Aquarium in Golden Gate Park and Monterrey Bay. Jelly fish are awesome
+@CathyMAGA @T64Pamela Get a BB gun. That's how my Dad used to control his outdoor pests. Was a good shot too.
+@T64Pamela @CathyMAGA I should add that she decided she wanted fish. Got a small aquarium and the cat knocked it over and ate the fish. LOL
+"@T64Pamela @CathyMAGA That's why I had to get rid of the snake and a few more other reptiles I had. Iguana, Bearded Dragons, Carpet Pythons"
+@T64Pamela @CathyMAGA I had one of these until my exwife made me give it away so we could get a cat. Grrrrr. https://t.co/HFauCEuWlT
+"@T64Pamela @CathyMAGA I knew a place where the guy sold salt water and had a evil laugh whenhe told me it was ""blackmarket"" LMAO evilChinese"
+@T64Pamela @CathyMAGA Don't you have to culture the water for weeks before you add any fish to it?
+@CathyMAGA @T64Pamela @alwaysssomethin @FluffyDogAttack The hum of the filter relaxes me for some reason too.
+@CathyMAGA @T64Pamela @alwaysssomethin @FluffyDogAttack Salt looks neat but I can sit in front of a big aquarium for hours.
+"@T64Pamela @CathyMAGA @alwaysssomethin @FluffyDogAttack LOL, 'Finding Bluto'"
+@CathyMAGA @alwaysssomethin @T64Pamela @FluffyDogAttack Do you have any salt water aquariums?
+@CathyMAGA @alwaysssomethin @T64Pamela @FluffyDogAttack That's a hobby I always wanted to take up. I used to keep reptiles.Big snakes
+@T64Pamela @CathyMAGA @alwaysssomethin @FluffyDogAttack I have a MinPin. Does the same. I guess I do have a cat. :/
+@CathyMAGA @alwaysssomethin @T64Pamela @FluffyDogAttack LOL. Cats are a trip. I've had them in the past but don't think I can do it again.
+Pizza and Hateful Eight because Kurt Russel is my hero.
+Dogs Welcome &amp; Meet Soldiers After long time Hearttouching Moments compi... https://t.co/Ah3hItvRiF via @YouTube
+@T64Pamela @FluffyDogAttack LMAO
+@T64Pamela @FluffyDogAttack The way he stops to look at the lady and then turns back to honk the horn some more. LMAO
+@alwaysssomethin @T64Pamela @FluffyDogAttack LMAO. I don't know why this video made me laugh so hard but I had to watch it 5 times!
+"@T64Pamela @FluffyDogAttack Bluto's dogs?
+
+https://t.co/9DEkQgnve7"
+@kglass1957 @Midgespeaks @elizabethforma @realDonaldTrump Trans-Indigenous.
+"@theeoptician I said progressives, didn't I?"
+"😂😂😂
+https://t.co/FChjgsLxWo"
+@realDonaldTrump is starting on on the Clintons. This is going to be a epic General Election. #VoteTrump #MakeAmericaGreatAgain #Trump2016
+"@CathyMAGA I don't block people, I make them block me :D"
+@T64Pamela @realDonaldTrump @seanhannity @newtgingrich @IngrahamAngle I missed it.My sister has kidney infection so I've been tending to her
+@T64Pamela @realDonaldTrump :D Going to be fun and voting is never fun.
+"@BenHowe Gotta keep the establishment in power so you can keep your job acting ""offended"" at the direction of the country I guess."
+Got the @realDonaldTrump going on my laptop and the Giants game on TV. #America #Trump2016 #MakeAmericaGreatAgain #AlwaysTrump
+"LIVE Stream: Donald Trump Rally in Eugene, OR (5-6-16) https://t.co/XyH9AhybEI via @YouTube"
+I haven't been this proud to be a American since the time those progressives in Berkeley were having a party and the balcony collapsed.
+Got my Republican voter registration in the mail today so I can vote #Trump2016 in June! I'll go back to Independent afterward 😬 #MAGA
+@Nero @CarlyFiorina Like a twice baked potato.
+Spot on! #Trump2016 #MakeAmericaGreatAgain  https://t.co/Xvi0LrOaZn
+"LIVE Stream: Donald Trump Rally in Omaha, NE (5-6-16) https://t.co/LMLzWXYMuG via @YouTube"
+@PuyaFiel @spcwriter LOL. I spent my teenage years thinking I was the crazy one when it was everyone else around me who was.
+"Well, London is lost. I'm glad I got to visit in 1996 before the self loathing white guilt progressives ruined it."
+"@PuyaFiel @spcwriter I don't mind shit talkers. I learned my chops in AOL chatrooms years ago and Breitbart.I live in SF, I'm used to freaks"
+@spcwriter LOLI've been put on these lists since I opened my Twitter acct. I ignore them but have no clue what they're for Im a Twitter noob
+"What are these ""Lists"" I keep getting placed on by cucks and butthurt progressives?"
+Trump Effect - President Obama Issues Executive Order on Transfer of Executive Power... https://t.co/RfSGjlzJZ2 via @thelastrefuge2

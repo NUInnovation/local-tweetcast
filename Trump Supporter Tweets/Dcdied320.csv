@@ -1,0 +1,127 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 575648685, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/3007600158/e1fc7cea597304fbd092706466ace1a4_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": [{""url"": ""https://t.co/DSCkciIIlt"", ""indices"": [92, 115], ""expanded_url"": ""http://infowars.com"", ""display_url"": ""infowars.com""}]}}, ""followers_count"": 1508, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""575648685"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 32, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @healthandcents: My Rx 4 #America?\n\ud83d\udeab #HilLIARyCare\n\ud83d\udeab #Obamacare\n\nBoard #TrumpTrain\u203c\ufe0f \ud83d\ude82\ud83d\ude83\ud83d\ude83\ud83d\ude8b\u25b6\ufe0fPower 2 Patients\n\nhttps://t.co/tEvTOwT865 htt\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729464214293774336, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 200163987, ""indices"": [3, 18], ""id_str"": ""200163987"", ""screen_name"": ""healthandcents"", ""name"": ""Dr Lee Vliet MD""}], ""hashtags"": [{""indices"": [28, 36], ""text"": ""America""}, {""indices"": [40, 53], ""text"": ""HilLIARyCare""}, {""indices"": [56, 66], ""text"": ""Obamacare""}, {""indices"": [74, 85], ""text"": ""TrumpTrain""}], ""urls"": [{""url"": ""https://t.co/tEvTOwT865"", ""indices"": [112, 135], ""expanded_url"": ""http://www.aapsonline.org/index.php/site/article/a_physician_comments_on_donald_trumps_health-care_plan"", ""display_url"": ""aapsonline.org/index.php/site\u2026""}], ""media"": [{""source_user_id"": 200163987, ""source_status_id_str"": ""729456418907115520"", ""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg"", ""source_user_id_str"": ""200163987"", ""source_status_id"": 729456418907115520, ""id_str"": ""729456399265071104"", ""sizes"": {""large"": {""h"": 522, ""resize"": ""fit"", ""w"": 678}, ""small"": {""h"": 262, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 462, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729456399265071104, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 29, ""id_str"": ""729464214293774336"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""My Rx 4 #America?\n\ud83d\udeab #HilLIARyCare\n\ud83d\udeab #Obamacare\n\nBoard #TrumpTrain\u203c\ufe0f \ud83d\ude82\ud83d\ude83\ud83d\ude83\ud83d\ude8b\u25b6\ufe0fPower 2 Patients\n\nhttps://t.co/tEvTOwT865 https://t.co/Xw1dj1VwkU"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729456418907115520, ""favorite_count"": 26, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [8, 16], ""text"": ""America""}, {""indices"": [20, 33], ""text"": ""HilLIARyCare""}, {""indices"": [36, 46], ""text"": ""Obamacare""}, {""indices"": [54, 65], ""text"": ""TrumpTrain""}], ""urls"": [{""url"": ""https://t.co/tEvTOwT865"", ""indices"": [92, 115], ""expanded_url"": ""http://www.aapsonline.org/index.php/site/article/a_physician_comments_on_donald_trumps_health-care_plan"", ""display_url"": ""aapsonline.org/index.php/site\u2026""}], ""media"": [{""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg"", ""id_str"": ""729456399265071104"", ""sizes"": {""large"": {""h"": 522, ""resize"": ""fit"", ""w"": 678}, ""small"": {""h"": 262, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 462, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729456399265071104, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 29, ""id_str"": ""729456418907115520"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:42:17 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg"", ""id_str"": ""729456399265071104"", ""sizes"": {""large"": {""h"": 522, ""resize"": ""fit"", ""w"": 678}, ""small"": {""h"": 262, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 462, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729456399265071104, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg""}, {""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvTUYAAkmZQ.jpg"", ""id_str"": ""729456399256674304"", ""sizes"": {""large"": {""h"": 555, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 729456399256674304, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvTUYAAkmZQ.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": true, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:13:16 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 200163987, ""source_status_id_str"": ""729456418907115520"", ""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg"", ""source_user_id_str"": ""200163987"", ""source_status_id"": 729456418907115520, ""id_str"": ""729456399265071104"", ""sizes"": {""large"": {""h"": 522, ""resize"": ""fit"", ""w"": 678}, ""small"": {""h"": 262, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 462, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729456399265071104, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvVUgAATI5A.jpg""}, {""source_user_id"": 200163987, ""source_status_id_str"": ""729456418907115520"", ""expanded_url"": ""http://twitter.com/healthandcents/status/729456418907115520/photo/1"", ""display_url"": ""pic.twitter.com/Xw1dj1VwkU"", ""url"": ""https://t.co/Xw1dj1VwkU"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-MuvTUYAAkmZQ.jpg"", ""source_user_id_str"": ""200163987"", ""source_status_id"": 729456418907115520, ""id_str"": ""729456399256674304"", ""sizes"": {""large"": {""h"": 555, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 325, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729456399256674304, ""media_url"": ""http://pbs.twimg.com/media/Ch-MuvTUYAAkmZQ.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 12198, ""description"": ""Sharing #truth w/ anyone who chooses #liberty over #tyranny. #Yeshua #PATRIOT #Constitution https://t.co/DSCkciIIlt #Trump2016"", ""friends_count"": 2528, ""location"": ""Next door! "", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/3007600158/e1fc7cea597304fbd092706466ace1a4_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/575648685/1431443332"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""GMO victim / Douglas"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3125, ""screen_name"": ""Dcdied320"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed May 09 18:17:21 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"#Trump can't be conned! Jeb Bush and his bitch Paul Ryan received  $100,000,000 in anti Trump funds and still failed. Lol any questions. ..."
+@Millerita @RealJamesWoods lmao ď
+#HillaryClinton just asked mainstream media to step up the anti Trump rhetoric! Well I suggest that we do the same! Screw that #tyrant  !
+#Trump actually makes me even more proud to be an #American  . Screw @PaulRyanSpeaker and the Bushs'.
+This is awesome! I love the fact that the criminal elements won't endorse #Trump
+@ArcticFox2016 @scoopit wow now we know that the alternate universe exists. ..
+"Life tip 1,367 - if you don't like the idea, term, or phrase quit being one.    ie. .bitch"
+Lmao! https://t.co/CDRTkmJk17
+@SharonMcCutchan @hale4jesus @TruthFeedNews that makes sense like bread and butter. Self dilutions coincide with closed mindedness.
+@New0rleans_Lady you are as damned as your current pope anti Christ
+"Let's just be clear, #Trump is an alpha male stud that is hated by haters from all groups. Get over it and accept better living. #GoodVsEvil"
+"@KamVTV @pinksugar61 so well put. Thanks for your support ladies. 
+#Trump2016"
+To hell with the #GOP establishment criminal traitors. #Republican or #Democrat against #Trump proves their #globalist motivation.
+@ElianaBenador @realDonaldTrump @DRJAMESCABOT @CarmineZozzora @Stonewall_77 proof that intelligence is more rare than we thought. Thank you.
+"AL Cardenas needs to shut his mealy mouth! He is a perfect example of a fake conservative #patriot .
+#GOP needs to support #Trump2016"
+Besides safety this is why we need more strict immigration laws and secure borders. #MothersDay #Trump2016 https://t.co/DeMLqhuVDR
+"Example of the hipocracy we're faced with today. #immigration #IllegalImmigrants 
+Legal immigrants are pissed! https://t.co/BCL8pX6dwy"
+"Glenn Beck's Madness Breaks Alex Jones - Breitbart https://t.co/JBRclel8de  
+Not the best wording used to describe this clip. ... #Trump2016"
+"#HillaryClinton is an absolute monster. If you want more unjustified war, vote for #Hillary in 2016! https://t.co/ZOZQm8utmG"
+"#Trump2016 is a must. If you love #freedom; and wish to remain so, get on the #TrumpTrain https://t.co/HWaTlRomNZ"
+@SupportMelania @iTrumpRally #Trump2016 to save our nation!
+"@Iurkingaf &lt;-------- anti Trump troll! 
+
+Block the #NeverTrump ignorant trash!"
+"@ffsDiti &lt;------  anti Trump troll 
+
+Block #NeverTrump ignorant trash!"
+@realDonaldTrump @Teamsters #Trump2016  ! ! ! !
+In twitterverse you just have to block some tool bags!
+@Individual_Intv @USHeraldNews https://t.co/oef6DdDEL8   you'll see it here in this video from California.
+"@Individual_Intv @USHeraldNews ""decapitate Trump"" stickers on their bodies while chanting. .""no hate in our state"".  Yea ok. #Trump2016"
+#PC #sjw slack jawed anti American slime take notice. We American people are coming! https://t.co/TlAF2Ay2K7
+@Jesse_sDad @georgepbush @txglo @PigeonToday @Armed2BFree wow! Writing on the wall. ...
+@RavenHUWolf lmao! Nice!
+@n8coombs go watch your fantasy boys in tights swing their bats at little balls and keep your dreams alive.
+@n8coombs in your dreams. I'm heterosexual. Sorry bout your luck.
+"#PC is over! Go hide in your ""safe place"" and let real American people make the decisions to save our future! 
+
+#NeverHillary #Trump2016"
+If you are #NeverTrump you best get out of the way or else be smashed by the #TrumpTrain that the people support!
+@CSandbox become #POTUS without you!
+@AntiGlib pummeling with lies. So that means nothing. Get a life.
+"@TDauffenbach @big_sean_carp he'd still beat your ass in a street fight so what does that make you, ,,,ah yes; you're a weak bitch!"
+@georgefayner you like a lot of pork admit it!
+@MSalt69 grow a pair fairy boy then you may speak.
+@Eagle_Vision @moIestmegaga bow down to the great #Hitlery  !
+@nygrlnla look in the mirror!
+@Brett_Kincaid sounds like you are an expert on the subject. Maybe you should stick to identifying feminine products.
+@damienredicamn1 you are just a mere #sjw that is butt hurt. Get a life or get out of our country bitch!
+"@David_613 are you retarded? Seriously, I'm curious."
+@Pat120 nice try man hater!
+@Boivin @Zoro_Mojica just get your boyfriend to oblige your sick desires bitch!
+@n8coombs take your own advice loser!
+@moIestmegaga take your own advice!
+@realDonaldTrump in 2006 #Clinton was pushing for sealing the southern # border
+#Clinton #borders #immigration https://t.co/LbwBV5DRdL
+#TeachersForTrump #Trump2016 #MothersDay https://t.co/xC8LoRCP5y
+#RT FOR #Trump2016 https://t.co/qslEqCvw8Y
+"@KitDaniels1776 @DRUDGE wich actually is an endorsement. Lol!
+#tcot #Truth #Trump2016"
+"@Slate magazine is a bunch of #Establishment #globalist hacks! 
+Embrace #Trump2016 or get out!"
+Great radio show free! https://t.co/OXkYAlRNsr
+"Elizabeth Warren should be deported! Maybe she could move to Germany and get engaged to their treasonous ""leader"" Merkel"
+"@glennbeck is fasting for @tedcruz  ?  Why now? Why not the past 7 years?  Oh yeah I forgot,  you are paid!!!! https://t.co/bI3P5nODak"
+#Trump2016 https://t.co/BNOyxjhlGV
+@realDonaldTrump lol so true!
+Welcome to the #PoliceState on steroids! Hitler would be proud. However the best security agency in the world.  LMAO https://t.co/IavgEHH4VU
+"Signs of the time shared by Jason A  from YouTube 
+#tcot #Trump2016 #GameofThrones #IndianaPrimary       https://t.co/eeuSVFko8v"
+"COMING SOON TO A REAL LIFE NEAR YOU!! 
+#MayDay #TrumpTrain #Trump2016 we will #MakeAmericaGreatAgain https://t.co/bSGpTp1StE"
+Everyone with a single brain cell knew it would happen. Internet turned fully into a giant marketing platform. I'm not buying. Go away!
+"@NewThor oh, oh I know. How about the individuals who wear ""Decapitate Trump"" slogan on their bodies while chanting ""No hate in our state"".¿"
+@realDonaldTrump @KarlRove exactly!
+"#LyingTed the guy who disgraces the rest of us with the Christian faith. 
+https://t.co/giBeYiIqqK
+#IndianaPrimary"
+#BuildThatWall and don't pay attention to the narrow minded people. Those #NeverTrump people need to grow up. https://t.co/aNcmGd6yUt
+@PlanetFreeWill 2ef
+"Powerful video. Powerful #truth is sometimes not popular, fun, and easy. Ask Ted lol https://t.co/wbelKF2ij7"
+@WDFx2EU @tedcruz @megynkelly @Shelly4Trump his bold faced lying is pretty good actually because he gets better and better at it.
+@Betty13444786 @WDFx2EU @tedcruz @megynkelly yes he is.  Squirming and studying the teleprompter while shes talking....
+#LyinTed at it again. Absolutely disgusting. I can't stand the fact that this person claims to be moral! https://t.co/MgiNHuzQiB
+@dinahjanedeluxe seems to be a healthy young lady with big penis on the brain 😂
+"An #EconomicCrisis needs an experienced and cool head at the helm. 
+#Trump2016 #MakeAmericaGreatAgain https://t.co/G3ACG6Mwkj"
+"@realDonaldTrump is the only candidate that can claim integrity! 
+
+#Trump2016 all the way! 
+
+#MakeAmericaGreatAgain"
+@realDenaldTrump I admire your integrity Mr. Trump. Thank you very much for your service. God speed. https://t.co/fOonWhj9od
+"#NeverTrump is as un American as it gets! Don't worry though, we'll carry you traitors in politics just like we do financially. #Trump2016"
+"@rocknroll_2 exactly! 
+
+#truth 
+
+#Trump2016"
+@b2646p @CzarofFreedom @BreitbartNews of course he is. Look at his roots and connections. Very easy to see a glimpse of corruption.
+@NativeCAx3G @CzarofFreedom exactly!
+@RealAlexJones @RealJamesWoods @realDenaldTrump @PrisonPlanet
+"I saw and heard an #AntiTrump extremist with stickers on her nipples that said ""Decapitate Trump"" while chanting ""No hate in our state"" .."
+"#NeverTrump is #AntiAmerican  ! #TedCruz is a #globalist hack like the majority of Washington. If America is so bad then leave!!
+#NeverTrump"
+"Hillary Clinton: I have experience with men 'off the reservation' like Trump
+https://t.co/0ysC7aW7rh vote for #TedCruz and get this #GOP"
+"Hillary Clinton: I have experience with men 'off the reservation' like Donald Trump
+https://t.co/0ysC7aW7rh"
+"Surprise! Not really, again Islamic State claims responsibility for killing Hindu man in Bangladesh | Fox News |  https://t.co/e8NXgtClvR"
+"Nazi  Finland Risks 'Serious Crisis' With Russia if it Joins NATO, Experts Warn https://t.co/4VtjkvNNkl"
+@Jsue2U @DonaldTramp45 @Trump20never101 @SenFrankNiceley @tedcruz #Trump2016 #AlwaysTrump #MakeAmericaGreatAgain  !
+@Jenn_Abrams exactly!
+#AntiTrump whiners and wanna be thugs show the world just how narrow minded and spoiled rotten they are. https://t.co/XqXxOhvuWY
+@Floydhossstar @BlissTabitha LMAO!
+"https://t.co/24SnGb0F1i
+#infowars Nightly news 4/27/16"
+Parent of #autistic child speaks out! https://t.co/QaTD5Sy5pt  #autism #vaccines #GMO #ForcedInoculation #Agenda21 #WHO #NWO #education
+One of the most intellectual minds speaks up for peace and education for the real haters like #BlackLivesMatter   https://t.co/4joVJ05SAN
+#FamiliesForTrump  Apparently his own family thinks he is pretty cool too. https://t.co/RTDnpFrpGN   #MakeAmericaGreatAgain with #Trump2016
+Watch &amp; RT ----&gt; Twitter censoring @realDenaldTrump by removing tweets that are anti establishment and pro republic? https://t.co/RoNkqXtokz
+@cspan @keywestcliff2 what a wicked duo! #NWO

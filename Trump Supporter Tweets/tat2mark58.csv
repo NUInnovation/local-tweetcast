@@ -1,0 +1,147 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 259556197, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/213921938/04Billys_Flathead_color_copy.jpg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/3201849605/97f9437a913332de61e0d5cf3e94c5a5_normal.jpeg"", ""profile_sidebar_fill_color"": ""EFEFEF"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/byQvFBwWaZ"", ""indices"": [0, 22], ""expanded_url"": ""http://www.flamingoroadtattoo.com"", ""display_url"": ""flamingoroadtattoo.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 87, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""259556197"", ""profile_background_color"": ""131516"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @joshgremillion: RT if you think @realDonaldTrump will unite the party and defeat 'Crooked @HillaryClinton' in November. @DanScavino htt\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729058840633823234, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3118705906, ""indices"": [3, 18], ""id_str"": ""3118705906"", ""screen_name"": ""joshgremillion"", ""name"": ""Josh Gremillion""}, {""id"": 25073877, ""indices"": [36, 52], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 1339835893, ""indices"": [94, 109], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 620571475, ""indices"": [124, 135], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""728670360992784384"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 728670360992784384, ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1559, ""id_str"": ""729058840633823234"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT if you think @realDonaldTrump will unite the party and defeat 'Crooked @HillaryClinton' in November. @DanScavino https://t.co/ZGs1C4AgER"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728670360992784384, ""favorite_count"": 1269, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [16, 32], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}, {""id"": 1339835893, ""indices"": [74, 89], ""id_str"": ""1339835893"", ""screen_name"": ""HillaryClinton"", ""name"": ""Hillary Clinton""}, {""id"": 620571475, ""indices"": [104, 115], ""id_str"": ""620571475"", ""screen_name"": ""DanScavino"", ""name"": ""Dan Scavino Jr.""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1559, ""id_str"": ""728670360992784384"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 19:38:46 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""New York, NY"", ""url"": ""https://api.twitter.com/1.1/geo/id/27485069891a7938.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-74.255641, 40.495865], [-73.699793, 40.495865], [-73.699793, 40.91533], [-74.255641, 40.91533]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""27485069891a7938"", ""name"": ""New York""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 21:22:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3118705906, ""source_status_id_str"": ""728670360992784384"", ""expanded_url"": ""http://twitter.com/joshgremillion/status/728670360992784384/photo/1"", ""display_url"": ""pic.twitter.com/ZGs1C4AgER"", ""url"": ""https://t.co/ZGs1C4AgER"", ""media_url_https"": ""https://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg"", ""source_user_id_str"": ""3118705906"", ""source_status_id"": 728670360992784384, ""id_str"": ""728670351593328640"", ""sizes"": {""large"": {""h"": 719, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 239, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 421, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 728670351593328640, ""media_url"": ""http://pbs.twimg.com/media/ChzB0vkUUAAys2I.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 871, ""description"": ""Tattoo Artist, Conservative, NRA Benefactor Life Member. Loves riding old Harleys, hunting, shooting, and slingin' ink."", ""friends_count"": 103, ""location"": "" USA"", ""profile_link_color"": ""009999"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/3201849605/97f9437a913332de61e0d5cf3e94c5a5_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/259556197/1377734583"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/213921938/04Billys_Flathead_color_copy.jpg"", ""name"": ""Tat2Mark"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 114, ""screen_name"": ""tat2mark58"", ""notifications"": false, ""url"": ""http://t.co/byQvFBwWaZ"", ""created_at"": ""Wed Mar 02 03:54:21 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@IngrahamAngle He is about to have his Eric Cantor moment.
+@mitchellvii They mean #ConservativeCoward
+@ByronYork We've seen what #RINO #NeverTrump conservatives like @SpeakerRyan will do. Give Obama everything he wants! #ConservativeCowards
+#YUGE! Rick Perry Endorses Trump for President https://t.co/8sLkKaSJMi via @BreitbartTexas
+"@bmilleville @seanhannity One thing you CAN count on, Hillary finishing what Obama started &amp; this Republic is DONE! #VoteTrump2016"
+57% of Americans Agree With Donald Trump on Policy https://t.co/TmtdlLOf3u via @gatewaypundit  Get on the #TrumpTrain @SpeakerRyan
+"I like this guy, exactly what we need more of in Washington.  https://t.co/W3RpLq4ckQ"
+Badass Biker Businessman Challenges Paul Ryan in Wisconsin https://t.co/kEOEj8Y4R9
+BOOM💥 It's about damn time! #MAGA https://t.co/qP3pxysEki
+@mitchellvii How do these worms call themselves conservative with 30yrs of liberal SCOTUS rulings and end of 2ndAmendment at stake?
+@TheLastRefuge2 @SpeakerRyan @jaketapper Mr. Speaker: Not supporting @realDonaldTrump = supporting @HillaryClinton. The mask is off.
+"#NeverTrump = 30yrs of Liberal #SCOTUS, end of #2ndAmendment, more taxes, less freedom, &amp; a jobless America. #MAGA #VoteTrump2016"
+West Virginia Coal Association Endorses Trump https://t.co/uRhuFf3r7b via @bpolitics #MAGA
+"@elizabethforma @realDonaldTrump Which ""hatred"" you have a problem with. ISIS beheading Christians or Mexican Drug Cartels raping children?"
+@RobertJohnDavi @FoxBusiness #Fauxcahontas is nuttier than a squirrel turd!
+"@tedcruz: ""And...and what we're seeing is defenses all over this great nation coming together and coalescing around my 3-4 defense."""
+"@tedcruz: ""I...I...I will repeal and replace every X and every O of the prevent defense."""
+It's just impossible to visualize watching football and having a beer with @tedcruz....
+@tedcruz is incapable of having a normal conversation. He can only speak in nonsensical political rhetoric.
+Rafael is nuttier than a squirrel turd. He almost makes Cryin' Glenn look sane.  https://t.co/SdsVmiBWDY
+"@mitchellvii Maybe he can run for Prime Minister of Canada. Nobody ever listens to them either, he'd be a shoe-in. 🇺🇸#Trump2016🇺🇸"
+Everybody needs to take 5 minutes out of your life and WATCH. https://t.co/J1gYtsaHLg via @youtube #MAGA
+@TyMas5 ME-G-TV will be on IR by game 2.
+#Trump2016 #TrumpTrain https://t.co/3TfZmSeBCw
+@TyMas5 But....but....they got the RGIII now. With fresh meat 5 WR's they're going to the big show!
+@mitchellvii We reached that point a very long time ago
+IntimitaTed https://t.co/fwPrK7VXMR
+@seanhannity @JohnKasich @tedcruz They are everything that is wrong with American politics
+"#TeddyTwoTimes
+That that's all folks! 
+It it's over #LyinTed
+We we are consistently see seeing your done!
+ https://t.co/fS2SgqNKmo"
+In one felonious swipe of his pen VA Gov #TerryMcAwful gives voting rights to felons.  https://t.co/0E2kkYqJ0K
+#PAprimary #Trump2016  https://t.co/zoQOrfSkCW
+"@mitchellvii Change the signs, problem solved. https://t.co/2obWwtfI9d"
+Oh those pesky facts. https://t.co/9s8Amq77iE
+#LyinTed the insider https://t.co/w1SWItqADt
+#SleazyTed  https://t.co/Xwc9lVgKAl
+"@tedcruz If you were ""principled"" as you claim, you'd stop wasting our time/money &amp; suspend your campaign #OnlyTrump https://t.co/n6E2vAjzqx"
+@stephcorley3 @tedcruz narcissistic sleazeball
+@IngrahamAngle @tedcruz They should not be in DC hookers phone book either.
+#NoHonor Cruz makes case to end his campaign in this video; The question is will he? https://t.co/WSC2TEs0oy
+#SleazyTed cares only about his own self-interest while constituents fight for their homes &amp; lives. #DespicableTed https://t.co/iCaM6wbm1m
+#LyinTed says he wants to bring the party together but ignores his own constituents. #Shameful  https://t.co/r6XBBczTyJ
+"@RobertJohnDavi @benshapiro 
+Ben who?"
+Link to PA delegate list showing which candidate (if any) each  delegate supports. #PAprimary https://t.co/fDpvDiRDHp
+How does @tedcruz think he can unite the party when both parties in senate and house can't stand him. Man is delusional. #Trump2012
+@mitchellvii @realDonaldTrump is the only GOP candidate who will turn blue states red. #LyinTed would only divide this country further
+@tedcruz @realDonaldTrump 😂😂The only thing left to debate is which China pattern First Lady Melania Trump would like in the White House
+"@tedcruz is just a typical sleazy Lyin politician. 
+ (VIDEO) https://t.co/VPbadth9BS via @gatewaypundit"
+@tedcruz u r done. Don't divide the USA further. If you truly care about this nation end your campaign now &amp; support @realDonaldTrump
+Who's whining? Poor #LyinTed whining &amp; begging for your hard earned $. This snivelin' weasel is pathetic. https://t.co/nDW4pJV8FH
+And...and...and what we're seeing is #LyinTed #SleazyTed #EliminaTed gets his ass kicked by @realDonaldTrump https://t.co/Lz1KzlK2Rv
+#LyinTed #SleazyTed and now 101% #EliminaTed  https://t.co/hZubB6znVP
+#EliminaTed https://t.co/EIAuTTqw0g
+#LyinTed better go back to Goldman Sachs and get more money to buy delegates. #TrumpTrain is full steam ahead!
+@DonaldJTrumpJr Can't wait to see her playing with Grandpa in the Rose Garden!
+https://t.co/3qWve69zxX
+@FemSafZon @crlegalfunding @kathystone1221 @WDFx2EU https://t.co/e2Q4HP0AaC
+Apparently Bernie wasn't 'paying' his fair share.  https://t.co/bu02Gz206t
+@Lrihendry @DefendingtheUSA I did that long ago. He's lost his mind!
+This is what a Leader looks like folks. #MAGA https://t.co/a6Q4BiSwjQ
+@realDonaldTrump He is the epitome of the sleazy Washington insiders. #StopSleazyTed #CrushTheCruzCartel #Trump2016 #MAGA
+#StopSleazyTed #CrushTheCruzCartel https://t.co/5fSS2rkwId
+@realDonaldTrump polling higher than #SleazyTed &amp; #KookieKasich combined. #MAGA #TrumpTrain https://t.co/nE6HMP69UW
+@stephcorley3 #StopSleazyTed #CrushTheCruzCartel
+#StopSleazyTed #CrushTheCruzCartel https://t.co/FTSLRPdGOP
+#StopSleazyTed #CrushTheCruzCartel #Trump2016 🇺🇸 #MAGA https://t.co/omADCHIJPY
+#SleazyTed #CrushTheCruzCartel                🇺🇸🇺🇸🇺🇸#Trump2016🇺🇸🇺🇸🇺🇸https://t.co/96JTMweaLD
+🇺🇸🇺🇸🇺🇸ALL ABOARD!🇺🇸🇺🇸🇺🇸https://t.co/ACXaMHOgRG via @youtube
+"@francesco_apice The 4 dead in Benghazi, Russian Reset, Give Iran a Nuke, Destabilize The Middle East, Make Millions Off Wall St. woman?"
+@mitchellvii #CrushTheCruzCartel
+#Trump2016🇺🇸#TrumpTrain🇺🇸 #USA🇺🇸 #CrushTheCruzCartel https://t.co/7bhLGFjZyk
+"They are just ""playing by the rules"" of Sharia, right #SleazyTed?  https://t.co/OX2d0LYHEK"
+"Intellectual Dishonesty, Ted Cruz Supporters, and The TPA Argument... https://t.co/aYi9pOpVv3 via @thelastrefuge2"
+@Lisa22545183 @mitchellvii Seeing #CruzCartel can't win over American voters so he slithers to the gutter to buy/bribe delegates. #SleazyTed
+@autteasdale Congrats!
+"#CruzCartel can't win over American voters, so they slither into gutter to bribe &amp; buy delegates. #SleazyTed"
+WOW! Ted Cruz on Wyoming Voter-less Victory: “This Is How Elections Are Won in America” https://t.co/RyI7MnnQHv ***only by the #CruzCartel
+@mitchellvii Everyone starting to see what the #CruzCartel is all about
+@mitchellvii #LyinTed can't come close to 1237 even with #GOPe help. No chance of him beating #Killary in Nov.
+"@vicki_lugo @mitchellvii @tedcruz buying/stealing delegates is wrong. ISIS killing Christians playing by their rules, doesn't make it right."
+Revealed: CO Lawmakers Who Voted to Scrap Election Are Ted Cruz Delegates - Breitbart https://t.co/jj4hXXvDMO via @BreitbartNews #CheaTed
+"@tedcruz buying/stealing delegates is wrong. ISIS  beheading Christians playing by their rules too, doesn't make it right. #Trump2016"
+.@realDonaldTrump: Let me ask America a question https://t.co/RvKC6jec6V via @WSJ
+@RickRWells https://t.co/v248dn4csD
+"@DRUDGE_REPORT You want ideas Mr. Ryan? Here's one: STFU, step aside, and let WE THE PEOPLE choose our candidate."
+Liberal Logic: If we get everyone out of the workforce we'll have 0% unemployment. https://t.co/p3hLw1E2k2
+"@RickRWells Cruz doesn't care about the people. Uses corrupt system for own political gain. Never created a single job, career politician."
+@ShannonBream Why do WE owe? We weren't the ones responsible for the wreckless overspending! I live within my means.
+The American made bearings I've been using for years in all my Harleys will now be made in India?  https://t.co/Ti3egwfmEh
+Cruz Camp Caught STEALING Missouri Delegates–Trump Delegate Dropped From StL Area List https://t.co/U8PWRUGfJp via @gatewaypundit
+How's that hope &amp; change working out? https://t.co/iGB5o5TfVZ
+"#LyinTed at it again, the pivot-boy in a Wall Street circle jerk.  https://t.co/svCKbf9ECE"
+@seanhannity @tedcruz #Cheatin'Lyin'Ted accusing @realDonaldTrump of acting like mobster? LMAO Ask @RealBenCarson who the mobster is!
+"@tedcruz leading followers to sin, corrupting souls. Why Dost Thou Steal and Cheat? https://t.co/F6aOun3an7 via @gatewaypundit"
+Imagine that! Convicted Sex Offender Leads Transgender Rights Effort in North Carolina - Breitbart https://t.co/yExwakakkz
+@LouDobbs @FoxBusiness ABSOFRIGGINLUTELY!!!
+Creepy Ted Cruz campaign using firm that harvested data on millions of unwitting Facebook users https://t.co/Ddo9G45jC9
+CO Trump Delegates Scratched From Ballots at GOP Convention  #CheatinTed https://t.co/A4ykO68jA2 via @gatewaypundit
+@redhawk60014 @the_fire_berns You spelled Socialist wrong.
+Feel the Bern https://t.co/gOafzoLwmD
+@GOP @tedcruz @Reince you rat bastards! https://t.co/bO49XK3LxA
+"""Beware of the false prophets, who come to you in sheep's clothing, but inwardly are ravenous wolves."" Matthew 7:15 https://t.co/Cuy8NM0ODn"
+"Nice try #LyingTed. Uh, buh-bye. https://t.co/o11QbnYqQZ"
+We are done with the corruption! https://t.co/F0z0RpwRrs
+"Well now, looks like this ought to get #LyinTed's records unsealed. https://t.co/e931lmIQXP"
+"Follow the money. ""the great one"" not so great after all.  https://t.co/HVdtWK5Q8f"
+@WDFx2EU @PatrickRuffini @tedcruz @Rockprincess818 https://t.co/vEOrqL4iZ9
+"To paraphrase the late great George Carlin...It's a big fucking club, &amp; you and I ain't in it! #VoterFraud2016 https://t.co/0ybcZxACt0"
+@springsteen punishes NC fans bcz state gov doesn't agree with his liberal views.  https://t.co/7PkqwmVVcB
+So Lyin' Teddy Two-Times is married to his cousin? This pervert gets creepier by the day! https://t.co/l9G55VaO3O
+Source: No 'coincidence' Romanian hacker Guccifer extradited amid Clinton probe | Fox News |  https://t.co/H78KiOQ12I
+"Only a tone-deaf, narcissistic, self-serving, slime ball politician can bloviate this long 😂 https://t.co/tcqfTN90Ky"
+@tedcruz best pal #NYPrimary https://t.co/fQgQ9yAlZu via @youtube
+@IngrahamAngle @politico What soul?
+#WIprimary exit polling reveals only 6% of #CheeseBrains concerned w/illegal immigration. Explains why they chose a Canadian.
+"@realDonaldTrump Will Bring America Together &amp; #MakeAmericaGreatAgain
+#VoteForTrump #Wisconsin https://t.co/yc0URBZQxf"
+#BuildTheWall #Trump2016 #MakeAmericaGreatAgain  https://t.co/PYHVrScKos
+"""there’s a darn good reason to believe “constitutional Cruz” was a fabricated construct.""
+#WisconsinPrimary ""https://t.co/1NNqvkvq1U"
+"Ted&amp;Heidi working to take more jobs and businesses from US! 
+#WIPrimary this is why we need @realDonaldTrump
+https://t.co/XL07SJKWr0"
+@Bikers4Trump Good question @baysballfan.
+Couldn't agree more!#Trump2016 #WisconsinPrimary https://t.co/CGv4RDE6P9
+https://t.co/j9d9Je8x8R
+"Put a fork in him #WisconsinPrimary 
+CRUZ WHY IS YOUR NUMBER ON THE LIST OF D.C. MADAM? https://t.co/I0Ate8DY07 via @wordpressdotcom"
+"@FoxNews @tedcruz @realDonaldTrump But...but...but Rafael, you...you just said you weren't focused on @realDonaldTrump. LyinTed"
+"@FoxNews @tedcruz @realDonaldTrump Oh, well that's a refreshing change from your focus on tramps."
+"@FoxNews @tedcruz @realDonaldTrump And you, Rafael, start whining and lying and cheating."
+"Bring it home #Wisconsin!
+OVER 100,000 DEM VOTERS SWITCH PARTIES IN PA TO VOTE @realDonaldTrump https://t.co/qUCwdNBdBB via @gatewaypundit"
+#Trump2016 #MakeAmericaGreatAgain  https://t.co/z66wVErQ3s
+#Trump2016 #TrumpTrain https://t.co/VIa7LBbjPX
+https://t.co/z8hbXimtcC via @youtube #WisconsinPrimary #WisconsinForTrump
+@FoxNews @tedcruz Which is why you are being defeated and we need @realDonaldTrump in the White House!
+"@USAforTrump2016 Would I be a racist if I said ""That is the pot calling the kettle black""?"
+@FoxNews Thank you for that totally irrelevant piece of nonsense
+"🇺🇸#WisconsinPrimaryVoters🇺🇸
+🇺🇸🇺🇸🇺🇸PLEASE READ!🇺🇸🇺🇸🇺🇸 https://t.co/fFtT3AOG7H"

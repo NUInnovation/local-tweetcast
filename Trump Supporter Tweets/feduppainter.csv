@@ -1,0 +1,109 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": true, ""id"": 4504249515, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 128, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4504249515"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Veteran4Trump: 600 requests for HELP\u203c\ufe0f Hillary Clinton never sent it, then lied about it! As a result, 4 Americans Died #Benghazi https\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729377027204206592, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3293118434, ""indices"": [3, 17], ""id_str"": ""3293118434"", ""screen_name"": ""Veteran4Trump"", ""name"": ""Veterans For Trump""}], ""hashtags"": [{""indices"": [124, 133], ""text"": ""Benghazi""}], ""urls"": [], ""media"": [{""source_user_id"": 3293118434, ""source_status_id_str"": ""729339529694347264"", ""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg"", ""source_user_id_str"": ""3293118434"", ""source_status_id"": 729339529694347264, ""id_str"": ""729339523709083649"", ""sizes"": {""large"": {""h"": 408, ""resize"": ""fit"", ""w"": 726}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729339523709083649, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 233, ""id_str"": ""729377027204206592"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""600 requests for HELP\u203c\ufe0f Hillary Clinton never sent it, then lied about it! As a result, 4 Americans Died #Benghazi https://t.co/3DL7WkGsMu"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729339529694347264, ""favorite_count"": 198, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [105, 114], ""text"": ""Benghazi""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg"", ""id_str"": ""729339523709083649"", ""sizes"": {""large"": {""h"": 408, ""resize"": ""fit"", ""w"": 726}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729339523709083649, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 233, ""id_str"": ""729339529694347264"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 15:57:49 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg"", ""id_str"": ""729339523709083649"", ""sizes"": {""large"": {""h"": 408, ""resize"": ""fit"", ""w"": 726}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729339523709083649, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg""}, {""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9UYAAkYSG.jpg"", ""id_str"": ""729339523709034496"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 711}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729339523709034496, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9UYAAkYSG.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 18:26:49 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3293118434, ""source_status_id_str"": ""729339529694347264"", ""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg"", ""source_user_id_str"": ""3293118434"", ""source_status_id"": 729339529694347264, ""id_str"": ""729339523709083649"", ""sizes"": {""large"": {""h"": 408, ""resize"": ""fit"", ""w"": 726}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729339523709083649, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9VIAEWMti.jpg""}, {""source_user_id"": 3293118434, ""source_status_id_str"": ""729339529694347264"", ""expanded_url"": ""http://twitter.com/Veteran4Trump/status/729339529694347264/photo/1"", ""display_url"": ""pic.twitter.com/3DL7WkGsMu"", ""url"": ""https://t.co/3DL7WkGsMu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8ibr9UYAAkYSG.jpg"", ""source_user_id_str"": ""3293118434"", ""source_status_id"": 729339529694347264, ""id_str"": ""729339523709034496"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 711}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729339523709034496, ""media_url"": ""http://pbs.twimg.com/media/Ch8ibr9UYAAkYSG.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1234, ""description"": """", ""friends_count"": 168, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": null, ""name"": ""Deb Carter"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1653, ""screen_name"": ""feduppainter"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Dec 16 15:42:00 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@catlatona333 @Carolin17951107 @Siv_Jensen_FrP Norway needs to stop this abuse NOW
+@mitchellvii SHE LEFT HER VENUE A MINUTE IN SHE GOT HECKELD  BY HISPANICS
+@Eddie_dante @rescuetracker81 @Veteran4Trump NO SHIT you have wiped your ass on our constitution rights can't wait till they impeach you
+@NavyVets4Trump @WalshFreedom TO. BAD THE PEOPLE HAVE COME OUT BY THE MILLIONS SAYING STOP. THE MIGRATION SEAL THE BORDERS  They don't care
+@Pjdahling @tymadisonmom WHERE ARE BIKERS FOR TRUMP ! PLEASE LOOK OUT FOR TRUMP.
+@Freedomrings22 @100PercFEDUP HIS WHOLE PRESIDENCY has been reality TV # BEAR GRILLS
+@risetoflyy SOMETHING SINISTER GOING ON ! They use explosives on oil fires to suck the oxygen out why cant they do that
+@trsspike @Eliz_Hightower @OPiMeme WHATS BEING DONE TO FIX IT BEFORE ELECTION
+@MeticulousPaul @BigStick2013 THIS IS NO LONGER RYANS PARTY THIS IS A MOVEMENT TO OUST THE BAD BLOOD IN WASHINGTON WE ARE THE NEW PARTY !
+@risetoflyy WTH does that mean ? What the hell is he pulling now ! IMPEACH HIM THIS HAS GONE TOO FAR
+@lastpatriotsusa @BarbMuenchen Not to mention she knew the rules about servers she chose not to comply others were admonished for them
+@DaGodfather907 Id pay for handcuffs to cart her Ass of to prison
+@NavyVets4Trump @janimine THIS MOVEMENT IS AN ATROSITY. These people are not benefiting to our country's this is a genocide on these nations
+@paccobella1 @RichardTBurnett THIS MAN HAS RUINED THIS COUNTRY TO GIVE HIM A APPROVAL RATING POLL SHOWS HOW WRONG THE POLLS ARE  RIGGED
+@residentfFL @clasimpmv @jimhen68 Its not racist to not want immigrants that are undesirable to live among us an not to mention terrorist
+@DragonsDen1967 @rescuetracker81 @tofiesty4u @immigrant4trump And she's worried about Trump she's gonna pass out cold staffs problem to deal
+@rescuetracker81 @Trumpazona Major kissing ass must save her own ass
+@nmsaints87124 @JoanFr2 Kerry is an embarrassment to our country the mans a disgrace ! Didn't he throw away his war medals in a hissy fit
+"@risetoflyy @SpeakerRyan He really should resign ,we are so done with him stop being relevant to our needs doesn't belong to the party over"
+@GaetaSusan This reminds me of the movement in the 70s when we had enough of the Establishment an the Vietnam war all hell busted loose Time
+@QuinnBx @theblaze @MittRomney Haahaa  he's joking right ! So he can be a 2 time loser !
+@redletter99 @JebBush @BigStick2013 @gatewaypundit Jeb was there for his brother in Florida # Hanging Chads
+@dkm177 @rescuetracker81 Never had any respect for him to begin with he's a turn coat traitor for the Dems
+@TeamTrumpAZ @delew38 She has more brains than the Bozos that are in there now Love PIRRO
+@TrumpMyPres Oh I beg to differ he would be the first to cut Americans throat war $$$ for him Haliburton his baby
+@TrumpMyPres @realDonaldTrump @Lrihendry @LeahR77 @ChristiChat DONT believe anything that devil viper says reason we went to war $$$ for him
+@barbarabee2u @tymadisonmom NO ASSHOLE ITS YOUR JOB TO SERVE AN PROTECT THE CITIZENS THAT PUT YOUR SORRY ASS IN OFFICE
+@exposeliberals @HouseCracka Has his nose up DEMS ASSES
+@Kotcha301 @ninja_kach @mitchellvii Yea like when your brother went around it an the united Nation  # No NUKES
+@Latinos4Trump16 @CNN @watchup THIS GUY IS THE LAST GUY I WAANT ON OUR TEAM Back stabbing evil snake viper
+@TIMENOUT @ChristiChat @YouTube Hell even they think he's nuts ! OUR SHIT AINT RIGHT WORLD THINKS HES LOST IT THEYR RIGHT IMPEACH NOW
+@JeffFitzgeral10 @FoxNews @newtgingrich AMEN CAN I GET A HELL YEA
+@FoxNews @Don_Vito_08 @newtgingrich @realDonaldTrump COME ON NEWT HELP TRUMP TAKE THE TRaSH OUT YOU KNOW FORMER SPEAKER
+@Irinasenesh @rescuetracker81 So much for the Queen Did she go along to sell them out
+@MirageRanch @ByronYork @jpodhoretz THEY THINK WE RE FOOLS BOY DID THEY THINK WRONG  We see who you are
+@KatrinaPierson @residentfFL PACKED STADIUM AS USUAL
+@JohnKStahlUSA @rescuetracker81 WOW IVE been saying that she don't draw the people like Trump or Bernie for that matter THEY ARE BULLFING us
+@brianfortrump1 @Carolde @BarbMuenchen @TRUMP_NOW2016 @SpecialKMB1969 @NewportLost STOP FILLING THEIR POCKETS Don't play their game no lotto
+@LeahR77 @ChristiChat DONT DRINK THE KOOLAID THEIR SERVING  Hazardous to your FREEDOM
+@DRUDGE_REPORT @MirageRanch THIS GUY IS ONE OF THE MOST DISGUSTING RUTHLESS PEOPLE ON THE PLANET TALK ABOUT DEADLY SNAKE VIPER EVIL AT CORE
+"@MitchBehna @_CFJ_ @WayneDupreeShow Rauner won't support Trump after landslide vote in ILL , being a biker also ya think he'd support Trump"
+@Johnathin79 SOMETHINGS NOT RIGHT NEVER HEARD OF FIRES LIKE THAT IN CANADA
+"@AIIAmericanGirI @fpmag Not his call that's prejudice against freedom of religion , what about eat where you want can't force your opinions"
+@GodfreyElfwick @JulianBurnside THEY ARE JOKING Do they really think we will change our lives to accommodate them delusions are rampant
+@Eliz_Hightower WOW HOW CAN SHE SLEEP AT NIGHT AFTER THIS SHE WENT BACK TO SLEEP THAT NIGHT
+@RepDelegate @Patriotic_Me @realDonaldTrump @gypsyjoo @us_reps @USSenators @RealAlexJones @tcot @GOP @BernieSanders WHATS WRONG WITH HIM NUT
+@HenryMakow @ed_hooley SO HES SAYING HIS DAughters should pee with trannies
+@AIIAmericanGirI @theEagleiRising THIS IS ON CONGRESS THEY BETTER NOT COMPLY ! STRW &amp; CAMLS BACK
+@TrumpLion1776 @Eliz_Hightower THE PEOPLE WILL TURN UP FOR TRUMP
+@CarmineZozzora @LindaSuhler @tedcruz THE NUMBERS ARE ON HIS SIDE WE THE MAJORITY GOT THIS  NO HILLARY no slaves to ELITE GLOBALIST
+@Varneyco @Eliz_Hightower THE ELITES CONTROL AGENDA 21
+@slone @latinos4Trump AND WE KEEP ADDING ON TO THAT LIST ! POWER IN NUMBERS  wise up or lose
+@surftheturf @003a04f8c2054b7 YOUR SO RIGHT CORRUPTION HARD TO GIVE UP
+@prolifewill @seanhannity @realDonaldTrump THIS IS SO CLEAR HOW CORRUPT THEY ARE
+@QuinnBx @fiddlestix007 Trump won ILL by big turnout But our Gov won't back him Bikers 4 Trump back him Rauner Rides why wouldn't he back us
+@AIIAmericanGirI @theEagleiRising SHES NOT THAT STUPID OR IS SHE
+@Barracuda2016 @rescuetracker81 @asnowrose SERIOUSLY WE THE MAJORITY SAY OTHERWISE  POWER LIES IN NUMBERS
+@Eliz_Hightower @seanhannity @newtgingrich @GeorgeHWBush No the Bushes will work behind the scene to help Clintons keep power in ELITES CLUB
+@AIIAmericanGirI @CurtisHouck DEACE IS A dunce
+@AiryDisk56 @003a04f8c2054b7 LET THE BUNDYS OUT OF JAIL TRUMPED UP CHARGES TRYING TO STEAL THEIR RANCHES
+@mimibra4u @RichardTBurnett NO WAY SHE WAS IN THE BUSHES TRIBE
+@michael_favreau @BarbMuenchen @CNN MEDIA IS CONTROLLED BY OBAMA  NOT LISTENING. INFOWARS  ALEX JONES
+@stepheng1500 @Tamaralynn212 @TheLastRefuge2 @SpeakerRyan THE MAN IS DESPICABLE HOPE HE LOSES IN WISCONSIN
+@paulamjohns @steph93065 THIS MAN IS SO DISGUSTING LYING TED THE COCKROACH JUST WONT GO AWAY
+@benshapiro @Bidenshairplugs THIS GUY IS DELUSIONAL NO WAY CRUZ GOP WILL FOLD
+@cristinalaila1 @FiveRights SHE AN MERKEL SOLD OUT THEIR COUNTRIES
+@PrisonPlanet @DRUDGE_REPORT DONT BELIEVE MEDIA LIES Only true source INFOWARS ALEX JONES
+@LeeHempfling @Carolde @SpeakerRyan I AGREE HE HAS SHOWN HIS TRUE COLORS
+@CNNPolitics @WA4Trump What a lier he's still sucking Muslim Koolaid
+@FreeBeacon @karma1244 HAAAHAA YOU GOT TO BE JOKING RIGHT No he's the most vile lying traitor America has ever seen he is done
+@Latinos4Trump16 Paul the traitor still thinks he can pull a fast one NO PRESIDENCY FOR YOU NOT HAPPENING
+@VickyBrush @ChuckJo47256398 @SpeakerRyan @jaketapper @realDonaldTrump Told you Ryan's a traitor still waiting to pull fast one VOTE HIM OUT
+@Bidenshairplugs George Will hope Trump wins it will blow that hair piece right off your head
+@AIIAmericanGirI @BreitbartNews THAT SHOW IS DISGUSTING LEFTWING BS
+@Dinky_1953 @sookie1_ @ClubSpeaks NEWS FLASH CRUZ IS. NOT TO BE TRUSTED STILL TRYING TO STEAL DELEGATES
+@ClubSpeaks @USATrustTrump THIS WOMAN IS A SICK JOKE ON AMERICA THE WOMAN SHOULD BE IN JAIL
+@irritatedwoman DONT COUNT ON IT
+@bogiebeagle2 @rescuetracker81 @michaelkeyes @KrisParonto I would suggest all those Hillarys supporters see 13 Hours an see how you feel !
+@gary9758 @BigStick2013 YEA THEY WILL BE HELPING CLINTONS IN BED TOGETHER
+@streetbear57 @dhiggins63 @cut_the_crap_ec COME ON BEAR Help defeat Hillary &amp; Globalization  please vote for TRUMP
+@misstozak @tymadisonmom @realDonaldTrump THATS A GREAT MIDDLE NAME CAUSE SHES ROTTEN TO THE CORE.
+@tymadisonmom BEST NEWS I HEARD YET ! NEWT
+@HouseCracka @AnnCoulter WE ARE ONLY HELPING GOV BY PLAYING THAT POWERBALL  FUNDING THEM BOYCOTT
+ChristiChat @newtgingrich THE MAGIC WORD IS CERTIFIABLE CRAZY  TRUMP SHOULD PICK GINGRICH
+@karma1244 TRUMP TELL THAT MEXICAN PRES TO KEEP HIS PEOPLE FROM COMING OVER OUR BORDER IF HES. TRULY ON YOUR SIDE
+@WayneDupreeShow @residentfFL TRUMP REMBER THE SNAKE STORY BEWARE THEY ARE EVERYWHERE GOP
+@LeahR77 @residentfFL Merkel an Clinton are fellow elites trying to destroy their countries for GREED &amp; POWER
+@Defund_DC HILLARY WANTS TO FINISH OFF AMERICA FOR GLOBALIST GREED AGENDA 21
+@Bonfiredesigns @RichardTBurnett @Always_Trump TRUMP HAS PULLED THE CURTAIN BACK. ON ALL THE CORRUPTION IN WASHINGTON ABOUT TIME. WE ALL SEE
+@BigStick2013 @politico I HOPE ARIZONA IS DONE WITH MCCAIN he has turned his back on vets
+@ggeett37aaa @ninja_kach WE CANT DO IT SOON ENOUGH
+@IAmSuperTrump @residentfFL @BevLover1 @TrumpBrowardFL THEY SPENT US INTO OBLIVION
+@RJGatorEsq @tymadisonmom TALKS OUT BOTH SIDES OF HIS MOUTH DONT TRUST ANYTHING HE SAYS
+@EDinCali @tymadisonmom @realDonaldTrump @wolfblitzerHOW ABOUT NO MUSLIMS We are done
+@MartyGreen15 @tymadisonmom @KevinGreen1313 @realDonaldTrump GOOD WE DONT WANT THE BUSHES BEHIND TRUMP BECAUSE THEY ARE INBED WITH CLINTONS
+@duanedr1969 @ChristiChat THE PEOPLE vs THE ELITES &amp; THE ADIMINistration Vote TRUMP
+@OnlyHotyP @tymadisonmom Paul Nehlen is a great alternative to that traitor Ryan
+@irritatedwoman I have one word for that Monsanto
+@irritatedwoman Something really strange about those fires never heard about fires like that in Canada
+@karma1244 BOY SHE HAS HER NERVE WELL WE CERTAINLY DONT WANT HER CRIMINAL ASS
+@FoxNews @ChristiChat @realDonaldTrump CRUZ IS DISGUSTING NO ONE NORMAL WANTS HIM
+@FoxNews @ChristiChat @realDonaldTrump @JohnKasich NOOO KASICH PLEASE
+@karma1244 By the way Stones TRUMP way more popular than Hillary the Communist
+@karma1244 Come on guys don't be sucking the Clinton Koolaid  I've been a fan of yours since day 1. Mick don't be manipulated
+@MStuart1970 @tymadisonmom @smyrow He is against this country vote him out
+@TheLastRefuge2 @HouseCracka They are all wondering what to do next Don't forget George Will in the bunch of sour grapes We exposed them
+@TheLastRefuge2 @HouseCracka @marklevinshow I think Trump has great advisors we all need to just support him he knows what he wants to do
+@Carolin17951107 @worldnetdaily IM ON BOARD NO MORE REFUGEES  who else thinks so

@@ -1,0 +1,164 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 714306158165516290, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""United States"", ""url"": ""https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""96683cc9126741d1"", ""name"": ""United States""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728081855447080960/5qrC1_13_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 218, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""714306158165516290"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 12, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729424631455612928, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729424631455612928"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:35:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 2027, ""description"": ""About that Alaska life. I'm a terrible texter. Don't hate, my fingers need helmets.\n#MAGA #AmericaFirst #Trump2016"", ""friends_count"": 192, ""location"": ""United States"", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728081855447080960/5qrC1_13_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/714306158165516290/1459165895"", ""profile_background_image_url"": null, ""name"": ""Curmudgeon\u2668"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1902, ""screen_name"": ""CurmudgeonAce"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Mar 28 04:20:34 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"lmao these pundits STILL don't get it.They keep saying the same things of why Trump is going to fail all as he keeps succeeding
+
+#delusional"
+@Surfingcity @Destinbeach22 it really is...jim jones all over again. #cruzcult https://t.co/GkrqmYL9WX
+@elizabethforma @realDonaldTrump yeah? if thats the case lets see a dna test proving ur native...why is your salary 400k  as a professor?
+https://t.co/jFDGwy5Wp6
+@lambert_craig @mitchellvii the min wage does need to be raised..its called inflation..doesn't mean $15 but it does need to be raised
+@VictReactionary @BillKristol finally someone gets it
+@BillWaters7 @blaubaugh @BillKristol yeah? so how have the republican senaors been working out so far...find a better argument
+@jpwilloughby @BillKristol keep fueling the fire...we will just grow stronger..enjoy the show
+"@BillKristol @seanhannity @newtgingrich @HillaryClinton so what exactly have the ""conservatives""done for us in the last 12 years..#rinos"
+@FirstTeamTommy @BenSasse lmao you're no republican...anyone who would vote her in is mentally ill.
+@BenSasse because the people have spoken and you work for us....don't like your party nominee too bad...man up and stand behind your party..
+@Campaign_Trump i see 3 idiots going to jail...
+"@NH92276 you must be one of those ""real conservatives"" #cruzcult"
+@dhiggins63 you're a goodman
+"@BenHowe @thedailybeast you must be one of those ""real conservatives""...."
+@BenHowe about as much time as you spent giving your opinion on others opinion
+@Reince @realDonaldTrump @GOP @HillaryClinton THANK YOU! took long enough
+@seanhannity trump #hannity trump
+@GeraldoRivera @LindseyGrahamSC @realDonaldTrump looks like LG will be looking for a new job soon
+@asamjulian @Americanmama521 he is our blue collar billionaire...#AmericanDream
+#beautiful https://t.co/WB8fEoEngw
+@CruzJan2017 @PJKirk7 @kirk_pj pretty sure its a bogus poll...no other news station has covered it. it also offers zero poll details
+@BECLAIMSMART @bhazpa you always know a primary is coming up...the anti trumps flood the stations
+@realDonaldTrump we are behind you 100%. We hold the cards now. #maga #trump2016 #POTUS https://t.co/EEsdbzqEg3
+@JulesRollTide @Midgespeaks @LarryFreeborn #CroutonCruz
+@cnnbrk #BernieBrownShirts at it again I see
+@FiliusLiberatus @DeepSouthProud and you want to talk comprehension?
+@FiliusLiberatus @DeepSouthProud what dont you understand the basis of your argument is trumper...the rest is details..
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 im gullible? you havent said one thing on your own...all have been Cruz propaganda lines
+@peterclik the irony..good try better luck next time
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 he gave cruz money...hes given more to reps.cruz co sponsored bills with schumer..try again
+@shookw @StevenKorbel @realDonaldTrump said no to what? so what cruz says is the gospel and everythig trump.says is bogus.?
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 as oppsosed to cruz and his generalities...how is he going to accomomplish all his promises?
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 lol he hasnt released his tax plans?! they have been out.4 months.
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 unless you are a hedge fund manager your taxes arent going up...do some research
+@shookw @StevenKorbel @realDonaldTrump where in there does it say he is going to raise taxes? by your logic i can say cruz is raising taxes
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 lmao way to regurgitate propaganda spewed by cruz...show me where he will raise taxes
+@shookw @StevenKorbel @realDonaldTrump @LeahR77  by all means show me his tax plan that shows he is going 2 raise taxes on us.i'll b waiting
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 on the super wealthy..which is in his tax plan which also shows he lowers taxes for the rest
+"@FiliusLiberatus @DeepSouthProud smh...were you or were not talking about ""Trumper"" who has nothing to offer but name calling.."
+@FiliusLiberatus @DeepSouthProud no your basis was on Trumpers...the very premise your argument was towards...try again..
+"@peterclik you literally just described cruz.  zealot blew that argument up against DT
+heres a refresher on cult
+https://t.co/T1cgQoUbee"
+@FiliusLiberatus @DeepSouthProud so trumper isnt name calling?  Trumpers was the basis of your argument...whats it going to be?
+@FiliusLiberatus @DeepSouthProud so trump is responsible now for Cruzs daughter hating him....or when cruz blamed trump for brussels...hmm
+"@peterclik trump cult huh...cant think of https://t.co/DaXbFgSHcb you copy and put a https://t.co/NxumYUdIYY. ""yes we will"" a spin.of obama"
+@DeepSouthProud @peterclik @mtff95 you are right...my bad
+@FiliusLiberatus @DeepSouthProud its twitter...i see you have no argument so you resort to grammar...imagine that
+@DeepSouthProud oh so a factual counter argument is now making excuses...my messiah? im not the one following a religious nut...
+@peterclik @mtff95 @DeepSouthProud so anyone not in #cruzcult is a lib/dem? ..reagan must have missed the memo of a a con. only club
+@DeepSouthProud palin is who got cruz elected.... bohner never endorsed dt...cruz was his lawyer though...graham bush right to rise....
+@DeepSouthProud you cant choose who endorses you but you can choose who you stump with and people who introduce you
+@mtff95 @DeepSouthProud umm...cruz is owned by them...find a better argument...
+@DeepSouthProud he isnt running around with looney tune beck nor being introduced by a pastor who calls for the genocide of gays.
+@FiliusLiberatus @DeepSouthProud sounds you are mistaken for Charlatan Cruz.
+@DeepSouthProud no guilt here. just not a fan of charlatans using religion to veil their hunger for power
+@DeepSouthProud yeah? kind of seems the other way around..you are supporting a dime a dozen politician and #Obama2.0 https://t.co/3eFKRNvQ2h
+@DeepSouthProud enjoy #cruztown https://t.co/c6g5uHQx96
+@DeepSouthProud why would you vote for  a lifelong politician? Cruz is a Bush...look at his associations. he is no outsider.
+@DeepSouthProud the irony...cruz is OWNED by super pacs.....he cant wipe his ass now w/out permission
+@DeepSouthProud yeah he is being honest about it. Trump isnt perfect but he is no Charlatan like Cruz
+@DeepSouthProud are you ok with jim jones?
+"@DeepSouthProud why did cruz give fiorina 500k? now shes his vp...hmm
+what felony? pretty sure there would be charges.are you a lawyer now?"
+"@DeepSouthProud probably alot.he's openly admitted he paid them in return for favord, thats why he isnt accepting money. what is your point?"
+@BillKristol @USARebelSway that is fine...move then...i hear europe has become a lovely place to live....
+@librtee2 @mlong42947 @BreitbartNews seems to be quite the pattern in the cruz campaign...
+@jacobus4853 @SenTedCruz @Patrici15767099 you're right...he is too busy doing that for his puppet masters
+@DeepSouthProud he donated to cruz soo....
+@MJosephSheppard @cathymcmorris has my vote
+@umpire43 @jkc_jaycee @WSJ usually they come.up the day after
+@mitchellvii @YouTube her falling is foreshadowing the @tedcruz  campaign
+@BreitbartNews the irony....
+@Sousamagic @DrJerryFowler @FoxNews @realDonaldTrump @tedcruz yeah?  Reagan must have missed that memo...
+@slappywhite2001 as opposed to what exactly? cruz whining about trump...spreading falsehoods...how is cruz going to do anything he says...?
+@shookw @StevenKorbel @realDonaldTrump @LeahR77 pp is a dead cause..roe v wade is a dead cause...btw he is lowering taxes not raising.
+@texas66 @LeahR77 @drewwyatt we are awake...we arent dems/repubs libs/cons we are Americans sick partisan politics
+"@bakerlarry84 @DrJerryFowler @FoxNews you ""conservstives"" are the minority...btw its not the conservstives party."
+"@Sousamagic @DrJerryFowler @FoxNews @realDonaldTrump @tedcruz didnt know it was the ""conservative""party."
+@Ohmaar1 @izzytina @CoFemale @asamjulian @pmbasse whats your excuse for all the dems/inds that voted for reagan? cant win w/out x over
+@HillaryClinton #CrookedHillary will pocket all the money...
+@elliosch @bhazpa lol well since https://t.co/dZVnU3z0My news source has said anything baout this so im guessing its bogus...
+ummm im guessing this is bogus since.not one network has covered it
+@catalishus @UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains @ErinRehman you must be a real intellect...1st ballot it will be done
+@UNDEADSLAUGHTER @AlanAshton10 @22Americanfirst @KenDiesel @TXhighplains ahhh someone is lil grumpy...mommy forget your winky?
+@catalishus @UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains @ErinRehman thats fitting since cruz is #eliminaTED. DT WILL ge1237+
+@UNDEADSLAUGHTER @AlanAshton10 @22Americanfirst @KenDiesel @TXhighplains whats that?
+@UNDEADSLAUGHTER @AlanAshton10 @22Americanfirst @KenDiesel @TXhighplains yeah? cruz says something similar hmmm....
+@UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains @ErinRehman idk...nevertrump...ignorant memes...pro cruz thread..gee idk
+"@AlanAshton10 @UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains yeah and so has MILLIONS of others... #cruzcult
+#cuck"
+@stranahan @BreitbartNews he drops out after tuesday...all the money will dry up
+@UNDEADSLAUGHTER @ErinRehman @22Americanfirst @KenDiesel @TXhighplains yeah and wtf are you going to do? clickity clack at at us?
+@UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains @ErinRehman https://t.co/F0uYm50TRl
+"@UNDEADSLAUGHTER @22Americanfirst @KenDiesel @TXhighplains @ErinRehman the irony...
+https://t.co/YczKUwNnTT"
+@honor_dennis @Billhic02785574 @JayS2629 it was released this morning dont be ignorant...
+@greta he was an embarrassment? It was almost as bad as listening to Ted Cruz
+"@arnion2 @WSJ @hookjan have you looked at Cruz's? it's just as bad but hes the one with ""real christian values"" right.  Cruz is a charlatan."
+you always know when a primary is w/in 3 days ALL news sta. go anti trump &amp; TC supporters come out of hiding. Its been old and its pathetic
+@arnion2 @WSJ @hookjan i already have decided..Cruz is a charlatan who uses religion to veil his hunger for power.
+@arnion2 @WSJ @hookjan lmao they have...must have missed the months of all.out.assaults...there is nothing left. Cruz is the only real fraud
+@Shekaymal @WSJ one non scientific poll has cruz up...its.a psyche poll...bogus
+@jmartNYT @bhazpa lol cruz already spinning it to California now will decide his faith...
+is Cruz for real right now? @jaketapper is a joke for letting him go on like this
+@jaketapper what joke letting @tedcruz spew his absolute bullshit and not calling him on it.
+@thepinkcrab @YungNamek @ShlomoHolowitz actually cults pertain to minority sects w/in a populatiom..pretty sure that encompasses #cruzcult
+@ErinRehman @KenDiesel @TXhighplains @22Americanfirst uh huh...you can go sit on the bench with everyone else who has bee  wrong..enjoy :-)
+@KenDiesel @ErinRehman @TXhighplains @22Americanfirst project much?
+@KenDiesel @ErinRehman @TXhighplains @22Americanfirst he will get there june 7th...its over kid..cruz will drol out after his loss in Ind
+@KenDiesel @ErinRehman @TXhighplains @22Americanfirst the irony..
+@KenDiesel @ErinRehman @TXhighplains @22Americanfirst lmao yeah? so whats your next excuse after he secures 1237 and is the nominee
+@ErinRehman @KenDiesel @TXhighplains @22Americanfirst your boy is out.of the race #cruzcult #eliminaTED https://t.co/NEJW50C5Ww
+@ErinRehman @KenDiesel @TXhighplains @22Americanfirst https://t.co/4BANxhcbDz
+@American1765 @YahooNews the logic of saying more people dont want DT so they give it to TC always blows my mind since more dont want TC
+@TXhighplains @22Americanfirst @KenDiesel @ErinRehman cruz couldn't even get a majority in his own state...pretty sad really
+@joy_of_soul @bhazpa do you even know what chapter 11 is? Do some Hw Before regurgitating propaganda...
+@mitchellvii that poll that has tc up by 16% also gives zero information...its bogus
+@mitchellvii that outlier poll.is nothing more than a psyche poll all other polls are consistent
+@seanhannity @tedcruz well if that is the case that right there disqualifies him from nomination...Carly is probably the worst VP choice
+@mitchellvii #BuildThatWall
+@TweetBrettMac @WDFx2EU #BuildThatWall
+@JediJones77 so brilliant he is plummeting...
+#BuildThatWall #BernieBrownshirts https://t.co/AmF3oaCMZq
+@JediJones77  thats funny because he's fixing.to become the most popular republican of all time...find a better argument...
+@GinaFerazzi @ramonamadison and what does that accomplish? i can tell you it makes people want that wall that much more #BuildThatWall
+@alivitali @JulieCasey36 #berniebrownshirts #illegals
+@sharker102s @ramonamadison just so happens to be in dallas...sounds like a fake story
+@InquiringEagle @ABC @HillaryClinton @BernieSanders #berniebrownshirts
+@GazaReports @ABC by whom? illegals...good luck with that
+@ABC #buildthatwall
+This is why we need that wall! #BuildThatWall https://t.co/1gFP8LOVRK
+@Lrihendry @realDonaldTrump is an absolute rock star.  he is america personified! #POTUSTrump
+@ThisIsMajorTom2 @CincinnatusPax @IngrahamAngle project much?
+@ThisIsMajorTom2 @CincinnatusPax @IngrahamAngle if education is ignorance than you are very well educated
+@piersmorgan @realDonaldTrump you're damn right! glad you came over to the winning side
+@Shoin2017 @tedcruz lmao cults usually pertain to a minority sect...that fits the #cruzcult. https://t.co/5DUmSvKG2A
+@tedcruz that's very simple minded of you.   nice job winning ZERO towns/counties. Go figure... you lose whenever Real people vote..
+@tedcruz the #charlatan Won ZERO towns/counties tonight...what an embarrassment.
+here ya go #cucks #cruzcrew #dropdeadTED https://t.co/dPEciGIA4S
+@realistic_view  @joethepatriotic @realDonaldTrump @tedcruz zero chance of that happening..cruz wont even get re elected to the senate
+something bad goes on behind closed doors.  ive never seen a daughter act like that towards a loving father https://t.co/aahlqxuvuX
+@Recycling_Times @tedcruz ZERO
+"@tedcruz @YouTube they already have...Guess what, its not you. You're down to buying delegates in hopes of a 2nd ballot &amp; its not happening."
+@CNNPolitics @bhazpa lmao you sound as desperate as #Dumb&amp;Dumber. They committed political suicide w/ this stunt. People are sick of this bs
+@seanhannity @JohnKasich @tedcruz #dumb&amp;dumber committed political suicide with this stunt. The people are sick of this type of bs. #hannity
+@Cernovich @Rockprincess818 he wont be doing shit because he wont get the nom and will lose his senate seat
+@RonKyle4203 #CruzCult #CruzCrew https://t.co/10C1ZSOvHQ
+@DefendingtheUSA @AC360 i guess he likes running a losing campaign
+@domcarrp @Billhic02785574 its been an oligarchy.  We are just now being shown that.
+"@CNN #Dumb&amp;Dumber just committed political suicide. Going to be one of the biggest political backfires in modern history
+#MAGA"
+"@OANN #Dumb&amp;Dumber just committed political suicide. Going to be one of the biggest political backfires in modern history.
+#MAGA"
+@realDonaldTrump fixing to clean house. Next 2 get #dudusTED will be @tedcruz &amp; @JohnKasich aka #Dumb&amp;Dumber https://t.co/as9BloI0zS
+"@RichardWeaving @BarbMuenchen @tedcruz @JohnKasich 
+#Dumb&amp;Dumber"
+#CruzTownMassacre https://t.co/hFv95gXfRr
+@nytimes #Dumb&amp;Dumber
+#Dumb&amp;Dumber need to drop out.  @tedcruz #busTED in another lie. https://t.co/3urfc7YwJF

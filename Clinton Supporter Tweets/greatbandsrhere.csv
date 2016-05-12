@@ -1,0 +1,175 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 325287296, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/3516092750/ca6452d4bae97702eeddf1ecba6763c3_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/TjCJmZ4kT7"", ""indices"": [0, 22], ""expanded_url"": ""http://www.Reverbnation.com/DiamondsinJupiter"", ""display_url"": ""Reverbnation.com/DiamondsinJupi\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 74, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""325287296"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @peta: It's easier than ever to #GoVegan\u2014many cruises are now offering gourmet #vegan food options! https://t.co/8n5412V90H https://t.co\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729424481630949376, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 9890492, ""indices"": [3, 8], ""id_str"": ""9890492"", ""screen_name"": ""peta"", ""name"": ""PETA""}], ""hashtags"": [{""indices"": [35, 43], ""text"": ""GoVegan""}, {""indices"": [82, 88], ""text"": ""vegan""}], ""urls"": [{""url"": ""https://t.co/8n5412V90H"", ""indices"": [103, 126], ""expanded_url"": ""http://peta.vg/cruise"", ""display_url"": ""peta.vg/cruise""}], ""media"": [{""source_user_id"": 9890492, ""source_status_id_str"": ""727664052063719425"", ""expanded_url"": ""http://twitter.com/peta/status/727664052063719425/photo/1"", ""display_url"": ""pic.twitter.com/gZagvA8EDI"", ""url"": ""https://t.co/gZagvA8EDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg"", ""source_user_id_str"": ""9890492"", ""source_status_id"": 727664052063719425, ""id_str"": ""727664051556257792"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 727664051556257792, ""media_url"": ""http://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 81, ""id_str"": ""729424481630949376"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""It's easier than ever to #GoVegan\u2014many cruises are now offering gourmet #vegan food options! https://t.co/8n5412V90H https://t.co/gZagvA8EDI"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 727664052063719425, ""favorite_count"": 186, ""source"": ""<a href=\""http://sproutsocial.com\"" rel=\""nofollow\"">Sprout Social</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [25, 33], ""text"": ""GoVegan""}, {""indices"": [72, 78], ""text"": ""vegan""}], ""urls"": [{""url"": ""https://t.co/8n5412V90H"", ""indices"": [93, 116], ""expanded_url"": ""http://peta.vg/cruise"", ""display_url"": ""peta.vg/cruise""}], ""media"": [{""expanded_url"": ""http://twitter.com/peta/status/727664052063719425/photo/1"", ""display_url"": ""pic.twitter.com/gZagvA8EDI"", ""url"": ""https://t.co/gZagvA8EDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg"", ""id_str"": ""727664051556257792"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 727664051556257792, ""media_url"": ""http://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 81, ""id_str"": ""727664052063719425"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Wed May 04 01:00:04 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/peta/status/727664052063719425/photo/1"", ""display_url"": ""pic.twitter.com/gZagvA8EDI"", ""url"": ""https://t.co/gZagvA8EDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg"", ""id_str"": ""727664051556257792"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 727664051556257792, ""media_url"": ""http://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:35:23 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 9890492, ""source_status_id_str"": ""727664052063719425"", ""expanded_url"": ""http://twitter.com/peta/status/727664052063719425/photo/1"", ""display_url"": ""pic.twitter.com/gZagvA8EDI"", ""url"": ""https://t.co/gZagvA8EDI"", ""media_url_https"": ""https://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg"", ""source_user_id_str"": ""9890492"", ""source_status_id"": 727664052063719425, ""id_str"": ""727664051556257792"", ""sizes"": {""small"": {""h"": 255, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 600, ""resize"": ""fit"", ""w"": 800}, ""medium"": {""h"": 450, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 727664051556257792, ""media_url"": ""http://pbs.twimg.com/media/ChkumXzVEAA5Aaw.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 511, ""description"": """", ""friends_count"": 367, ""location"": ""Newark, NJ"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/3516092750/ca6452d4bae97702eeddf1ecba6763c3_normal.jpeg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/325287296/1365876515"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Diamonds in Jupiter"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 4, ""screen_name"": ""greatbandsrhere"", ""notifications"": false, ""url"": ""http://t.co/TjCJmZ4kT7"", ""created_at"": ""Tue Jun 28 01:48:07 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"Don't forget to come out May 1st! We will be at 52 Bd st and 6th Ave, two blocks up from Radio City, catch the groove and cheer bikers"
+@littleGuySimon check us out on https://t.co/vV0zM5ayiO or Facebook. Com
+@newarkseed do you have an elevator? Considering hosting an event at your gallery but equipment is heavy  jet us know DiamondsinJupiter
+Check out Diamonds in Jupiter https://t.co/szlTWPdDRU
+"For more info on the band, visit https://t.co/hSqvT6vJaJ or https://t.co/aypjw85eeq"
+"Upcoming show:  Ranchero Cantina on march 12th!   Emerson, NJ"
+@greatbandsrhere TD bike tour is May 1st! We will be out I front of TD bank on52nd and 6th ave in the am🌈🚴 catch the groove!
+@greatbandsrhere correction the bike tour is Mau1sr not May 3!
+"DIJ will be holding down the funk and groove @Ranchero Cantina 214 Kinderkamack Rd, Emerson,NJ 3/12 good eats and dance the winter off!"
+DIJ will be out Sat. March 12@ Ranchero Cantina. Catch us for good eats and shake the winter off to the groove and funk!
+"Hey Everyone! The TD5boro bike Tour moved us to52nd &amp;aveof the Americas. We be ou Sunday,May 1st Catch the groove 8:50-10:30 am!!"
+"We will be out on32nd&amp;6av, NYC may3;8-1030am for the TD Bank5Boro bike tour. Catch the groove!"
+@QueensMuseum if you would like some good music and vibes to go along with your show please contact us!
+"The band will be out and rockin , catch the groove@CantinaRanchero Kinderkamack Rd. Emerson NJ March 12"
+Catch us @Cantina Ranchero in Emerson NJ sat.March 12 9pm on Saturday March 12
+@Juice4eva Looking for bookings and exposure.DiamondsinJupiter
+Hello World! Listen to this song! https://t.co/G8tHB3nadZ
+Hello World! Check this out! https://t.co/Ik9STVNkJN
+@Phinestro ok love that synth work!
+For David Bowie : you are forever in our Soulrsystem  DiamondsinJupiter
+@MASS_MoCA @kidspaceMM Hamilton street gallery
+@Vintage_Millie Where is your store located? Went to your site but nothing on it.
+Support live music! Come out and hear us!
+"Will be hosting a Holiday party! Join us! @The Stone Depot, 437 Main St., W. Orange, NJ
+Free buffet w/$10.00 @ door!  Live music starts @9pm"
+"Take a break from the Holiday stress and step out and groove with us! DIJ will be @the Stone Depot,437 Main St., W. Orange, this Sat, 12/12"
+Hello World! Listen to this song! https://t.co/2ycnLw9Ulr
+Hello World! Listen to this song! https://t.co/bVCBLd8LXl
+Hello World! Listen to this song! https://t.co/bVCBLcRb5N
+"The one nite you get to be someone else and its totally kool! Join us Live from 9:30 pm@ La Rouge,972 Broad St., Newark, NJ $10.00 door"
+"@ABC7NY #nwkannounce Halloween Bash @ LaRouge 972 broad st,Newark nj"
+"Join us Halloween nite! #nwkannounce live 9:30-12:30 prizes, food&amp; beverage, $10. Door admission. Don't forget your dancin shoes"
+@NJITEDC join us ! Halloween Bash@laRouge cuz good music and fun never goes out of style!
+"Oh and of course , your costume!"
+"Join us for a fun nite out! We will be performing live @LaRouge,972Broad St, Newark,NJ Halloween nite! don't forget your dancin shoes!"
+Hello World! Here's an interesting post! https://t.co/EaqaCu6KUs
+@Rutgers_Newark spread the fun! Halloween party party@lRouge
+"@Rutgers_Newark #nwkannounce Halloween Bash, @La Rouge, live music, food &amp; beverage,$10.00 door admission! don't forget your costume !"
+"@NJITEDC a fun nite out! #nwkannounce Halloween Bash @ La Rouge, 972 Broad St., Newark, NJ  Don't forget your costume and dancin shoes!"
+"Meet us Halloween nite @ La Rouge, #nwkannounce! We will be performing live for your dancing pleasure! prizes, favors, food &amp; beverage!"
+"Its one nite to be somebody else and its totally kool! join us @LaRouge,972 Broad St., Newark, NJ for fun Halloween Bash! We will be live!"
+"#nwkannounce  Gearing up for a great nite! Join us! Oct 31 @ LaRouge,,972 BroadSt, Nwk,
+One nite to be someone else and its totally kool!"
+"Hey its the one nite you can be somebody else!  Join us ! DiamondsinJupiter live! Oct 31!@La Rouge, 972 Broad St., Newark, NJ  Prizes, , fun"
+"@art_collector_a Join us for Halloween! DiamondsinJupiter live! @LaRouge,972 Broad St., Newark NJ! Don't forget your dancing' shoes!"
+"Join us for a fun Halloween Bash! Diamonds in Jupiter live! @ La Rouge, 972 Broad St.,Newark, NJ Don't forget your costume and dancin'shoes"
+@yvesjean thanks hope you can stop in Halloween mite@ la Rouge
+"@VibesElectric   Thanks. Hope you can catch the groove @ our Halloween bash, 972 Broad St,Newark NJ oct 31"
+"Halloween Bash , Oct 31st, 2015 @ La Rouge, 972 Broad St., Newark, NJ DiamondsinJupiter live!  Come Party with us! Prizes,  #nwkannounce"
+"Adding a show:The Stone Depot,437MainSt,http://t.co/FNzwHRRJSj,Nj Sat,Sept26,
+FreeBuffet $10.00 door"
+"Adding a show, Sept26th,@theStone Depot,437MainSt,http://t.co/FNzwHRRJSj,NJ free Buffet w/$10.00 admission"
+"@NewarkHappening 972 that's 972 Broad st,Newark,nj 9pm_-2:30"
+"@NewarkHappening Come spend Halloween with us! We will be hosting a party@LaRouge,072Broad St, Newark ,Oct31😈"
+@NewarkHappening @GlassRoots and when you are done come groove with us!
+@thestonedepot  sept 26th Free Buffet $10. @door
+"Diamonds in Jupiter us hosting a Halloween Bash Sat, Oct31@laRouge,972broad St,Newark,NJ; prizes, food/beverage, $10.00 door. join us!"
+"Sept 26th live @theStoneDepot,WestOrange nj Catch the groove!Diomonds in Jupiter"
+"Halloween Bash@LaRouge Lounge&amp;RestaurantNewarkNJ,prizes,favors,join us!"
+"@musicscouting checkout""enough"" by Diamonds in Jupiter Facebook,Reverbnation"
+"Gearing up for our shows! Join us@theStonedepot,WestOrange,NSept26&amp;halloweenParty@LaRougebroadSt, Newark NJ onOct31"
+"Catch our Halloween Party! We will be live 9;30 to 12:30@ la Rouge ,972 Broad St,Newark, nj (near court house and fed bldg)"
+"Come spend Halloween with us! We'll be @LaRouge, 972Broad St ,Newark,nj $10. Food, beverage, prizes 4 best costume 😈more"
+"Adding a show @the stone Depot Sept 26 , west orange, nj free buffet, step out, Fall into the groove..."
+"@greatbandsrhere  come out and party with us! Oct 31@LaRouge,972 Broad St, Newark, NJ"
+"Want to hear us live? Oct 31@ La Rouge, come out and party with us! Newark,nj"
+"Listen to our house version of ""enough"" on http://t.co/SQ4J9zuRIZ"
+@BookPromoteLuv 973 7320852 corect
+"House dance ""enough"". By DIJ. Out on iTunes this Friday !"
+@12YearsDriven @LastKickBand         Where are you based ?
+"New song"" Enough"" hear it soon on iTunes , our sites; reverbnation/diamondsinjupiter"
+Ministry of Environment Mary Polak: Reinstate conservation officer Bryce Casavant - Sign the Petition! https://t.co/PtkaiL3NPL via @Change
+A deadly flaw let the Charleston shooter buy a gun. Tell Congress to close the #CharlestonLoophole https://t.co/h8xBA3p0WD via @Everytown
+@yokoono saw the exhibit great show! Are you working on anything  new?
+@DiamondsinJupit  actively seeking venues to perform
+"@BookPromoteLuv 973 7320752
+Call us"
+We will be at Lafairre on rt 22 in UnionNj this event is by invitation only.
+"Posted a new song: ""Funk it up"" http://t.co/MMk1HrR0Zw #music"
+"Posted a new song: ""Never will the music die"" http://t.co/sxTcjmppoW #music"
+"Posted a new song: ""Funk it up"" http://t.co/AZuDaoaOMn #music"
+We want to be featured on SPGtv with The Student Pocket Guide! http://t.co/6sP3DbQdO7
+"Posted a new song: ""Never will the music die"" http://t.co/2Xr3DqFnRA #music"
+"We are gearing up for the TD Bike Tour!  See you in the AM on 6th &amp; 32nd, NYC!"
+TD Bank 5 Boro Bike Tour http://t.co/jPAXkYj0S6
+Sunday May 3rd is the TD 5 Niro bike tour
+We'll be out on the streets (32 &amp; 6th av NYC in front of TD Bank laying down the groove for the TD bike tour..8-10:30 AM! Catch the vibe!
+@greatbandsrhere   Stll waiting cafe
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+TD Bank 5 Boro Bike Tour http://t.co/tHSbDB61rI
+"Posted a new song: ""funk it up"" http://t.co/jWQcQ9E9Ym #music"
+Hoping to play a gig at Le Cirque Restaurant. Post on their wall to support Diamonds in Jupiter. http://t.co/ERwGx6BBC2
+Hoping to play a gig at Jersey Shore BBQ and Catering Co.. Post on their wall to support Diamonds in Jupiter. http://t.co/1XTdMy5Gtu
+Hoping to play a gig at Full Cup. Post on their wall to support Diamonds in Jupiter. http://t.co/QH5fresEz8
+Hoping to play a gig at Whiskey Cafe. Post on their wall to support Diamonds in Jupiter. http://t.co/yQ9XqhMaRL
+Hoping to play a gig at Prohibition. Post on their wall to support Diamonds in Jupiter. http://t.co/GbjWG74AAn
+Hoping to play a gig at The Purple Crayon Center. Post on their wall to support Diamonds in Jupiter. http://t.co/nEZn3Xdctd
+Hoping to play a gig at seed. Post on their wall to support Diamonds in Jupiter. http://t.co/5HRHjPzt4K
+Hoping to play a gig at Knitting Factory Brooklyn. Post on their wall to support Diamonds in Jupiter. http://t.co/sjTDKqHmi8
+Hoping to play a gig at Paul's Tavern. Post on their wall to support Diamonds in Jupiter. http://t.co/7bC1zIn39F
+Hoping to play a gig at 68 Jay St. Bar. Post on their wall to support Diamonds in Jupiter. http://t.co/F0bBUSgZCD
+Hoping to play a gig at The Rock Shop. Post on their wall to support Diamonds in Jupiter. http://t.co/UOEjxMFcZw
+Hoping to play a gig at Roxy &amp; Dukes Roadhouse. Post on their wall to support Diamonds in Jupiter. http://t.co/4qN6oWyIJN
+Hoping to play a gig at 10th Street Live. Post on their wall to support Diamonds in Jupiter. http://t.co/MgOkPei3NK
+Hoping to play a gig at Pete's Candy Store. Post on their wall to support Diamonds in Jupiter. http://t.co/vluYc1ITvn
+Hoping to play a gig at Farafina Cafe Harlem. Post on their wall to support Diamonds in Jupiter. http://t.co/CZFKQNRujd
+Hoping to play a gig at Brighton Bar. Post on their wall to support Diamonds in Jupiter. http://t.co/BwMgbIZMQ3
+Hoping to play a gig at The Stanhope House. Post on their wall to support Diamonds in Jupiter. http://t.co/M31EyELzuC
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+Hoping to showcase for Label Recruit! Post on their wall to request Diamonds in Jupiter. http://t.co/mAYmB2D4Rg
+"Posted a new song: ""Funk it up"" http://t.co/Jc7S9QDirD #music"
+"Posted a new song: ""Funk it up"" http://t.co/nkxwimHxrk #music"
+"We will be out on32nd&amp;6av, NYC may3;8-1030am for the TD Bank5Boro bike tour. Catch the groove!"
+It all depends on YOU! http://t.co/urf5vQP29m
+"Catch us at the TD  5 Boro Bike Tour !  Sunday , May 3rd, We will be at 32nd&amp; 6th Ave, NYC rite in front of TD Bank.  8- 10:30 am"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+@soulrsystem1 doing it again this year! Same time and place:Hope to see u out enjoying the groove
+@BookPromoteLuv  thanks but we are not able to tour rite now;however we are interested in bookings; paid venues only
+"Diamonds in Jupiter has a show on 03/28/2015 at 08:00 PM @ MARRIOT RENAISSANC... in NEWARK, NJ http://t.co/qh2KhZbGTS #concert"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+"Diamonds in Jupiter has a show on 03/25/2015 at 08:00 PM @ L'Afaire in Union, NJ http://t.co/8MyPSri8TI #concert"
+"Posted a new blog entry "" For those of you who are early risers, we will be out in the AM (till 10:..."" http://t.co/2dx3JDgwsu"
+Hoping to get an editorial spotlight in The Aquarian Weekly! http://t.co/2jHrDzttm9
+"Posted a new song: ""Funk it up"" http://t.co/QffiLNvCx9 #music"
+"Diamonds in Jupiter has a show on 03/25/2015 at 08:00 PM @ L'Afaire in Union, NJ http://t.co/O02mkIIQdK #concert"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+TD Bank 5 Boro Bike Tour http://t.co/s0EtJfxEge
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+Hoping to play at Montauk Music Festival! Post on their wall to request Diamonds in Jupiter. http://t.co/p2RqDvOfuW
+"Posted a new song: ""Funk it up"" http://t.co/u4U6RGFrWJ #music"
+"Posted a new song: ""Funk it up"" http://t.co/YCNEQjGWhb #music"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+http://t.co/I5ZxWqLwvk
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+Win a lifetime subscription to the EMyth self-paced program. https://t.co/QJcsTrfpYk
+"Posted a new song: ""Miss You"" http://t.co/rbaVuHPfNi #music"
+"Aiming for an Online Feature with UK based, Songwriting Magazine! Read about previous featured Artists: http://t.co/4XHmIb8Uk0"
+"Posted a new song: ""Never will the Music die"" http://t.co/4HMBBNU4Ij #music"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1Voqo8
+@greatbandsrhere Give us a vote!  http://t.co/aypjw85eeq
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/9QKkOcXtSw
+I voted for Diamonds in Jupiter in Hard Rock Rising 2015. Cast your vote and send them to Barcelona! http://t.co/iOiNBh84GF
+@IAmEmoryBk   Sounds good Emory we r working on some house too! Touch !
+"Posted a new song: ""Funk it up"" http://t.co/gGp4jCZFaQ #music"
+"Posted a new song: ""Funk it up"" http://t.co/13Lq5lgjGa #music"
+Response To http://t.co/YDglgY8deh https://t.co/VPfZYoWcG9 via @Change
+"Posted a new song: ""Kiss"" http://t.co/ARWIBTjWrX #music"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1VG1wc
+@BookPromoteLuv   973 732 0852   Diamonds in Jupiter
+"Posted a new photo: ""GI  singing  to the people"" http://t.co/m1FfIvfER0"
+"Posted a new photo: ""January 24, 2015"" http://t.co/v20UvrI6DF"
+"Posted a new photo: ""Surprise Birthday Party, Jan 2015"" http://t.co/LPtds6uNcu"
+"Posted a new photo: ""DIJ   Surprise Birthday Party, Jan 2015"" http://t.co/caeIOEk6IL"
+"Posted a new photo: ""Tonya Carmen "" http://t.co/8kNXNtejF2"
+"Posted a new photo: ""Surprise Birthday Party,  Jan.24, 2015"" http://t.co/TsaoLhlNWE"
+What's Up at Hat City Kitchen: http://t.co/AwVVRMvtOY.  Waiting to hear Diamonds in Jupiter  please put them on your rooster
+"Diamonds in Jupiter has a show on 01/24/2015 at 04:00 PM @ Private Party in Long Branch, NJ http://t.co/zpebgMt9s9 #concert"
+Help us get to Barcelona! Just registered to compete at @HardRock for #HardRockRising 2015. Spread the word! http://t.co/N0aUvFAzBY
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/Wl5F1VG1wc
+@peta   Keep wildlife in the wild
+"Posted a new song: ""Kiss"" http://t.co/hr0sKWeeC3 #music"
+"Best of luck to all our fans, artists, musicians and friends . Let's make a difference for good this 2015!"
+@MRLOUDCLOUDS
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/9QKkOdf50A
+"Posted a new song: ""Never will the Music die"" http://t.co/xVUaINwQNx #music"
+"Diamonds in Jupiter has a show on 12/31/2014 at 08:00 PM @ Novellas in New Paltz, NY http://t.co/YqKumdPSxT #concert"
+"Posted a new song: ""Never will the Music die"" http://t.co/rbwReFl71I #music"
+Just joined #musicforgood on @ReverbNation - now 1/2 of our song sales are donated to @OxfamAmerica http://t.co/9QKkOdf50A
+Happy Holidays http://t.co/9pawDrFDQu
+"Posted a new song: ""never will the Music die"" http://t.co/MPCz4zhKLf #music"
+Just submitted for consideration as @the_wake’s artist Q&amp;A for their  upcoming issue. Check them out online at; http://t.co/3Y4UKfp1Mr
+"Posted a new song: ""Kiss"" http://t.co/Qb80hKNjCD #music"
+I'm listening to Diamonds in Jupiter Radio http://t.co/esLPU0ipzB #jango

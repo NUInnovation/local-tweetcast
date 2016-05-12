@@ -1,0 +1,163 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 629410542, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/2375930565/Cock-y_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 729, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""629410542"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 5, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @rocaf3llar: https://t.co/Fo5E0Wky7G"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729422819038212096, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1442556032, ""indices"": [3, 14], ""id_str"": ""1442556032"", ""screen_name"": ""rocaf3llar"", ""name"": ""St . Cloud \u2601""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1442556032, ""source_status_id_str"": ""728300196518612994"", ""expanded_url"": ""http://twitter.com/rocaf3llar/status/728300196518612994/video/1"", ""display_url"": ""pic.twitter.com/Fo5E0Wky7G"", ""url"": ""https://t.co/Fo5E0Wky7G"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg"", ""source_user_id_str"": ""1442556032"", ""source_status_id"": 728300196518612994, ""id_str"": ""728300012116037632"", ""sizes"": {""small"": {""h"": 606, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""medium"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [16, 39], ""type"": ""photo"", ""id"": 728300012116037632, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 31, ""id_str"": ""729422819038212096"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""https://t.co/Fo5E0Wky7G"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728300196518612994, ""favorite_count"": 94, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/rocaf3llar/status/728300196518612994/video/1"", ""display_url"": ""pic.twitter.com/Fo5E0Wky7G"", ""url"": ""https://t.co/Fo5E0Wky7G"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg"", ""id_str"": ""728300012116037632"", ""sizes"": {""small"": {""h"": 606, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""medium"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 728300012116037632, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 31, ""id_str"": ""728300196518612994"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": true, ""lang"": ""und"", ""created_at"": ""Thu May 05 19:07:52 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""expanded_url"": ""http://twitter.com/rocaf3llar/status/728300196518612994/video/1"", ""display_url"": ""pic.twitter.com/Fo5E0Wky7G"", ""url"": ""https://t.co/Fo5E0Wky7G"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg"", ""video_info"": {""aspect_ratio"": [101, 180], ""duration_millis"": 29950, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/pl/pPyme0mEUfvQQR1X.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/vid/358x640/QkGOsob_x2YIlh3v.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/pl/pPyme0mEUfvQQR1X.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/vid/178x320/byZFIlslylnVzPrb.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""728300012116037632"", ""sizes"": {""small"": {""h"": 606, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""medium"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""video"", ""id"": 728300012116037632, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": true, ""lang"": ""und"", ""created_at"": ""Sun May 08 21:28:46 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""source_user_id"": 1442556032, ""source_status_id_str"": ""728300196518612994"", ""expanded_url"": ""http://twitter.com/rocaf3llar/status/728300196518612994/video/1"", ""display_url"": ""pic.twitter.com/Fo5E0Wky7G"", ""url"": ""https://t.co/Fo5E0Wky7G"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg"", ""source_user_id_str"": ""1442556032"", ""source_status_id"": 728300196518612994, ""video_info"": {""aspect_ratio"": [101, 180], ""duration_millis"": 29950, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/pl/pPyme0mEUfvQQR1X.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/vid/358x640/QkGOsob_x2YIlh3v.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/pl/pPyme0mEUfvQQR1X.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/728300012116037632/pu/vid/178x320/byZFIlslylnVzPrb.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""728300012116037632"", ""sizes"": {""small"": {""h"": 606, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""medium"": {""h"": 720, ""resize"": ""fit"", ""w"": 404}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [16, 39], ""type"": ""video"", ""id"": 728300012116037632, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/728300012116037632/pu/img/ZGjynJQyMi8cTSps.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": 3600, ""statuses_count"": 3266, ""description"": ""Sexual Butterfly who refuses to go by any label"", ""friends_count"": 141, ""location"": ""Portharcourt Nigeria"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/2375930565/Cock-y_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/629410542/1398861111"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Dennis Macauley"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 149, ""screen_name"": ""Dennis_Macaulay"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jul 07 13:34:58 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""West Central Africa"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+😊😊
+https://t.co/Om8bIMRqJd https://t.co/twLDrME782
+😒😒😒 https://t.co/LETLPcikfD
+*Ignores* https://t.co/FWn8nih8Ao
+"😂😂😂 Let me dive into this dodo, be with you shortly! Yes it is deep fried https://t.co/onIEGws4S3"
+Just come out and ask for noods! Its not that hard to do https://t.co/Yvec67enZw
+"Bisch I have maintained the same waistline of 32 for nearly 4 years! I got this, tenks 😒😒😒 https://t.co/s9VMm2dGDp"
+Don't come and pay homage enugo https://t.co/aRgFWp4EOS
+You don't know you will come and pay homage abi? I'm just looking at you https://t.co/aRgFWp4EOS
+@keredim69 👏 Leave👏 me👏 and 👏 my 👏 eating 👏 habits.
+🙌🙌🙌 Far too kind https://t.co/yixGJcMhy3
+"Light skinned, IJGB cap wearer! https://t.co/IGu1CX4siL"
+Added to his suspicious relationship with the cap wearer. Tsk Tsk https://t.co/W4UiEEUsOe
+There is a special brand of hypocrisy that s Nigerian. Coming from a guy who fathered two children https://t.co/W4UiEEUsOe
+I'm about to go for a run https://t.co/cwwNVlHUL2
+"She had sex with someone? Assuming this is true, so the hell what? https://t.co/EKD4m8IHaR"
+"Of course a woman will always get sex shamed, men have one-off sex all the time and its not news! https://t.co/I1sWDt6PHj"
+😂😂😂😂 https://t.co/qHQkceqAEc
+Of course things were edited out to fit the narrative https://t.co/BnNsQFRhwC
+What kind? https://t.co/jgbZSALl0S
+Make me an offer https://t.co/e05ZThQqta
+😉😉 https://t.co/wziTDhWbPt
+I'm a business man my dear! No free lunch anywhere https://t.co/98qFzv4Dar
+What do I get in return? https://t.co/HsxNpIMtXw
+I can make that happen 😉 https://t.co/1xDPzGhsPa
+Ode! Finally opening eyes https://t.co/cUCNIFRMHM
+"Don't slide into someone's DM and ask them ""age and role please""
+
+Suck fuckery is for Grindr and jack'd, not twitter"
+😂😂😂😂 https://t.co/XB8OG1kgq0
+Yea https://t.co/YGLzBe1cFR
+Well I haven't been with a Nigerian who squirts anyway and I have been with a lot of women. I have seen creaming tho https://t.co/ykpB6WhpJs
+TMI 🙈🙈🙈 https://t.co/XPaCqzfBM3
+*Bows* 🙌🙌🙌 https://t.co/o13J6p6kTk
+😋😋😋 https://t.co/kimGlAPSlK
+😒😒😒 https://t.co/gpLGiYBDyZ
+Fuck https://t.co/VGpjVJeYqN
+She could know him personally! https://t.co/OU4kEbkBeY
+I don't comment on body language because that's not definitive. She simply meant she did not know tiwa personally https://t.co/CQBGJZ6e6X
+@Ethan_Regal https://t.co/XA9GqbjCbo
+"I saw that interview, it was taken out of context. She simply meant they didn't have a personal relationship https://t.co/XSlPM5hILK"
+Go to bed https://t.co/4n5nPBmGeY
+Keep fucking bola https://t.co/DH1BjUjU0m
+Congratulations my dear! Bravo https://t.co/BkV4EnuiMU
+I needed to be sure what was going on before commenting. Why did they lie about Iyalla? https://t.co/sCTZvz0PQe
+It appears they have taken it down https://t.co/lDFhHCDNUI
+I was going to ask what was going on https://t.co/1OdAJ4q3fn
+Men even have Breast cancer! Yes you read right! Breast Cancer https://t.co/Ao0XhiOosf
+Leave the fool! Anal cancer happens to people who have never had anal sex. Any cell can become cancerous https://t.co/Ao0XhiOosf
+Single handedly? Looool! Okay https://t.co/9hA4LciHmY
+She remains a one eyed man in the land of blind men! 😊😊 https://t.co/mKeOALDcpG
+My dear in Nigeria you can go very far without talent! We celebrate mediocrity! https://t.co/lCXaGUjLO7
+😂😂😂 Okay then! https://t.co/jSoPr3pXKS
+Come. https://t.co/eOCdzDVsWD👅👅 https://t.co/mn3C6bRePt
+Have you seen Half of a yellow sun? https://t.co/eheUkCBHYj
+🙈🙈🙈 https://t.co/asHeI0kzTe
+@kito_diaries Topic for let's discuss https://t.co/1X7RyrL18q
+🙌🙌 https://t.co/wJxwVrKbdt
+Ichekwu biko!  https://t.co/5p2CA5cix7
+Your avi is distracting https://t.co/RfzTlsoRw0
+Its shocking https://t.co/DJc8fS4DtE
+@kito_diaries Enokwaya https://t.co/3eeOrq22LT
+Won 7 eventually https://t.co/atO11RQ0og
+"How do you even have sex in this heat?
+
+How?"
+Aunty check your BF very well https://t.co/ktAxwpUdtO
+@bisialimi Where you not in Abeokuta and Lagos last year? Why did they not come and kill you? Mstchew
+"@bisialimi Its a difficult country to live in. For the most part people are frustrated, so they lash out. These people are cowards"
+*sigh* Bisi Just keep moving https://t.co/jHBpgfcoKt
+Nike padded shorts are a cyclists dream! So cool it feels like… https://t.co/oQd3CimOgE
+@kito_diaries Oya Ansa https://t.co/KvhR7YFKQb
+😀😀😀 PP has run it already https://t.co/YL1riZNVTT
+"This is one reason why I respect and still follow you! You respect difference, which was why I called that out https://t.co/7QEwG8zaMk"
+Your context this time around seemed denigrating!  https://t.co/1d0283nlGS
+You do realise I am not spoiling for a fight! We have had this conversation before. Its all in context. https://t.co/1d0283nlGS
+Of course! But I also expect you to respect sensibilities! If I called your identity madness will you like it? https://t.co/89s5f6KI2w
+Transgender madness? Just own your truth and let people own theirs! Simple https://t.co/HqzXjOXaEJ
+Not as long as your slow brain apparently https://t.co/Fuz3EfiFzN
+What of media Cancer? https://t.co/vhD10dq72u
+"Like when you see it!
+
+*pours a huge mug of coffee and sips* https://t.co/jUm5VAbqrn"
+@kito_diaries  https://t.co/OLoiQgaDuP
+Lol
+@MacaroLorenz @thacuteperry I had this bouncer who was feeling up my d**k in the name of patting me down before entering the club
+@jjreynoldsscv @Michael89090 #WreckYourWalls
+@keredim69 How so?
+"""@RawPixelsBlog: Sit While He's Standing https://t.co/UYnIq5Oxel""
+
+This will damage somebody's cervix"
+"@kito_diaries Tueh!
+
+Hoe Hoe"
+"If they toast you with that Amala and Ewedu tongue eh?
+
+My brother you are finished"
+"Yoruba Boys are just the ish!
+
+Sorry my fellow Igbos
+
+😁😁😁"
+"""@fatjuicygayass: Ikorodu tops dm me lets meet todae""
+
+God save you from Karishikas"
+@keredim69 😄😄😄
+"""@DeejayKayce: If we're dating, please don't expect to be all over my Instagram pictures, Facebook posts or tweets. 
+
+Assin eh"
+@Deeh_malik It's what we tell poor people to keep them from Rioting!
+"Why is it women who only get slut shamed? Why does the ""responsibility "" of sex as it were lie with the women?
+
+Why are some of you stupid?"
+"If a man sleeps with a younger woman it's fine, God forbid a woman sleeps with a younger man;
+
+Hoe
+Slut
+Tramp!
+
+I can't even with you people"
+"Those of you abusing Sophia for sleeping with a younger man, you should hide your heads in shame!
+
+Shame on all of you!"
+"Loose Morals
+
+Debauchery!
+
+Terms we always use when it's a woman we are describing! So Davido himself is a beacon of morality? 
+
+*long hiss*"
+"And even if a court gives her visitation rights, you still cannot travel out of the country with the child without her permission"
+"If you believe that she is a danger to the child, approach a judge to get full custody of the child, while she gets visitation rights"
+"And if there was no monkey business, why did Davido's sister claim to be the infant's mother? 
+
+This legally is kidnapping"
+Davido's relation with Sophia is not my business but you cannot take a minor out of a country without consent of parents/legal guardians
+"Maybe I am being biased towards the female, but why did it take a few days for the medical reports to surface!
+
+I will sit this one out"
+"There are two sides to every story! Davido is pushing his story online, Sophia needs to speak up, else Davido's story will be the only one"
+Korede Baby
+*sigh* https://t.co/X4KW1ZBzhq
+@kito_diaries  https://t.co/IDIRkTGlyM
+Happy New Year Guys
+"""@SowellsToba: Well I don't have white agbadaa!lol so no picture. https://t.co/praydWPdCe""
+
+Bus Don leave you be that"
+Send me a picture of yourself in a white agbada!😍😍
+"""@SowellsToba: Very sure!💯 https://t.co/Vcz80drWfk""
+
+We need proof"
+"""@D1kPedro: @Dennis_Macaulay abeg how dem de ràise hands for Twitter?""
+With Emoji na"
+@SowellsToba You sure?
+"Abeg Yoruba boys with beards on my TL
+
+Raise your hands"
+"Yoruba boys with beards in white Agbada!
+
+#MyWeakness"
+Leave men and enjoy the carnival! Tueh https://t.co/Wkxv6KH4bL
+Devil Wears Prada https://t.co/wjt48v9NS1

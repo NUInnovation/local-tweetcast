@@ -1,0 +1,174 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 3385781962, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/701060308098371584/AV3LvZ9b_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1471, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""3385781962"", ""profile_background_color"": ""000000"", ""listed_count"": 47, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @josephmdibella: White NJ college student killed as 2 thugs broke into fraternity house. Anyone hear from #racist #AlSharpton? Nope http\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729452675440517126, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 174613767, ""indices"": [3, 18], ""id_str"": ""174613767"", ""screen_name"": ""josephmdibella"", ""name"": ""Joe DiBella""}], ""hashtags"": [{""indices"": [109, 116], ""text"": ""racist""}, {""indices"": [117, 128], ""text"": ""AlSharpton""}], ""urls"": [], ""media"": [{""source_user_id"": 174613767, ""source_status_id_str"": ""729359941732061186"", ""expanded_url"": ""http://twitter.com/josephmdibella/status/729359941732061186/photo/1"", ""display_url"": ""pic.twitter.com/N1VnCrBal8"", ""url"": ""https://t.co/N1VnCrBal8"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg"", ""source_user_id_str"": ""174613767"", ""source_status_id"": 729359941732061186, ""id_str"": ""729359932554924032"", ""sizes"": {""small"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""large"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""medium"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729359932554924032, ""media_url"": ""http://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 19, ""id_str"": ""729452675440517126"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""White NJ college student killed as 2 thugs broke into fraternity house. Anyone hear from #racist #AlSharpton? Nope https://t.co/N1VnCrBal8"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729359941732061186, ""favorite_count"": 18, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [89, 96], ""text"": ""racist""}, {""indices"": [97, 108], ""text"": ""AlSharpton""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/josephmdibella/status/729359941732061186/photo/1"", ""display_url"": ""pic.twitter.com/N1VnCrBal8"", ""url"": ""https://t.co/N1VnCrBal8"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg"", ""id_str"": ""729359932554924032"", ""sizes"": {""small"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""large"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""medium"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729359932554924032, ""media_url"": ""http://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 19, ""id_str"": ""729359941732061186"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 17:18:55 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/josephmdibella/status/729359941732061186/photo/1"", ""display_url"": ""pic.twitter.com/N1VnCrBal8"", ""url"": ""https://t.co/N1VnCrBal8"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg"", ""id_str"": ""729359932554924032"", ""sizes"": {""small"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""large"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""medium"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [115, 138], ""type"": ""photo"", ""id"": 729359932554924032, ""media_url"": ""http://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:27:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 174613767, ""source_status_id_str"": ""729359941732061186"", ""expanded_url"": ""http://twitter.com/josephmdibella/status/729359941732061186/photo/1"", ""display_url"": ""pic.twitter.com/N1VnCrBal8"", ""url"": ""https://t.co/N1VnCrBal8"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg"", ""source_user_id_str"": ""174613767"", ""source_status_id"": 729359941732061186, ""id_str"": ""729359932554924032"", ""sizes"": {""small"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""large"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""medium"": {""h"": 384, ""resize"": ""fit"", ""w"": 301}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729359932554924032, ""media_url"": ""http://pbs.twimg.com/media/Ch80_o1W0AAH3ZR.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 11248, ""description"": ""Father, Husband, Patriot! Combat Vet MFO, OIF, OEF God Bless America! Tweets/RT may or may not reflect my personal opinion! #UnitedWeStand"", ""friends_count"": 2538, ""location"": ""USA"", ""profile_link_color"": ""3B94D9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/701060308098371584/AV3LvZ9b_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3385781962/1462282560"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""D.Daily"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 557, ""screen_name"": ""SSGDJDaily"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Jul 21 11:12:44 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@josephmdibella @HillaryClinton @POTUS @CNN 
+These people do not represent our values, 
+
+https://t.co/TxJbChNlrv https://t.co/WbSGewGg8J"
+Just doesn't seem right... Wouldn't you agree @HillaryClinton @billclinton #ClintonPlaybook is running out of plays! https://t.co/J9ONo1IkvL
+https://t.co/GwxneXtu9f
+We are the New Democratic Party https://t.co/7wQJRLfdIj
+"Now repeat after me @HillaryClinton @NancyPelosi 
+@POTUS @SpeakerRyan #SilentRightParty 
+
+@realDonaldTrump is here! https://t.co/zPOvBEOhiU"
+"@SpeakerRyan See attachment below,
+
+And realize the tides change quickly #SilentRightParty
+
+@realDonaldTrump GBA https://t.co/YKvDU0AYg3"
+"@NetworksManager @Charlie411114 @GOP @CNN @CBS @ABC @FoxNews @SkyNews @BBC @JoeNBC 
+
+#KnowYourRoll @SpeakerRyan GBA https://t.co/IOBQLUjYbU"
+"@AmandaCarpinter @ben2138 @sonofspeke @realDonaldTrump @NancyPelosi @HillaryClinton 
+
+https://t.co/NdaLSAL8Oq https://t.co/dhHRu3MXXz"
+"@billclinton @HillaryClinton @Kotcha301 @GStephanopoulos #SplashOut @foxandfriends 
+
+https://t.co/pQpIR4EaHM GBA https://t.co/L3IEkhjSJQ"
+"Championing women maybe @billclinton wouldn't you say @HillaryClinton Let's have some examples 
+
+Standby #SplashOver https://t.co/EhJfs7p9cP"
+@JohnTDolan @skpike45 @surfermom77 @MiceeMouse @CarmineZozzora @LeahR77 https://t.co/0RTgWhTS6u
+#AnotherExample @SpeakerRyan What in the world can you #Politicians say? Decades of division to pull over the wool!  https://t.co/aiaqhnYG3F
+"@SpeakerRyan If you don't like this tone. You're definitely not going to like our next! Remember Elite 
+#OfBy4US GBA https://t.co/OYQzEmlL8v"
+@HillaryClinton Hopefully you understand why &amp; Have a happy Mother's Day! God Bless All  https://t.co/yuj38hBWsl
+It's politically correct and okay to say #JustSaying #MuslimExtremists  https://t.co/TAazBrhQmW
+"@AmandaCarpinter @ben2138 @sonofspeke Their here... @realDonaldTrump #SilentRightParty GBA 
+
+#UnitedWeStand https://t.co/tUiNw8V5RO"
+"@500Mag @CrackerDude30 @HillaryClinton  @SpeakerRyan @realDonaldTrump 
+
+Help with RT's to #NeverForget our #Heroes https://t.co/wTup4E5IHq"
+It's only the beginning!  https://t.co/DY5FdBIFAs
+"#YourFired @SpeakerRyan Remind everyone on the Hill @realDonaldTrump is making some changes...
+
+#SilentRightParty GB https://t.co/0Zuh8yO6QH"
+Which means it's time to move aside &amp; allow the power of the people #OfBy4 @SpeakerRyan What doesn't fit #WeSpoke DT https://t.co/JV46fYfhhi
+And it's only the beginning @billclinton @HillaryClinton @cnnbrk @foxandfriends Standby  https://t.co/JjvpxW1Bfj
+"@Ellida_2017 @RangerDamrod @heifer109 @tracieeeeee  @NancyPelosi
+
+I am the Democratic Party @HillaryClinton 
+
+ https://t.co/0RTgWhTS6u"
+"And it begins... @billclinton get ready for some action @HillaryClinton @realDonaldTrump #SilentRightParty
+
+GB https://t.co/HQiNalpjYR"
+"@SpeakerRyan See attachment below,
+
+@realDonaldTrump #SilentRightParty  https://t.co/XQpgKLMiW7"
+"@AmberForAmerica @andycoticchio @oneJesusloves @SpeakerRyan @realDonaldTrump 
+@POTUS @NancyPelosi @HillaryClinton GB https://t.co/74lGHiYKlM"
+"@mitchellvii @Charlie411114 @HillaryClinton @FBI 
+A nation of laws comes with a heavy price, not to Be taken lightly https://t.co/8Ia9y66mVb"
+#UnitedWeStand  https://t.co/IZK7QOF97M
+@exciting2u @pnehlen @stevej132 @SpeakerRyan @realDonaldTrump #SilentRightParty saying goodbye #Rhinos GB All L&amp;R https://t.co/lODtNYrvAe
+@HillaryClinton @GOP One more for you #Politician https://t.co/yYdK3CBZK0
+@HillaryClinton @GOP #AnotherExample https://t.co/w0ceCRHbfG
+@HillaryClinton @GOP And it ain't fading https://t.co/R4YvNVljkK
+@HillaryClinton @GOP Amazing how much negative feedback on your feed. Grab the camp #08Repeat is nearing https://t.co/9othZWBFY1
+Friendly &amp; Smart @HillaryClinton @SpeakerRyan keep your hypothesis on the hill &amp; wake up 2 reality @realDonaldTrump  https://t.co/atn654DMlC
+@BigStick2013 @MittRomney Some help with RT's &amp; grab Old George. Let's rally the troops behind our front runner https://t.co/EZm7Ufpjy6
+"It's only the beginning @SpeakerRyan @HillaryClinton 
+
+Time for some #RealChange @POTUS Failed Promise  https://t.co/FedhzK7Gny"
+@HillaryClinton @billclinton Do you guys have any information on this? Any feedback would be greatly appreciated GBA https://t.co/Mik5JWb8dC
+"And not you @HillaryClinton So move on and focus your entire attention towards your indictment @FBI 
+
+ https://t.co/4QkXXMCJDh"
+"@SpeakerRyan See attachment below,
+
+Your time as speaker is coming to an end #OfBy4
+
+@realDonaldTrump Coming Soon  https://t.co/LvJLKMCrKM"
+@pnehlen @stevej132 Ah @MittRomney such a tool https://t.co/YnYCUWTDzn
+"@HillaryClinton @cnnbrk @foxandfriends @realDonaldTrump See attachment below, 
+
+#SilentRightParty https://t.co/tIjPauA1Xv"
+"@ScottFordTVGuy @HillaryClinton @realDonaldTrump @cnnbrk @foxandfriends 
+
+#AnotherExample 
+
+#ClintonPlaybook https://t.co/dFStps5RSt"
+"@SSReaney @HillaryClinton @realDonaldTrump You couldn't even protect your #IllegalChappaqua server!
+
+https://t.co/aeOouXhpO3"
+"@SSReaney @HillaryClinton @realDonaldTrump @POTUS Please tell us again how we don't know, or understand! Understand this @realDonaldTrump GB"
+"@shitHRCsays @HillaryClinton @realDonaldTrump 
+
+Software failure GBA
+
+#08Repeat #08Repeat #08Repeat #08Repeat https://t.co/Vrb3eHVUsW"
+"@shitHRCsays @HillaryClinton @realDonaldTrump @cnnbrk @CNN @foxandfriends #AnotherExample 
+
+D.C Elites &amp; deceit https://t.co/jJQiGIpeAY"
+@HillaryClinton Doubling Down on big @POTUS Failed Foreign Policy as the #WorldImplodes #Failures https://t.co/H5uFf7ngTa
+@realDonaldTrump Unlike @HillaryClinton Unless #Pandering is involved! Wouldn't you agree? https://t.co/sN15H1T2Vx
+&amp; just like typical D.C Establishment types they deliver constant empty promises @SpeakerRyan You had decades...  https://t.co/5Zz2WSRbiz
+@DavesGrill @AppSame @PaulRyanSpeaker @RedNationRising @pnehlen #JustSaying https://t.co/Vje3tf2M7i
+"Oh Sh.. @realDonaldTrump #TrumpTrain Choo Choo
+@POTUS @SpeakerRyan Hop aboard boys &amp; enjoy the ride! ResetWashington https://t.co/0PYjR002sB"
+@amrightnow @HillaryClinton I'm a #Clinton &amp; I do what I want! https://t.co/MCw0Vq5doo
+@POTUS @HillaryClinton @srl @realDonaldTrump https://t.co/Dw7qpM5lnj
+"@POTUS @HillaryClinton So let's get this straight... Can we be confident in our #Whiteness what what what! GBA 
+
+https://t.co/isXxri3Y87"
+"@HillaryClinton @realDonaldTrump Everyone, but the Establishment Types! Don't take it personal... 
+
+#Politicians https://t.co/QwGiKVSjhM"
+Your prayers are with us... God Bless  https://t.co/88XJdJEj1y
+@NeilTurner_ @HillaryClinton @billclinton @realDonaldTrump #LaserFocused &amp; Dirty Bill didn't drop a quarter... #SRP https://t.co/7IOdS1WVD0
+"@NeilTurner_ @HillaryClinton Let's not forget our champion of women #Predator @billclinton 
+
+@realDonaldTrump GB https://t.co/DOU5We0tBt"
+@NeilTurner_ @HillaryClinton Example 1: Your the bigot &amp; using your leftist tactic of Divide &amp; Conquer https://t.co/q5itZtM7a3
+Chime in? Okay let's starts daily reminders of why Americans can't trust a #Clinton  https://t.co/g4MieaYhNq
+@HillaryClinton @realDonaldTrump Exactly what we need! #NoSoftTargets please mind your business &amp; focus on the hood! https://t.co/39u1v3fasX
+"Resetting Washington @realDonaldTrump 5 stars...
+
+What about you @SpeakerRyan @MittRomney  https://t.co/DtTLK28DNd"
+"@SenSanews24 @HillaryClinton @cnnbrk @CNN 
+
+ https://t.co/PEddcsaNwD https://t.co/AvEXXemj7L"
+@ThomasSowell @BocaRatonRC @HillaryClinton @SenSanews24 @SenSanders Not here; not ever! https://t.co/3twuJOiO3k
+@ThomasSowell @BocaRatonRC So true! Send them overseas for 1 tour of #Reality &amp; these kids will grow up real fast GB https://t.co/BWc370EJTu
+"@greeneyes0084 @MajorityJoke @HillaryClinton 
+
+#JustSaying #PredatorBill has been at it 4 decades https://t.co/zG4uNIPio0"
+"@elizabethforma Again, we'll cover your costs!
+
+#WooWooWoo 
+
+#23&amp;Me https://t.co/Gqg5KekaBZ  https://t.co/MJGlgdKjdg"
+@mike_58stingray @robert_roblin @BernieSanders https://t.co/NvpTfy2EoY
+#UnitedWeStand #Americans L&amp;R Fighting the fight! https://t.co/ZxI9hdx56Y
+@genpetraeus was convicted on far less &amp; signed the same docs @HillaryClinton America is counting on @FBI 2 do right https://t.co/Q07vkOLnVg
+@ruthbeall @SpeakerRyan @johnboehner @ICXFX @BarbMuenchen @realDonaldTrump @seanhannity @GOP @Papaw_Stevens #United https://t.co/q35oB69zQq
+@WalshFreedom @NolteNC #Understatement https://t.co/zYStMgu6Sv
+"It's a good look @SpeakerRyan Okay form, straighten the neck &amp; lock it out! #Politicians GB
+
+https://t.co/KI67iYaSS3 https://t.co/C8IHQKkSh4"
+"#Priceless @POTUS @MittRomney 
+
+#BirdsOfaFeather @HillaryClinton @SpeakerRyan 
+
+@realDonaldTrump 4 Real Change in DC https://t.co/WfVMFocHFv"
+@mitchellvii @SpeakerRyan Another one bites the dust. And another one... Hop aboard the #TrumpTrain @realDonaldTrump https://t.co/rlYd6mWdcA
+@CharlieDaniels #JustSaying it's only the beginning folks #SilentRightParty https://t.co/FT6xFW4G2U
+"@CharlieDaniels #AnotherExample 
+
+https://t.co/I7MSn95Aex"
+"@CharlieDaniels And not just any Allah fearing Muslim 
+
+https://t.co/hWmLESn9OE
+
+https://t.co/Zb8lPdVfbB"
+@Leadershipfreak &amp; stop the division @NancyPelosi @HillaryClinton #UnitedWeStand #Leadership it's that easy... GBA https://t.co/sG87SdwIww
+No I in team @POTUS Lead by example @billclinton @HillaryClinton Accept responsibility for your actions @SpeakerRyan https://t.co/7dr51TKGli
+https://t.co/bWPNTwK3NL
+"You'll find this funny @HillaryClinton Grab the camp &amp; lets take a break, have a laugh @realDonaldTrump 
+SilentRight https://t.co/KWLzvpzGtw"
+"Just another example of the #EstablishmentType
+
+Decades of empty promises @GOP @GoldmanSachs 
+@johnboehner Thanks GB https://t.co/puACCHYiO5"
+@ArRuple @sesamestreet #Sharia @HillaryClinton @NancyPelosi @SenFeinstein @elizabethforma https://t.co/NWF1huHoW4

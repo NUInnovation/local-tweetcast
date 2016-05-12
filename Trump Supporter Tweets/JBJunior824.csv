@@ -1,0 +1,146 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 557949317, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/542632967/Kirk___Rylee_1.JPG"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/690553224219234304/5F35jyhT_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 651, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""557949317"", ""profile_background_color"": ""642D8B"", ""listed_count"": 24, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @jjauthor: Dems say they will make BLACK LIVES better-is it better like Baltimore, Chicago,or Detroit?  #MeetThePress #ThisWeek https://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729347715797274625, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 177584156, ""indices"": [3, 12], ""id_str"": ""177584156"", ""screen_name"": ""jjauthor"", ""name"": ""Janie Johnson""}], ""hashtags"": [{""indices"": [107, 120], ""text"": ""MeetThePress""}, {""indices"": [121, 130], ""text"": ""ThisWeek""}], ""urls"": [], ""media"": [{""source_user_id"": 177584156, ""source_status_id_str"": ""729347480052113408"", ""expanded_url"": ""http://twitter.com/jjauthor/status/729347480052113408/photo/1"", ""display_url"": ""pic.twitter.com/CJmapVctWR"", ""url"": ""https://t.co/CJmapVctWR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg"", ""source_user_id_str"": ""177584156"", ""source_status_id"": 729347480052113408, ""id_str"": ""729347479250997248"", ""sizes"": {""small"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""large"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""medium"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729347479250997248, ""media_url"": ""http://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 30, ""id_str"": ""729347715797274625"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Dems say they will make BLACK LIVES better-is it better like Baltimore, Chicago,or Detroit?  #MeetThePress #ThisWeek https://t.co/CJmapVctWR"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729347480052113408, ""favorite_count"": 37, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [93, 106], ""text"": ""MeetThePress""}, {""indices"": [107, 116], ""text"": ""ThisWeek""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/jjauthor/status/729347480052113408/photo/1"", ""display_url"": ""pic.twitter.com/CJmapVctWR"", ""url"": ""https://t.co/CJmapVctWR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg"", ""id_str"": ""729347479250997248"", ""sizes"": {""small"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""large"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""medium"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729347479250997248, ""media_url"": ""http://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 30, ""id_str"": ""729347480052113408"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 16:29:24 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": {""full_name"": ""Nevada, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json"", ""country"": ""United States"", ""place_type"": ""admin"", ""bounding_box"": {""type"": ""Polygon"", ""coordinates"": [[[-120.00574, 35.002086], [-114.039649, 35.002086], [-114.039649, 42.002208], [-120.00574, 42.002208]]]}, ""contained_within"": [], ""country_code"": ""US"", ""attributes"": {}, ""id"": ""d374fb61a20fb74f"", ""name"": ""Nevada""}, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/jjauthor/status/729347480052113408/photo/1"", ""display_url"": ""pic.twitter.com/CJmapVctWR"", ""url"": ""https://t.co/CJmapVctWR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg"", ""id_str"": ""729347479250997248"", ""sizes"": {""small"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""large"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""medium"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 729347479250997248, ""media_url"": ""http://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 16:30:20 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 177584156, ""source_status_id_str"": ""729347480052113408"", ""expanded_url"": ""http://twitter.com/jjauthor/status/729347480052113408/photo/1"", ""display_url"": ""pic.twitter.com/CJmapVctWR"", ""url"": ""https://t.co/CJmapVctWR"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg"", ""source_user_id_str"": ""177584156"", ""source_status_id"": 729347480052113408, ""id_str"": ""729347479250997248"", ""sizes"": {""small"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""large"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""medium"": {""h"": 225, ""resize"": ""fit"", ""w"": 225}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729347479250997248, ""media_url"": ""http://pbs.twimg.com/media/Ch8pqwqVEAA4ioK.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 23236, ""description"": ""Build Stuff /Professional Golfer Almost / Commodities Trader /Constitutional Libertarian"", ""friends_count"": 978, ""location"": ""Lake Norman, NC"", ""profile_link_color"": ""FF0000"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/690553224219234304/5F35jyhT_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/557949317/1459517655"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/542632967/Kirk___Rylee_1.JPG"", ""name"": ""J.B. Junior"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 1903, ""screen_name"": ""JBJunior824"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Apr 19 18:40:23 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@RealAlexJones  Belmont family evicted after hanging American flag https://t.co/fluTJe0c9J
+"""@RachelRollar Stand off in Mooresville.
+
+You coming out Live https://t.co/AWNn5C8raV"
+"""Trump supporters in California Greatly out number the @glennbeck Movement. Washington must be crapping their pants! https://t.co/vOJJJzlxsm"
+"""It would be nice is our American citizens would begin voting out these left wing nut jobs like @elizabethforma https://t.co/kvlanw2ujz"
+"""Cut of the Welfare! I like it!
+https://t.co/AvZDMcM1KB"
+"""As you @HouseGOP should have impeached Obama already. Instead, you are an accessory to the Destruction of America https://t.co/RUfaQpo6xP"
+@elizabethforma Another Liberal Liar for Massachusetts https://t.co/ytepozkGkJ
+@GWForUS @andersonDrLJA.  LOL https://t.co/fqbNe6kQHv
+"""@elizabethforma We want Real Leaders  ...Not PC Puppets like you.
+We will elect @realDonaldTrump https://t.co/xeEqeDqW3k"
+"@elizabethforma @realDonaldTrump 
+Be Careful what you think you can control lady. We the People are Sick of You Liberal immoral Democrats"
+"""@JeffJacksonNC Worth a read. Perhaps you will decide to support a Moral @PatMcCroryNC https://t.co/R4BIGQkrPm"
+"""Careful what you push for people!
+@wcnc @NCPoliticalNews @MeckCounty https://t.co/R4BIGQkrPm"
+"""@DylanDreyerNBC #DerbyHats
+
+For a Kentucky Derby Party Tomorrow 
+
+Loved your hat also! https://t.co/5Bys8lOLy2"
+"""@andersoncooper @HillaryClinton https://t.co/2jooUt2TaM"
+"""Would that be an Ace or a Snake @tedcruz has up his sleeve? https://t.co/bCbvvTaL1f"
+"@MittRomney @JebBush @georgebus
+
+Yep! We don't Care WHAT You Think! Take your little ball and Go Home! https://t.co/G4whNiwR17"
+"""@andersoncooper Perhaps @HillaryClinton can explain $6 Billion missing from the State Dept on her watch. https://t.co/dcKRQ9OTXm"
+"""@HillaryClinton @andersoncooper Last I Checked This Administration has rack up $10B in debt, workers R earning Less https://t.co/dcKRQ9OTXm"
+"""Thinking a November Surprise will leave them scratching their Kool Aid poisoned Brains. @realDonaldTrump @chucktodd https://t.co/nPmDcFEAV9"
+"""@SpeakerRyan Evidently likes the failures of Washington and @HillaryClinton Corruption vs the Success of @realDonaldTrump #PatheticRINO"
+"""@RachelRollar Dang Potatoes! You could be at #WellsFargoChampionship enjoying the day!"
+"""Hopefully Wisconsin will vote @SpeakerRyan out of Congress. Problem Solved! @newtgingrich @realDonaldTrump https://t.co/WQiEaaDIQr"
+"""FYI Japan allows No Muslims in their Country. Is this racist? Also No Mexicans! They can't walk there. https://t.co/PF9GZs4Zok"
+"""@wcnc @HillaryClinton Stop changing the language! They are NOT Undocumented Immigrants. They are Criminal Illegal Aliens violating US Law!"
+"""It is about the Law, the Safety of Our People and the Enormous Cost. Illegals should NOT be here! @realDonaldTrump https://t.co/PF9GZs4Zok"
+"""The US allows twice the number of Legal immigrants than any country on the planet. Nothing about race here. https://t.co/PF9GZs4Zok"
+"""@PressSec @wcnc Perverts in the Womens Bathroom is NOT a North Carolina Value. We should be allowed to vote on the issue."
+"@JeanSMilner @biblegateway 
+
+It's  called ""Thou shalt not covet."""
+@rwm52 @PolitiBunny @rendale @realDonaldTrump Not that in our society is this an accepted behavior. Not yet anyway. See Sharia Law
+"@rwm52 @PolitiBunny @rendale @realDonaldTrump 
+
+Sorry .... not the true Hebrew meaning. Refer to the Pirkei Avos. Ethics of the Fathers."
+@JeanSMilner @biblegateway the sin was having his general killed and lust for his wife.
+"@JeanSMilner @biblegateway 
+
+English/Catholic translation. Not how is is interpreted in original Hebrew. David had 2 Wives and 2 concubines"
+"""@SenJohnMcCain You should retire as the RINO You Are! #GangofEight https://t.co/tJLWs1bUgK"
+@HillaryClinton So this is what you're pushing?!!? https://t.co/KiccY5pfXE
+"""Seriously Hillary? https://t.co/DxcHxyEQvF"
+"@rendale @PolitiBunny @realDonaldTrump Awww. Just recalling King David and King Solomon. Adulterers? 
+I think not."
+"@PolitiBunny @rendale Read your Bible. Men can't be adulterous. Only women.
+Last i check @realDonaldTrump was a man."
+And Hillary will be charged and arrested when Trump Wins. https://t.co/7ELsAwlgZX
+"""@glennbeck Both Rubio and Bush are Progressives ... supposedly whom you detest. Now you say they're good men?
+U have been drinking KoolAid!"
+@OlegZeltser Well this one is No Saint either ... it is your vote so do as you will. https://t.co/msoErWQIc3
+@OlegZeltser Deals have been made. Trump is the negotiator.
+@OlegZeltser Funny. So you would prefer?
+"@OlegZeltser Pay Attention Trump Haters.
+Trump will nominate Cruz for Supreme Court. This is where we need @tedcruz"
+"""Like @TODAYshow @CBSThisMorning @GMA are promoting? Good Call! https://t.co/IwbCpJcspQ"
+I bet! He knows @realDonaldTrump will have Mexico pay! Step One. Confiscate all money being sent to MEX by illegals. https://t.co/XhbpYvVFYm
+"""I donk know who @TODAYshow is polling, but I know of NO ONE Voting for Hillary. Of course I'm surrounded by common sense intelligence."
+"""@TODAYshow And how many people has @HillaryClinton had murdered? More than I can count! Talk about a loose cannon!
+#Benghazi"
+For SURE @hardball_chris is a Pig. On the other hand all Elected Democrat women are Butt Face Ugly https://t.co/h8kkZiZgh1
+"""Well Sexual Immorality seems to be the Rule of Thumb in America tbese days.
+United States of Allowing Perverts. https://t.co/pwIK5Z59PZ"
+LMAO! Tell the @BernieSanders Commie Punk to get a Mule to Tow his Prius! https://t.co/khHGLh19Y4
+"""Me After @realDonaldTrump Sweeps Indiana! @RealAlexJones @SarahPalinUSA https://t.co/IhnpvteYHU"
+@jimmykimmel @SarahPalinUSA Climate Cops Panic https://t.co/d3X0LnVnvi via @YouTube
+"""@Beth_Troutman  Great Weather Today!
+Glad you're having Fun at Work! https://t.co/TwGtqpiVsh"
+"""And Today only Ann is correct.
+@billmaher @joyreid @mattlewisshow @RepGutierrez  ... and Obama didn't win by 5M. https://t.co/velRUZh7b3"
+@OBXConnection Summer Advice https://t.co/iftBWfWkpj
+"""@WhoopiGoldberg @TheView 
+Hell ... I will buy their tickets https://t.co/B1sFXw3VcW"
+"""Hopefully @LadyAodh Trump become President will at least stop white genocide in America. @realDonaldTrump https://t.co/dsAE5vSqwX"
+"@toddstarnes @KatyinIndy @FoxNews 
+Who are you talking about? Bill or Hillary ?"
+Bojangles Baby! https://t.co/4LoPpm6pH2
+"""Stop with the Propaganda. Hillary can barely beat the Doc from Back to the Future. Your Guy Lost Big! https://t.co/UOFQah0FGw"
+:@BryanJFischer @KatyinIndy Don't be so quick to judge. How have the last 50 years been?
+"""Does @GStephanopoulos have a clue who killed JFK? Well he should Stup Up Then! https://t.co/8f60LqBrr9"
+"""How Pathetic @JohnKasich https://t.co/4yikgrXBUp"
+"""@CNN @mlauer @FoxNews @MSNBC Govt Insider Reveals Hillary's Murderous Past https://t.co/cVjDoSKwa7 via @YouTube"
+"""@GeorgeWill @FoxNews Truth about George! https://t.co/W2JHo1wCYY via @YouTube"
+"""@TODAYshow @MLauer Somebody needs to report truths  .... you people sure as hell won't!"
+"""Even the Trash Trump Radio Network can't stop @realDonaldTrump 
+@tedcruz is OUT @glennbeck https://t.co/Df8KckcmEi"
+"""@RachelRollar @wcnc Have fun at the #WellsFargoChamp Are you playing today?"
+"Obama Called ""Nigga"" by Larry Wilmore at White House Correspondents' Din... https://t.co/M7krI6hdro via @YouTube"
+"""@FoxNewsSunday Chris ... Hillary should be in Prison! Debate on that issue for a moment."
+"""@CivilRights https://t.co/IAGNbtkaTI"
+@kimmiecoon @WhiteHouse OR you could have dinner with me!
+"""@TGowdySC @BenghaziDems @HouseBenghazi 
+
+So when will the charges be filed? https://t.co/HiefriAptU"
+"""@glennbeck @DocThompsonShow @Jay_Severin  SMH https://t.co/UPgEpmlfw7"
+"""Hey Mr Muslim  ..... move out is USA and go pray with your fucking goats in Iran. https://t.co/pvlcXHePcV"
+"""@FiveRights With every passing day the corruption just oozes out of @tedcruz &amp; @CarlyFiorina 
+Meanwhile @glennbeck can't see the light."
+"""@PressSec SMH Booming Economy? https://t.co/N1oZgoRcq5"
+"""Verses @DocThompsonShow @skiplacombe  ... the @realDonaldTrump packs ever house! https://t.co/Wsky9qYwAV"
+"""@DocThompsonShow @skiplacombe 
+Yep @tedcruz &amp; @CarlyFiorina are packing them in! #Indiana https://t.co/HVOjReicXt"
+"""Like have a conversation with a @HillaryClinton supporter. https://t.co/0n7VqrP8pN"
+"""@DocThompsonShow And Barack Obama was qualified to be POTUS?"
+"""So @CarlyFiorina You admire a Liar and a thief? https://t.co/cPFSBGYSXN"
+"""@glennbeck Quit the contrast! https://t.co/Wsky9qGVcl"
+"""Has she ever ""Ripped"" the behavior of Muslim Terrorist? https://t.co/QIyV6mdJRA"
+Yep @glennbeck Cruz and @CarlyFiorina are packing them in! https://t.co/HVOjRe0ByT
+"""@CarlyFiorina  Hummmm https://t.co/eOCxZYGdw8"
+"""And Then There is That!"" @HillaryClinton @foxandfriends https://t.co/ZarHNbCnrj"
+"""@POTUS @PressSec 
+
+Well Said https://t.co/nvlm64Sx8m"
+"""And your purpose @tedcruz of staying in this election is What? @CarlyFiorina is a Joke as well. https://t.co/PgZozLk5ae"
+"""@larryelder Most people  commit 3 felonies a day and don't even realize it.
+FYI."
+"""@larryelder It is my opinion  ... is a ""felon"" ... working and paying taxes  ... they should be allowed to Vote. Freeloaders Do."
+"@RightWing_B  Cute! And Very True!
+           #IsThatARing"
+Thus why they are still living in the Dark Ages @CarlyFiorina https://t.co/LFLtfVZ3kH
+"""In other words @TGowdySC Hillary Clinton needs to be in Prison! https://t.co/sWhIuHKW5V"
+"""Your Hair is really getting long! https://t.co/Os3uT2l2YV"
+"@Larryputt @tamifitzgerald @DailySignal 
+
+Not in North Carolina  ... Not in America https://t.co/71tAhcrujA"
+"""Seriously @tedcruz A Basketball Ring?
+
+Sacrilege! @RightWing_B https://t.co/OZsrNE0QXD"
+"""Nothing is Free. Stop being Dilusional. https://t.co/QWOa7Lmspx"
+"""What We Don't Need in NC or in America !
+@foxandfriends 
+@WCCBNewsRising 
+@TODAYshow https://t.co/uDd3V5rOUW"
+"""Boycott @Target https://t.co/mSszaWeNWI"
+"""@wsoctv @WCCBNewsRising @FOX46News  .... Stop this Insanity! https://t.co/kBewORuYfE"

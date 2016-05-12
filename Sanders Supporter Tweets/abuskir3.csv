@@ -1,0 +1,108 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 332482806, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/606862923/fwkn3ltf5kmllrdfvyc1.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/724437389523976192/tozUTT6t_normal.jpg"", ""profile_sidebar_fill_color"": ""F6F6F6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 70, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""332482806"", ""profile_background_color"": ""4FB8F0"", ""listed_count"": 6, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @FallonTonight: Just in time for Mother's Day, Jimmy reads his favorite #MomQuotes tweets https://t.co/ed2pxH51U9 https://t.co/tLwHICaVTC"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729133006892482560, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 19777398, ""indices"": [3, 17], ""id_str"": ""19777398"", ""screen_name"": ""FallonTonight"", ""name"": ""Fallon Tonight""}], ""hashtags"": [{""indices"": [75, 85], ""text"": ""MomQuotes""}], ""urls"": [{""url"": ""https://t.co/ed2pxH51U9"", ""indices"": [93, 116], ""expanded_url"": ""https://www.youtube.com/watch?v=VQ4K1BCVdfY&index=3&list=UU8-Th83bH_thdKZDJCrn88g"", ""display_url"": ""youtube.com/watch?v=VQ4K1B\u2026""}], ""media"": [{""source_user_id"": 19777398, ""source_status_id_str"": ""728548640210423810"", ""expanded_url"": ""http://twitter.com/FallonTonight/status/728548640210423810/photo/1"", ""display_url"": ""pic.twitter.com/tLwHICaVTC"", ""url"": ""https://t.co/tLwHICaVTC"", ""media_url_https"": ""https://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg"", ""source_user_id_str"": ""19777398"", ""source_status_id"": 728548640210423810, ""id_str"": ""728548639732289536"", ""sizes"": {""small"": {""h"": 169, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 510, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 299, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 728548639732289536, ""media_url"": ""http://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 190, ""id_str"": ""729133006892482560"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Just in time for Mother's Day, Jimmy reads his favorite #MomQuotes tweets https://t.co/ed2pxH51U9 https://t.co/tLwHICaVTC"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728548640210423810, ""favorite_count"": 713, ""source"": ""<a href=\""http://www.hootsuite.com\"" rel=\""nofollow\"">Hootsuite</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [56, 66], ""text"": ""MomQuotes""}], ""urls"": [{""url"": ""https://t.co/ed2pxH51U9"", ""indices"": [74, 97], ""expanded_url"": ""https://www.youtube.com/watch?v=VQ4K1BCVdfY&index=3&list=UU8-Th83bH_thdKZDJCrn88g"", ""display_url"": ""youtube.com/watch?v=VQ4K1B\u2026""}], ""media"": [{""expanded_url"": ""http://twitter.com/FallonTonight/status/728548640210423810/photo/1"", ""display_url"": ""pic.twitter.com/tLwHICaVTC"", ""url"": ""https://t.co/tLwHICaVTC"", ""media_url_https"": ""https://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg"", ""id_str"": ""728548639732289536"", ""sizes"": {""small"": {""h"": 169, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 510, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 299, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [98, 121], ""type"": ""photo"", ""id"": 728548639732289536, ""media_url"": ""http://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 190, ""id_str"": ""728548640210423810"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 11:35:06 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/FallonTonight/status/728548640210423810/photo/1"", ""display_url"": ""pic.twitter.com/tLwHICaVTC"", ""url"": ""https://t.co/tLwHICaVTC"", ""media_url_https"": ""https://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg"", ""id_str"": ""728548639732289536"", ""sizes"": {""small"": {""h"": 169, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 510, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 299, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [98, 121], ""type"": ""photo"", ""id"": 728548639732289536, ""media_url"": ""http://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 02:17:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 19777398, ""source_status_id_str"": ""728548640210423810"", ""expanded_url"": ""http://twitter.com/FallonTonight/status/728548640210423810/photo/1"", ""display_url"": ""pic.twitter.com/tLwHICaVTC"", ""url"": ""https://t.co/tLwHICaVTC"", ""media_url_https"": ""https://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg"", ""source_user_id_str"": ""19777398"", ""source_status_id"": 728548640210423810, ""id_str"": ""728548639732289536"", ""sizes"": {""small"": {""h"": 169, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 510, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 299, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 728548639732289536, ""media_url"": ""http://pbs.twimg.com/media/ChxTILjWUAAifzA.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 933, ""description"": ""Sarcastic college student advocating equality. Living blue in a red state."", ""friends_count"": 127, ""location"": ""United States"", ""profile_link_color"": ""2F4FED"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/724437389523976192/tozUTT6t_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/332482806/1403654119"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/606862923/fwkn3ltf5kmllrdfvyc1.jpeg"", ""name"": ""Noneya"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 120, ""screen_name"": ""abuskir3"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Jul 09 22:03:30 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Bahahahaha  https://t.co/p3WYYPbrCm
+#WhereDoYouSeeYourselfInTenYears https://t.co/oglEq1JoeB
+#BernieOnCleanEnergy #BernieOnCoal #BernieOnWV  https://t.co/SAYSQIynNg
+"Hahaha this is so good! Nice job, #JimmyKimmel #ClimateChangeIsReal  https://t.co/MnSMbXBwuV"
+Here comes #BernieSanders! Poll after poll show Bernie is the only candidate that can beat Trump in Nov #FeelTheBern https://t.co/OimgRGuouj
+Here comes #BernieSanders!! #TYT #FeelTheBern #Bernie2016 https://t.co/3I3jfw28f1
+"#BernieSanders is winning in Indiana &amp; #TedCruz is dropping out. What an awesome night. Good job, Indy! #IndianaPrimary"
+youthwithbernie's photo https://t.co/Evd6vEGJBo #Bernie2016
+Man I love some #AnthonyBourdain. So glad @netflix has new episodes of #PartsUnknown. #DreamJob
+Wasn't sure if I wanted to watch all 40 minutes of his speech but I'm glad I did. #ObamasGotJokes #WHCD  https://t.co/AJi9ReSZTR
+Bahahahaha 😂🐩 https://t.co/JvTmMIN1Cr
+"But send them back to their country, right?  https://t.co/8iTp8M8YRy"
+#StillSanders #PoliticalRevolution #FeelTheBern #Bernie2016 https://t.co/aSgAF7ssl9
+"Here’s the Thing So Many Americans Can’t Grasp About #BernieSanders (Fantastic article!) 🙌🏼
+https://t.co/H5zNIkYVQg"
+"""Women stood up &amp; fought back. They said women in America will not be second class citizens."" #Bernie2016 #FeelTheBern #BernieInHuntingtonWV"
+"""I couldn't care less what Wall Street likes."" #BernieSanders #FeelTheBern #BernieInHuntingtonWV https://t.co/gYHOA5xjrR"
+We are #FeelingTheBern! #BernieHuntingtonWV #BernieSanders #Bernie2016 https://t.co/nc25Yu3LNC
+Waiting for the man of the hour ✊🏼🔥#BernieSanders #BernieHuntingtonWV #Bernie2016 #FeelTheBern https://t.co/QfEXd7bfYF
+"Trolling, degrading, &amp; judging people on social media is pathetic. Don't confuse that as a strong attribute."
+Social media is making me lose faith in humanity.
+Being kind doesn't cost a damn thing. Sprinkle that shit on everything. #BeKind
+#AmySchumer #ProChoice #MindYourOwnUterus  https://t.co/nw3c4LC7vb
+"If you're surrounded by neighbors, it's after midnight, &amp; you're letting your dog bark uncontrollably outside, you, sir, are an asshole."
+"#Bernie is coming to #HuntingtonWV!!!! 😍 April 26 5:30 #BernieSanders #Bernie2016 #FeelTheBern 
+https://t.co/545byRW5Pe"
+Omg I need him #DogsAreBetterThanCats  https://t.co/4OehcdDsnt
+Fav💜 #Prince #RIPPrince ☮🎶💜  https://t.co/BR7Xvr4xyd
+I've been asked what the point of #DemocracySpring was. This. This was the point. https://t.co/W5XQO8ZDig
+Got to see #DemocracySpring in person ✊🏼 https://t.co/OKG5GSxtDU
+Biggest voter suppression happened in Brooklyn NY &amp; people are really gonna say the election *isn't* rigged? Really? #WakeUp #NYPrimary
+What is the f-ing point of having an Independent party *if they can't vote?!* Seriously? What the fuck? #NYPrimary  https://t.co/HwoiXt5gt5
+"And on 4/20, how appropriate #420 #LegalizeIt  https://t.co/HEPBdt4zSx"
+"@CNNPolitics #Sanders on Nasty Rhetoric Of Campaign? What's nasty about health care &amp; paid family leave? Hey, #CNN your bias is showing!!!!!"
+"In the #HolocaustMuseum #WashingtonDC: ""Building A Dividing Wall."" Let's think about that for a second. #DumpTrump https://t.co/I8PhdKUNFd"
+#EcuadorEarthquake 😥 https://t.co/XhISPCALnc
+"An estimated 1,200 arrests at #DemocracySpring this week! 🔥✊🏼#DemocracyAwakens Wish I could still be there  https://t.co/D3rYCFS3NN"
+✊🏼🔥👏🏼 https://t.co/I11xEUse30
+Missed @rosariodawson by just a few hours! #DemocracySpring  https://t.co/cc0eFYXoNJ
+"Missed this huge demonstration by one day. Good job, y'all. ✊🏼✌🏼️ #DemocracyAwakens  https://t.co/hskDYGgQlg"
+I got to live #DemocracySpring ✊🏼 https://t.co/WehOqOmfuF
+#TheWhiteHouse!!! #DemocracySpring #DemocracyAwakens #WhatUpObama https://t.co/zlMxkSYv6h
+#DemocracySpring #DemocracyAwakens https://t.co/qlUs8AkwY4
+#DemocracySpring https://t.co/wH65MvVxym
+#DemocracySpring the movement is comin' to you! #DemocracyAwakens https://t.co/hN2jQCpuFc
+First look at the Capitol!! #DemocracySpring #DemocracyAwakens https://t.co/25CR1Kzjs4
+Omg I'm completely heartbroken 😢@zachbraff @netflix you cannot take Scrubs away! Seriously! No!  https://t.co/8Bao1JO311
+😠 https://t.co/pY7XJuvsRt
+I'll be there this Friday through Sunday!! 😁 #DemocracySpring #DC https://t.co/ly0jxC2peq
+When you trip over your own purse in a public library 😑😂 I can't be in public
+"How To Argue The Wage Gap Exists https://t.co/4wumyDVU10 via @bustle To those who just refuse to get it, read this 🙂 #EqualPayDay"
+"@TheThrashKing never said I was paid less. I made a joke dude. I've worked plenty of overtime, trust me"
+You all need to chill &amp; learn how to take a joke. #WhySoSerious
+@AlliisonB lol Jesus it's a fucking joke
+@Nordic1933 wow. Unnecessary
+"Man, people get offended so easily. Lighten up &amp; learn to laugh"
+#WageGap has to do with unequal &amp; disproportioned opportunities based on socioeconomic status. It also affects more than just females.
+I think a man saying the wage gap doesn't exist is like a woman saying it doesn't hurt when a man gets kicked in the balls. #EqualPayDay
+😬 https://t.co/VVrjEcWBnd
+👏🏼🙌🏼🤘🏻 #FeelTheBern #Wyoming feelin the Bern  https://t.co/OmvMfhjTBL
+Join the largest act of civil disobedience in a generation #DemocracySpring April 11 to 18 in DC. Its a movement moment. Let's make history!
+🙌🏼👏🏼 #Wisconsin is #FeelingTheBern  https://t.co/1GlIoGE9t4
+Not ashamed to say I rocked out to #AlwaysBeMyBaby by Mariah Carey &amp; waited until it was over before getting out of my car
+Yep. #ProChoice #NoUterusNoOpinion https://t.co/lYgNknmmhU
+Contentment is getting home after a 13 hour shift &amp; watching a new season of #BobsBurgers
+😬 https://t.co/j153Xwu44q
+YES! #HypocrisyThyNameIsGOP  https://t.co/9XOx1QwdfF
+How can I train my dog to do this? 😂👍🏼🐶 #GoodDog https://t.co/BWGR7G3uj8
+@TIME Now that's a well trained puppy 👏🏼😂😂
+"@cnni Too late, #Trump is already here."
+All these shirts are great 😂 https://t.co/98OTQC05n3
+Watching #MakingAMurderer like 😳
+I freaking love #ElizabethWarren hahaha  https://t.co/TN3F46574J
+"Another day, another #shooting. Is the the #AmericanDream simply becoming ""I hope I don't get shot"" ...?  #Merica  https://t.co/z08WO2axKn"
+"Constantly Claimed By Atheists, #NeildeGrasseTyson Responds To That Whole Concept Wonderfully. https://t.co/sxcejmzZz5 # via @bigthink THIS!"
+"This world makes me tired. #ProChoice = murder. #AntiWar = ""pussies."" Women are lesser than men. Just fucking tired of it all. 🖕🏼"
+@HuffingtonPost I feel like I just read an Onion article. 5 minutes I'll never get back.
+"@ubiquitous817 @annabroges @BuzzFeed Ha! Yeah, I thought it was pretty spot on description https://t.co/flC9sB9fWk"
+21 Insanely Useful Skills Every Introvert Has Mastered. #MyLife https://t.co/ANl1n2sN6r via @annabroges @buzzfeed
+Unbelievable. #StopWar #WorldPeace #Ceasefire 😭😢 https://t.co/0OceJm1Pqo
+Always a woman in the middle? How bout always a psychotic man *blaming* a woman? #EgyptAirHijack  https://t.co/rirIMy1LGL
+Sarah Silverman’s Hilarious Video for Bernie Sanders Is Going Viral https://t.co/bgVyvXinty
+I love it when there's actually some justice in the world. Better get a long sentence. Good job #WashingtonCounty https://t.co/euwwk7V0SH
+#ADrugIsADrugIsADrug #AlcoholIsADrug  https://t.co/kR7m02mJ5v
+So cool. This invention needs to go even further. #GoGreen #Biodegradable #EdibleCutlery    https://t.co/d8TUr8BIA5
+"Bernie Sanders Just Got a Sign from God at Portland Rally https://t.co/Du5qVJ8Qfu 
+Bahahaha #BirdieSanders #FeelTheBird"
+Thank you @TheYoungTurks @AnaKasparian for pointing out how *ridiculous* it is that presidential candidates are getting into Twitter feuds
+#TheYoungTurks interview #BernieSanders LIVE TONIGHT at 6pm!!!! https://t.co/lCcga75mFo
+Even the #Republicans hate #Trump. #Bernie #BernieSanders #Bernie2016 #FeelTheBern #VoteBernie #StillSanders https://t.co/CWS689uAl6
+@HuffingtonPost and I found Dumbledore buried in my back yard.
+"If you wanna make a sweeping generalization &amp; call an entire group of people dumb, make sure you can spell first. 😂"
+Bahaha #Irony #Bernie2016 #BernieSanders #FeelTheBern #DumpTrump #Drumpf https://t.co/FsmqGSJhqg
+God forbid people not go hungry. #JonStewart https://t.co/9t6vz9JSQu
+One of my favorite memes lol https://t.co/SbSLAy9rzE
+#ItsNotFreeStuff #Bernie #FeelTheBern https://t.co/OWgiKfbgou
+#Liberals are evil &amp; #BernieSanders is out of his mind. 😂😂 This is why you shouldn't read the comment threads of #Trump posts #FacePalm
+I did not see that ending coming hahaha #FeelTheBern https://t.co/SqJcAGeL2T
+Yesss yes yes! #FeelTheBern #Addiction #WarOnDrugs https://t.co/YdTODehwr4
+"When you learn @SenSanders will be in #ColumbusOhio, 2 hours away from you, but you have to work 😢😭😭 #Bernie #BernieInColumbus"
+"This. 
+Retired priest: ‘Hell’ was invented by the #church to control people with fear - https://t.co/A6fzmdy78N"
+#MotherEarth #GoGreen #ReduceReuseRecycle #LoveTheEarth https://t.co/RKFwzym67S
+BOOM. Bernie Sanders Wins Michigan Primary in Historic Upset #FeelTheMotherFuckinBern https://t.co/xFtYCdfuQw
+Carlin got it. He definitely would be for #Bernie. #GeorgeCarlin @ubiquitous817 https://t.co/zS4Nz6ZDeb via @youtube
+I've always thought this! #Earthling #FuckYourFlags https://t.co/d1CoI2eHDP
+People actually believe the Earth is flat... Seriously 😂😂😭😂 #FlatEarthers https://t.co/AolsGj6FbX

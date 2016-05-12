@@ -1,0 +1,124 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3471344421, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""North Carolina, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""3b98b02fba3f9753"", ""name"": ""North Carolina, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/702935599976726528/1D5O6lXk_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 92, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3471344421"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 3, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @grindingdude: Even after ALL that, it took this long for everyone to catch on. The biggest con of the American people https://t.co/F27f\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729457587037605889, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 446228264, ""indices"": [3, 16], ""id_str"": ""446228264"", ""screen_name"": ""grindingdude"", ""name"": ""TriggaNometry""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 446228264, ""source_status_id_str"": ""729073157768937473"", ""expanded_url"": ""http://twitter.com/grindingdude/status/729073157768937473/photo/1"", ""display_url"": ""pic.twitter.com/F27fmzvXU3"", ""url"": ""https://t.co/F27fmzvXU3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg"", ""source_user_id_str"": ""446228264"", ""source_status_id"": 729073157768937473, ""id_str"": ""729073151326433280"", ""sizes"": {""small"": {""h"": 462, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""medium"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [122, 140], ""type"": ""photo"", ""id"": 729073151326433280, ""media_url"": ""http://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 105, ""id_str"": ""729457587037605889"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Even after ALL that, it took this long for everyone to catch on. The biggest con of the American people https://t.co/F27fmzvXU3"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729073157768937473, ""favorite_count"": 89, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/grindingdude/status/729073157768937473/photo/1"", ""display_url"": ""pic.twitter.com/F27fmzvXU3"", ""url"": ""https://t.co/F27fmzvXU3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg"", ""id_str"": ""729073151326433280"", ""sizes"": {""small"": {""h"": 462, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""medium"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [104, 127], ""type"": ""photo"", ""id"": 729073151326433280, ""media_url"": ""http://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 105, ""id_str"": ""729073157768937473"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 22:19:20 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/grindingdude/status/729073157768937473/photo/1"", ""display_url"": ""pic.twitter.com/F27fmzvXU3"", ""url"": ""https://t.co/F27fmzvXU3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg"", ""id_str"": ""729073151326433280"", ""sizes"": {""small"": {""h"": 462, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""medium"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [104, 127], ""type"": ""photo"", ""id"": 729073151326433280, ""media_url"": ""http://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:46:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 446228264, ""source_status_id_str"": ""729073157768937473"", ""expanded_url"": ""http://twitter.com/grindingdude/status/729073157768937473/photo/1"", ""display_url"": ""pic.twitter.com/F27fmzvXU3"", ""url"": ""https://t.co/F27fmzvXU3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg"", ""source_user_id_str"": ""446228264"", ""source_status_id"": 729073157768937473, ""id_str"": ""729073151326433280"", ""sizes"": {""small"": {""h"": 462, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""medium"": {""h"": 506, ""resize"": ""fit"", ""w"": 372}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [122, 140], ""type"": ""photo"", ""id"": 729073151326433280, ""media_url"": ""http://pbs.twimg.com/media/Ch4wKxgWMAA5uIC.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 554, ""description"": ""Pursuit of Life, Liberty and Happiness as a member of #MakeAmericaGreatAgain"", ""friends_count"": 125, ""location"": ""North Carolina, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/702935599976726528/1D5O6lXk_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Leshia Smith"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 659, ""screen_name"": ""SmithLeshia"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Aug 28 16:42:35 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+As the Executive Branch of Government he did not do his job enforcing our laws.  We want him out. NOW.  #Trump2016 https://t.co/QoV3LZsfGw
+Count me in! #Trump2016 https://t.co/p9ihRjxLFi
+Pandering is what got us here in the first place.  Do what's right for USA and everyone is on level playing field! https://t.co/Wa4ocu2TRG
+"Or the truth is, they changed definition and did not give US full disclosure.  TPP definitely not full disclosure https://t.co/QfXi4B4WKZ"
+@thehill Did analysts take into account the ones that pay $0 income tax. Did they look at all the other taxes we pay https://t.co/W8ZbJ0piyL
+@realDonaldTrump @DanScavino @thehill  WTP plan to give him the entire map.  We want to #MakeAmericaGreatAgain https://t.co/SwM6KXeFCY
+"@FoxNews Not surprised!  What government agency is efficient at anything?  Can we add penalities 
+&amp;interest? # MAGA https://t.co/EISHRY315Y"
+@FoxNews Deep bruises to the GOP leaders?  What about the bruises we Americans have from their weakness and globalist policies?
+@RedState Saw you on @CNN today.  Let me remind you.....your last two picks were lossers.  We want to win again.  #Trump2016
+"@CNN Flint water, bridges, roads &amp; most of our infrastructure is a mess.  Continue spending money on refugees and illegals while ignoring US"
+I have been voting against incumbents for 20 years.  Just need more to do the same.  Let's stop career Politicians https://t.co/8k6oNlq3ji
+@CNN This Bush issue is exactly why we should not make families our Political Royals.  3 Bushes and not a single Leader.  Run &amp; Hide
+@BenSasse We American voters point at you as being part of this problem with GOP.  You need to get in line just like we have for years!
+@thehill Can you let the GOP critics know we did not want @MittRomney but we voted for him anyway.  Way to go GOP! https://t.co/tq90QMgCU9
+@CNN @FoxNews @Reince Bush's not attending Convention while @realDonaldTrump walks through baracades to speak to his audience! LEADERSHIP
+"@Reince @CNN @FoxNews Disgusted GOP leaders not attending convention......That shows they were never OUR Leaders
+How ELITIST!!! #Trump2016"
+@thehill Especially if they do not jump on the Trump Train.  We have spoken and will continue to speak loudly. https://t.co/4DG0yrDwd1
+And why did we create a division?  May you should look at the #NeverTrump croud.  There's your dividers.  #MAGA https://t.co/fekpHJDoLj
+@john_iamme Those 140 characters just not enough sometimes.  Lol
+"@john_iamme Also John,  just like you I need proof, is that what you said about the Mistress Scandal.  I would have.  Unfortunately ppl lie!"
+Yes.  My issues with Sen. Cruz is Trade &amp; immigration issues.  Also have felt for many yrs we needed a shakeup https://t.co/gOMBxHBtyv
+Let's stone him for working within our broken system.  He was not working for US but his companies &amp; employees https://t.co/ZWb4XDBDk7
+@john_iamme 80 - 90% Voters say they are not pleased with our Government.  Guess U R  part of the 10 - 20% satisfied https://t.co/JXBgKKGnEp
+An every candidate except @realDonaldTrump has been in office long enough to have fixed this terrible problem. https://t.co/8MFHWlOClp
+Way to go @SheriffClarke for telling the truth.  Thanks @JudgeJeanine  #Trump2016 https://t.co/WHRK2HePSU
+"Are immigrants the same as natural born or nationalized? If so I'm confused, if not someone should tell Heidi #MAGA https://t.co/UJqFT0GPR8"
+Sounds like @GeorgeWill is trying to hand the Dems their 1st 12 years.  George why R U so smart anyway? #Trump2106 https://t.co/7jo95VpvBU
+"How funny... They want Cali for their own....on USTaxpayer $
+#Trump2016 https://t.co/BsYD4tq2LF"
+"@CNN ""Medicine Cabinet"" All I hear is money needed, victims.  Why not address the prescription writing?  Am I missing something?"
+"Instead of chanting USA
+They are chanting Mexico &amp; carrying a Mexican flag
+Talk about biting the hand that feeds you https://t.co/FyczY0pLy0"
+I woke up to realize I must be in Mexico!  No! We have no country w/out a border #Trump2016 #MakeAmericaGreatAgain https://t.co/JuIyAltWhF
+@jaketapper @JaredWyand Officers told to look the other way  Build that WALL!  Amazing which laws are enforced https://t.co/gEOCPDZVH6
+"@jaketapper I agree, but feel certain I will hear about protesters...sorry vandalizers Why's that free speech? @CNN https://t.co/qRZleSZICM"
+@POTUS @HillaryClinton @SenSanders When will you stop these people from destroying property.  We call it vandalism! https://t.co/ITRTo4rQHA
+@seanhannity I guess taking care of US citizens is racist. We need laws inforced.  Whose job is that! @SpeakerRyan https://t.co/LFkNkq2ybk
+@RepWalterJones @PatMcCroryNC @PatrickMcHenry @SpeakerRyan We Christians are tired of this discrimination. https://t.co/iwFbCp5g2W
+@CNN Please get him off..... PLEASE Wants to paint @realDonaldTrump as am insider when @tedcruz has been in Washington how many years?
+The GOP has been losing it's base for a reason.  Now you want to say this is the NEW FACE of GOP. How Funny! https://t.co/qmVx9dQfvB
+@CNN @realDonaldTrump hearing we must tell the American ppl what our military's doing.  Our Gov keeps secrets everyday.  ?21 pages
+@CarlyFiorina Heard your speech &amp; you forgot to mention the problems our Trade Agreements have caused US.  @tedcruz was part of that
+Yes we have and it is time for a change. https://t.co/Zmv3Z4w2w0
+"Once again they destroy our country, $19 Trillion in debt but they have their security tuck away #Trump2016 https://t.co/jvztgVm8eq"
+Hope they can find jobs to pay for the additional taxes ($103 week - $412 monthly) Bernie has promised as well https://t.co/dsy3TUAlr8
+We all have to vote the way we want Country to proceed.  Sounds like you like the liberal agenda! https://t.co/cQ8PxbfGRB
+How great is that! So true! https://t.co/xobI8lrFDW
+Always felt wrong not showing ID for something as important as electing our government officials @PatMcCroryNC https://t.co/fo6rMtibDA
+Still combative but not so gleeful anymore.  It's great just watching the change in them all.  #TrumpTrain is moving https://t.co/0vEpVwNVg2
+"My gosh ppl, let's change America Does not even matter if pic is real. We know ppl who just need jobs, not handouts https://t.co/9lv9SAOZKH"
+"Wonder what @realDonaldTrump delegates would be if the ""Stop Trump"" had not been started? #Trump2016  Still winning! https://t.co/ZsOgDU6kvi"
+What a great article @Nero  Exactly why most of us support @realDonaldTrump https://t.co/BxAYuYG6Nt
+@SpeakerRyan @RepTomRice @SenatorBurr What are we doing about this?  R you waiting for @realDonaldTrump to handle? https://t.co/LBrGw4tCeQ
+Are there no religious people in CA? https://t.co/LH5yBtoMyx
+Awesome video https://t.co/MhZwjCQ2lt
+@Trade4America Feel so used by our Leaders &amp; Organizations like you 4 not giving US whole story of FreeTrade  #MAGA #Trump2016
+@Trade4America We NO longer want FreeTrade we DEMAND FairTrade.  Not willing to give our America away #Trump2016 https://t.co/KhAciZV6HV
+We now know TTIP is sending our jobs to other countries so we can buy cheaper products. https://t.co/HlGgPQ3h2m
+Thanks @realDonaldTrump.  We may not be a Democracy but it is our Country and we will fight with you! https://t.co/pVkiyrwmXr
+"Don't forget, the narrative for this campaign is due to @realDonaldTrump https://t.co/uaooP7XVyT"
+"Once again, taking care of each other.  Not best person for job but chosen from the network group. #Trump2016 https://t.co/JtqOcHofAJ"
+"@Heritage Will not happen with our Politicians, D or R. What would they do without our money How would they buy ppl? https://t.co/QqgLFM74kC"
+"I told my husband if that had happened to him, I without a doubt would have had an autopsy done.  Strange https://t.co/ZFyuXGlAZN"
+18 &amp; voting for the 1st time when Ronald Reagan ran for POTUS.  Inexperienced &amp; 2nd rate actor Sound familiar #MAGA https://t.co/xFRb9OyOiy
+If we apply for another job we must do secretly. Politicians abandon job Start running for another &amp; US picks up tab https://t.co/lrEOGMZ6s0
+"@ZuckerbergCEO  Your speech makes me laugh, especially given the big wall around your home and your security guards https://t.co/1DQe1OzNww"
+I'm a Mom w/handicap 25 yr son.  We have always been able to manage bathroom. Why can't everyone else Selfish people https://t.co/xKQx1B30hi
+Veterans should not have to rely on Charity programs They fought for US &amp; should be take care of by WTP taxpayer$=VA https://t.co/UBtyKP3CoL
+Isn't this the same caring ppl who shut down #Trump2016  rally.  They were so worried...but not for a fallen comrade https://t.co/KwIEdZb5mT
+You are absolutely right.  Still doesn't change my statement of why we want to take that chance. BHO was born where? https://t.co/ygFc1nVLFH
+"When you are spending other ppls money, the sky is the limit.....because a budget means nothing. @thehill https://t.co/LpnHxFbkHf"
+"Regardless of rules or laws, why do we want a POTUS that has as much alliance to another country as to US? https://t.co/oGvE8EfMaA"
+No I am not but you speak so highly of them that I assumed you knew them well. LOL. https://t.co/WpePCiyLGC
+Agree... Agree...Agree. https://t.co/nQEH8NVzsE
+"@RepBobGibbs If they want bonuses, tell them to go to work for a Profit Company! I am appalled they get bonuses https://t.co/AtkoLVYpeq"
+Of course I know Congress is part of government as well as many others. https://t.co/MOUw4JbCto
+Glad you explained all that John.  I am smart enough to know they need us but wish they didn't.  That includes you. https://t.co/KCbOUDD1jo
+Am I not an Elector?  Do they not take my tax dollars.  If I am not part of party then what's all this even about. https://t.co/l1Dl8hNhMy
+Yes.  I agree.  Time for us to stop cowering from this PC. https://t.co/o4aRe8nSHT
+"@SRMooreSr  So are you saying, you are OK that Elites should select our government for We The People? https://t.co/8cLvVzNUD4"
+"What about little girls in the bathroom with a grown man, how about a pervert man?Where is her protection. https://t.co/8O5CTvIMI6"
+Shame on @espn Do you want Men in the rest room with your wife or daughters? Ask someone besides the LBGT community https://t.co/M7yqiL0VGz
+Common Sense not PC is what our country needs.  Thank You @realDonaldTrump from  #SilentMajority in NC https://t.co/pqIIOv6vvQ
+@SpeakerRyan We The People are appalled you waste time making a law to fire people.  Only in the Government! https://t.co/PlKhYp0pbJ
+"@usatoday2016 @fschouten @USATODAY Arkansas brothers dividing the Republican Party, call @nikkihaley she is so concerned about ""The Party""."
+I personally want @realDonaldTrump in charge of my tax dollars.  This is being Fiscally Conservative Republicans https://t.co/9zPKLUFsKx
+"@JohnStossel  True! When patient left out on paying, then they get left out on Customer Service. Get well! https://t.co/YcEchU5r5l"
+@MichaelCohen212 Great job on @CNN about the Delegates.  #Trump2016
+"No way to #MakeAmericaGreatAgain unless we Clean House first
+No way to rehabilitate long time offenders! #Trump2016 https://t.co/3rgJle76J7"
+Great example of what @realDonaldTrump can do to help US w/issues our Politicians don't get done #Trump2016 https://t.co/Q9BEUjMTFT
+@scottienhughes  Once again @realDonaldTrump sets the narrative!  #Trump2016 https://t.co/Rqk0mpY2Ah
+Then we will fight for @realDonaldTrump as he fights for us! #Trump2016 #MakeAmericaGreatAgain https://t.co/OzX1y91Mjo
+Sounds like she may prefer the establishment.  Any party will do! https://t.co/1Z8gA1yHcE
+"@McConnellPress It is a sad day when you are more concerned about keeping YOUR GOP in tack, than the will of the ppl https://t.co/TnaVseBuwY"
+@realTrump4POTUS Party should have change with its Voters.  We went along with GOPe Thanks @realDonaldTrump #MAGA https://t.co/qGcPS0G1J7
+What the Government could not do @realDonaldTrump was able to do under budget!  #MakeAmericaGreatAgain #Trump2016 https://t.co/SUR2QaZ0MH
+And let's not forget Hillary's $28M just last yr.  Want a POTUS we got rich own his own without Gov job #Trump2016 https://t.co/YucOWX0dHp
+Paying taxes for this is unfair to my family.... https://t.co/LEYHEKF82Z
+@SpeakerRyan  Shame when we have to have a law so government employees don't abuse Veterans.  How about firing them! https://t.co/86ljvUC96O
+"Working everyday to build 21st century military, Don't think that will stop terrorist coming across our border, do u https://t.co/7NACXk4jij"
+"Just don't understand why ppl think we are doing something wrong.  They broke our laws, not the other way around https://t.co/PUZUAJ8s4o"
+"With $19+Trillion in debt, it is amazing we are even talking about such a venture as changing $20 bill Common Sense https://t.co/ZIn9z41ncv"
+@john_iamme And aren't we ready for a change.
+Already have immigration laws Why not enforce what we have How many yrs has this discussion been going on? Insanity https://t.co/8Xns13bKqG
+"@SpeakerRyan Does the USCongress even know what budgetary responsibility is? Accountability? Fed, States &amp; Terr https://t.co/p8Oh1EdrfX"
+Those Young Trump's Supporters are fighting not just for their candidate but FreeSpeech #MakeAmericaGreatAgain https://t.co/su9NQEblAP
+We need our elections to mean something to ppl.  That will not happen when Our Votes may not be the Delegates Vote https://t.co/SnjIOrJPe4
+If they has just let @realDonaldTrump get some delegates it might not look so off! But bigger issue: DJT's narrative https://t.co/II7nuW1QDq
+"@FoxNews @SpeakerRyan Have they forgot what we sent them to do? @realDonaldTrump said ""All Talk No Action"" #MAGA https://t.co/Ej0sh8JWsl"
+Shame on @JohnKasich  Wonder why Officers&amp;First Respders are disrespected more&amp;more Was Officers following the RULES https://t.co/oowQzDkd1b
+"I think most AMERICANS want immigrants here, that want to be AMERICANS. Why try &amp; change US to what you are escaping https://t.co/qFmKXbxwvz"
+Great job @RealBenCarson https://t.co/nUS6Hee8ae
+"Thank you @realDonaldTrump 
+This us what we want @SpeakerRyan  #Trump2016 https://t.co/7oMxFeV9At"
+@SpeakerRyan read article &amp; agree we need strong USA but did not see a plan for that...We R not buying the Snake Oil https://t.co/ePv4vc6Gln
+"@SpeakerRyan Puerto Rico, Israel, foreign alies, Where's plan to #MakeAmericaGreatAgain eliminating $19Trillion debt https://t.co/ePv4vbP4WN"
+Come to USA &amp; reap the rewards our country has to offer so you can then make our wonderful USA like the one you fled https://t.co/iiBAXUOomn
+"So glad to hear that California has taken care of all it's legal citizens, elderly, Veterans, &amp; orphaned children https://t.co/Fr5LoAXqVw"
+"You are right, but he did get the one about our outdated equip &amp; our lack of people &amp; equip needed for our security. https://t.co/gSNRxp5oGF"

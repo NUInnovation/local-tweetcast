@@ -1,0 +1,66 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 343004367, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/417340985253707776/GD_HIFhB_normal.jpeg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 84, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""343004367"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 3, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @minnamyself: https://t.co/RvKMsTJNJj"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729427266543833089, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 154550390, ""indices"": [3, 15], ""id_str"": ""154550390"", ""screen_name"": ""minnamyself"", ""name"": ""#TrueTrumpGirl!""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 154550390, ""source_status_id_str"": ""729125433820602368"", ""expanded_url"": ""http://twitter.com/minnamyself/status/729125433820602368/photo/1"", ""display_url"": ""pic.twitter.com/RvKMsTJNJj"", ""url"": ""https://t.co/RvKMsTJNJj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg"", ""source_user_id_str"": ""154550390"", ""source_status_id"": 729125433820602368, ""id_str"": ""729125421573234688"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 729125421573234688, ""media_url"": ""http://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 205, ""id_str"": ""729427266543833089"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""https://t.co/RvKMsTJNJj"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729125433820602368, ""favorite_count"": 234, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/minnamyself/status/729125433820602368/photo/1"", ""display_url"": ""pic.twitter.com/RvKMsTJNJj"", ""url"": ""https://t.co/RvKMsTJNJj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg"", ""id_str"": ""729125421573234688"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 729125421573234688, ""media_url"": ""http://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 205, ""id_str"": ""729125433820602368"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 08 01:47:04 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/minnamyself/status/729125433820602368/photo/1"", ""display_url"": ""pic.twitter.com/RvKMsTJNJj"", ""url"": ""https://t.co/RvKMsTJNJj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg"", ""id_str"": ""729125421573234688"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [0, 23], ""type"": ""photo"", ""id"": 729125421573234688, ""media_url"": ""http://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 08 21:46:27 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 154550390, ""source_status_id_str"": ""729125433820602368"", ""expanded_url"": ""http://twitter.com/minnamyself/status/729125433820602368/photo/1"", ""display_url"": ""pic.twitter.com/RvKMsTJNJj"", ""url"": ""https://t.co/RvKMsTJNJj"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg"", ""source_user_id_str"": ""154550390"", ""source_status_id"": 729125433820602368, ""id_str"": ""729125421573234688"", ""sizes"": {""large"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 480, ""resize"": ""fit"", ""w"": 480}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 729125421573234688, ""media_url"": ""http://pbs.twimg.com/media/Ch5ftTWUYAAHmv2.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 1057, ""description"": """", ""friends_count"": 116, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/417340985253707776/GD_HIFhB_normal.jpeg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Todd Pitts"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2076, ""screen_name"": ""Az9er"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Jul 26 22:37:51 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+he is soooo right too... #DumpRyan #DUMPGOPE https://t.co/BLqpqG5Rch
+"Donald Trump's policy plans are real, detailed -- and great https://t.co/npUjlNXbny via @nypost"
+@AngelEyes9033 @Cernovich You Anti Dentite.....lol
+@greta What a great off the record comment.. YOU are so right!! Thanks for showing RESPECT to the Navy HERO.. take note @AP
+@Cernovich What if it's Trump vs @BernieSanders thou?
+"@benshapiro Of course he did, He now holds the upper hand, ""Art of the Deal"" .. If he had said he needed it they would have upper hand.."
+LOL... GO AWAY #LyinTed  @tedcruz The PEOPLE have spoken @realDonaldTrump is the choice... https://t.co/ndlvkj0A4p
+Interesting take on #LyinTed selection of a VP..lol... @realDonaldTrump @DanScavino @tedcruz https://t.co/FzQO5vcReL
+@GMA Fish Monster....lol https://t.co/bPS0pBaQHd
+"@camvictor @tedcruz Wrong fish monster, he meant this one.. https://t.co/KMDJ2KbuGl"
+@vivelafra @Trump_Force looks like one of @tedcruz rallies...
+Go get the thieves Joe... Ban on Arizona Sheriff Arpaio workplace raids is lifted: court https://t.co/Ddf6p4vdxw via @Reuters
+"Here is the video of The Boy who yelled "" YOU SUCK"" to @tedcruz ..lol.. https://t.co/EiEVraMAuI"
+Hillary at her finest.... Here is the audio of her laughing about it too..  https://t.co/AMfq5cS9Ap https://t.co/4xq9rH4OTr
+Ut oh....Heidi Cruz: 'Ted Is an Immigrant' - Breitbart https://t.co/VSqCrXC2sR
+@Cernovich or his kids. They are literally terrified of him.
+@CNBC @USAforTrump2016 Looks like the scene out of reservoir dogs..lol
+@politico @larrywilmore and with seeing this tweet atleast 6 times in as many days.. bye.....unfollowing.. HATE SPAM!!!!
+@politico Plz quit reposting the same tweets over and over...ughhhhhh
+@USAforTrump2016 Received mine yesterday.. Thank you....
+@joshlcosta yes plz do write in Bernie...lol
+@Cernovich @aabramson credit by name and they aren't edited to fit a liberal agenda...
+@TrumpCatholics @Trump_Force @thehill so they are both LIARS.....
+@SoCaliSteph there's BOSA donuts in AZ that are great.  Next time you are here check them out.
+#greta   @FoxNews HURT!!!!
+Lyin TED.... Keep it up!! https://t.co/80e66EQrT1
+Typical Political HACKS... Ted Cruz on Kasich: What alliance? https://t.co/BI4GGNflFj
+"FRONT PAGE NEWS, What CLOWNS...A failed pact shows why Trump is winning https://t.co/jO1t8VbZ7n via @yahoo"
+"So another Romney tactic, Great, that worked so well last election. Grow a pair Ted.. #Trump2016  https://t.co/WOJUrtMm3Z"
+@seanhannity @JohnKasich @tedcruz #Hannity Total BS... I hope it backfires for these two losers....
+I hope she finds all sorts of unpleasantries in between the cushions.. https://t.co/4JmSEeL6E6
+#greta   @FoxNews @tedcruz @JohnKasich @realDonaldTrump BACKFIRE for the BACK STABBERS
+"Kasich ""Do you you think delegates are going to go to a convention and pick somebody who can't even win?""1 of 38 isn't WINNING #Trump2016"
+@richeisen @GameOfThrones direwolf.. lol.. GOT writer is a total Dead head.. love that song
+"lol... Heaven has gates too... 
+ https://t.co/C86EU89SZN"
+"@tparelli @Cernovich no,  being there on a friday night = single,  no head phones = wants to be picked up. . Pay attention bro. .lol"
+@Cernovich @jamesspivey lol.. this is great stuff..lmao
+"List of PA @realDonaldTrump DELEGATES.. Please share RT, Get these out to the people of PA  #TRUMP  https://t.co/BbXcMJWvB5"
+"@Cernovich the whole exchange is just weird, 1st attempt is made under flyer then pulled back &amp; done above in plain view, it's looks weird."
+@Trump_Force @DebraAr49979596 @DanScavino I'd rather see a list from  @realDonaldTrump @DanScavino @CLewandowski_  to share with others
+@DebraAr49979596 @Trump_Force @DanScavino  is this a CONFIRMED list????
+@Trump_Row @Trump_Force Are you sure this has been confirmed by the Trump camp @realDonaldTrump @DanScavino
+@DanScavino @EricTrump I hope you are passing out names of PA Trump delegates at these rallys.....
+@jlangdale @wolfblitzer  he meant Purple Rain..lol
+"The RNC Changed the Rules : No Longer 8 States Required "" - Click to see also ☛  https://t.co/fir3olzJHq via @"
+@realDonaldTrump @DanScavino @CLewandowski_ @seanhannity Trump Camp needs to get a confirmed list of PA #Trump2016 delegates out to people
+@gqforbes @realDonaldTrump @RepLouBarletta @RepTomMarino @EricTrump @DonaldJTrumpJr @DanScavino  @CLewandowski_ Plz Confirm this is legit
+"@AnnCoulter and she likes the #GratefulDead , such a catch!!"
+Great read by Ann Coulter: New York Commemorates Patriots Day! - Breitbart https://t.co/duCRwhEGBp via @BreitbartNews
+"@robbipl @USAforTrump2016 Please don't send out a list or delegates unless it is confirmed from TRUMP camp, @seanhannity is posting a list 2"
+"Yes, most delegates, votes should win  #Hannity"
+@joegooding @AnnCoulter @realDonaldTrump @LindaSuhler are you sure THESE are COMFIRMED by @CLewandowski_  and the TRUMP camp
+@USAforTrump2016 Are you sure this is from the Trump camp? If not DO NOT TRUST!!!!
+"Montini: 'Dear Suns and Coyotes: Build your own damn arena. Respectfully, Phoenix' https://t.co/spol8Seuy7 via @azcentral"
+BUSTED: Allegedly Slutty GOP Establishment Lobbyist Threatens Trump Backers With Blacklist https://t.co/BS2FwNR1vb
+"@USAforTrump2016 Thank you, Just ordered 35"
+@NFL_Memes @DangeRussWilson of course
+A Stanford dean on adult skills every 18-year-old should have https://t.co/kPEIXBalWW via @qz
+"@Cernovich Now, I see what you did there..lol"
+"@Cernovich lol... Now that I've read the article, I see what you did there..lol"
+@Cernovich ??? WTF?
+@BigStick2013 @jlangdale That is if the GOP doesn't steal it from @realDonaldTrump
+"If this is true, and he loses NY, The revolution begins.Fraud Watch:  Trump Left Off Thousands of NY Primary Ballots https://t.co/1mG82n328v"
+Get over it. . #Trump2016 https://t.co/mcRC0rGJtx

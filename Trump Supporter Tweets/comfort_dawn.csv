@@ -1,0 +1,107 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4303507034, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/703801294360748032/mupHc2gY_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 629, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4303507034"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 28, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @vandives: I love this man. https://t.co/tTNhkrHscu"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729459242432757760, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 163505280, ""indices"": [3, 12], ""id_str"": ""163505280"", ""screen_name"": ""vandives"", ""name"": ""\u2022AEV\u2022""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 163505280, ""source_status_id_str"": ""729448457757437953"", ""expanded_url"": ""http://twitter.com/vandives/status/729448457757437953/photo/1"", ""display_url"": ""pic.twitter.com/tTNhkrHscu"", ""url"": ""https://t.co/tTNhkrHscu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg"", ""source_user_id_str"": ""163505280"", ""source_status_id"": 729448457757437953, ""id_str"": ""729448450446610433"", ""sizes"": {""small"": {""h"": 268, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 591, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 473, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""photo"", ""id"": 729448450446610433, ""media_url"": ""http://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 78, ""id_str"": ""729459242432757760"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""I love this man. https://t.co/tTNhkrHscu"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729448457757437953, ""favorite_count"": 140, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/vandives/status/729448457757437953/photo/1"", ""display_url"": ""pic.twitter.com/tTNhkrHscu"", ""url"": ""https://t.co/tTNhkrHscu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg"", ""id_str"": ""729448450446610433"", ""sizes"": {""small"": {""h"": 268, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 591, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 473, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 729448450446610433, ""media_url"": ""http://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 78, ""id_str"": ""729448457757437953"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:10:39 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/vandives/status/729448457757437953/photo/1"", ""display_url"": ""pic.twitter.com/tTNhkrHscu"", ""url"": ""https://t.co/tTNhkrHscu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg"", ""id_str"": ""729448450446610433"", ""sizes"": {""small"": {""h"": 268, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 591, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 473, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [17, 40], ""type"": ""photo"", ""id"": 729448450446610433, ""media_url"": ""http://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:53:30 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 163505280, ""source_status_id_str"": ""729448457757437953"", ""expanded_url"": ""http://twitter.com/vandives/status/729448457757437953/photo/1"", ""display_url"": ""pic.twitter.com/tTNhkrHscu"", ""url"": ""https://t.co/tTNhkrHscu"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg"", ""source_user_id_str"": ""163505280"", ""source_status_id"": 729448457757437953, ""id_str"": ""729448450446610433"", ""sizes"": {""small"": {""h"": 268, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 591, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 473, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""photo"", ""id"": 729448450446610433, ""media_url"": ""http://pbs.twimg.com/media/Ch-FgDrUUAEr3YN.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 8132, ""description"": ""Love riding the Trump Train all the way to the WH."", ""friends_count"": 189, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/703801294360748032/mupHc2gY_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Dawn Comfort"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 11183, ""screen_name"": ""comfort_dawn"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Nov 20 18:15:18 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@realDonaldTrump welcome both Senators to the Trump Train. https://t.co/o4g7pGHnA1
+@foxnewspolitics @FoxNews Why don't u report these things. All you do is bash Trump. Do you want 4 more yrs of Obama https://t.co/D4UQ3itiFm
+@jaketapper Trump didn't flip on tax policy. Why is it the voter understands things r negotiations but YOU BRAINACTS don't get it.
+@SpeakerRyan @Reince @GOP Get the message. We the people are speaking. Get on board the train or get off. https://t.co/0sUSnmOXAa
+"@realDonaldTrump DIDN'T CHANGED his tax plan MSM misses the point, Trump said it's possible congress may change it All policies must be appd"
+@newtgingrich @PaulRyanPress slapped Americans I  the face who voted 4 @realDonaldTrump. He should step aside. https://t.co/Bqo9a9p6Y9
+@HowardKurtz I would really love 2 know what/how much abusive twts Hayes etc gets Honestly is sounds like an excuse Not denying there r nuts
+@foxnewspolitics @seanhannity if the MSM spent as much time talking abt Clinton's mid-steps as they do Trumps her negatives would be worse
+"https://t.co/t4PJAw1Nwt I don't often agree w/NYT but I like some of the names 4 Ryan. PiousPaul, PhonyPaul, 2facedPaul. BackstabbingPaul"
+@GovMaryFallin Welcome to the Trump Train. AMERICA needs you to support Trump. https://t.co/l8jnfBHt7g
+@SpeakerRyan is a traitor to the American dreamers It's time 2 put our families/kids first Time to put AMERICA FIRST https://t.co/TI6RTU2EGq
+@greta better Bcareful what u say or you'll b called racist. Ppl r crazy today https://t.co/BaQSKWoTVP
+Everyone should read this &amp; RT to anyone. @HillaryClinton can't b trsted. https://t.co/WzHKISVbEn
+@SpeakerRyan If you &amp; Ericsson mount a 3rd party run against Trump be prepared will stomp you &amp; you'll b out 4 good. Americans r sick of u
+@JudgeMoroz @GOP @Dlw20161950 I'm blocking the jerk
+@Dlw20161950 you must be sick. I feel sorry 4 you
+@elizabethforma lol you started it https://t.co/NIHBAigyFb
+@SpeakerRyan @PaulRyanPress @Reince @GOP @RNC @realDonaldTrump @trumptrain @TrumpNewMedia RT if your on board https://t.co/uzMqC2jpzn
+@HillaryClinton hmmm haven't seen a denial abt this statemt https://t.co/kt70vM1Crw
+@secretservice are you going to arrest the crazy. https://t.co/8aGL4FlgBk
+Yes &amp; I'm going to raise he'll with all you ppl who drink green beer on St Patty's Day. world has lost it. Stupid https://t.co/RdCyrQvw1t
+"I agree, just bc he said he wants to stop illegal immigrants doesn't mean he's racist. Some of the ppl are criminals https://t.co/B0jUeB9XsJ"
+God Bless. We welcome her to the Trump Train/movement https://t.co/rn3jGKl8k9
+Wow @JoeNBC got his feelings hurt &amp; lashes out at Trump. A month ago he said I'll do anything to get back in the WH. https://t.co/L0hvPAEVtG
+@HillaryClinton mid-season AGAIN. Pays women LESS than men Is this who u want as POTUS? As a woman I'll work 4 Trump https://t.co/LWDknAPcZ3
+Gee I'm really surprised Obama &amp; Clinton have lied 4 yrs https://t.co/OjIdINOyfy
+@seanhannity We've got ur back. https://t.co/7199VKgluj
+@WA4Trump @WV4TRUMP1 RT it's important we need every VOTE. Send a YUUUUUGE message. The PEOPLE want TRUMP. RT https://t.co/vgcIiN68X8
+HOW many ppl r working bc Trump invested in America/World? Dumb A** Warren never created 1 job neither did Clinton. https://t.co/E0o3Er7U6A
+@SpeakerRyan @PaulRyanPress good move allowing the illegal immigrants in. Americans r being killed you do nothing https://t.co/37KGWG8hDS
+@SpeakerRyan @PaulRyanPress U better get on board the train or u can kiss ur hunting trips goodbye/2nd amendmt https://t.co/Scy4gPrGc6
+@WV4TRUMP1 Pls pass this along. We need a YUUUUUGE WIN 4 TRUMP on Tuesday. https://t.co/ZaDB5aDC7j
+@realDonaldTrump We love all Trump supporters waiting 2 c the next President. Get out 2 vote give him a YUUUUUGE win https://t.co/x09UmTPmEe
+@JebBush @lindseygraham Bet u wished you had 10% of the crowds that come to support @realDonaldTrump Next USA POTUS https://t.co/iWaVdWNBqH
+@tedcruz must not want a life long appt on the Court. Didnt think he was that stupid. https://t.co/BhwSU86IQS
+@CocaCola mistake backing out of the Republican convention. https://t.co/Ywlr9S0SJX
+@DietCoke just remember Trump supporters can boycott your products &amp; if you don't believe me chk with Macy's. https://t.co/oQXd09SeRI
+"@HillaryClinton Trump supporters call on media 4 scrutiny abt Benghazi, Emails, Clinton foundation, wall street payoffs, rapes by BC"
+@realDonaldTrump @trumptrain @TrumpNewMedia @trumpnation RT This must go viral. https://t.co/dEjYsJlSqR
+@HillaryClinton @elizabethforma  Try to explain this again AMERICA is done with u. @realDonaldTrump will make u pay https://t.co/dEjYsJlSqR
+What @SpeakerRyan did is re-enforce what Americans thought. DC politicians DON'T CARE ABOUT US. Sick of backstabbers https://t.co/JSaXQCz6y2
+Romney will b a bigger fool this time than the last. GO HOME &amp; leave America alone. We don't want you or Ryan https://t.co/xo6rdZvmMT
+"@thehill Please find another lame excuse, @realDonaldTrump wants to create jobs so ALL AMERICANS. Blk, WH, will have a job. Sharpton=racist"
+@IngrahamAngle @PaulRyanPress better re-think his stupidity. We the people will vote down every Republican running. https://t.co/VrKDfvYX2O
+@JoeNBC Maybe ur right but there's 1 thing the world knows @realDonaldTrump accomplished more than u could dream. GL https://t.co/eJOqTKY01X
+@SpeakerRyan mailbox is full I've been calling since doofus back stabbed Trump on CNN. need new #s https://t.co/r4OmmMAR5G
+@TeamCavuto @foxandfriends @loudobbsnews @seanhannity @greta American voters will contribute. https://t.co/Lp3HaRnUmx
+@elizabethforma hey Goofus. We like the name. Lol https://t.co/XdG6C5TuXI
+I love it but I'm sure my Native Americans are pissed. They called her out on this trash. https://t.co/KqmnvpEQNM
+Just proves Trump is  right again Critize him 4 not signing the Pledge &amp; when he does they won't. Lying politicians https://t.co/GoSB6B0poU
+"@elizabethforma @wendyfarrier1 @realDonaldTrump @GOP Hey Goofy, tell the American public what you've done 4 us.. We're Waiting."
+@SpeakerRyan @PaulRyanPress We have a chance to get  ahead of Clinton. But you fools continue 2 fight the voters &amp; give her ammo. Stupid
+@PaulRyanPress @SpeakerRyan  Hey Ryan maybe you should read this We the people elect our President. https://t.co/oREtNUd3QK
+@WV4TRUMP1 ALERT Pls RT  Everyone must get out to vote for TRUMP America needs you. We love WV https://t.co/ia5kCfuvgx
+@HillaryClinton @trumptrain @TrumpNewMedia @trumpnation Is this how you'll support women. You r a disgrace. https://t.co/ho0RNYGvu4
+@BillKristol You should hang it up. Trump supporters will never back ur pick. You will b the cause of Clinton taking the WH.Sore losers
+@SpeakerRyan @Reince @GOP Ryan found out abt American voters mailbox full since he stabbed Trump in the back RESIGN https://t.co/LTwjOho0S4
+@realDonaldTrump MSM making a big deal abt funding GE campaign. Supporters let's each donate $125. raise the money. I'm in RT. DONATE
+@loudobbsnews what do you think Lou? https://t.co/0Hz1ZGBWRp
+@DanScavino @realDonaldTrump here's a good one 4 you. https://t.co/LRBGLMS3Qb
+@newtgingrich it's going to be a fun summer. https://t.co/bswWTI6MIM
+@seanhannity is a man of his word. He said he would endorse WHOEVER the Republican candidate was at the end. TRUMP https://t.co/u2JcC5qfln
+@Reince @GOP Amazing you asked 17 men to sign a Pledge It seems several don't mind lying to American Voters Bush  Graham &amp; Ryan should b out
+@CathyHolladay1 @Sheep2Wolves @magnifier661 I'm in
+@greta # Greta yes but that's a tough one https://t.co/eV3px64XCH
+Wow I might miss a half a winks sleep. Bunch of has beens https://t.co/mYsjFToXXF
+Get out &amp;  VOTE NJ. We love you guys. https://t.co/nchPcZ87BZ
+@TeamCavuto @JoeNBC @ericbolling @greta @loudobbsnews @seanhannity https://t.co/dHpf16gnBD
+@loudobbsnews @seanhannity @greta This needs to b on TV so ppl see what happens to Trump supporters. https://t.co/QM32hqc2xM
+@loudobbsnews @seanhannity @greta I hope this man is proud of himself scaring the little girl with her Mother REPORT https://t.co/QM32hqc2xM
+"I suggest we go $25 per support, if you can afford more donate more. $25 x 10 million supporters https://t.co/AyEHF70LMm"
+@Trump4WV @WV4TRUMP1 Pls RT. God Bless WV https://t.co/Q3hzO1uFNv
+@TeamCavuto why don't you talk abt this instead of basing Trump? https://t.co/q7ErewVLDi
+"@TeamCavuto You like to make big issues out of nothing. Who cares abt Bush, Romney Ryan. It's the voters choice not there's. Stop pushing"
+"@BenCarson3 Sir, with all due respect, you r confusing ppl. TRUMP said no Democrats 4 VP. Yet u tell Cavuto maybe. Count productive."
+I hope @PaulManafort takes the boy to the woods &amp; kicks his butt. Go @realDonaldTrump &amp; @PaulManafort https://t.co/RVTyIzUJzc
+I love this. Just great you can feel the love. God Bless WV https://t.co/GN4QlOJiy8
+@SpeakerRyan @PaulRyanPress  I'm sure you know  more than Bill Bennett. Who anointed you anyway. RESIGN https://t.co/rSBxXmF1GY
+@newtgingrich I believe Ryan wants Clinton to b elected &amp; appt SCOTUS. I'm disgusted &amp; finished w/Republicans https://t.co/LX1Yt8F16I
+@Reince @GOP @RNC @PaulRyanPress @SpeakerRyan  YOU really pissed Americans off Good move by Ryan gave Clinton the WH https://t.co/vw1XiV8tUu
+@seanhannity I'm pissed disgusted fedup &amp; finished after 37yrs. https://t.co/3aCsUsQr00
+@sengraham2016 Oh my guess I'll just curl up &amp; die. Who cares abt Graham? Go home https://t.co/3BnCsOLfAY
+All the remaining States must vote TRUMP we need to reach 1237 &amp; continue showing the elites American voters support https://t.co/N7JR9RJnaY
+As an American who wants are country to b great again I'm glad 2 hear VP Cheney will back Trump. https://t.co/rxNrKnZ877
+@Reince guess better remind Ryan who elected him American ppl r tired of backstabbing liars. #DumpRyan planned att https://t.co/m4Jx56YyTN
+"@greta @loudobbsnews RT Guess the Ryans, etc forget it the American ppl who elected him. Not anymore, I  don't trst backstabbing liars."
+@BarackObama You have done nothing 4 America over the last 7+yrs.I don't trst you or crookedhillary. Can't wait 4 u to be gone.
+@OutnumberedFNC Maybe this is why McCain &amp; others r in trouble. It's their responsibility 2 Protect AMERICANS FAILED https://t.co/sNx15RyIEx
+@OutnumberedFNC Trump won't b responsible 4 politicians not being re-elected. They haven't done there job Americans r sick of your lies
+@OutnumberedFNC Stop saying Trump said a Mexicans are rapists HE DID NOT SAY THAT. You are so biased sickening
+@OutnumberedFNC  I'm sick of McCain &amp; others telling me what a conservative is. I've been a registered Republican b4 McCain was born.
+As always @newtgingrich hits the nail on the head Ryan screwedup big time. America won't trust him EVER. https://t.co/Mbezb8Q3L7
+@SpeakerRyan Obviously your not man enough 2 keep ur word. U should step down America will NEVER trust u again. https://t.co/dmFQps4Jbo
+@pnehlen You would not say you supported Trump WHY? You talk like a politician. https://t.co/jzzrz0iw75
+Paul N wouldn't say on TV that he'd support Trump. What's his problem. https://t.co/0hWW5iz0Lj
+@SpeakerRyan Any DC elite should get out. True Americaians don't want you. Ryan worries abt everyone but Americans https://t.co/fkfpvDqhUC
+@PaulRyanPress No Trump supporters will EVER vote 4 u. your backstabbing CNN statemt will b saved. U will rec credit 4 SCOTUS appt by HRC
+@SpeakerRyan Read an article &amp; hear u deliberately stabbed Trump in the back w/CNN you confirmed 4 America Ryan is a CHUMP #DumpRyan
+@TrumpNewMedia @realDonaldTrump  @DanScavino @mitchellvii PLS EVERYONE donate $25 to Trump campaign &amp; America. RT https://t.co/68o6o2ZnnD
+"@TrumpNewMedia @trumptrain @trumpnation Read,  think &amp; RT. https://t.co/4vjDg6w1ph"
+@JoeNBC I suggest you listen to Sen Corker &amp; Sen Sessions. Help Trump evolve 2 b the candidate 2 beat HRC. NOT BASH https://t.co/WniL5mWIQN
+@JoeNBC I don't understand that at all. R Republican principles set in concrete or is it possible to learn &amp; change. https://t.co/ZVuzF8tiUY
+@PaulRyanPress @SpeakerRyan DC politician lies again. Get ready America is going 2 send a YUUUUUGE message. https://t.co/1XVa2qpSMf
+@MarkHalperin this is not a slight but unbutton your jacket when sitting at the table. Looks bad. Just a suggestion
+@SpeakerRyan @PaulRyanPress @Reince @GOP @RNC Get ready for America 2 send a YUUUUUGE message https://t.co/z6keuzjV5T
+@SpeakerRyan get ready for America to send you a YUUUUUGE message. #DumpRyan https://t.co/zmwe2akcUV

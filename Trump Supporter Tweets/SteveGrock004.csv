@@ -1,0 +1,66 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4885665192, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/697240240713433088/LKWViVQV_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 360, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4885665192"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 4, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729426850829602816, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729426850829602816"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 21:44:47 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 172, ""description"": ""I love riding my Harley Davidson and hitting the gym... Big Trump fan..."", ""friends_count"": 255, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/697240240713433088/LKWViVQV_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4885665192/1462049579"", ""profile_background_image_url"": null, ""name"": ""Steve Guthrie"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 13767, ""screen_name"": ""SteveGrock004"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Feb 10 02:00:49 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@ImagineAnna LMAO
+His response was: Screw it. https://t.co/i0eVVIctWF
+"Finally ....⚡️ “John Kasich suspends his presidential campaign”
+
+https://t.co/SlHBMkSx8v"
+Finally.... https://t.co/mLxSmyrnbu
+@andieiamwhoiam Very well said...and I'm happy to hear you stand up for our men &amp; women in blue.
+@jjjeeennnaaa_ From a retired officer please be careful out there and have fun...
+Goodbye https://t.co/kDrFvUT3ac
+@Lrihendry @hottiesfortrump @realDonaldTrump Happy Birthday
+@routier_rhonda LMAO
+This was just to funny... https://t.co/yVAmsSkd6e
+So very true Mr. Daniels https://t.co/slgvGfVAcm
+And he has a lot of people behind him... https://t.co/eUPfrUJpd7
+How about thanking this WW2 for his service and all Men &amp; Women who serviced and who are currently serving Thank You https://t.co/pKs63FClYf
+She's a disgrace to the American people... https://t.co/haOQggK6iv
+OMG https://t.co/iN5DH1H9Y5
+People who we A Meyer don't always turn out to be the best people...                                         But we don't know until we try.
+So true... https://t.co/bE6PU9y4IF
+Can I get Amen https://t.co/u6gYBoPidd
+@andieiamwhoiam @whiteandproud50 @Asjw9 Thank you so much
+@andieiamwhoiam @whiteandproud50 @Asjw9  Totally agree... I'm a retired Police Officer also.
+I will always have your back... https://t.co/KUgSQFcy51
+Wow what a great day in America Go Trump 🇺🇸🇺🇸
+Just one more reason why I support Mr. Trump https://t.co/qB6m7cHK89
+Remember the sacrifices https://t.co/uGs5mTG0D4
+@AlexisinNH  Say it an't so... Alexis
+Large crowd of supporters waiting to hear Hillary to speak https://t.co/nCZnyuF2pX
+@vandives Rude Thugs
+"I Love it, what do you think? https://t.co/Hadjuvr9Il"
+So TRUE... Go Trump https://t.co/ZMPaZN4eNm
+Of all the the places he could have landed... I love the USA https://t.co/Aja8vDHQhD
+This is another reason why we need President Trump... https://t.co/pEem1OLihB
+@dtfp2016 @DivintyMary That's outrages and it pisses me off!
+"@DaisyDi27394213 @realDonaldTrump  It's very sad indeed, but like you said it's going to change...with Mr. Trump"
+We need to have this posted in the USA. What do you think? https://t.co/jGiQYBxPB1
+Why is that... https://t.co/js5SrOLv3C
+@vandives Well said...
+@saksivas_ @JulietteIsabell thank you for the information but I still think it's ridiculous
+@JulietteIsabell No convicted felon has the right to vote in America
+@JulietteIsabell That's ridiculous
+Lol https://t.co/kefTI3BX4Y
+@AlexisinNH @NBCNightlyNews Yes very sad
+@Lrihendry Your so right... That's BS
+@andieiamwhoiam So true...
+"@vandives Totally agree with you, I live aproximately 90 miles from the Mexican border"
+Yes he will be our next President of the United States... https://t.co/PyqQ10xWE0
+@AlexisinNH Lmao
+@vandives So very true...
+"So true, be safe out there my brothers &amp; sisters.... https://t.co/IgrpqImkK4"
+@TomiLahren Love your program
+@AnAmerican4 That's to funny...
+@FoxNews This is Bullsh*t
+@MichelleWSC Yes it is lol
+@MichelleWSC I don't know why people follow you and then unfollow you. They do it to me too
+@MichelleWSC I really don't understand why people do that
+That's exactly what my wife told me and his voice makes her sick... https://t.co/YwKvvsnC8h
+@guthrie_kelley Rubio needs to get out to...
+Rubio and Cruz it's not working... For me !
+@guthrie_kelley @teaparty321 @intelligencer Yes we are and great minds think alike...
+Sadly we lost a sister on her first day on the job were is the the President or candidates. This needs to stop... https://t.co/HntryHWmKQ
+Go Mr. Trump you have my vote...
+It's another great day in American thank you South Carolina... Make America great again...
+This is  BS https://t.co/dTwgVr16ra
+We need the next President to support our law-enforcement 100% and stop the killing... https://t.co/fVJxhrfJcf

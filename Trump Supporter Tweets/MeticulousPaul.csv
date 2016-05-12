@@ -1,0 +1,234 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 3390129334, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Georgia, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""7142eb97ae21e839"", ""name"": ""Georgia, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/682598704050642947/vDqpJAbC_normal.png"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2500, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""3390129334"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 55, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""@BigStick2013 https://t.co/93fO2VVhS3"", ""is_quote_status"": false, ""in_reply_to_status_id"": 729410707163250688, ""id"": 729477916753600515, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [0, 13], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/MeticulousPaul/status/729477916753600515/photo/1"", ""display_url"": ""pic.twitter.com/93fO2VVhS3"", ""url"": ""https://t.co/93fO2VVhS3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-gQH8UYAA0ECD.jpg"", ""id_str"": ""729477863527702528"", ""sizes"": {""large"": {""h"": 550, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 322, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 729477863527702528, ""media_url"": ""http://pbs.twimg.com/media/Ch-gQH8UYAA0ECD.jpg""}]}, ""in_reply_to_screen_name"": ""BigStick2013"", ""in_reply_to_user_id"": 1575689569, ""retweet_count"": 0, ""id_str"": ""729477916753600515"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1575689569"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Mon May 09 01:07:43 +0000 2016"", ""in_reply_to_status_id_str"": ""729410707163250688"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/MeticulousPaul/status/729477916753600515/photo/1"", ""display_url"": ""pic.twitter.com/93fO2VVhS3"", ""url"": ""https://t.co/93fO2VVhS3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-gQH8UYAA0ECD.jpg"", ""id_str"": ""729477863527702528"", ""sizes"": {""large"": {""h"": 550, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 183, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 322, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 729477863527702528, ""media_url"": ""http://pbs.twimg.com/media/Ch-gQH8UYAA0ECD.jpg""}, {""expanded_url"": ""http://twitter.com/MeticulousPaul/status/729477916753600515/photo/1"", ""display_url"": ""pic.twitter.com/93fO2VVhS3"", ""url"": ""https://t.co/93fO2VVhS3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-gQ8KUoAAXTyl.jpg"", ""id_str"": ""729477877545082880"", ""sizes"": {""small"": {""h"": 223, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 671, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 393, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 729477877545082880, ""media_url"": ""http://pbs.twimg.com/media/Ch-gQ8KUoAAXTyl.jpg""}, {""expanded_url"": ""http://twitter.com/MeticulousPaul/status/729477916753600515/photo/1"", ""display_url"": ""pic.twitter.com/93fO2VVhS3"", ""url"": ""https://t.co/93fO2VVhS3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-gR8QVAAAPH98.jpg"", ""id_str"": ""729477894750142464"", ""sizes"": {""small"": {""h"": 680, ""resize"": ""fit"", ""w"": 329}, ""large"": {""h"": 1635, ""resize"": ""fit"", ""w"": 792}, ""medium"": {""h"": 1200, ""resize"": ""fit"", ""w"": 581}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 729477894750142464, ""media_url"": ""http://pbs.twimg.com/media/Ch-gR8QVAAAPH98.jpg""}, {""expanded_url"": ""http://twitter.com/MeticulousPaul/status/729477916753600515/photo/1"", ""display_url"": ""pic.twitter.com/93fO2VVhS3"", ""url"": ""https://t.co/93fO2VVhS3"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-gSnUUYAA_wJ7.jpg"", ""id_str"": ""729477906309603328"", ""sizes"": {""large"": {""h"": 540, ""resize"": ""fit"", ""w"": 960}, ""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [14, 37], ""type"": ""photo"", ""id"": 729477906309603328, ""media_url"": ""http://pbs.twimg.com/media/Ch-gSnUUYAA_wJ7.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 16446, ""description"": ""FOR:#Trump2016\n\n\nAGAINST: ForgottenVets, OpenBorders, Amnesty, Unemployment, Debt, WeakMilitary,\n Obamacare, IranDeal, MediaBias, Liberalism, StatusQuo, Lies"", ""friends_count"": 2059, ""location"": ""Georgia, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/682598704050642947/vDqpJAbC_normal.png"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/3390129334/1452419133"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Paul Adams"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 11055, ""screen_name"": ""MeticulousPaul"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Jul 23 23:21:33 +0000 2015"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@BigStick2013 https://t.co/93fO2VVhS3
+"@BigStick2013 
+Ya Think https://t.co/172t5mK1Tm"
+"@Un1te2016 @realDonaldTrump 
+No Doubt https://t.co/5WzcercnXL"
+"@DefendingtheUSA @jamesspivey @FoxNews @seanhannity 
+Here we go again https://t.co/jkNz0e1UPv"
+"@DefendingtheUSA @realDonaldTrump @FoxNews 
+They're all so full of s**t Fox has gotta be referencing a bowel movement
+Sick of'em!!"
+"Trump: 
+You dumb *$+# $#+?!(?!#&amp;
+if I sign this *&amp;$#!?+&amp;?:&amp;-+
+it makes me just as much a &amp;$+$#;?"" moron  as you are https://t.co/F7w23IMXfE"
+"@sam_atbo @adam041590 @mitchellvii @fooschamp95 
+Best tweet through the whole Exchange
+The Winner doesn't give concessions the loser does"
+"This is what runs our country
+You gotta admit Lindsay is one of the best of the worst https://t.co/3DaE81AJEk"
+"@troutymtl 
+GOP put their self  in the ICU, Trump's the only doctor that can save their worthless asses"
+"True,True,&amp;True! https://t.co/4KzPPZ6606"
+"@roxyloveslucy @sam_atbo @CoastRider92629 
+After all mothers are the greatest First ladies"
+"@mitchellvii 
+Cruz was God's will 
+His will was done"
+"@mitchellvii 
+Wouldn't matter anyway there would be nothing left to save"
+"@ashtonpittman @mrntweet @BigStick2013
+Hillary supporter loving America
+I'll give you that
+Hillary loving America
+That's a stretch
+Laughable"
+"@BigStick2013 
+Assuming they want to assimilate and support Trump of course"
+"@roxyloveslucy @CoastRider92629
+ Seems to be content staying home with Barron"
+"@feduppainter @BigStick2013 
+ This party's always been here https://t.co/6WtwfP1YaV"
+"@terri_smith 
+Difference between
+Never Trump
+Crooked Hillary 
+Crazy Bernie
+NOTHING!"
+"@kabtlc @BigStick2013 
+Ain't gonna happen"
+@StuntHangar @Larry63333 @BigStick2013 https://t.co/Ob5OYh1lel
+"@Larry63333 @BigStick2013 
+Typical politicians have it backwards
+The winner doesn't give concessions the losers do"
+"@BethPendergraf1 
+20T debt
+100M job less
+IsIs
+40% and poverty
+1in 5 on food stamps
+VET's simply disgraced
+On&amp;on
+Who did they poll? illegals"
+@Sarah_PaIinUSA @BethPendergraf1 @GOP https://t.co/2tQrjGGs2C
+"@CoryMBone @mitchellvii @josefoshea 
+Crooked Hillary Trinity
+Never was, never is, and never will be"
+"@Sarah_PaIinUSA @BethPendergraf1 @GOP 
+Pretty sure the worst thing that came out of that MSM election was Obama https://t.co/EH9ZZeSZcF"
+"@SarahPalinUSA 
+Don't need me to tell you https://t.co/OKE5gXhp1O"
+@SarahPalinUSA https://t.co/cs80sKa5FL
+"@SarahPalinUSA 
+Can't get to the DVR but I'm sure we'll hear about it
+Give'm hell 
+Thanks!!!!"
+"@cliffordtopham @vivelafra @birrdytalk 
+How in the hell do they keep missing the first three words https://t.co/KOOBaMuK7R"
+"@James101376 @BigStick2013 
+Got all the faith in the world in Trump https://t.co/mzit4sM4zK"
+"@mitchellvii 
+ Chief Spitting Bull
+Elizabeth Warren
+Attended the same class"
+"Why does extortion not surprise me
+Politicians been doing it for years, To us! https://t.co/QQFWX0HEVJ"
+"@barbara_liz1968 @mitchellvii @josefoshea 
+CROOKED HILLARY
+A hasn't-been
+A hasn't-is
+A hasn't-will be"
+"Sorry
+ All our princes beat him to it https://t.co/7PUA7kYcpi"
+"@dwlove9 @mitchellvii @CoastRider92629
+ALL! the folks are sick of the status quo
+I'm guessing it'll be a Trump landslide"
+"@dwlove9 @mitchellvii @CoastRider92629 
+No Doubt LOL!"
+@dwlove9 @timt2015 https://t.co/j3odUZogXF
+"@JoeyHarper11 @mitchellvii @CoastRider92629 
+Will definitely bring you to tears LOL!"
+"@CoastRider92629 @mitchellvii 
+Take them blindfolds off
+Slow tho, could be traumatic LOL :-)"
+"@dwlove9 @mitchellvii @CoastRider92629 
+You got my vote
+Hell I may have to attempt to vote twice"
+"@mitchellvii @CoastRider92629 
+God forbid Trump  picks it up
+They'll accuse him of disparaging men"
+"@mitchellvii @CoastRider92629 
+Decisions Decisions https://t.co/95T5K06CqP"
+"@mitchellvii 
+Or long his short
+Now you're Thinkin"
+@mitchellvii https://t.co/9elkwmSXHa
+@seanhannity @BigStick2013 @Metsroc @StevenJCBuckley https://t.co/GNlZOW1pi8
+"@mitchellvii 
+Somebody hand me a Job, that's a hell of a hole"
+"@mitchellvii 
+No Doubt
+Jesus wasn't on the ballot but one of his
+ tools was"
+"@susanfujioka @mitchellvii @josefoshea 
+New word: dung-accomplishments"
+"@JewelsinMo @josefoshea @susanfujioka @mitchellvii 
+Another small difference
+ Trump's paying for him he's not paying for Trump"
+"@mitchellvii 
+Remember Bill, liberals have no idea what is is"
+"@mitchellvii 
+Hillary is the poster child of what a great woman isn't"
+"@mitchellvii 
+Even better, edit without taking down, if possible"
+"@mitchellvii @josefoshea 
+She been a hasn't-been"
+"@mitchellvii 
+I'm sure that's what her handlers deduced"
+"@James101376 @mitchellvii @YouTube 
+No Doubt
+Love Santana
+Get a load of Laser Snake
+https://t.co/g9BMPH7Ra9"
+"@James101376 @mitchellvii 
+No Winners
+All Wieners"
+"@anita777rufin @BigStick2013 
+No Doubt! 
+Now when you say Trump
+They say how high!"
+"@PoliticalCaptn @BigStick2013 
+A lot of'em https://t.co/yMtD74OBd6"
+"@eks829 @BigStick2013 
+First class only
+ALL! America's welcome"
+"@MarkA0625 @mitchellvii 
+Lost me there
+Trump still campaigning hard and heavy
+West Virginia Washington Oregon https://t.co/rYyPKdrOhl"
+"Maybe Trump should give'm a participation trophy
+Oops!
+Sorry
+They never participated https://t.co/FXUZdA2SOl"
+"@divyasain1 @BigStick2013 
+Hopefully they will start getting tough on them in the general"
+"Not only is Hillary  an enabler
+She's also  ""especially for blacks"" a disabled
+Not to mention women &amp; Latino https://t.co/6FJ7sB764W"
+"@BigStick2013 
+I guess I'd be pissed too
+Trump unveiled the s**t out of'em https://t.co/zEtWuItjFj"
+"@BarbaraZaccai @mitchellvii 
+So far prayers have been coming in right on time"
+"@Lion_PartyUSA @mitchellvii 
+Exactly what happens when Never Thumper's throw s**t"
+"@BigStick2013 
+True conservatism doesn't Pander to liberalism
+Common-sense conservatism doesn't pander  to either"
+"@DarrenJJordan @elizabethforma @realDonaldTrump 
+Sitting Bull or Spitting Bull"
+@BlueNGold92 @mitchellvii https://t.co/AlpcJZbtTY
+"@mitchellvii 
+I'm not a crook"
+"@mitchellvii 
+Fox guarding The Henhouse
+And the chickens are just about sick of it"
+If Islam is a religion of peace why aren't Islamic extremist extremely peaceful ???? https://t.co/Azs42cYiWR
+"Crooked Hillary, Low life is an understatement
+https://t.co/cSQEtMiV9Z https://t.co/mpAOLT9mSr"
+Obviously the other 43% were not Americans https://t.co/iYNDbi51H4
+"@BigStick2013 @BreitbartNews 
+They're like Alabama ticks
+We tried pullin'em off
+Guess we're going to have to burn'em off"
+"@AJDelgado13 @IbeleeveInUSA @NateSilver538 
+Democrats that want to work will be drawn over, Socialist not so many"
+"@kenbg29301 
+ Yes, government has definitely defrauded the Vets
+That's a fact, the other is your opinion
+&amp; you're welcome to it &amp; I disagree"
+"@JaniBetancoirt @tony_sanky @grey_ghost47 @bonitz695 @MLH915 @sunshinette @mitchellvii @realDonaldTrump
+Whoop Whoop Whoop Nyuk Nyuk Nyuk
+LOL"
+"@kenbg29301 
+Great, sounds like there's still  hope"
+"@kenbg29301 @DadoftheDecade @realDonaldTrump @Ausbiz 
+You just answered your own question, if convicted
+""BIG IF"""
+"@kenbg29301 @DadoftheDecade @realDonaldTrump @Ausbiz 
+You're really having trouble drawing parallels
+Dyslexia?"
+@MLH915 @sunshinette @mitchellvii @realDonaldTrump the winner doesn't give concessions the losers do
+"@kenbg29301 @DadoftheDecade @realDonaldTrump @Ausbiz
+Citizens attempting 2 defraud Trump concerns me
+Nothing to do with your original point"
+"I'm sure they've pledged allegiance to the flag also
+Makes you wonder how good that was?
+America 1st https://t.co/knPCm5w7CB"
+"Trump or Crooked Hillary
+Truth or Consequences
+Vote for the truth or suffer the consequences https://t.co/55JDAZ0F7T"
+"@d4moss @mitchellvii @realDonaldTrump 
+Congratulations
+Got a brighter future so far
+We'll keep fighting for him"
+"@LakePatriot @BigStick2013 @realDonaldTrump @TheLastRefuge2
+14 establishments so called Best of the Best
+Trump, Best of the Best of the Best"
+"@FoxNews @newtgingrich 
+Starting with the corrupt and work our way down"
+"@FriendlyJMC @ThinkerG06 @realDonaldTrump @johnson 
+Typical politician, claiming to be something they're not https://t.co/ceRiPjX12q"
+"@william20673995 @mitchellvii 
+Part of the same ol corruption"

@@ -1,0 +1,70 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""FF0000"", ""default_profile_image"": false, ""id"": 240844658, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/760815054/b710f996004d59c4d901c9dde471619f.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/1337470975/157060_179631798715319_144777702200729_686317_2369020_n_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/CCHWFt9rvG"", ""indices"": [0, 23], ""expanded_url"": ""https://www.facebook.com/dgpgrove"", ""display_url"": ""facebook.com/dgpgrove""}]}, ""description"": {""urls"": []}}, ""followers_count"": 354, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""240844658"", ""profile_background_color"": ""0E0098"", ""listed_count"": 11, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BigStick2013: Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729458033659535360, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1575689569, ""indices"": [3, 16], ""id_str"": ""1575689569"", ""screen_name"": ""BigStick2013"", ""name"": ""Texas for Trump""}], ""hashtags"": [{""indices"": [103, 109], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""729458033659535360"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Please RT if you plan on voting for Trump, I'm trying to get an idea of his support, #Trump https://t.co/Ha9UnbSMly"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 698197228578566144, ""favorite_count"": 3526, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [85, 91], ""text"": ""Trump""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 5532, ""id_str"": ""698197228578566144"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri Feb 12 17:29:25 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [92, 115], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:48:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1575689569, ""source_status_id_str"": ""698197228578566144"", ""expanded_url"": ""http://twitter.com/BigStick2013/status/698197228578566144/photo/1"", ""display_url"": ""pic.twitter.com/Ha9UnbSMly"", ""url"": ""https://t.co/Ha9UnbSMly"", ""media_url_https"": ""https://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg"", ""source_user_id_str"": ""1575689569"", ""source_status_id"": 698197228578566144, ""id_str"": ""698197226703732736"", ""sizes"": {""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 360, ""resize"": ""fit"", ""w"": 360}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [110, 133], ""type"": ""photo"", ""id"": 698197226703732736, ""media_url"": ""http://pbs.twimg.com/media/CbB-rbDWwAAuwqY.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 7894, ""description"": ""Structural Engineer, Illinois Fighting Illini, Kaskaskia College, Centralia Orphan, Conservative, political junkie, Christian, St. Louis Cardinals, Rotarian"", ""friends_count"": 1656, ""location"": ""Grand Junction, Colorado, USA"", ""profile_link_color"": ""FF8900"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/1337470975/157060_179631798715319_144777702200729_686317_2369020_n_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/240844658/1403640632"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/760815054/b710f996004d59c4d901c9dde471619f.jpeg"", ""name"": ""Don Pettygrove"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 1675, ""screen_name"": ""DonPettygrove"", ""notifications"": false, ""url"": ""https://t.co/CCHWFt9rvG"", ""created_at"": ""Thu Jan 20 21:48:16 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+RE: Trump. Who died and made you the judge of what is and isn't conservative. You are just a member of the DC elite and a RINO.
+Colorado’s hospital provider charge: A tax masquerading as a fee https://t.co/kNPUtGza6T
+Lawmakers demand IRS explain how it found $$ for hundreds of new agents | Fox News https://t.co/pNpBQ9nV3y
+@gehrig38 Sorry you got cancelled here in Grand Junction. I was pulling for you.
+| National Review https://t.co/bC3O4A6IQM
+Educate The Public https://t.co/K5fOF15NYg
+@AMHQ So go see Climate Hustle before trashing what Sarah Palin said. There was much more. The 97% comes from 75/77 scientists not all
+@AMHQ Royal Society issues new climate change guide that admits 'uncertainties' | Daily Mail Online https://t.co/ZiKnndkDIs
+Hot as hell. https://t.co/t5ZMT1AU10
+#NOKillary https://t.co/dRWcHMRnyQ https://t.co/dRWcHMRnyQ
+@NHL Why don't you clowns get your TV coverage figured out so games don't interfere with each other? We can't afford your NFL network.
+It's just trees https://t.co/bnY3ASayVq
+@JUCOWorldSeries @Mavco3 https://t.co/0zImbOhr5n
+https://t.co/ZTe3y5BjeL https://t.co/ZTe3y5BjeL @mavco3
+"@JUCOWorldSeries @JUCO_Updates
+https://wwwNow Playing Business Insider: Science The science of hitting a Major League fastball"
+https://t.co/HMBEpHu8Sy
+https://t.co/XrXsVHAYW4
+https://t.co/j6uLPcy4gh
+This will be revised later to negative growth. https://t.co/QIZihUPfB3
+@TheRealVRVJ @Patriots Sorry to see you leave Lincoln. Good luck.
+And their sponsor should be charged. https://t.co/DnJc8mwXmi
+@_RobConrad @IvoryDove nice fear mongering
+https://t.co/MIdnP8CosC
+https://t.co/NKGR5lqbsi
+@COHouseDem
+https://t.co/krVdUIeTtX
+This is incredible - Human Conception Marked By Flash Of Light [VIDEO] | The Daily Caller https://t.co/7G6DiSYvbR
+@LovieSmith Need a kicker? Prep kicker Brandon Ruiz boots 76-yard field goal https://t.co/Lb03AQyTYb
+https://t.co/DiKdDKIPuf
+https://t.co/HgT7XRyY7M
+https://t.co/jfR6Ce3BHM
+Rise in CO2 has 'greened Planet Earth' - BBC News https://t.co/PSfpFfSgqE
+"On Climate, We’re Manipulated By Sleight Of Hand | Canada Free Press https://t.co/J3LTK6LZPC"
+The ‘settled’ consensus du jour https://t.co/cYnSmKoSV9
+Algebra is not the problem - The Daily Sentinel https://t.co/BNBwwZUymG
+https://t.co/iw9yHMOxsi
+https://t.co/IGAiiRhv5d
+https://t.co/RxCvj6A3LY
+@SarahDillingham when are you coming back to #wutv?
+@WunderCave I didn't get an answer?
+@WunderCave #wutv I see a TorCon of 7 for Kansas tomorrow. Highest I've seen. What is highest ever used?
+OBAMA Ignores Congress: Binds U.S. to 4-Year U.N. Deal that Next President Cannot Undo – https://t.co/U2J7DmGNDJ https://t.co/qwXI1Ml7FD
+All Armed Americans To Be Detained In FEMA Camps Starting In 2017 ?! – USA Newsflash https://t.co/N0SkC3oEVS
+"Paris Climate Agreement: Americans Foot Bill, No Effect on Climate https://t.co/XZeIXtxV2j"
+Obama Administration and UN Announce Global Police Force to Fight 'Extremism' In U.S. - Breitbart https://t.co/7ZdSD1y9He
+https://t.co/vT5UxXQJ7O
+"ESPN Fired Curt Schilling For Being Conservative, but Look who They DIDN'T Fire... https://t.co/I4ra04Z9W0"
+UPDATE: Massive Amounts of WMDs Have Been Found in Iraq | RedFlag News https://t.co/PVrj380Da0
+https://t.co/3hRyT6jIoj
+https://t.co/ezFtBDMeOP
+https://t.co/rRdbITtbhG
+https://t.co/Wibup92Vih
+@KatyTurNBC @politico More likely some if your supporters.
+https://t.co/5ESLVZc43D
+@JUCOWorldSeries It is sad that JUCO has succumbed to ESPN political correctness.
+@Mavco3 Please don't fall victim to the PC media on the Curt Shilling issue. He should still be the speaker for JUCO.
+@JUCOWorldSeries Please don't fall victim to the PC media on the Curt Shilling issue. He should still be the speaker for JUCO.
+https://t.co/ATbhSmIsbL https://t.co/ATbhSmIsbL
+Idiotic ESPN https://t.co/jSWCZDC56O
+@SarahDillingham Haven't seen you on @Wunderground. Where have you been?
+https://t.co/pNck2pfFk8
+Now that's  funny https://t.co/pAOyci5reF
+@Target So you are worried about insulting the perverts in your stores restrooms. That's fine. My family will no longer shop at your stores.
+What is it? https://t.co/iCYRcNueFg
+#WUTV @WunderCave See earlier tweet. Friday flight around strong storms was amazing. Weather services did an amazing job on reroute.
+"@marcuswilson42 @LovieSmith @IlliniFootball Aye! I-L-L.. Go Lovie, good job!"
+@WunderCave Fri. flight avoided plains WX. https://t.co/QsCgYotaWV
+@LovieSmith @IlliniFootball what was the attendance?

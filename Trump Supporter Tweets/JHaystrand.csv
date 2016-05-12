@@ -1,0 +1,57 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 1282220160, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""New York, USA"", ""url"": ""https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""94965b2c45386f87"", ""name"": ""New York, USA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728587790859051009/lMHbd7fQ_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2283, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""1282220160"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 24, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @VotingFemale: .@JHaystrand, Too late. We've wanted him gone for years in Arizona.\n\n#VoteKelliWard\n\n@kelliwardaz To Beat @SenJohMcCain\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729456660297748480, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 45156531, ""indices"": [3, 16], ""id_str"": ""45156531"", ""screen_name"": ""VotingFemale"", ""name"": ""Voting Female""}, {""id"": 1282220160, ""indices"": [19, 30], ""id_str"": ""1282220160"", ""screen_name"": ""JHaystrand"", ""name"": ""John""}, {""id"": 359403242, ""indices"": [103, 115], ""id_str"": ""359403242"", ""screen_name"": ""kelliwardaz"", ""name"": ""Dr. Kelli Ward""}, {""id"": 24906686, ""indices"": [124, 137], ""id_str"": ""24906686"", ""screen_name"": ""SenJohMcCain"", ""name"": ""SenJohMcCain""}], ""hashtags"": [{""indices"": [87, 101], ""text"": ""VoteKelliWard""}, {""indices"": [137, 138], ""text"": ""maga""}, {""indices"": [137, 138], ""text"": ""tcot""}, {""indices"": [137, 138], ""text"": ""pjnet""}], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 3, ""id_str"": ""729456660297748480"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": "".@JHaystrand, Too late. We've wanted him gone for years in Arizona.\n\n#VoteKelliWard\n\n@kelliwardaz To Beat @SenJohMcCain\n\n#maga #tcot #pjnet"", ""is_quote_status"": false, ""in_reply_to_status_id"": 729451628944883715, ""id"": 729452836795252736, ""favorite_count"": 3, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1282220160, ""indices"": [1, 12], ""id_str"": ""1282220160"", ""screen_name"": ""JHaystrand"", ""name"": ""John""}, {""id"": 359403242, ""indices"": [85, 97], ""id_str"": ""359403242"", ""screen_name"": ""kelliwardaz"", ""name"": ""Dr. Kelli Ward""}, {""id"": 24906686, ""indices"": [106, 119], ""id_str"": ""24906686"", ""screen_name"": ""SenJohMcCain"", ""name"": ""SenJohMcCain""}], ""hashtags"": [{""indices"": [69, 83], ""text"": ""VoteKelliWard""}, {""indices"": [121, 126], ""text"": ""maga""}, {""indices"": [127, 132], ""text"": ""tcot""}, {""indices"": [133, 139], ""text"": ""pjnet""}], ""urls"": []}, ""in_reply_to_screen_name"": ""JHaystrand"", ""in_reply_to_user_id"": 1282220160, ""retweet_count"": 3, ""id_str"": ""729452836795252736"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""1282220160"", ""lang"": ""en"", ""created_at"": ""Sun May 08 23:28:03 +0000 2016"", ""in_reply_to_status_id_str"": ""729451628944883715"", ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Sun May 08 23:43:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 9465, ""description"": ""I'am here only to fight for my brothers and sisters,  my country,  and Mr trump!   Oh,  destroy that bitch! And the SABOTEUR!!!!"", ""friends_count"": 2153, ""location"": ""New York, USA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728587790859051009/lMHbd7fQ_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/1282220160/1450327510"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""John"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 8937, ""screen_name"": ""JHaystrand"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Mar 20 03:54:17 +0000 2013"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Spot on  Jason!! https://t.co/V4w7w2u5yw
+I'am out of here! Nite  trump supporters! Tomorrow we fight again! God bless!
+He is calling  for backing trump now. https://t.co/5M8AB6xq4S
+And why RNC is chicken shit! https://t.co/pRIfLsRsEd
+Your nothing but trash! U are the one putting shit in the SABOTEURS head u bitch! Your the cause of our destruction https://t.co/BH2QBJzBLJ
+ALOT will! https://t.co/3rTRPh1Z7g
+Right on  Jason!!! Our last true hope for this country! It's amazing how he knocked out his opponents one by one! https://t.co/NKYlwODnRK
+Glad your  here  on  our side!!! God bless! https://t.co/j5rliEECRv
+That is what I call  a toss-up! https://t.co/YwallTTfNy
+"Hey,  how goes it? Like ur profile!! Lol!! https://t.co/GiACNYeWrN"
+Lol! U got that right! Hey thanks for serving our country! Go navy! 👍 https://t.co/cV96JXf2D7
+@micah_micahk @elizabethforma @realDonaldTrump she make my dick puke!
+Wow!  That's one hot looking mama! Lol! https://t.co/IAwMpW58GJ
+Wow! That's  a picture of a  physcho!! https://t.co/Xex7aoQIMW
+They have to know this! https://t.co/wib4zObXWw
+Judge Jeanine would make a fine  attorney general!!! Nice to look at too! ❤️ https://t.co/hqfxev1PWU
+Yes!!! We are very tightly  notched here kid! Trump supporters are  the best! Smart  and tenacious!! https://t.co/spI7Mq3UiD
+Wow!! I feel the brotherly love here  tonight!! Why thank you  chuck! 👍 https://t.co/Jthvk9sU1a
+"Hey! This is no time to be brave! I'll let u! Lol! I knew I count on u Mr Kidd,! https://t.co/75O9JcTPml"
+"We won't let it happen! Like  I said,  get a jail cell ready for me if that happens! https://t.co/SKSIob5pvR"
+"Thank you,  that's  good news!! https://t.co/FKKgAJuRGF"
+Yup! Like are you surprised? Everything he touches turn to shit! https://t.co/amKJLtTI6t
+Hey!! Happy mothers day! I hope  ur right  ladies! https://t.co/ikF0HIPCqx
+Not betting against u there either! Lol https://t.co/Xm7WcuoxTJ
+I hear u! I hope trump swoops up some of the Reaganites! https://t.co/dNLnfnXLTF
+Trump  now officially has 8  million followers! On Twitter!
+I been  thinking exactly that for some time now!! He is very dangerous right now! I fear for my country right now! https://t.co/x7mgdT1ADJ
+Now  that is an honorable man! https://t.co/DW3Ij44lp9
+"Ty senator!! I knew u were  a good man,! God bless you and your family John! ❤️❤️❤️❤️❤️❤️❤️❤️❤️ https://t.co/w0EVff9swk"
+SHAMEFUL MAN! OUR VETS  NEED HELP DESPERATELY! TRUMP TO THE RESCUE!! https://t.co/ZTSAChIZzP
+"They  know it,  but they  don't  care! Our country is hanging on by a thread! They are out  to save their party! https://t.co/1R8tLnXaPF"
+Go figure! A 74 year old  socialist is kicking the shit out of her? WTF??? https://t.co/kzChikeKpd
+I love it!! That was great! https://t.co/xdfMuSepZo
+"I was telling kid,  it's gonna get Interesting shortly!! Hold on to your cookies!! Lol https://t.co/1pJJvtXwnC"
+I'am OK with it! Big time! https://t.co/TMG62C9KDb
+How goes it Anthony? Are we having fun yet? https://t.co/7L1olUxRe8
+Trump is truly a good man! He won't  let us down!! I KNOW HE WON'T! HE DON'T KNOW HOW TO LOSE!! https://t.co/ql4H5oKFxo
+I agree!  And I been predicting 1400! https://t.co/LdAAQuQvyG
+Ouch!!!!! Lol! U mean vp? I they of him too! Another possibility my man! https://t.co/TShcSEqckB
+Well u been on the money thus far! I'am not gonna bet against u! https://t.co/zvdjul2u6S
+Chris!! I like newt too!! Great  pics!!! I'am with  u!! https://t.co/6tTYdZUXoM
+"Lol! Kid,  this  is going to  get dirty,  u know  that! https://t.co/bMnnCbxmwa"
+Bravo!!!  Lol! Good call! https://t.co/JWyiN7Fzoe
+Lol! They caught  me off guard when I was in the middle of something.  Let them Come to me my man! It's a joke! https://t.co/YnXNiEYP1o
+"Hey,  vp  any ideas kid? https://t.co/KyPLhdV3QS"
+"Like  I been saying,  our biggest threat! And that Comes from our top military generals! And x  Cia directors! https://t.co/4VCJB4AIsj"
+Lol!! Tell me about kid!  I need a vacation!happy mothers day to all trump supporters! U too kid! https://t.co/u58YYoKEoS
+"By ignorant, stupid people,  skin color,  free shit,  and conning people! The  true mother of all  con men! SABOTEUR https://t.co/iW7vDFcqzl"
+"Obama,  Americas number one enemy,  and threat! He will Leave kicking an screaming,  create as much  turmoil he can https://t.co/cW0mFxzZ8U"
+"Your  a very sick  woman! Ur willing to put a criminal in office, and further risk our safety! You Are true  scum! https://t.co/cTfWdAc4NH"
+Someone put this fuck in prison with that  fat ass! Yes  u sabatour!! The  whole world  hates ur criminal ass! https://t.co/TEuj6mValX
+"Hi Jeanette,  all these parasites want shit  handed to them! Let them get a job like  most dignant people! https://t.co/AjwPw4XyWy"
+LL U PEOPLE WANT IS FREE SHIT! GET A FUCKING JOB U LEACHES! https://t.co/brr99B6Uoq
+Show ur face scum! https://t.co/a2zxOmSX7f
+I'll stick her in your  ass! U sick fuck! People like u who support her are  true scum She will be in prison asshole https://t.co/GnPVt0EoWU
+I know a good place for that pic in upper right hand corner!! Anyone care to guess! https://t.co/M3jY1U6nDh

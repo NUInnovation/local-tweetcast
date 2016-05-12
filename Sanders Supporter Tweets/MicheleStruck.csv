@@ -1,0 +1,85 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 860574002, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/588914823762575360/6tpqu6Tw_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 42, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""860574002"", ""profile_background_color"": ""000000"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @PennForBernie: David Brock, the head of Hillary's Super PAC called \""Barrier Breakers\"", is the one who is paying the Hillary trolls. htt\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725803565097345029, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 710297301802205184, ""indices"": [3, 17], ""id_str"": ""710297301802205184"", ""screen_name"": ""PennForBernie"", ""name"": ""Pennsylvania4Bernie""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 710297301802205184, ""source_status_id_str"": ""725480514208018432"", ""expanded_url"": ""http://twitter.com/PennForBernie/status/725480514208018432/photo/1"", ""display_url"": ""pic.twitter.com/M4Z54VTzlU"", ""url"": ""https://t.co/M4Z54VTzlU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg"", ""source_user_id_str"": ""710297301802205184"", ""source_status_id"": 725480514208018432, ""id_str"": ""725480506352099328"", ""sizes"": {""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 630}, ""small"": {""h"": 368, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 650, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725480506352099328, ""media_url"": ""http://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 423, ""id_str"": ""725803565097345029"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""David Brock, the head of Hillary's Super PAC called \""Barrier Breakers\"", is the one who is paying the Hillary trolls. https://t.co/M4Z54VTzlU"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 725480514208018432, ""favorite_count"": 323, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/PennForBernie/status/725480514208018432/photo/1"", ""display_url"": ""pic.twitter.com/M4Z54VTzlU"", ""url"": ""https://t.co/M4Z54VTzlU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg"", ""id_str"": ""725480506352099328"", ""sizes"": {""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 630}, ""small"": {""h"": 368, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 650, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 725480506352099328, ""media_url"": ""http://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 423, ""id_str"": ""725480514208018432"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 28 00:23:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/PennForBernie/status/725480514208018432/photo/1"", ""display_url"": ""pic.twitter.com/M4Z54VTzlU"", ""url"": ""https://t.co/M4Z54VTzlU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg"", ""id_str"": ""725480506352099328"", ""sizes"": {""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 630}, ""small"": {""h"": 368, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 650, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 725480506352099328, ""media_url"": ""http://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu Apr 28 21:47:09 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 710297301802205184, ""source_status_id_str"": ""725480514208018432"", ""expanded_url"": ""http://twitter.com/PennForBernie/status/725480514208018432/photo/1"", ""display_url"": ""pic.twitter.com/M4Z54VTzlU"", ""url"": ""https://t.co/M4Z54VTzlU"", ""media_url_https"": ""https://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg"", ""source_user_id_str"": ""710297301802205184"", ""source_status_id"": 725480514208018432, ""id_str"": ""725480506352099328"", ""sizes"": {""large"": {""h"": 682, ""resize"": ""fit"", ""w"": 630}, ""small"": {""h"": 368, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 650, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 725480506352099328, ""media_url"": ""http://pbs.twimg.com/media/ChFsrUCWYAAgrAR.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1087, ""description"": ""Old enough to be taken seriously, young enough to think I still rock a mini skirt, dont judge me. Chef, Mom, Mate,  political junkie w/a tiny bit of hope left"", ""friends_count"": 113, ""location"": ""Baltimore"", ""profile_link_color"": ""3B94D9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/588914823762575360/6tpqu6Tw_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Michele Taormina"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 524, ""screen_name"": ""MicheleStruck"", ""notifications"": false, ""url"": null, ""created_at"": ""Thu Oct 04 00:27:48 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@RockyMntnMike Dinsdale!!!  roflmao best pull of the day!
+"Michele from Baltimore here Senator Zucker, please support Senator Sanders he has the people's support and backing! https://t.co/ea5tBuy1Ca"
+Inside the FBI Investigation of Hillary Clinton's E-Mail https://t.co/jhfBEhczQm via @TIMEPolitics
+Very interesting update today in regards to the FBI Clinton Server Investigation. https://t.co/l2455mc4aP
+Dore: Clinton Supporters Will Bend Backwards To Criticize The Good That Sanders Does https://t.co/78CdX0fTwG via @ringoffireradio
+Election Fraud Proven at Audit by Chicago BOE - flipped precinct by 18pts from Bernie to Hillary https://t.co/mYS5rSyRbx
+BUSTED: Pro-Clinton Super PAC Caught Spending $1 Million on Social Media Trolls https://t.co/iSoWnEmNd4
+Tell @BOENYC: Conduct a statewide audit of #NY voter purges. https://t.co/hlhlXdpXOf via @moveon #primaryday #votersuppression
+Mainstream media remains silent on the fact that the Democratic party might have just lost Mil… https://t.co/WBJU2Bp9nT via @wordpressdotcom
+never in 56 yrs have i witnessed a creative outpouring like I have since @BernieSanders declared his race #ImWithHim https://t.co/OWkqDtmwly
+"@SueinRockville hrc &amp; her surragates are resolute in alienating ever Bernie supporter encountered, HRC will lose and who's fault will that b"
+@TammyT01 @cher sad folks dont know US history.Guess they never met a poor person.Cant listen to @SMShow gloat 4 hrc https://t.co/ywZBaOUW9n
+@BernieSanders anyone can get this to the folks fighting in NY court today.. seems like it will help prove the case https://t.co/vxh53BuWzX
+The Fix Is In:  Sanders Supporters in New York See Votes Switched to Hillary https://t.co/MyEHBIqXMI
+Our media is just this dumb: Easily suckered press screws Bernie Sanders again https://t.co/lknGPAsXx4 via @Salon
+"good luck NY Berners, seems the establishment has thrown every thing they can to deter you, stand strong and vote #NYforBernie #Sanders2016"
+@TammyT01 @frangeladuo @SMShow 's passive aggressiveness every time Bernie is brought up just makes me grind my teeth yet still a stephhead
+@frangeladuo lasted as long as I could/ cant wait til primary is over N I can listen 2 @SMShow without screaming at the radio. I Luv U all
+"@frangeladuo @SMShow just finished ironing my housecoat, ready for my favorite time of the week! will listen to Bernie bashing 4 U ladies!"
+https://t.co/9MhfAL4yWM
+Teachers Say No Freaking Way to AFT Endorsement of Hillary Clinton - https://t.co/nYzNhNDPfM
+World’s Poorest... https://t.co/ALPzR4Rzvk via @peoplesvoice_tv
+Happening Now: Bernie Sanders Joins Verizon Strike Picket Lines In Brooklyn https://t.co/tYeXZWvtt9 via @ringoffireradio
+"'Up All Night' Protests Sweep France as 100,000 Join Pro-Democracy Movement - https://t.co/6qO4oYzLSc"
+An Open Letter to the Wall Street Journal on Its Bernie Sanders Hit Piece https://t.co/sVCDasVl3P via @HuffPostPol
+New documents prove Hillary Clinton censored YouTube video https://t.co/njppR8670t via @OffGuardian
+"@Elementary_CBS you can drive a truck through the holes in your plotlines, fire all the writers?"
+Lack of Early Voting Could Spell Doom for Clinton in New York Primary https://t.co/gXVJf7CNPF via @HuffPostPol
+Stream free live news 24/7 on CBSN: https://t.co/nAa5Q77J33 via @CBSNLive
+its #WeNotHe Join me in supporting Berniecrats via @actblue https://t.co/KQAXseDQuu lets flip the house! @Women4Bernie @People4Bernie
+"when I see @janeosanders I see me, my love of family, my love of country, my love of a good life lived through six decades #ImWithJane"
+Missouri flips to Bernie at caucus. - Democratic Underground https://t.co/hp0VBVYTqr via @demunderground
+Meet the fossil fuel lobbyists raising money for Hillary Clinton https://t.co/ccFom683pB via @motherjones
+Hillary’s world collapsing around her: Bernie’s surge and FBI probe poised to derail her White House bid https://t.co/UcUNwesXW2 via @Salon
+"Yes, Bernie Sanders Knows Something About Breaking Up Banks https://t.co/wfKVYHGFD9 via @UpshotNYT"
+"@SMShow Yes, Bernie Sanders Knows Something About Breaking Up Banks https://t.co/wfKVYHGFD9 via @UpshotNYT"
+https://t.co/xcx2wi5eN2   a must read folks!
+watched @BernieSanders speech now I cant keep my hands off my husband  #BernieMadeMeYoung
+"sent @BernieSanders a few bucks, now I can spit like @KillerMike #BernieMadeMeYoung"
+have been voting since 78 now I find that in supporting Bernie I am able to stay up and party all night #BernieMadeMeYoung
+@alfranken @HillaryClinton to bad in order to do this you are turning you back on your entire state!  shame on you Al.  #payoff2power
+The End of Black-Checking for Hillary https://t.co/anKZg6bXjy via @ProgressiveArmy
+"Sanders Leading in Wisconsin PPP Poll, Winning Black Voters by Over 10% https://t.co/hHYI7iV5uV"
+This Tumblr Page Is Reposting the Horribly Racist Stuff Hillary Clinton Supporters Say https://t.co/j71rMC43yz
+@SMShow @frangeladuo putting on my housecoat to enjoy my fav ladies and hear how terrible us bernie supporters are! #NotAllowedDecent
+Sanders camp aims to top $43.5 million in fundraising for March https://t.co/jyEfpc1DV6
+Arizona Secretary Of State Confirms Election Fraud Did Happen  (VIDEO) https://t.co/EoBDGLpkz2 via @brewminate
+Proof that Clinton has been losing to Sanders for a month now @HuffPostBlog https://t.co/8DtNLsB2NV via @HuffPostPol
+NY for Bernie Sanders: Jon Stewart: Please host a Town Hall with Bernie Sanders in NYC - Sign the Pet... https://t.co/oEFvOKr2DH via @Change
+Trump’s Top Strategist Just Quit And Wrote An Open Letter Admitting He’s A Liar And A Fraud https://t.co/eusJTlz9ID
+The Bird That Landed on Bernie Sanders' Podium and Its Symbolism - https://t.co/pa4Q49gACk via @Shareaholic
+@SMShow smeary guy is the best thing to happen in months! love love love Jim (what no twitter?) and @rickoverton! #FunnyAndSmart
+Cenk Uygur Proves His Journalistic Prowess in His Most Important Interview Yet https://t.co/IL3fgdPkvp
+Something Is Going Seriously Wrong at Arizona Polls Today https://t.co/yFuQOGO0EC
+https://t.co/UrsESt3huK
+Here's what Americans don't understand about Nordic countries — via @TheAtlantic https://t.co/inflTfep9n via @bi_contributors
+The War Being Waged On Religious Freedom In The Military - We are witnessing a sickening trend. There a https://t.co/xzDa6klu5m via @Esquire
+"To the Senate: Do Your Duty, and if you refuse, we have a Writ of Mandamus for you... https://t.co/w3TK0Dtuoi"
+"“Blocking Bernie naysayers crucial to keeping one’s sanity, revolution’s momentum” by Yvonne C. Claes https://t.co/FtxnHY5ncI"
+Bill Clinton Illegally INSIDE IL Polling Place - Sanders Supporters Demand Hillary Forfeit Delegates https://t.co/AApPLBrrmS
+Police consider charging Trump with inciting a riot over violence at North Carolina rally https://t.co/u7cfkVSLue
+this show is better than what I remember of sex! @iamsambee is the best in late night! https://t.co/H0Tsc1fyjE
+Why Did Hillary Clinton Need a Private Server? The Answer Makes Bernie Sanders President https://t.co/YbHQheqIHX via @HuffPostPol
+@HRC Clinton is now praising Reagan/AIDS!  OMG do you need any more evidence to flip your endorsement? #WhichHillary #Sanders2016 #WeNotMe
+"Bernie Sanders Won the Debate Because Jorge Ramos Is Right, Clinton Could Get Indicted https://t.co/ocy2qgX2FH via @HuffPostPol"
+It should be over for Hillary: Party elites and MSNBC can’t prop her up after Bernie’s Michigan miracle https://t.co/M5aYYKFU0U via @Salon
+@NickKristof @JenGranholm  when you make an amendment that is attached you have in effect written part of it. #AmendmentKing #BiPartisanWork
+"damn, @BernieSanders just dropped the fracking mic on HRC #FuckFracking #KockKill"
+"@BernieSanders is rocking this #DemDebate he has the crowd, and my heart! #EnoughIsEnough #Sanders2016 #FeelTheBern"
+"OMG is HRC just rifting a list she memorized of ""latino needs"" She is such a freakin politician dripping with sincerity huh? #DemDebate"
+"@hardball_chris your political bias was showing again tonight! Miami Mayor lies boldly, beligerantly and you say nothing! #PropagandaNotNews"
+Media's Coronation of Clinton Belies Sanders' Path Toward Victory - https://t.co/6w7xIdnImr
+mainstream media is already trying to diminish our Bernie #PropagandaNotNews #TrueProgressivePrevail we know the empress has no clothes
+@doryowen @MaddowBlog good observation!
+@MaddowBlog its not called yet because your network does not want Sanders to win this #PropagandaNotNews #ProgressiveBetrayal
+@SMShow @stutteringjohnm please play baby hitler now!!  just told my daughter about it and she is in need now!!!
+"@HillaryClinton to bad you once again are lying, you're a very slimy politician and I have voted dem since 1978, I will never vote for you"
+@jt_mencken hopefully this will tell twitter that i need to see your tweets babydoll #BestHusbandEver #DreamWeaver #HottieHusband #IAdoreYou
+Media Displays Open Contempt as Bernie Sanders Racks Up Major Victories https://t.co/ANWhohYO9s
+I wanted to share this great mobile website with you https://t.co/4FA9vP0lgB
+"how the GOP imploded: The real story behind the conservative crack-up, and the creation of Donald Trump https://t.co/wTyYltFWcn via @Salon"
+Found in released emails--Bernie to SOS Clinton - Democratic Underground https://t.co/PaGUt9ltAP via @demunderground
+"@SMShow so much for being for both sides, I have ignored U'r HRC bias but today you pushed me over the edge, I am done with U &amp; U'r show."
+and now corporate media will do all it can to diminish @Sanders4Potus regardless of his awesome showing #DemDebate #propagandaNOTnews

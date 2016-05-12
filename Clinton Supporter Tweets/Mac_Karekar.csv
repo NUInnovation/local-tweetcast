@@ -1,0 +1,66 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 125754205, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/587189465434697729/_O-9Lr2I_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 496, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""125754205"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 18, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @HubSpot: Don't have a paid #socialmedia strategy yet? You need to read this, like, yesterday: https://t.co/7xmreM0Osm https://t.co/PJIx\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729030475331866624, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 14458280, ""indices"": [3, 11], ""id_str"": ""14458280"", ""screen_name"": ""HubSpot"", ""name"": ""HubSpot""}], ""hashtags"": [{""indices"": [31, 43], ""text"": ""socialmedia""}], ""urls"": [{""url"": ""https://t.co/7xmreM0Osm"", ""indices"": [98, 121], ""expanded_url"": ""http://hubs.ly/H02VSmr0"", ""display_url"": ""hubs.ly/H02VSmr0""}], ""media"": [{""source_user_id"": 14458280, ""source_status_id_str"": ""729014189637943297"", ""expanded_url"": ""http://twitter.com/HubSpot/status/729014189637943297/photo/1"", ""display_url"": ""pic.twitter.com/PJIxmjjIcI"", ""url"": ""https://t.co/PJIxmjjIcI"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg"", ""source_user_id_str"": ""14458280"", ""source_status_id"": 729014189637943297, ""id_str"": ""729014187989536768"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [122, 140], ""type"": ""photo"", ""id"": 729014187989536768, ""media_url"": ""http://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 48, ""id_str"": ""729030475331866624"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Don't have a paid #socialmedia strategy yet? You need to read this, like, yesterday: https://t.co/7xmreM0Osm https://t.co/PJIxmjjIcI"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729014189637943297, ""favorite_count"": 61, ""source"": ""<a href=\""http://www.hubspot.com/\"" rel=\""nofollow\"">HubSpot</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [18, 30], ""text"": ""socialmedia""}], ""urls"": [{""url"": ""https://t.co/7xmreM0Osm"", ""indices"": [85, 108], ""expanded_url"": ""http://hubs.ly/H02VSmr0"", ""display_url"": ""hubs.ly/H02VSmr0""}], ""media"": [{""expanded_url"": ""http://twitter.com/HubSpot/status/729014189637943297/photo/1"", ""display_url"": ""pic.twitter.com/PJIxmjjIcI"", ""url"": ""https://t.co/PJIxmjjIcI"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg"", ""id_str"": ""729014187989536768"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 729014187989536768, ""media_url"": ""http://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 48, ""id_str"": ""729014189637943297"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 18:25:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/HubSpot/status/729014189637943297/photo/1"", ""display_url"": ""pic.twitter.com/PJIxmjjIcI"", ""url"": ""https://t.co/PJIxmjjIcI"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg"", ""id_str"": ""729014187989536768"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [109, 132], ""type"": ""photo"", ""id"": 729014187989536768, ""media_url"": ""http://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sat May 07 19:29:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 14458280, ""source_status_id_str"": ""729014189637943297"", ""expanded_url"": ""http://twitter.com/HubSpot/status/729014189637943297/photo/1"", ""display_url"": ""pic.twitter.com/PJIxmjjIcI"", ""url"": ""https://t.co/PJIxmjjIcI"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg"", ""source_user_id_str"": ""14458280"", ""source_status_id"": 729014189637943297, ""id_str"": ""729014187989536768"", ""sizes"": {""large"": {""h"": 512, ""resize"": ""fit"", ""w"": 1024}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 300, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [122, 140], ""type"": ""photo"", ""id"": 729014187989536768, ""media_url"": ""http://pbs.twimg.com/media/Ch36ip9WEAAtXPA.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": 3600, ""statuses_count"": 1004, ""description"": ""As we are sharing this planet live life till its fullest with enthusiasm and pleasure by not harming and hurting anyone..."", ""friends_count"": 2006, ""location"": ""London"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/587189465434697729/_O-9Lr2I_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/125754205/1393082547"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Mandar Karekar"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 634, ""screen_name"": ""Mac_Karekar"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Mar 23 19:27:51 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""London"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Haha true it's all about time  https://t.co/6zRwX5DZXa
+Wow this looks good https://t.co/uKP5pwF0Bj
+"Loving it, pleasant evening @STJAMESPARK1 @TajHotels @TajLondon @RNTata2000 @TimeOutLondon https://t.co/U07DdPbmYC"
+"Dimpsum , loved it at Sukhi, Chinatown https://t.co/zyGByLn0ij"
+Had great time in Pingpong @pingpongdimsum https://t.co/avHYjC0huP
+More Tesla cars to been around london by 2018...
+"Humble request update my SA302,2012-2013 &amp;update ur ""STAFF"" ""SYSTEM"".I had issues because of not updating system. @HMRCgovuk @HMRCcustomers"
+@HMRCcustomers ok but atleast do a favour by sending the right revised version. Is that possible
+"@HMRCcustomers  U guys have send me old version twice but as I said I need new Revised version, please try to understand"
+"@HMRCcustomers u guys have send me old version twice but as I said I need new Revised version, please try to understand"
+"@HMRCcustomers @HMRCgovuk I have made it more simple for u guys, I need this version https://t.co/V9XNrxl8uK"
+@HMRCgovuk This figure should reflect on new revised or updated version (figure I got on phone from HMRC) https://t.co/bmqhCHf5BB
+@HMRCcustomers this is revised figure I got on phone from u guys n that's what I want on revenue assesment or SA302 https://t.co/tyw8i4mYZy
+"@HMRCcustomers we amended, last sept 2015,it was accepted n I paid full amount,becz it's not updated m having issues, I need updated copy"
+@HMRCgovuk   I need ASAP the revised / amended SA302 as i need to submit it to GOV officials it's Very very imp? When I can get it
+@HMRCcustomers  I need ASAP the revised / amended SA302 as i need to submit it to GOV officials it's Very very imp https://t.co/JzrrgaSbrt
+@HMRCgovuk I have requested my SA302 for 2012 -2013 since Sept2015 with all updates figures when should I get my SA302?
+Emotional IQ is far more impt in business  than just IQ .. It helps u keep going long run.
+Massimo Bottura's Chef special was lovely episode on Netflix @massimobottura @netflix @NetflixUK @Restaurant_com @TimeOutLondon
+Love nature at Hyde Park #HydePark #hydeparklondon @photography @DPhotographer @NaturePhotoNet https://t.co/hSwSK3hB9g
+Loved it https://t.co/tj1P8PERPd
+"Sales people , here's a Top sales guy just observe him, lots of hidden tips . Loving it #SteveVarsano @paretolaw1 
+
+https://t.co/TVcgKa1ZRt"
+True  https://t.co/HdFKM0GWBx
+London's Weather has been completely unpredictable .
+Great bar and great food... At Rokamayfair @ROKAmayfair @RokaRestaurants @TimeOutLondon @Restaurant_com https://t.co/HTlBLknD6q
+Indian Businessman Vijay Mallya son Sid Mallya @ndtv @TimesNow @kingfisherworld https://t.co/pBuXEiH0xB
+Facebook's group calling looks like Kool feature but why not have same feature in what's app?
+@YasminBodyImage check Aqua Cycling it's new trend in london..u can start too.. Good luck
+@iamsrk Fan was Amazing experience @iFaridoon waiting for SRK book since 2012
+GBPUSD short signal @Daily_Forex @forexstrategies @FOREXcom @BabyPips
+Amazing  https://t.co/WufBScvTBy
+"Forex, stocks is another great way for extra income  https://t.co/HNLC5nKPPk"
+@Dishoom @bombaycafe @Kalpeesh : Great Article by Friend with loyal regular customer Kalpesh shah @Kiran_ET https://t.co/fP8TY0p1XC
+Ya it's quite Kool I use Udemy a lot https://t.co/zY8SJSx1FG
+"I have HP laptop with B&amp;O , love it  https://t.co/whpBbekniD"
+True  https://t.co/DTUeV9IQ1K
+"@iamsrk just watched Fan, loved it..#fan #SRK"
+@SandraLeeMD u r a fab doctor.. Hats off.. Can U plz share some video tips for home users with equipments n style n medicine. Thanks
+EUR/USD still going down https://t.co/D3GvuE8F44
+Wow  https://t.co/ek5WX8iSR0
+I think people have pre judge n her scared. I started late without any experience n m enjoying  https://t.co/ONTCrzYSTi
+@iamsrk waiting since 2012 for ur Opus book? When is it releasing ??
+Haha nice  https://t.co/HYln4AVUzF
+EUR/USD going down looks like good strong signal @Daily_Forex @FOREXcom @siewlee1819 @ForexBoat @forexstatus
+Yeah I have already set TP. Thanks https://t.co/tXUGvpOuv2
+"Thank u Twitter, I hope i add more value to all of u @twitter https://t.co/jijdXsFfWx"
+@jobandtalentuk no worries I will download the app
+Great thanks for sharing  https://t.co/WXuUQcKwQU
+Nice  https://t.co/hdu0TzNP7V
+I am your customer for 8 years...what do I get for my loyalty ?? https://t.co/gB9lJbcy3q
+"Yeah true, U.K. Has long way to go https://t.co/blDqP5EEVx"
+Please do come to london  https://t.co/9RsZszhCuh
+Love ur interviews https://t.co/mqn1rxUQjZ
+"I always do on 4hour, u get more profit on it https://t.co/GcRCHeiWPw"
+So true  https://t.co/ZGZrgpmTd5
+Yes will wait for signals on JPY/USD &amp;  AUD/USD https://t.co/dXbVm4VDGg
+Wow  https://t.co/OribKHXoCb
+Sean Rad changed the game.. https://t.co/xj4YnTtndL
+Wow  https://t.co/L0Z1GoGM75
+For new entrepreneurs  https://t.co/9MvMdXGtdQ
+Interesting  https://t.co/Fpy1PDkfRM
+Nice https://t.co/N2wRu4aTou
+Looks like new Concorde  https://t.co/ADi8EqkG43

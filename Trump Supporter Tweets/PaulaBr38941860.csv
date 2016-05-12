@@ -1,0 +1,103 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 712187539226910720, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Honolulu, HI"", ""url"": ""https://api.twitter.com/1.1/geo/id/c47c0bc571bf5427.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""c47c0bc571bf5427"", ""name"": ""Honolulu, HI""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/717246704437702656/tQeb99_d_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1654, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""712187539226910720"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 15, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @vivelafra: Ronald Reagan warmly greets @realDonaldTrump at the White House.  Soon, the #Trump family home.  #Trump2016 #MAGA https://t.\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729480365471993856, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 3308560736, ""indices"": [3, 13], ""id_str"": ""3308560736"", ""screen_name"": ""vivelafra"", ""name"": ""ViveLaFrance""}, {""id"": 25073877, ""indices"": [43, 59], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [{""indices"": [91, 97], ""text"": ""Trump""}, {""indices"": [112, 122], ""text"": ""Trump2016""}, {""indices"": [123, 128], ""text"": ""MAGA""}], ""urls"": [], ""media"": [{""source_user_id"": 3308560736, ""source_status_id_str"": ""729350671808397312"", ""expanded_url"": ""http://twitter.com/vivelafra/status/729350671808397312/photo/1"", ""display_url"": ""pic.twitter.com/EMiEysNKAg"", ""url"": ""https://t.co/EMiEysNKAg"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg"", ""source_user_id_str"": ""3308560736"", ""source_status_id"": 729350671808397312, ""id_str"": ""729350669568630785"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729350669568630785, ""media_url"": ""http://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 127, ""id_str"": ""729480365471993856"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Ronald Reagan warmly greets @realDonaldTrump at the White House.  Soon, the #Trump family home.  #Trump2016 #MAGA https://t.co/EMiEysNKAg"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729350671808397312, ""favorite_count"": 153, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25073877, ""indices"": [28, 44], ""id_str"": ""25073877"", ""screen_name"": ""realDonaldTrump"", ""name"": ""Donald J. Trump""}], ""hashtags"": [{""indices"": [76, 82], ""text"": ""Trump""}, {""indices"": [97, 107], ""text"": ""Trump2016""}, {""indices"": [108, 113], ""text"": ""MAGA""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/vivelafra/status/729350671808397312/photo/1"", ""display_url"": ""pic.twitter.com/EMiEysNKAg"", ""url"": ""https://t.co/EMiEysNKAg"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg"", ""id_str"": ""729350669568630785"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 729350669568630785, ""media_url"": ""http://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 127, ""id_str"": ""729350671808397312"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 16:42:05 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/vivelafra/status/729350671808397312/photo/1"", ""display_url"": ""pic.twitter.com/EMiEysNKAg"", ""url"": ""https://t.co/EMiEysNKAg"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg"", ""id_str"": ""729350669568630785"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [114, 137], ""type"": ""photo"", ""id"": 729350669568630785, ""media_url"": ""http://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:17:26 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 3308560736, ""source_status_id_str"": ""729350671808397312"", ""expanded_url"": ""http://twitter.com/vivelafra/status/729350671808397312/photo/1"", ""display_url"": ""pic.twitter.com/EMiEysNKAg"", ""url"": ""https://t.co/EMiEysNKAg"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg"", ""source_user_id_str"": ""3308560736"", ""source_status_id"": 729350671808397312, ""id_str"": ""729350669568630785"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 575, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 337, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 729350669568630785, ""media_url"": ""http://pbs.twimg.com/media/Ch8skdhU4AEgPYt.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 4738, ""description"": ""enterpernuer, mother, christian,love animals, anarchist turned Trump, business owner,  and sick of America Loosing!#womenunitedfortrump"", ""friends_count"": 2665, ""location"": ""Honolulu, HI"", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/717246704437702656/tQeb99_d_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/712187539226910720/1459905865"", ""profile_background_image_url"": null, ""name"": ""Paula Brown"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1705, ""screen_name"": ""PaulaBr38941860"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Mar 22 08:01:55 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+Well aren't u just stupid!!!! https://t.co/rcN48waqvh
+"Keep it up Wisconsin!!!! Nehlen needs more votes.  Remember we want to tell Ryan loud and clear, get out!!! https://t.co/DGv8bXrstk"
+It's the truth https://t.co/o3jXw1BKZY
+Glenn put himself and Ted in a very scary predicament.  Glad I'm not them https://t.co/eoyAI92e96
+Be aware of where r enemies r at all times RT https://t.co/QsdQFMBzAd
+Not the way I was raised https://t.co/kUfs9ZNhOU
+I don't believe  polls or anything that comes from their mouths.  Obviously donalds rally turn outs speak the truth https://t.co/3vjkEpGsyh
+Never she is a use to it now her way of life https://t.co/Fxn31vGVLw
+RT https://t.co/zmEeDb2S3m
+"Not wo a fight bc I am prepared, on the lookout everywhere I go:)  glad I live HI bc here it's like the olden days:) https://t.co/GzUoNuRvc6"
+Oh yes...Trump has ALREADY unveiled lots of corruption everywhere already and he's not prez yet! Imagine if he was!! https://t.co/skdOil35en
+She is the #1 threat to USA https://t.co/ReBGFJB6Wd
+A dip into the dems brains https://t.co/oZpulU4bme
+Another one...these ppl r so damn funny like we really care. The only thing we care about him is voting him OUT! https://t.co/1k9vXNffrv
+Go Wisconsin! !!!!! ROAR!!!!!! https://t.co/kUfyJBxys8
+Scared he is going to stop the ur backroom deals!!!!!! https://t.co/yH2uolH6pc
+Got that right!!!! Boy howdy the fraud waste and abuse that will break open https://t.co/KpD6HISfTX
+They do this all the time...that is what makes proof of a  perfected politician https://t.co/IIPXCXDFXV
+WATCH IT AMERICA IS NEXT VOTE TRUMP https://t.co/aIJKTxHb6o
+@PaulaHu71049676 yep me too.  It makes me mad all the ignorance that some ppl have.  When ppl get in my face w no common sense I fight:)
+We have more problems than bathroom ones. Being beheaded or raped and burned alive isn't my ideal way of death https://t.co/rhQnsFRAaU
+Think about that ppl. https://t.co/KEtoRFL9PJ
+Thank u rand Paul welcome aboard https://t.co/SYvcQkH417
+Hallelujah America https://t.co/QUHwyec92o
+I with u I could care a less...like taxes really matter https://t.co/QdMG0UJWNG
+It's here ppl VOTE TRUMP to save our ass https://t.co/qExdqQzoHh
+100% correct bc if they don't t hey die https://t.co/a4CXfhevup
+All states should vote trump and let Washington know we the ppl r in control now https://t.co/yl2hP55qMO
+This ad is perfect https://t.co/HBegX9zWD5
+Imagine that https://t.co/p5gjX67j7N
+It is obviously not the women Washington is so worried about https://t.co/UG84WvcDji
+If u voted for him stay!   u get what u vote for.  If u didn't vote for him get the hell out now while u still can!! https://t.co/ZkFWBIi7Qg
+Vote Paul nehlen IN and Paul Ryan OUT https://t.co/TpYJ8GCeUt
+Barack hussein Obama. ..... doesn't take a rocket scientist to figure that one out https://t.co/RbkZ0c8qZf
+"These people live off of ""do as I say not as I do"" https://t.co/8WRLSeV8cK"
+The day I heard Barack hussein Obama was running for prez I said just his name says who he really is. https://t.co/RbkZ0c8qZf
+Perfected politician https://t.co/PlE5IQx0mN
+Yes that was evident at the start https://t.co/3qCUyRM3DE
+I know one thing donald WON'T  do to unify the party and that is kiss ass
+Read this people know what's right from the beginning https://t.co/ffEoMQCG3m
+Who knows??? There is so much corruption it's unfathomable!!! I have heard they r working w the Mexican gov. Not sur https://t.co/pi32824Mxo
+Make sure u RT this often as possible everyone needs to know https://t.co/bXO5A6HMrx
+Agree!!! That's what laziness does!!!! It is the last chance to get up and ACT for what we believe in!!!! https://t.co/Pi8nbZAwFS
+That is why it is so important to make sure we trampling not just win but trample the establishment.  It is vital https://t.co/iNqkZUinVk
+And my favorite part is exposing ALL THE CORRUPTION EVERYWHERE https://t.co/kf6PzExuJo
+This how the dems win...they got every sneaky corner covered https://t.co/kD4aQXoLjD
+That would b Hillary https://t.co/wy5TkBOxur
+He seems to have a thing for Beyonce https://t.co/B5KcMoDWrZ
+I would find out if I was u https://t.co/o1KA2KSarp
+Wise up Republicans and Democrats wise up quickly Hillary is for this too https://t.co/QWXOw0aAF2
+U would think news and pics would b enough to raise wyebrows.  Evidently not.  This place must b loaded w bots https://t.co/ehPT60bg9l
+Incomprehensible https://t.co/5EBOTOlPtn
+Let's make these ppl look foolish and give Donald 80% of all the votes in the remaining states. https://t.co/pjAGhilN2G
+"Only Washington, establishment, welfare user's, entitlement ppl, gov workers, bots, those r her followers https://t.co/cSqr6GiM2r"
+To act on this vote trump https://t.co/DvlG6dzyLV
+Of course!!!!! https://t.co/VeVjei9Zor
+It's called a smart business move...anyone not on the Trump team obviously doesn't play on our team https://t.co/feadzWiltB
+Thank you cruzers!!!!! Welcome aboard my friends https://t.co/BifNqUxNHY
+America what more is going to take????? Voting for anyone except donald and u can bet this is next https://t.co/z9cZGG39xN
+That sounds about right wake up america if ISIS doesn't kill us Washington will!!! VOTE trump https://t.co/iivblt06cx
+Let's get this woman out now w everyone voting trump https://t.co/AFYSX1tszO
+U got that right Linda.  The TV media puts what they dream of on their stations not what is reality https://t.co/oRWmSUtHav
+Yes that's my president https://t.co/E6HhLz8HW9
+I hope the rest of these remaining states go all out for the donald giving him 70-80% https://t.co/LzUYikwTFA
+To this very day https://t.co/i1nW2TEkOc
+Yep but not anymore they must of rewritten their dems rules:) https://t.co/FZkF9YBOQ4
+Vote Paul in and Ryan out https://t.co/F9C63M7JeR
+This fight w killary vs Trump is going to b a mean knock down drag out fight.  We need to put on our boxing gloves trumpsters! LET'S DO IT!!
+Yes!!!!! That is how these ppl are they truly are invincible! Until someone like Trump and we the ppl shut them down https://t.co/QICwrz33yp
+Yes bc she is surrounded by bodyguards and taken care of for the rest of her life.  We the ppl well....unlucky ones https://t.co/QRwKKdpmGg
+She is for whoever will buy her https://t.co/pZpzJ9vnW8
+He reminds me of a spoiled brat https://t.co/CIgbrwwQuO
+We need to do all we can to encourage nehlen votes....always RT his stuff.  These ppl don't realize our momentum https://t.co/8Oqn8IQqk8
+Dump ryan https://t.co/lvxVSwlz1S
+Damn Skippy listen up or get voted out https://t.co/veEqzLhU2g
+Of course actions prove as much https://t.co/W33tlGbAk6
+HE DRANK THE KOOL-AID doomed soul bye bye as trump says https://t.co/3tTWBYXfqi
+Please trumpsters vote to give go him 70-80% it is r only way to roar https://t.co/OHbH04Ff3e
+Typical politician that Romney https://t.co/nSM4S9rleY
+MF https://t.co/eNefDSZaAf
+this guy on fox is saying how donald is going to have to pay billion $ to run for GE and how he is going to have to have to do it...funny!
+These r sick ppl wake up america bf it happends here vote trump https://t.co/XWSLERcvA3
+WE WON'T STOP EITHER!!!! TRUMPSTERS R SMARTER FIGHTERS BRING IT ON GOOFY https://t.co/CRUqY107IQ
+Of course trump is ur only hope https://t.co/DcIuNdYqJL
+Got that right:) https://t.co/9Y1TVWbCpt
+Thank u CNN for airing all those great sayings and funny sayings trump has said throughout his campaign I ABSOLUTELY LOVED IT!!!!!!
+That's exactly why I say donald lives in r world the establishment have no clue what reality entails https://t.co/diogwnczLq
+Nor to America itself https://t.co/rc63LGO4NM
+PROVE IT TO ME w scripture...enough said end of conversation. https://t.co/7i3s03qoA9
+When Obama said America is better off today then when he graduated from college...well it is FOR HIM.  Not for us who live in reality
+They r on for a big surprise https://t.co/eh729ks0s5
+Ppl need to understand that when ryan speaks what he is  saying is a lie to draw trump where Ryan wants him
+Ryan's meeting w Trump is nothing but a facade so Ryan can say I tried but Donald doesn't want to unify...then start the donald bashing agan
+U r 100% correct ed.  That is exactly why!!!! https://t.co/fctjRwPRkn
+So true https://t.co/z2PPkfG3He
+Of course https://t.co/CdyDIM9dSO
+Yes https://t.co/bbD7J7iE5O
+Better make sure donald wins this trumpsters https://t.co/G719bdenzr
+Typical politician https://t.co/G3T7smfGmO
+More so than anything else these self indulgent ppl need to put their country 1st and get over themselves grow up!! https://t.co/pj8v4Vqu4i
+U all r right the presidency is a serious job that is why I am voting for the most serious candidate Trump.   Such  ignorant ppl now days
+I know his problems it's so in ur face. Top problem jealousy 2nd ego 3rd no more backroom deals 4. Himself 1st https://t.co/P7mScelzcd

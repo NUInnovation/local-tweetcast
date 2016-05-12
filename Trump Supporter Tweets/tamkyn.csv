@@ -1,0 +1,84 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""3C3940"", ""default_profile_image"": false, ""id"": 252351846, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme4/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/708464648593514498/XgJ-CTPv_normal.jpg"", ""profile_sidebar_fill_color"": ""95E8EC"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 795, ""profile_sidebar_border_color"": ""5ED4DC"", ""id_str"": ""252351846"", ""profile_background_color"": ""0099B9"", ""listed_count"": 81, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @FiveRights: Elizabeth Warren calls Trump a loser &amp; vows to stop him.\nAs a lifelong lefty she abhors merit-based success. https://t.co/Q\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729468099955724288, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 857001662, ""indices"": [3, 14], ""id_str"": ""857001662"", ""screen_name"": ""FiveRights"", ""name"": ""Philip Schuyler""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 857001662, ""source_status_id_str"": ""729414052930293762"", ""expanded_url"": ""http://twitter.com/FiveRights/status/729414052930293762/photo/1"", ""display_url"": ""pic.twitter.com/Qw3nVu5FhD"", ""url"": ""https://t.co/Qw3nVu5FhD"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg"", ""source_user_id_str"": ""857001662"", ""source_status_id"": 729414052930293762, ""id_str"": ""729414051634266112"", ""sizes"": {""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""small"": {""h"": 385, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [129, 144], ""type"": ""photo"", ""id"": 729414051634266112, ""media_url"": ""http://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 180, ""id_str"": ""729468099955724288"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Elizabeth Warren calls Trump a loser &amp; vows to stop him.\nAs a lifelong lefty she abhors merit-based success. https://t.co/Qw3nVu5FhD"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729414052930293762, ""favorite_count"": 124, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/FiveRights/status/729414052930293762/photo/1"", ""display_url"": ""pic.twitter.com/Qw3nVu5FhD"", ""url"": ""https://t.co/Qw3nVu5FhD"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg"", ""id_str"": ""729414051634266112"", ""sizes"": {""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""small"": {""h"": 385, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""photo"", ""id"": 729414051634266112, ""media_url"": ""http://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 180, ""id_str"": ""729414052930293762"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 20:53:56 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/FiveRights/status/729414052930293762/photo/1"", ""display_url"": ""pic.twitter.com/Qw3nVu5FhD"", ""url"": ""https://t.co/Qw3nVu5FhD"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg"", ""id_str"": ""729414051634266112"", ""sizes"": {""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""small"": {""h"": 385, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [113, 136], ""type"": ""photo"", ""id"": 729414051634266112, ""media_url"": ""http://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:28:42 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 857001662, ""source_status_id_str"": ""729414052930293762"", ""expanded_url"": ""http://twitter.com/FiveRights/status/729414052930293762/photo/1"", ""display_url"": ""pic.twitter.com/Qw3nVu5FhD"", ""url"": ""https://t.co/Qw3nVu5FhD"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg"", ""source_user_id_str"": ""857001662"", ""source_status_id"": 729414052930293762, ""id_str"": ""729414051634266112"", ""sizes"": {""large"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""small"": {""h"": 385, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 395, ""resize"": ""fit"", ""w"": 349}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [129, 144], ""type"": ""photo"", ""id"": 729414051634266112, ""media_url"": ""http://pbs.twimg.com/media/Ch9mNyHWwAA2kXD.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 43688, ""description"": ""Conservative, Patriot, Mentor, Entrepreneur, Myomassologist"", ""friends_count"": 558, ""location"": ""USA"", ""profile_link_color"": ""0099B9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/708464648593514498/XgJ-CTPv_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/252351846/1406345185"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme4/bg.gif"", ""name"": ""Tamara Lynn"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 27903, ""screen_name"": ""tamkyn"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Feb 15 00:59:17 +0000 2011"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@realDonaldTrump @EricTrump @DonaldJTrumpJr Please pick @newtgingrich as your VP Best Choice to destroy #CrookedHillary &amp; bring Nation back
+@RealTrumpDoc @HPB57 @investigator50 Thank you
+https://t.co/S4REyWFMV0
+A great interview w one &amp;only SHERIFF JOE. The Milo Yiannopoulos Show: Episode 6 - Sheriff Joe Arpaio https://t.co/ALQNpJaF8o via @YouTube
+"Love it,  nail #CrookedHillary https://t.co/a6GIWJSkRT"
+@RealTrumpDoc @investigator50 @Kath_meg Thks U too
+https://t.co/YJejvg5FIE
+https://t.co/HHWersIwhJ
+"This is only the beginning! 
+
+Trump Slams Clinton as 'Nasty, Mean Enabler' of Husband's Affairs. https://t.co/PyH7skV8XN"
+@realDonaldTrump stick to it &amp; hire someone who believes in U &amp; Americans who support U #Ryan is a disgrace. #MAGA https://t.co/qPEsIAMDWo
+Democrats again. https://t.co/JRTwqehqYP
+Obama A JOKE for 8 Years https://t.co/OO7I7T8rOR
+"@realDonaldTrump Obama's executive decisions so Hillary&amp; staff do not get prosecuted,what does this tell you? JAIL https://t.co/BeA01um3zz"
+@realDonaldTrump @EricTrump @DonaldJTrumpJr These 2 cohorts need to be FIRED &amp; any other establishment who agrees https://t.co/LyOzbvllIi
+@realDonaldTrump @EricTrump @DonaldJTrumpJr  learning Consitution &amp; national Anthem this MUST be a priority or NO entrance Change this asap
+@realDonaldTrump @EricTrump @DonaldJTrumpJr WHY is MN teaching students Sharia law?Anyone coming into USA MUST learn English &amp; go through
+"@realDonaldTrump @EricTrump @DonaldJTrumpJr ICE spent 100k on office REDO, CUT waste fraud &amp; abuse people have no jobs &amp; these bitches spent"
+@realDonaldTrump @EricTrump @DonaldJTrumpJr WETHEPEOPLE want a new Speaker @SpeakerRyan is for illegals send him out https://t.co/cwRX4YdBLw
+https://t.co/aXkxl5KYKV
+https://t.co/QDMcPud2sl
+Easy solution #RobReiner MOVE https://t.co/AdWQdAm3SI
+"This is awesome
+
+https://t.co/yQjbKkMmZB"
+@realDonaldTrump @DonaldJTrumpJr @EricTrump Get rid of @SpeakerRyan WETHEPEOPLE R tired of this bullshit establishment agenda Hire Better
+"@tamkyn globalist that must be defeated in November in order for Trump to succeed. 
+ 
+https://t.co/YgEQpA3sh3 via @youtube"
+"Take time to watch &amp; listen to this video,this is
+the guy thats taking on speaker paul ryan in Wisconsin,Ryan is another Nafta open borders"
+@realDonaldTrump @DonaldJTrumpJr @EricTrump Time to start playing 13Hours in movie theaters again this summer take out #CrookedHillary #maga
+"This dude talked a tough game but now that trump won he is apologizing,NEW BOSS IN TOWN! 
+
+https://t.co/OHZaCKwvXw"
+Michael Savage: Obama will sabotage economy on way out. https://t.co/vWyylCE9za
+Guccifer is taking her down! https://t.co/a2QDL6q1Zl
+"More evidence that trump wins in a landslide, stop listening to the corrupt loser pundits. https://t.co/tv4a633LUQ"
+https://t.co/1ZQZcdDRlM
+@realDonaldTrump @DonaldJTrumpJr @EricTrump &amp; destroying democrat party #CrookedHillarys going down. Talk communism socialism destroying USA
+@realDonaldTrump @DonaldJTrumpJr @EricTrump Don't offer #kasich any job he's a pansy &amp; should step out of race focus on Uniting more votes
+https://t.co/vo6u5KNRUT
+TRUMP: I am honored to be the presumptive nominee It is time to unite our party &amp;defeat Hillary Clinton. Watch Live: https://t.co/fxTrh390Qh
+"Live feed of  trump speech instead of listening to the loser pundits talk. 
+
+https://t.co/5TKwoUvcxv"
+@realDonaldTrump These losers have been steering us into wars and trade ripoffs for 15 years and now they finally have come clean.
+@realDonaldTrump Almost every loser pundit on fix news said they wont vote for trump....How do they have jobs on the air? These losers have
+@tamkyn they have said and yet tonight the same clowns are making predictions about the general election..... Lol.... Bunch of losers!!!
+"Its hilarious, every single fraud pundit on fixnews that told us 4 a year that trump cant win,they have been wrong about every singlething"
+Indiana has given TRUMP another historic win  Thank you to the voters. Your voice is heard tonight. Show support https://t.co/lZTB6oN3nq
+"Projected to get all 57 delegates in indiana, landslide victory! 
+America has the pitchforks and are throwing the bums out of DC!!!"
+Bobby knight spoke &amp; voters of Indiana listened @realDonaldTrump next POTUS can't wait till he beats #crookedhillary she should b in jail
+@DonaldJTrumpJr @EricTrump Excellent job #Indiana voting for @realDonaldTrump True Winner Time to take all. Next #California #crookedhillary
+https://t.co/lHKYET0PCp
+#Cruz ws a little wacko attacking @realDonaldTrump voters Trump fan stood his ground Cruz should b checked for crazy https://t.co/f09FO8MmFw
+"@realDonaldTrump @EricTrump @DonaldJTrumpJr Favorites are Newt,  Carson &amp; Condi Rice."
+"@realDonaldTrump @EricTrump @DonaldJTrumpJr We do not want Rubio proamnesty, Kasich just dumb, or any other establishment for VP choose well"
+Sweet. Go Trump https://t.co/B7UZxL9q0p
+@marthamaccallum a little bias against @realDonaldTrump rally's do not insinuate these indigent paid protesters who want to deny free speech
+@tamkyn then obama makes a new law because of it.This is how it all works...
+"The left stages fakes everything, then they rely on corrupt liberal media to report it all as real,  it all works. https://t.co/PQcG7kgnZs"
+https://t.co/oAGfMHvBRV
+https://t.co/hBTbY7jJyZ
+https://t.co/h2gzGA6Q5k
+"THIS IS AWESOME!... Must see!! 
+https://t.co/4Qia7FGisJ"
+https://t.co/JEWC2UnN9K
+"@tamkyn to wrap this up. I think a bunch of repubs will start to call for the end of Cruz on wed.
+@realDonaldTrump will be nominee #MAGA"
+"@tamkyn ""its obnoxious as hell! the RNC is starting to realize they need to start hammering away at Hillary&amp; get this thing over with.  Time"
+"Cruz is a weasel controlled by jeb,when cruz loses indiana he""ll just keep saying ""nobody will get 1237&amp; we R going to contested convention"
+https://t.co/6tWWntrZdK
+@realDonaldTrump @DonaldJTrumpJr @EricTrump Ever consider #condoleezzarice or @RealBenCarson as VP both R great choices win Blk &amp; women vote
+@realDonaldTrump @DonaldJTrumpJr @EricTrump we want Trump to repel from his helicopter at the next Rally. How awesome ws Cali Rally's! #MAGA
+"Curt Schilling Accuses ESPN of Being Racist, Says They’re ‘Bigots Calling me a Bigot’ https://t.co/YGM85gliJf via @youngcons"
+"@realDonaldTrump @DonaldJTrumpJr @EricTrump Great job in Indiana &amp; Cali, let's see some more endorsement Get this party started #MAGA #Trump"
+@realDonaldTrump Priceless! And to have a POTUS that makes you laugh...love his humor &amp; honesty... https://t.co/CHSOOxhnNP
+We have a #crookedRepublicanParty run by establishment it will be a breath of Fresh air w POTUS @realDonaldTrump https://t.co/g7Ua9W55D8
+https://t.co/dIsGNLKxx1
+@realDonaldTrump You need to say something about @AndreaTantaros being let go from sucky @FoxNews she spokethe truth no PC from Andrea #maga

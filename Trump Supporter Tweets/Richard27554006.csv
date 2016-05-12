@@ -1,0 +1,105 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4852120812, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/715703136208302080/NDKtdtri_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 82, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4852120812"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 7, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @heavenlyitalian: STOP THE INVASION OF THE UNVETTED SYRIAN RAPEFUGEES\nVOTE TRUMP https://t.co/RW3pkwrKUm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729171174949818369, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/#!/download/ipad\"" rel=\""nofollow\"">Twitter for iPad</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 936148682, ""indices"": [3, 19], ""id_str"": ""936148682"", ""screen_name"": ""heavenlyitalian"", ""name"": ""Roxie 100% TRUMP""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 936148682, ""source_status_id_str"": ""729147551593713664"", ""expanded_url"": ""http://twitter.com/heavenlyitalian/status/729147551593713664/photo/1"", ""display_url"": ""pic.twitter.com/RW3pkwrKUm"", ""url"": ""https://t.co/RW3pkwrKUm"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg"", ""source_user_id_str"": ""936148682"", ""source_status_id"": 729147551593713664, ""id_str"": ""729147533793103874"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [84, 107], ""type"": ""photo"", ""id"": 729147533793103874, ""media_url"": ""http://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 11, ""id_str"": ""729171174949818369"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""STOP THE INVASION OF THE UNVETTED SYRIAN RAPEFUGEES\nVOTE TRUMP https://t.co/RW3pkwrKUm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729147551593713664, ""favorite_count"": 9, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/heavenlyitalian/status/729147551593713664/photo/1"", ""display_url"": ""pic.twitter.com/RW3pkwrKUm"", ""url"": ""https://t.co/RW3pkwrKUm"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg"", ""id_str"": ""729147533793103874"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [63, 86], ""type"": ""photo"", ""id"": 729147533793103874, ""media_url"": ""http://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 11, ""id_str"": ""729147551593713664"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 03:14:57 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/heavenlyitalian/status/729147551593713664/photo/1"", ""display_url"": ""pic.twitter.com/RW3pkwrKUm"", ""url"": ""https://t.co/RW3pkwrKUm"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg"", ""id_str"": ""729147533793103874"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [63, 86], ""type"": ""photo"", ""id"": 729147533793103874, ""media_url"": ""http://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 04:48:50 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 936148682, ""source_status_id_str"": ""729147551593713664"", ""expanded_url"": ""http://twitter.com/heavenlyitalian/status/729147551593713664/photo/1"", ""display_url"": ""pic.twitter.com/RW3pkwrKUm"", ""url"": ""https://t.co/RW3pkwrKUm"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg"", ""source_user_id_str"": ""936148682"", ""source_status_id"": 729147551593713664, ""id_str"": ""729147533793103874"", ""sizes"": {""small"": {""h"": 605, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 1334, ""resize"": ""fit"", ""w"": 750}, ""medium"": {""h"": 1067, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [84, 107], ""type"": ""photo"", ""id"": 729147533793103874, ""media_url"": ""http://pbs.twimg.com/media/Ch5z0ZyXEAICD3o.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 792, ""description"": """", ""friends_count"": 200, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/715703136208302080/NDKtdtri_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": null, ""name"": ""Richard Carlson"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 920, ""screen_name"": ""Richard27554006"", ""notifications"": false, ""url"": null, ""created_at"": ""Wed Feb 03 03:42:34 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"@tammytabby @KNP2BP 
+
+GREAT NEWS DONATE TO TRUMP ASAP!"
+"@SenWarren @USDOL 
+
+Ms Warren You are NO INDIAN!
+
+Lyin Liz"
+"@SenWarren 
+
+I,am one struggling NO WAY CAN WE ELECT CLINTON THE ONLY PERSON WHO CAN ASSURE THE USA DOES NOT GO BANKRUPT IS 
+DONALD TRUMP!"
+"@greta @Billrollins6 
+
+Greta your a Wisconsinite RYAN BIO IS NOT SO GREAT HIS VIEWS ARE ALL FOR ME VIA AYN RAND!"
+"@TrumpSweep @dixiefortrump @iTrumpRally 
+
+GREAT IDEA
+I BEEN WANTED TO CALL RYAN THE PRICK SO MONDAY IS ON THE PHONE.
+CALL HIS STATE OFFICES"
+"@FoxNews @DanaPerino 
+
+Dear Dana I really respect You!
+I am an old REPUBLICAN WHO BELIEVES BIG BIG CHANGE IS NEEDED!
+GETTER DONE TRUMP"
+"@Lrihendry @HeidiL_RN 
+ILLEGAL  Mexicans
+DRIVE ILLEGALLY AND PERMANENTLY
+DISABLED A YOUNG GIRL NOT FAR FROM ME.
+LAW AND ORDER PLEASE"
+"@HeidiL_RN @dwnews 
+
+Mexico is A FAILED STATE LAWLESS WHOS GOV.
+SUPPORTS DAMAGING THE USA.
+DRUGS DRUGS DRUGS"
+"@DebAlwaystrump @OmaTalley1 @FinterBrenda @realDonaldTrump 
+
+ WE TRUMP SUPPORTERS SEND DONALD WHAT WE CAN!
+I AM IN FOR $100 this week"
+"@harpus88 
+At the same time we burn Mexican flags we will burn the Quran!
+Fuck Islam!"
+"@harpus88 
+That is appropriate WE HAVE BEEN WAY TO SILENT!"
+"@TomFlocco @firstthechild @fubaglady 
+MUSLIMS 1500 years of Slaughtering Christians.
+They are insidious GET OUT GET OUT!"
+"@DRJAMESCABOT 
+
+Trump has exposed why we are flooded with people we do not want!
+RYAN IS A TRAITOR HE NEEDS TO BE IMPEACHED!
+FUCK RYAN!"
+"@fubaglady 
+The Peace Guy Muslims 1500 years of rape pillage slaughter of Christians we don't want you here get it!
+Your scab on humanity!"
+"@AndrewsHarley @newtgingrich @alcardfan @SpeakerRyan 
+
+Ryan the TRAITOR Wisconsin is a socialist state for many years!
+Run him out of office"
+Susan Sarandon: Clinton scarier than Trump https://t.co/aUbtGqg1OM
+"@NickMiller510 
+
+Who is the WITCH IN RED A MUSLIM?
+REMEMBER THE ALAMO!"
+"FUCK ILLEGAL IMMIGRATION
+
+REMEMBER THE ALAMO https://t.co/D9y7PwMcso"
+"Fuck illegals!
+
+REMEMBER THE ALAMO! https://t.co/oLG7Kaf5zE"
+"@trumpology 
+ 
+I would not go Mexican Goverments corrupt!
+No trourist is safe there!
+We need a WALL ASAP! https://t.co/s5QI7dPEI2"
+"@trumpology 
+
+Sick ILLEGAL IMIGRANTS USE MEXICAN FLAG AS IF ITS A WAR!
+BRING OUT OLD GLORY LETS RUMBLE https://t.co/pSzaz1FDT4"
+"Protests rage outside Trump rally in Orange County; 17 arrested, police car smashed https://t.co/gCzeDZ28K6"
+"@DistOfCriminals 
+WOW Great TRUMP SUPPORTER MY HATS OFF!"
+"A SWEET PUPPY SAYS IT ALL.
+POOP OFF TEDDY:-))) https://t.co/7mlk5KprSG"
+NOW THE RNC WANTS TO CONTINUE THE THIEVERY!    NO MORE! https://t.co/HAPeQXeNZe
+"I CANT WAIT TO SEE CRUZ BUSH AND ALL THE OTHER RNC ASSHOLES SENT INTO EXILE.
+WE WILL WIN WITH TRUMP! https://t.co/9KtVyvI84T"
+GOD DAMN THE RNC INSIDERS WE WILL RIOT TO OVERTURN YOUR HEAVY HANDED LONG RULE OF THE ROOST GOD DAMN YOU NEVER AGAIN WILL I VOTE REPUBLICAN
+@peddoc63 https://t.co/ErJNYEL0rf
+"@ricflairwcw 
+
+FLAIR A FUCK HEAD FOR LIFE!!! https://t.co/zSjVpkivXg"
+@shmuelsash @RealBPhil @realDonaldTrump https://t.co/4s7FukR4bm
+"@EWErickson 
+
+Eric the wanna be VIKING:
+WHO PAYS YOUR WAY SOROS HILLARY KOCH
+
+YOUR NOT WORTHY OF THE NAME ERIC! https://t.co/54gKxBozvM"
+"@amandacarpenter 
+
+TED CRUZ False Christian BIBLE THUMPING EVIL
+ORAL ROBERTS HEALING HAND! https://t.co/DPs5quwjMN"
+@PatrickSvitek @amandacarpenter https://t.co/Gg3OZozYmk

@@ -1,0 +1,102 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 634330383, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/709826349054173185/HxaqeHdP_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 228, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""634330383"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 11, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @wendyvoss: @myGianLuca https://t.co/z0mC4OU0uZ"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729419864641785856, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 48100522, ""indices"": [3, 13], ""id_str"": ""48100522"", ""screen_name"": ""wendyvoss"", ""name"": ""Wendy""}, {""id"": 2271813558, ""indices"": [15, 26], ""id_str"": ""2271813558"", ""screen_name"": ""myGianLuca"", ""name"": ""Ciana@mygianluca""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 48100522, ""source_status_id_str"": ""729372187832934400"", ""expanded_url"": ""http://twitter.com/wendyvoss/status/729372187832934400/photo/1"", ""display_url"": ""pic.twitter.com/z0mC4OU0uZ"", ""url"": ""https://t.co/z0mC4OU0uZ"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg"", ""source_user_id_str"": ""48100522"", ""source_status_id"": 729372187832934400, ""id_str"": ""729372182426484736"", ""sizes"": {""small"": {""h"": 394, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 741, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 695, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [27, 50], ""type"": ""photo"", ""id"": 729372182426484736, ""media_url"": ""http://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 25, ""id_str"": ""729419864641785856"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@myGianLuca https://t.co/z0mC4OU0uZ"", ""is_quote_status"": false, ""in_reply_to_status_id"": 729371414533308416, ""id"": 729372187832934400, ""favorite_count"": 16, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2271813558, ""indices"": [0, 11], ""id_str"": ""2271813558"", ""screen_name"": ""myGianLuca"", ""name"": ""Ciana@mygianluca""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/wendyvoss/status/729372187832934400/photo/1"", ""display_url"": ""pic.twitter.com/z0mC4OU0uZ"", ""url"": ""https://t.co/z0mC4OU0uZ"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg"", ""id_str"": ""729372182426484736"", ""sizes"": {""small"": {""h"": 394, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 741, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 695, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [12, 35], ""type"": ""photo"", ""id"": 729372182426484736, ""media_url"": ""http://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg""}]}, ""in_reply_to_screen_name"": ""myGianLuca"", ""in_reply_to_user_id"": 2271813558, ""retweet_count"": 25, ""id_str"": ""729372187832934400"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""2271813558"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 08 18:07:35 +0000 2016"", ""in_reply_to_status_id_str"": ""729371414533308416"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/wendyvoss/status/729372187832934400/photo/1"", ""display_url"": ""pic.twitter.com/z0mC4OU0uZ"", ""url"": ""https://t.co/z0mC4OU0uZ"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg"", ""id_str"": ""729372182426484736"", ""sizes"": {""small"": {""h"": 394, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 741, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 695, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [12, 35], ""type"": ""photo"", ""id"": 729372182426484736, ""media_url"": ""http://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Sun May 08 21:17:02 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 48100522, ""source_status_id_str"": ""729372187832934400"", ""expanded_url"": ""http://twitter.com/wendyvoss/status/729372187832934400/photo/1"", ""display_url"": ""pic.twitter.com/z0mC4OU0uZ"", ""url"": ""https://t.co/z0mC4OU0uZ"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg"", ""source_user_id_str"": ""48100522"", ""source_status_id"": 729372187832934400, ""id_str"": ""729372182426484736"", ""sizes"": {""small"": {""h"": 394, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 741, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 695, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [27, 50], ""type"": ""photo"", ""id"": 729372182426484736, ""media_url"": ""http://pbs.twimg.com/media/Ch9AIrKVAAAoYOp.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 2857, ""description"": """", ""friends_count"": 272, ""location"": """", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/709826349054173185/HxaqeHdP_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Alston Brown"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 3480, ""screen_name"": ""brown_alston"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Jul 13 03:14:27 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@FoxNews oh no! I am worried! He's going to lose the election with all of their 4 supporters! 😭😩
+@WDFx2EU1 @kupajo322 @DanScavino PLEASE let Mr. Trump use this as a campaign ad.
+@mitchellvii share this video of Bill Clinton's alleged victim of rape telling her story. https://t.co/XhQIKgHtI6
+Every Hillary supporter needs to watch this. #ImWithHer #Hillary2016 #HillaryClinton https://t.co/XhQIKgHtI6
+@LoriW66 https://t.co/XhQIKgHtI6
+@LoriW66 ever heard of Bill's rape victims?
+"@DudeInDistress beside the point, Trump wasn't the POTUS during his marriages. Also, Trump doesn't have rape allegations."
+"@CBSNews @HillaryClinton enough to know she's a lying, killing, evil BITCH!"
+@JudgeJeanine is awesome! Best person in the news media! #judgejeanine #FoxNews
+@NextGenUSA360 @FoxNews no he's not. He's 1 pt ahead. That's not losing.
+@thehill why is this a shock? Lol. It's been tight in Georgia in 2008 and 2012.
+@asamjulian it better not! This election has really opened up people's eyes at how crooked the establishment is.
+@asamjulian @DanScavino @scottienhughes 😡😡😡😡 #NeverHillary #AlwaysTrump https://t.co/7ouy2erIMr
+@realDonaldTrump @Teamsters thank you Mr. President!
+@FoxNews @SheriffClarke Trump/Clarke 2016!🇺🇸🇺🇸
+"@asamjulian agreed. I tried yesterday but I gave up. If you don't vote Trump over Killary, you're a damn fool."
+@thehill God this election is going to be fun!
+@HillaryClinton @SadiqKhan you suck KILLARY!
+@newtgingrich @seanhannity @FoxNews great job on Hannity! TRUMP/GINGRICH 2016! 🇺🇸🇺🇸
+Thank you Dick Cheney! #Trump2016 #MakeAmericaGreatAgain #TrumpTrain
+"@bycon11 @FoxNews says a Hillary Clinton supporter. I respect dems but Hillary, really?"
+@PpollingNumbers @thehill well that's a given. Lol
+@Stand4Justice1 of our American Soldiers.
+"@Stand4Justice1 will all due respect ma'am/sir, Mr. Trump is not being investigated by the FBI and he is also not responsible for 4 lives"
+"@Stand4Justice1 @dhiggins63 I ask you to please vote for Mr. Trump. A write in is a vote for that killing, lying, evil woman Hillary Clinton"
+@thehill thank you @RealBenCarson!
+"@Cronikeys I'm confused? So now, people don't have to vote in the primaries for him to get 1237?"
+@asamjulian that's what I was wondering. Does he not have to win any more states?
+Disappointed in you @SpeakerRyan. #Unite #NeverHillary
+@mitchellvii @bi_politics @daturkel and he'll get the General Election wrong too.
+@NateSilver538 remember when you said Trump wasn't going to secure the nomination before June?
+@asamjulian @HillaryClinton I love being able to now focus on Killary. She's such an easy target!
+@HillaryClinton shut up Killary. I can't wait for Trump to shred your political career.
+@TrumpTrain8 yes and what happens when Sanders drops out? Hillary is in trouble whether she realizes it now or not! #NeverClinton #Trump2016
+@IvankaTrump thank you for your dad wanting to #MakeAmericaGreatAgain! 🇺🇸🇺🇸
+@DanScavino now to defeat Crooked Hillary! 🇺🇸🇺🇸🇺🇸
+@thehill #PervertBill #Trump2016
+@HelenKennedy looks like they did lol
+@NateSilver538 wow. You were so wrong. 😂😂
+This is freaking awesome! 😂😂 @mitchellvii @asamjulian @RealDJSlash  https://t.co/GphK6JuE4W
+@asamjulian she used people in her ad that Trump has DESTROYED over the last 11 months. This is going to be a fun 6 months! 😂😂
+@Nate_Cohn they were tied in a PA poll in April. https://t.co/NvYBrULOuM
+@thehill that's cool. I hope he does put his name on the White House.
+@BornToBeGOP now for Hillary!
+@CloydRivers #Trump2016 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
+@thehill it won't hurt him. As soon as he exposes Clinton he will win the White House!
+@thehill #Trump2016
+"Now it's time for the good stuff, taking down CROOKED HILLARY CLINTON! 😬😬😬"
+@MillennialTrump that's going to be weird when a candidate not running wins a state.
+"@MillennialTrump I'm confused, why wouldn't Trump win Nebraska now?"
+@asamjulian @ModelNikeeLynn I love Ross' leather pants scene 😂😂 https://t.co/0i4luqcWzs
+@mitchellvii I was just watching that! Wth?
+Why the hell is Carly speaking?! 😂😂😂😂
+@thehill lol he's losing by 22 pts to Trump right now in Indiana! 😂😂
+@mitchellvii now if Cruz would wise up and drop out tonight!
+Donald Trump is the Republican Nominee. #INPrimary #Trump2016 #Vote
+Remember the Mike Down's poll? 😂😂😂😂 #INPrimary #TrumpTrain #LyinTed #Trump2016
+@thehill can we not focus on Trump killing his son right now in the Indiana primary?
+@kendall_downing wow they're going to be disappointed.
+"Why are they talking about this Lee Harvey Oswald stuff? Ugh, Trump is getting ready to secure the GOP nomination and this is the topic! 😒😒"
+@MillennialTrump WOW! I hope these numbers hold the entire night! 😬😬😬😬
+@MillennialTrump I'm scared to look lol
+@asamjulian is it true early votes are coming in at 6? I didn't know just heard that on Twitter.
+@thehill awesome. Makes me want Trump more!
+@meetthepress @HillaryClinton where Donald Trump is going to crush you.
+@ForecasterEnten where is the Cruz HQ dumpster fire? 😂
+@Cronikeys the only thing I worry about is Ted doing better than expected because of early voting that started pre-NY win for DT.
+"@MillennialTrump yeah I know. I'm still worried about tonight. Honestly, I wouldn't be blown away if Cruz pulled off a slight victory."
+"@thehill When I'm losing (dramatic pause), I like to scream and yell and throw insults! -Ted Cruz"
+@thehill #DESPERATE 😂😂
+@asamjulian 😂😂😂😂 https://t.co/FxT9OKJl6z
+@thehill if Teds dad is as creepy as he is I wouldn't even doubt it.
+@Limeylizzie @thehill he's beating Hillary 41 to 39 in new poll also though.
+"@Maegan_C0024 oh please, your delusional, if Trump wins tomorrow he will EASILY make it beyond 1237."
+@asamjulian this is how we know it's fake. Kasich with 87% of the vote in one county. 😂😂 https://t.co/EMD3rvX58p
+"@EdWorthy10 the only thing that concerned me about early voting was this, if true, https://t.co/VV6ztcTxrh"
+@EdWorthy10 will the first results in tomorrow night be good for Cruz?
+"@EdWorthy10 I have a question, since the first results tomorrow will be early voting and it started the day after Cruz Wisconsin win..."
+@asamjulian since the early voting started on April 5th the day before Cruz Wisconsin win; wonder how much that will affect the 1st results
+@thehill it's over folks!
+@thehill just stop! He didn't mock her! He simply said she fell and Ted didn't get her up or even look at her.
+@mitchellvii @asamjulian @scottienhughes wow. Trump +34 in CA! https://t.co/ynEr8Jd3ha
+@thehill god he's desperate. Can't wait for his political career to end tomorrow night.
+You know it over if Karl Rove says it's over. https://t.co/4mnv44gzwK
+@asamjulian that's awesome! I would love to tell him what I think to his face. It would be a great honor lol!
+@meetthepress @realDonaldTrump @HillaryClinton Trump beating Clinton in new poll today. At this point I truly believe either one of them.
+@thehill Ted Cruz is the Bernie Sanders of the Republican Party.
+@krystalth2183 new Indiana poll just out! https://t.co/ATv0Kk5rn9
+https://t.co/ATv0Kk5rn9 New Indiana poll- Trump 44%    Cruz 27%! @mitchellvii @asamjulian @PpollingNumbers @DanScavino @RealDJSlash
+@thehill it's happening. #Trump2016
+"@thehill the man speaks the truth, can't deny that."
+@daveweigel reminds me of Marco Rubio in the days leading up to Florida.
+@daveweigel poor man. Wonder if he knows it's over?
+"@PpollingNumbers @ppppolls wow, Trump is closing the gap big time."
+"@thehill it's true. If Trump had said, ""I've handled women that has went off the reservation."" The media would blow up over it."
+"@rothfarms barely, but he won it. https://t.co/QvavzzLfna"
+"@CarrieNBCNews he's at 1,002 delegates according to CNN. Which one is it? 996 or 1,002? Thanks."
+@thehill but thank God your winning it!
+@rothfarms it might be very conservative but Obama won it in 2008.
+@thehill and Trump and Clinton are tied within the MOE. Mention that one.
+@PredictIt_ Trump 100% new PPP poll they are tied within MOE in Ohio! He's also leading in FL. Trump will win unless something major happens

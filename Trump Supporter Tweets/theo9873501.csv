@@ -1,0 +1,111 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 706149766586093568, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Nashville, GA"", ""url"": ""https://api.twitter.com/1.1/geo/id/7aa9a541883f3685.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""7aa9a541883f3685"", ""name"": ""Nashville, GA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/706152921092759552/JFYFYLlu_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 345, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""706149766586093568"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 10, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @desimartin123: @jjauthor YEP!...AND MEN WILL BE MEN ...EXCEPT FOR ..... https://t.co/iSm1LdGjw0"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729478554325520386, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4855849985, ""indices"": [3, 17], ""id_str"": ""4855849985"", ""screen_name"": ""desimartin123"", ""name"": ""DesiMartin""}, {""id"": 177584156, ""indices"": [19, 28], ""id_str"": ""177584156"", ""screen_name"": ""jjauthor"", ""name"": ""Janie Johnson""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 4855849985, ""source_status_id_str"": ""729465400950435840"", ""expanded_url"": ""http://twitter.com/desimartin123/status/729465400950435840/photo/1"", ""display_url"": ""pic.twitter.com/iSm1LdGjw0"", ""url"": ""https://t.co/iSm1LdGjw0"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg"", ""source_user_id_str"": ""4855849985"", ""source_status_id"": 729465400950435840, ""id_str"": ""729465400216276992"", ""sizes"": {""large"": {""h"": 750, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [76, 99], ""type"": ""photo"", ""id"": 729465400216276992, ""media_url"": ""http://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 6, ""id_str"": ""729478554325520386"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@jjauthor YEP!...AND MEN WILL BE MEN ...EXCEPT FOR ..... https://t.co/iSm1LdGjw0"", ""is_quote_status"": false, ""in_reply_to_status_id"": 729464560168542209, ""id"": 729465400950435840, ""favorite_count"": 6, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 177584156, ""indices"": [0, 9], ""id_str"": ""177584156"", ""screen_name"": ""jjauthor"", ""name"": ""Janie Johnson""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/desimartin123/status/729465400950435840/photo/1"", ""display_url"": ""pic.twitter.com/iSm1LdGjw0"", ""url"": ""https://t.co/iSm1LdGjw0"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg"", ""id_str"": ""729465400216276992"", ""sizes"": {""large"": {""h"": 750, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [57, 80], ""type"": ""photo"", ""id"": 729465400216276992, ""media_url"": ""http://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg""}]}, ""in_reply_to_screen_name"": ""jjauthor"", ""in_reply_to_user_id"": 177584156, ""retweet_count"": 6, ""id_str"": ""729465400950435840"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""177584156"", ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 00:17:59 +0000 2016"", ""in_reply_to_status_id_str"": ""729464560168542209"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/desimartin123/status/729465400950435840/photo/1"", ""display_url"": ""pic.twitter.com/iSm1LdGjw0"", ""url"": ""https://t.co/iSm1LdGjw0"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg"", ""id_str"": ""729465400216276992"", ""sizes"": {""large"": {""h"": 750, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [57, 80], ""type"": ""photo"", ""id"": 729465400216276992, ""media_url"": ""http://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 01:10:15 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4855849985, ""source_status_id_str"": ""729465400950435840"", ""expanded_url"": ""http://twitter.com/desimartin123/status/729465400950435840/photo/1"", ""display_url"": ""pic.twitter.com/iSm1LdGjw0"", ""url"": ""https://t.co/iSm1LdGjw0"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg"", ""source_user_id_str"": ""4855849985"", ""source_status_id"": 729465400950435840, ""id_str"": ""729465400216276992"", ""sizes"": {""large"": {""h"": 750, ""resize"": ""fit"", ""w"": 750}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [76, 99], ""type"": ""photo"", ""id"": 729465400216276992, ""media_url"": ""http://pbs.twimg.com/media/Ch-U6qfUUAA8vXA.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -18000, ""statuses_count"": 3191, ""description"": ""Fmr Chairman of the Berrien Republican Party...Iraq/Afghan Vet...Vote Trump...Conservative...screw the GOP RINOS"", ""friends_count"": 643, ""location"": ""Nashville, GA"", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/706152921092759552/JFYFYLlu_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": null, ""name"": ""Theodore R Herrera"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 4041, ""screen_name"": ""theo9873501"", ""notifications"": false, ""url"": null, ""created_at"": ""Sat Mar 05 16:09:58 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""EST"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@tladd58 and not soon enough
+@peddoc63 @tgradous @RitzyBacon2 Londonstan
+@BenHowe well at least Hillary will praise you as a 'thoughtful 'Republican
+@PatrickRuffini hey the people seem to get him...check out his crowds
+@Texasocialist @TheRickWilson @IMA_CA_GOPer @JuliannAndreen that's a good one Fred
+@benshapiro SCOTUS on the line Ben...don't empower Hillary
+@StefanMolyneux @Ricky_Vaughn99 it will get worse...they will flee the UK soon enough
+@jaketapper @Ricky_Vaughn99 @CNNSotu @SpeakerRyan @SarahPalinUSA Ryan lost to Biden in the 2012 debate..he needs to go!
+@TheRickWilson @joshgreenman @NYDailyNews I doubt Churchill would approve of trying to get Hillary elected
+@TheRickWilson @trscoop every time you say he can't he seems to do
+@RodUkip @MikkiL @DouglasCarswell @DJack_Journo we in the West are being attacked by liberalism and Islam...God help us all
+@RedState try going to a Trump rally...y'all are out of touch...proudly voted for him in the Ga primary
+@stuartpstevens @wpjenna @GlennKesslerWP he won it..Mitt had the benefit of full support ...Trump deserves the same
+@TheRickWilson @Texasocialist @IMA_CA_GOPer @JuliannAndreen it will be Newt or Marco
+@Jetwash @NRO same with George Will...NR not conservative...went from William to Christopher in a generation
+@NRO y'all are incredible ...we finally have somebody that fights back against the Left and y'all are all in for Hillary..NR so out of touch
+Trump is a true champion!
+@pnehlen @P0TUSTrump he lost to that fool Biden...he has no political future
+@Kyle_Feldscher @paulthomas1020 Jeb turned out to be a wuss...Hillary would have curbed stomped him
+@stephenfhayes @SarahPalinUSA you sound like Schmidt and Wallace who undermined McCain's campaign from within ...Trump has exposed you all
+@DrSueDVM @tgradous @RussSegner so your supporting Hillary..ok
+@JRubinBlogger anything other than Trump helps Hillary...Bottom line
+@DouthatNYT @RichLowry @ThisWeekABC where have you so called 'conservatives'gotten us?...Nothing
+@dukenaltum @RussSegner @tgradous well y'all kept saying he would never win a primary...who is delusional?
+@TheRickWilson @CNNPolitics good on her...and she was treated horribly by Schmidt and Wallace...2 inside libs McCain brought on board
+@CNNSotu @oldguyinhemet @SenJohnMcCain @SarahPalinUSA he sure didn't fight then
+@HawkinsUSA @khaft007 we are down to that
+@TheRickWilson make one that makes today's people smarter ..that would be an accomplishment
+@ByronYork that word compassion needs to be banned from the Right
+@RussSegner @tgradous he lost...I am sorry but he was not strong enough to beat DT...all your railing won't change that
+@JRubinBlogger @GlennKesslerWP he is the only Republican that does not go into the fetal position and fights the Left and Media
+@RadioAnna now that's funny
+@RussSegner @tgradous do you really believe the Establishment would have helped Cruz win?.Or Jeb would not take a dive ?
+@JayCaruso in 2012 I expected he would defeat Biden in a debate...he really disappointed ..and as speaker he just has not won any victories
+@PamelaGeller they better get used to more Sharia patrols
+@JayCaruso @jaketapper @SarahPalinUSA @CNNSotu my only beef is she helped McCain in 2010 stay in the Senate..she is pretty but voice grating
+@JRGrayThunder @ZachLthrmn @RandPaul @tedcruz @CarlyFiorina God y'all are sad
+@FilibusterUK that's why they are bringing in more Muslims
+@RussSegner @tgradous it's over...and DT is the only one that can put Ted on SCOTUS..besides the Establishment hates both DT and Ted
+@jimgeraghty @benshapiro can't u guys give it a rest?
+@DanRiehl @SeawordG @blakehounshell Trump is the least of the GOP's problems
+@DanRiehl tell it Dan
+@FrankLuntz Boxing is to corrupt...MMA is where it's at
+@kris_kinder @JayCaruso @katooom @Nwatters @SpeakerRyan hate Kool aid and think for myself.
+@JayCaruso @katooom @Nwatters @SpeakerRyan he is our shot at SCOTUS.I think if he picks Newt for VP and puts Cruz on the Ct even u will like
+@FrankLuntz As a Trump Supporter I want his entrance music to be 'Imperial March(Vader's theme)..watch heads explode😀
+@JayCaruso @katooom @Nwatters @SpeakerRyan we are 'stuck 'with him because the GOP E refused to defend its voters Jay
+@BobGarrettRadio @CheriJacobus @greta @seanhannity it's over...Trump was chosen by the people ..not the elite..time to defeat Hillary
+@minnman47 well deserved
+@dcexaminer screw fat boy
+@secupp @MahGill @Forbes we are moving towards a socialist society
+@TheRickWilson @dynarski book em Dano😉
+@weeklystandard @realDonaldTrump @McCormackJohn it's over..the only way to get Cruz on SCOTUS is Trump..the people have spoken
+@michelekirkBPR he should not waste is time with little Sasse
+@stuartpstevens nothing beats reading real hardcover books
+@mitchellvii @zebra78610 glutton for punishment
+@JayCaruso @EnemyWithinn well Jay I will keep using every argument I can't think of...night
+@EnemyWithinn @JayCaruso at this stage we need to reach out...the future is on the line Jason
+@peddoc63 @ONLYTrummp @Cruzvalues I want Ted replacing Scalia...Hillary won't appoint him...Trump will
+@JayCaruso @EnemyWithinn I hope Jay you come around ..defeating Hillary and getting a Cruz to replace Scalia is vital to the future
+@TheRickWilson @kgj3x @tconn Rick I hope you won't mind but I will keep calling you to the dark side ..Hillary must be defeated
+"@seanhannity @stoyeneso @Season2Hunt National Review,Weekly Standard,and Red State detest everyday Republicans who voted Trump"
+@OnlyHotyP @RNcat50 and not soon enough
+@TheDonaldNews @LindaSuhler @realDonaldTrump win or lose the Don has defeated the Establishment Left who by the way did nothing for Cruz
+@Peggynoonannyc I was not a fan of yours but your columns have been totally right without upturn noses of 'conservative 'writers..Trump 2016
+@Peggynoonannyc @AlanSalazarCO Reagan was called a warmonger and a dunce...now those same people claim that Trump is no Reagan..Hypocrites
+@RKirkland3 @_HankRearden @RNcat50 there has been an awakening....have you felt it?
+@Mistertbones @mitchellvii and those amateurs and nevertrumpers are total losers
+@markknoller it's remarkable Mark how Trump took over the GOP..
+@OddLane sad losers
+@seanhannity @HathornJim I pray Trump crushes Hillary and her Republican enablers
+@HarrietSergeant @defiant_infidel you just got an Islamic state suckers
+@thehill he loves Hillary
+@seanhannity @Softcrush hammer the RINOS and the Bushies
+@mitchellvii the nevertrumpers are holding 7-2 off suite...what losers
+@EvolutionCosmic @stevedempsey65 encourage his voters to dump him
+@brianknewhouse @BillKristol @ABC will vote Trump..and dem down ballot...let it burn
+@BillKristol @JonahNRO @ABC um no...it's math
+@JonahNRO @JonHaidt then quit standing for Hillary and help us beat her..it's all connected!
+@LMandrakeJr @JonahNRO well you guys are supporting Communist Hillary..no different than the Stalin supporting Oxford Communist😔
+@BillKristol @weeklystandard @aliceblloyd well your enabling Hillary so this nonsense will continue..quit pretending you care about this
+@peddoc63 because you need to join us and defeat Hill
+@7CGcpa @kelliwardaz @SenJohnMcCain @theblaze throw him out
+@jimlibertarian @LodiSilverado @nypost I stand with Putin
+@RedState I love the taste of your tears...it taste sweet..wether he wins or not Trump has exposed you alwayshillary ..let the GOP burn Libs
+@EvolutionCosmic @stevedempsey65 he may lose
+@NRO the people have spoken...and you no longer speak for conservatives
+@JonKelvey NPR...of course
+@myownpetard he was always a leftie
+@markknoller @HowardU so can I be confident in my whiteness?
+@mollyesque @mattklewis @waitwait @PJORourke he always was a leftie
+@weeklystandard yet he beat yall
+@JayCostTWS @BuzzFeedAndrew so?..y'all the GOP was in the ditch anyway...voting Trump...and against Isakson and Austin Scott..let it burn
+@chuckwoolery if Hillary is elected destroying coal will simply be the start
+@Patriotic_LPN1 @peddoc63 poor guy...not
+@Kats_Cache they will all bow to the Trump Order😀
+@TheRickWilson @jmartNYT and this is the guy that whipped y'all ...there would have been no Trump had the GOP fought once in a while
+@peddoc63 he is our champion
+@JayCaruso @MSNBC butt hurt is a heck of a thing...Run your little Mitt
+@FrenchForTrump @realDonaldTrump I am voting only Trump...and against down ballot  RINOS
+@mitchellvii let him run 3rd Party...it will just split the liberal vote
+@JonBlumenthal @BillKristol that leaves a mark
+@BillKristol God your a liberal RINO...it's SCOTUS Bill...only thing that matters
+@DanRiehl @eryourlife maybe a liberal mag will hire him
+@DanRiehl @ShannonJoyRadio @indyrallen Dan the nevertrumps are alwayshillary
+Retweet this Trump Voters:In Nov we vote ONLY Trump and vote against down ballot Republicans...let show the GOP we mean business!!!
+@Etherkat @thehill nevermccain
+@mattyglesias he is a loser
+@thehill Romney is a loser
+@dcexaminer @sc007kc loser

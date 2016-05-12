@@ -1,0 +1,105 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 826552261, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme15/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/612141350998315008/We-na8FJ_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 198, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""826552261"", ""profile_background_color"": ""022330"", ""listed_count"": 0, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @PolitiFact: Bernie Sanders correct that tax on soda, juice hurts low-income people the most. https://t.co/Ws4xCTs4w9 https://t.co/MphXO\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728659486764732416, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 8953122, ""indices"": [3, 14], ""id_str"": ""8953122"", ""screen_name"": ""PolitiFact"", ""name"": ""PolitiFact""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/Ws4xCTs4w9"", ""indices"": [97, 120], ""expanded_url"": ""http://bit.ly/1TvL70W"", ""display_url"": ""bit.ly/1TvL70W""}], ""media"": [{""source_user_id"": 8953122, ""source_status_id_str"": ""728652050951610369"", ""expanded_url"": ""http://twitter.com/PolitiFact/status/728652050951610369/photo/1"", ""display_url"": ""pic.twitter.com/MphXOZe7NB"", ""url"": ""https://t.co/MphXOZe7NB"", ""media_url_https"": ""https://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg"", ""source_user_id_str"": ""8953122"", ""source_status_id"": 728652050951610369, ""id_str"": ""728622012340441088"", ""sizes"": {""large"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 728622012340441088, ""media_url"": ""http://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 105, ""id_str"": ""728659486764732416"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Bernie Sanders correct that tax on soda, juice hurts low-income people the most. https://t.co/Ws4xCTs4w9 https://t.co/MphXOZe7NB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 728652050951610369, ""favorite_count"": 139, ""source"": ""<a href=\""https://about.twitter.com/products/tweetdeck\"" rel=\""nofollow\"">TweetDeck</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/Ws4xCTs4w9"", ""indices"": [81, 104], ""expanded_url"": ""http://bit.ly/1TvL70W"", ""display_url"": ""bit.ly/1TvL70W""}], ""media"": [{""expanded_url"": ""http://twitter.com/PolitiFact/status/728652050951610369/photo/1"", ""display_url"": ""pic.twitter.com/MphXOZe7NB"", ""url"": ""https://t.co/MphXOZe7NB"", ""media_url_https"": ""https://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg"", ""id_str"": ""728622012340441088"", ""sizes"": {""large"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [105, 128], ""type"": ""photo"", ""id"": 728622012340441088, ""media_url"": ""http://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 105, ""id_str"": ""728652050951610369"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 18:26:01 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/PolitiFact/status/728652050951610369/photo/1"", ""display_url"": ""pic.twitter.com/MphXOZe7NB"", ""url"": ""https://t.co/MphXOZe7NB"", ""media_url_https"": ""https://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg"", ""id_str"": ""728622012340441088"", ""sizes"": {""large"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [105, 128], ""type"": ""photo"", ""id"": 728622012340441088, ""media_url"": ""http://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 06 18:55:34 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 8953122, ""source_status_id_str"": ""728652050951610369"", ""expanded_url"": ""http://twitter.com/PolitiFact/status/728652050951610369/photo/1"", ""display_url"": ""pic.twitter.com/MphXOZe7NB"", ""url"": ""https://t.co/MphXOZe7NB"", ""media_url_https"": ""https://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg"", ""source_user_id_str"": ""8953122"", ""source_status_id"": 728652050951610369, ""id_str"": ""728622012340441088"", ""sizes"": {""large"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""small"": {""h"": 170, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 220, ""resize"": ""fit"", ""w"": 440}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 140], ""type"": ""photo"", ""id"": 728622012340441088, ""media_url"": ""http://pbs.twimg.com/media/ChyV3B0VEAANdLk.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 1545, ""description"": ""Musician. Intersectional Feminist. Rationalist. Empath. Aspiring Polyglot."", ""friends_count"": 98, ""location"": """", ""profile_link_color"": ""2707DB"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/612141350998315008/We-na8FJ_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/826552261/1388793460"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme15/bg.png"", ""name"": ""Tanner Pfeiffer"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2843, ""screen_name"": ""T_Fife_"", ""notifications"": false, ""url"": null, ""created_at"": ""Sun Sep 16 05:30:21 +0000 2012"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"@T_Fife_  Ya know what's really unfathomable? That the prof said these would be ""emphasized on the final,"" and then there weren't any. Cool."
+@Black_N_Poetic He can't do it on his own?
+"At that point in my math studies where there problems are literally called ""unfathomable,"" and everything after that is mostly guess work."
+Chamber Singers @ 3 in the Capitol! Last chance to catch this amazing music! This is THE BEST music making I've been a part of at UNL.
+"If you have some free time today at 5, please consider coming to my electric composition recital in Kimball Recital Hall! Free food!"
+"My math textbook is so bad that not only is the solutions manual available online, but large portions of it are handwritten."
+@BradAshford16 Glad to see you connecting with the figures your constituents support! Switching your endorsement is the next step!
+"Remember to vote in ASUN elections today! Vote YES on every fee allocation! Even if you don't use the programs, they are crucial to others!"
+"HAPPY CAUCUS DAY, NEBRASKA! This is the most important day for us in politics this year. Get out the caucus and VOTE FOR BERNIE TODAY!!!! 🔥🔥"
+@HskrgalHowell I'd expect nothing less in your balanced classroom! I had you during an election year (OMG... that long ago???)!
+@HskrgalHowell I was so excited when Claire told me y'all were watching it!
+"@everyone_panic I think you would always pick ""it is making a scene."""
+@everyone_panic why did I think of you? https://t.co/4sOXhEAtt8
+There are people so primed to be angry. I can't imagine what it must be like to think the answer to every problem is to attack someone.
+"Had a dream that appointing Supreme Court justices led to a massive war centered in Washington, D. C. Politics is getting to me."
+"Had a ""50 min."" exam last week. First person finished after 75 min. I left after 90 and missed my next class like https://t.co/0lwOdwaR8p"
+"How can we create cultures and communities of positive, forward-moving expectations beyond ourselves as individuals? #ENThompsonForum"
+Last year's BRS show playing in Hy-Vee during this year's Midwest Cup.
+@anplaysviolin I'm not saying I agree with her. I just thought it was funny.
+"@anplaysviolin Quote from Dr. Barber this week: ""I liked Rachmaninov when I was 16. Then I grew up. It's all hormones."""
+"Disparaging someone for their dialect is crude. There is no ""right"" pronunciation, no one lexicon, and certainly no ""proper"" way to speak."
+"So yes, ""aks"" is a pronunciation of ""ask,"" ""warsh"" is fine, ""nukular"" is a-ok, and ""hyuge"" and ""yuge"" are both great."
+"People speak differently based on where they live (geolect), their social class (sociolect), and their ethnicity (ethnolect)."
+There are 149 standard dialects of English across the world. 33 of them are dialects of American English.
+"Fun fact: if other people can understand what someone is saying, they're not ""talking wrong."" Language is not stagnant. It changes."
+@Black_N_Poetic  https://t.co/kjJF2q6VnU
+The moment of sheer horror when you discover a single page from a take-home exam that you apparently never turned in 💀💀💀💀😭😭😭
+"@Black_N_Poetic I am Facebook friends with two of them, but have not seen either of them in person since May...."
+@caeluxs I think it happened when I switched my computer to Spanish? Probably European standards?
+"Just discovered that my default document format is A4 size paper with .79 in. margins. Fixed it, and my final essay is suddenly done."
+Do I really even need the 35% of my final grade that's due tomorrow?
+When a 10-second scene from an opera in the first episode of a tv show reveals the plot of the entire season. Foreshadowing on point 👌
+@hereweGLOagain 🙌🙌🙌 The importance of this cannot be overstated. Having a real conversation and being civil is the best way to reach people.
+@caeluxs YES
+@caeluxs lolololol
+@caeluxs Who says they're meant to be in tune with equal temperament? It could be colored or expressive intonation!
+@SteveMontgome17 I'm studying Music Performance and Math!
+@SteveMontgome17 There's also a whole report by the United States Bureau of Justice Statistics: https://t.co/sBs64q7s4l
+"@SteveMontgome17 
+https://t.co/Dy7gK1nAGX
+https://t.co/EOqsJKm9iS
+https://t.co/vG00OAWXzs
+https://t.co/x3WHVe4bLa
+(2/2)"
+"@SteveMontgome17 
+Sources:
+https://t.co/JX1G6AQn4b
+https://t.co/cBeZhBeNvg
+https://t.co/40YLjgW6Hg
+https://t.co/RnQpk30obr
+(1/2)"
+"@SteveMontgome17 
+Sure! https://t.co/Ru1gJQSkep"
+@SteveMontgome17 lol my Facebook posts have bibliographies.
+"@SteveMontgome17 
+What are the reasons you propose?"
+"@SteveMontgome17 
+Higher unemployment rate, police brutality rate, displacement rate. Lower income, wages, and standard of living."
+"@SteveMontgome17 
+Black people incarcerated at 6x the rate of whites."
+"@SteveMontgome17 
+Equal rates of drug use among whites and blacks, but 10x the rate of blacks imprisoned on drug offenses."
+"@SteveMontgome17 
+2.) Racist officers, schools, politicians, etc imply it by disproportionately jailing, shooting and profiling black people"
+"@SteveMontgome17 
+1.) To lift up POC and advocate for better treatment of black people. To draw attention to racist behavior and condemn it."
+"@SteveMontgome17 #BLM has a purpose to lift up. ALM only fights #BLM; they have no positive things to say, no positive action to take (2/2)"
+@SteveMontgome17 It shows a fundamental misunderstanding of the message of the movement and the presence of racism in the US and NE (1/2)
+"The fact that top comments on the articles about the UNL #BLM rally say ""all lives matter"" further proves we need #BLM and #NotAtUNL."
+@Black_N_Poetic oh stop! I'm blushing!
+"Constantly shifting between ""Why did I do this to myself?"" And ""I'm so good to me."""
+@hereweGLOagain I am consistently in classes meant for majors where people can't even get out a sentence without inserting English.
+Come hang out and watch a live nationwide town hall with Bernie Sanders TODAY in Hamilton Hall room 104! There will be progress!
+"Today's mood:
+Drove to campus.
+Parked.
+Drove back home."
+"""Secretary Clinton, are you ready to take a position?""
+""No, I'm sorry, someone hasn't paid me to take a position yet."""
+"Anderson: ""How would you be different from Obama?
+Clinton: ""Well, I'm a woman.""
+Sanders: ""I'd fight for all people and ignite revolution."""
+Bernie's the only one to admit that Edward Snowden had a positive impact on this country. #DebateWithBernie
+"""He doesn't even go here""
+-referring to Jim Webb."
+"""Congress doesn't regulate Wall Street, Wall Street regulates Congress."" #DebateWithBernie"
+"Clinton ""I represented Wall Street."" You still do, Clinton."
+Bernie the only one complimenting the other people on stage and having their backs! #GoodGuyBernie #DebateWithBernie
+"""War should be the last resort."" #DebateWithBernie"
+Anderson not letting anybody talk over him. He gets to the core of the issues. That's impressive journalism.
+Everybody is trying to counter Bernie Sanders. That's why it's a #DebateWithBernie.
+"If it wasn't that complicated, Clinton, then why don't you have a comprehensive plan for gun control? Bernie does."
+Bernie the only one who didn't need to introduce himself at all; he went straight for policy because that's what matters.
+These Wikipedia trolls are ruthless. http://t.co/CSCzN41pzu
+"Started off the morning by having two professors discuss whether I have cooties. 
+Conclusion: probably not, but we haven't checked recently."
+"@Black_N_Poetic stop that. That's shaming on their part, and you have nothing to be embarrassed about."
+@hornocopia This tweet saved my life
+"@hereweGLOagain This was followed a couple of minutes later by ""Dick Cheney knows what he's talking about."""
+"Today in Terrible Things My Dad Says:
+
+""The only thing protecting us from a flood of [Syrian] immigrants is oceans."""
+"Someone hold me down! Scott Walker, who has worked tirelessly to dismantle labor unions, is having a Labor Day sale. http://t.co/rAHV7YEUMp"
+Marco Rubio needs a new marketing team. http://t.co/4AfKi9Ifqb
