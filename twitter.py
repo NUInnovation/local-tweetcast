@@ -33,13 +33,18 @@ def get_tweets_from_users(api, users):
     txts = []
     usr_count = min(25, len(users))
     usrs = random.sample(users, usr_count)
+    ct = 0
     for user in usrs:
+        print user
+        ct += 1
         txt = ""
-        user_tweets = api.user_timeline(id=user)
+        user_tweets = api.user_timeline(id=user, count=200)
         for tweet in user_tweets:
             try:
                 txt += str(tweet.text)
             except:
                 pass
         txts.append(txt)
+        print 'done', ct
+    print 'retty'
     return txts
