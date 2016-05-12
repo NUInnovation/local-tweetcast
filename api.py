@@ -93,4 +93,5 @@ def import_retweeters_from_tweet(tweet_id, supporter_handle):
 # import_retweeters_from_tweet(663113220081618944, trump_handle)
 # import_retweeters_from_tweet(695448991337545728, sanders_handle)
 # import_retweeters_from_tweet(709186515964862464, trump_handle)
-# import_retweeters_from_tweet(696785353827602433, sanders_handle)
+#import_retweeters_from_tweet(696785353827602433, sanders_handle)
+#import_retweeters_from_tweet(724974307663732736, sanders_handle)
