@@ -55,7 +55,6 @@ def results(location):
             corpus = tw.get_tweets_from_users(api, users)
             # guess, res = srch.predict_candidate(corpus, 10)
             res = srch.get_area_percentages(corpus, 7, 4)
-
     return render_template('results.html', res=res, city=location, form=form)
 
 if __name__ == '__main__':

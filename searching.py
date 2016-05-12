@@ -278,29 +278,40 @@ def create_tfidf_from_file():
 
 def get_area_percentages(location, k_neighbors, k_threshold):
     tweets = tw.get_tweets_from_location(api, location)
-    print len(tweets)
+    results = {}
+    results['unclassified'] = 0
     if tweets:
         users = tw.get_users_from_tweets(api, tweets)
         print 'numusers', len(users)
         if users:
             corpus = tw.get_tweets_from_users(api, users)
+            'corpus found'
             for i in range(len(corpus)):
-                print predict_candidate(corpus[i], k_neighbors, k_threshold)
-                print users[i]
+                print 'classifying', i, '...'
+                candidate = predict_candidate(corpus[i], k_neighbors, k_threshold)
+                if candidate is not None:
+                    if candidate not in results:
+                        results[candidate] = 1
+                    else:
+                        results[candidate] += 1
+                else:
+                    results['unclassified'] += 1
+        return results
             # guess, res = srch.predict_candidate(corpus, 10)
 # save_dictionary_and_corpus_to_file()
-get_area_percentages('Evanston, IL', 10, 7)
-# tweets = tw.get_tweets_from_location(api, location)
+if __name__ == "__main__":
+    print get_area_percentages('Evanston, IL', 10, 5)
+    # tweets = tw.get_tweets_from_location(api, location)
 
-# create_tfidf_from_file()
-# testdict = {}
-# # for i in range(3, 30):
-# testdict[7] = test_tfidf(0.3, 7)
-# testdict = {}
-# # for i in range(3, 30):
-# testdict[7] = test_tfidf_knn(0.7, 10, )
-# pprint(test_tfidf_svm(0.7))
-# testing_dict = {}
-# for kn in range(4, 18):
-#     testing_dict[kn] = test_tfidf(0.7, kn)
-# pprint(testdict)
+    # create_tfidf_from_file()
+    # testdict = {}
+    # # for i in range(3, 30):
+    # testdict[7] = test_tfidf(0.3, 7)
+    # testdict = {}
+    # # for i in range(3, 30):
+    # testdict[7] = test_tfidf_knn(0.7, 10, )
+    # pprint(test_tfidf_svm(0.7))
+    # testing_dict = {}
+    # for kn in range(4, 18):
+    #     testing_dict[kn] = test_tfidf(0.7, kn)
+    # pprint(testdict)
