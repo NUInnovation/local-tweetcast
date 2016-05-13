@@ -1,0 +1,80 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4911900262, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728702538158112768/vTy-1LB9_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 545, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4911900262"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 48, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BernieVolunteer: @BernieVolunteer Let's organize a YUGE &amp; I mean YUGE gathering at convention. It's time 4 revolution to make HISTORY h\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731150936199036928, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 695062579073409024, ""indices"": [3, 19], ""id_str"": ""695062579073409024"", ""screen_name"": ""BernieVolunteer"", ""name"": ""#ForThePeople""}, {""id"": 695062579073409024, ""indices"": [21, 37], ""id_str"": ""695062579073409024"", ""screen_name"": ""BernieVolunteer"", ""name"": ""#ForThePeople""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 695062579073409024, ""source_status_id_str"": ""731135014369255424"", ""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731135014369255424/photo/1"", ""display_url"": ""pic.twitter.com/aoSnUe4vmh"", ""url"": ""https://t.co/aoSnUe4vmh"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg"", ""source_user_id_str"": ""695062579073409024"", ""source_status_id"": 731135014369255424, ""id_str"": ""731135013396172800"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 731135013396172800, ""media_url"": ""http://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 39, ""id_str"": ""731150936199036928"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@BernieVolunteer Let's organize a YUGE &amp; I mean YUGE gathering at convention. It's time 4 revolution to make HISTORY https://t.co/aoSnUe4vmh"", ""is_quote_status"": false, ""in_reply_to_status_id"": 731132217833840640, ""id"": 731135014369255424, ""favorite_count"": 59, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 695062579073409024, ""indices"": [0, 16], ""id_str"": ""695062579073409024"", ""screen_name"": ""BernieVolunteer"", ""name"": ""#ForThePeople""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731135014369255424/photo/1"", ""display_url"": ""pic.twitter.com/aoSnUe4vmh"", ""url"": ""https://t.co/aoSnUe4vmh"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg"", ""id_str"": ""731135013396172800"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 144], ""type"": ""photo"", ""id"": 731135013396172800, ""media_url"": ""http://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg""}]}, ""in_reply_to_screen_name"": ""BernieVolunteer"", ""in_reply_to_user_id"": 695062579073409024, ""retweet_count"": 39, ""id_str"": ""731135014369255424"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""695062579073409024"", ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 14:52:25 +0000 2016"", ""in_reply_to_status_id_str"": ""731132217833840640"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731135014369255424/photo/1"", ""display_url"": ""pic.twitter.com/aoSnUe4vmh"", ""url"": ""https://t.co/aoSnUe4vmh"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg"", ""id_str"": ""731135013396172800"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [121, 144], ""type"": ""photo"", ""id"": 731135013396172800, ""media_url"": ""http://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 15:55:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 695062579073409024, ""source_status_id_str"": ""731135014369255424"", ""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731135014369255424/photo/1"", ""display_url"": ""pic.twitter.com/aoSnUe4vmh"", ""url"": ""https://t.co/aoSnUe4vmh"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg"", ""source_user_id_str"": ""695062579073409024"", ""source_status_id"": 731135014369255424, ""id_str"": ""731135013396172800"", ""sizes"": {""small"": {""h"": 227, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 683, ""resize"": ""fit"", ""w"": 1024}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [143, 144], ""type"": ""photo"", ""id"": 731135013396172800, ""media_url"": ""http://pbs.twimg.com/media/CiWDa8RUUAAzlhx.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 14301, ""description"": """", ""friends_count"": 1118, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728702538158112768/vTy-1LB9_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/4911900262/1460406658"", ""profile_background_image_url"": null, ""name"": ""LatinosSocialistas"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 12160, ""screen_name"": ""jopcar115"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Feb 15 05:01:19 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+"Top aide Huma Abedin warned colleagues Hillary was 'often confused' https://t.co/1O3iNjJZLr via @MailOnline
+Hillary confused &amp; sleepy."
+"This is the one thing Hillary Clinton can't live without https://t.co/0PMJw1roj0 via @HuffPostPol
+Sleepy Hillary"
+"Thank you, you are a great inspiration for all of us. https://t.co/8ABBu9jkdf"
+"Nobody runs against HRC w/o being vetted. 
+Don't believe it, ask Obama. https://t.co/fBrICMhjm2"
+"I just gave $50 to Bernie.
+Believe me, I need that $ bc I'm a single father with 2 kids, but this election is really important."
+@justice4voters sad but true
+"I should not do it bc a I need the money, but this is more important, I hope some will follow me.
+$50 for Bernie. https://t.co/6DcXuy6Iqd"
+"Hillary is outspending Bernie in KY,  Bernie needs $. Please help Bernie any amount you can."
+"@AlisonSpalding2 @VTonga1 Please ask people to donate to Bernie, he's running low on $."
+"The most important hashtag right now should be:
+#DonateToBernie. 
+Bernie is not going to win bc we attack HRC.
+He'll win if he has the $."
+"The stablishment is just waiting for us to stop funding Bernie's campaign. Then, they will say: we told you, you can't run w/o corporate  $."
+"They can't do that nor Biden would accept it.
+Believe it or not, Biden is an honest man. https://t.co/2Xi1SkDGil"
+@_yennies_ @BernieSanders you should ask the people of Vermont. I think they have an idea of what Bernie is about.
+"Have you seen Hillary's record?
+Believe me, is better to have 4 years of Trump than 8 of Hillary. https://t.co/Y4x2pr4aTm"
+"HRC lost 50+pts. Advantage she had over Bernie.
+If she's now tied with Trump, in Nov. she'll be -30. https://t.co/nNlb4NDsx8"
+"Of course you blocked me.
+Just as weak as your candidate.
+#BernieOrBust https://t.co/lrMTH0ZASE"
+"Really?
+Right winger?
+You're the one supporting the neocon.
+#ClintonCash
+#BernieOrBust 
+https://t.co/uIbX31wnxu https://t.co/lrMTH0ZASE"
+"@Karoli @dgradost Hard to compare little mistakes with this.
+""CLINTON CASH.""
+Maybe, you should be focusing more in your crooked candidate."
+"We can keep attacking HRC all we want, but if Bernie doesn't have the $ to have a strong campaign in CA &amp; NJ.......
+#DonateToBernie"
+"@phase_xii @larshurst @thecrisismag @3ChicsPolitico 
+CLINTON CASH
+THE MOVIE. 
+DON'T MISS IT."
+"BERNIE NEEDS $ TO COMPETE IN CALIFORNIA. 
+PLEASE DONATE !
+If we don't win California, it's over. https://t.co/c5CFYBpepf"
+"Kremlin Has Hillary’s Emails https://t.co/2K7FWNvvIS via @LifeZette
+Hilldumbs don't think this is serious. 
+#ImWithHer 
+#BernieOrBust"
+Hillary Clinton’s Son-in-Law Screwed Up Big Time at Work https://t.co/dnSJ54bGsi
+"@CAGoldenBear Unfortunately, she's not going to win 1 more state. Most of them are open primaries. 😉"
+"@phase_xii @larshurst @thecrisismag @3ChicsPolitico or this one
+https://t.co/uIbX31wnxu"
+"@phase_xii @larshurst @thecrisismag @3ChicsPolitico I don't think this is a Bernie website 
+https://t.co/gKAwjIJDre"
+"When you live in denial.
+Poor HRC supporters, they believe everything from MSM. https://t.co/dcVzq1Krii"
+I'm a Principled Conservat &amp; I'm poorly educated but I have a gun &amp; sunglasses bc I'm cool. https://t.co/BE6xwELozr
+"@MariePe79167389  @WeNeedHillary Hillary will help the poor and old people by cutting Medicare. 
+https://t.co/gKAwjIJDre"
+"@citizengatsby @RepublicanSwine @WeNeedHillary @crooksandliars @David We need Hillary to cut Medicare 
+https://t.co/gKAwjIJDre"
+Exactly how I feel https://t.co/5dPhlqlX68
+"@BernieSanders, u have 2 help us save this country. If u don't get the nomination, please run indie. We need you to fight for us in the gen."
+"Don't underestimate the stupidity of some people. HRC isn't  winning bc ppl. are smart. 
+Trump can win in Nov. https://t.co/FA7WZwVAXV"
+"Exactly, if Warren runs as HRC VP she will be taking $ from the very corporations she's fighting against. 
+Nonsense https://t.co/IcMmFz5QB0"
+He must be really #CrazyBernie because he's been in the gov. for many years &amp; he's not a millionaire like many others.
+It's more embarrassing that the candidate being investigated by the FBI is winning the race. https://t.co/WMnC4vZ1vF
+@natsouthby @SerperiorCraft @AP Your candidate does.
+@natsouthby @SerperiorCraft @AP The only reason she can't win caucuses is bc she can't rigg it.
+@natsouthby @SerperiorCraft @AP But then you're begging us to support your candidate.
+@natsouthby @SerperiorCraft @AP Because closed elections are really democratic. 😉😂😂
+If all the primaries were opened Crooked Hillary would be out of the race by now. https://t.co/nBNAzAXrqa
+They're going to see what a revolution looks like at the convention. https://t.co/TNGcQsR3vW
+@Dem4Hillary You vote corruption. We know that.

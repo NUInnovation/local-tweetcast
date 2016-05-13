@@ -1,0 +1,77 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 711315709033250816, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/711317081954717696/kcT-Ijc__normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/DDhtFtn5G5"", ""indices"": [0, 23], ""expanded_url"": ""https://www.youtube.com/watch?v=55s3T7VRQSc"", ""display_url"": ""youtube.com/watch?v=55s3T7\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1091, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""711315709033250816"", ""profile_background_color"": ""000000"", ""listed_count"": 53, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @CamelotGypsy: @WestCoastBernie \n\nDonate $13 to Bernie campaign\n#Fridaythe13th \n\n#IamSandernista\n\nSend a message.\nWe're still here. http\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731058648147861504, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 8287732, ""indices"": [3, 16], ""id_str"": ""8287732"", ""screen_name"": ""CamelotGypsy"", ""name"": ""California 4 Bernie!""}, {""id"": 23879728, ""indices"": [18, 34], ""id_str"": ""23879728"", ""screen_name"": ""WestCoastBernie"", ""name"": ""WestCoast for Bernie""}], ""hashtags"": [{""indices"": [67, 81], ""text"": ""Fridaythe13th""}, {""indices"": [84, 99], ""text"": ""IamSandernista""}], ""urls"": [], ""media"": [{""source_user_id"": 8287732, ""source_status_id_str"": ""731057045172932609"", ""expanded_url"": ""http://twitter.com/CamelotGypsy/status/731057045172932609/photo/1"", ""display_url"": ""pic.twitter.com/2A9K9C0b5A"", ""url"": ""https://t.co/2A9K9C0b5A"", ""media_url_https"": ""https://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg"", ""source_user_id_str"": ""8287732"", ""source_status_id"": 731057045172932609, ""id_str"": ""731057044678049792"", ""sizes"": {""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 768}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 731057044678049792, ""media_url"": ""http://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""731058648147861504"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@WestCoastBernie \n\nDonate $13 to Bernie campaign\n#Fridaythe13th \n\n#IamSandernista\n\nSend a message.\nWe're still here. https://t.co/2A9K9C0b5A"", ""is_quote_status"": false, ""in_reply_to_status_id"": 731045785354149888, ""id"": 731057045172932609, ""favorite_count"": 3, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 23879728, ""indices"": [0, 16], ""id_str"": ""23879728"", ""screen_name"": ""WestCoastBernie"", ""name"": ""WestCoast for Bernie""}], ""hashtags"": [{""indices"": [49, 63], ""text"": ""Fridaythe13th""}, {""indices"": [66, 81], ""text"": ""IamSandernista""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/CamelotGypsy/status/731057045172932609/photo/1"", ""display_url"": ""pic.twitter.com/2A9K9C0b5A"", ""url"": ""https://t.co/2A9K9C0b5A"", ""media_url_https"": ""https://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg"", ""id_str"": ""731057044678049792"", ""sizes"": {""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 768}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 731057044678049792, ""media_url"": ""http://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg""}]}, ""in_reply_to_screen_name"": ""WestCoastBernie"", ""in_reply_to_user_id"": 23879728, ""retweet_count"": 4, ""id_str"": ""731057045172932609"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""23879728"", ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 09:42:36 +0000 2016"", ""in_reply_to_status_id_str"": ""731045785354149888"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/CamelotGypsy/status/731057045172932609/photo/1"", ""display_url"": ""pic.twitter.com/2A9K9C0b5A"", ""url"": ""https://t.co/2A9K9C0b5A"", ""media_url_https"": ""https://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg"", ""id_str"": ""731057044678049792"", ""sizes"": {""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 768}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 731057044678049792, ""media_url"": ""http://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 09:48:58 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 8287732, ""source_status_id_str"": ""731057045172932609"", ""expanded_url"": ""http://twitter.com/CamelotGypsy/status/731057045172932609/photo/1"", ""display_url"": ""pic.twitter.com/2A9K9C0b5A"", ""url"": ""https://t.co/2A9K9C0b5A"", ""media_url_https"": ""https://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg"", ""source_user_id_str"": ""8287732"", ""source_status_id"": 731057045172932609, ""id_str"": ""731057044678049792"", ""sizes"": {""large"": {""h"": 1024, ""resize"": ""fit"", ""w"": 768}, ""small"": {""h"": 453, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 800, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 731057044678049792, ""media_url"": ""http://pbs.twimg.com/media/CiU8gkKVAAA0HCn.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 9778, ""description"": ""Warrior for the people, #BernieorBust so don't bother. Shame on you BC in WV insult Shame on you HC for your #offthereservation faux pas pandering"", ""friends_count"": 2999, ""location"": """", ""profile_link_color"": ""E81C4F"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/711317081954717696/kcT-Ijc__normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/711315709033250816/1458868411"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Bethie Eagle's Hawk"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 9228, ""screen_name"": ""Bethieaglehawk"", ""notifications"": false, ""url"": ""https://t.co/DDhtFtn5G5"", ""created_at"": ""Sat Mar 19 22:17:35 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Bernie! https://t.co/pwB4bC939f
+answer @ShaunKing question https://t.co/Zru7PZDj7F
+did 3 donations this month so far another $28 on the 28th https://t.co/NJjbY6rA2g
+yum yum that is the good life! https://t.co/3N47ER05qZ
+NO OIL N GAS FRACKIN ON BLM LAND OR ANY LAND ANYWHERE https://t.co/gpuv7y75kR
+"REPRESENT THE WILL OF THE PEOPLE""S VOTE https://t.co/sBDx2gJkM6"
+breathtaking is how much breath u take in I am taking in breath - nice view better than oil n gas frackin wall https://t.co/YPszmRmf8p
+BLM land auction to oil and gas frackin in Colorado not covered in local media
+https://t.co/KZDeAFI85M
+"very true and it may never recover anyway should begin to exhibit compassion, sincerity, integrity, n representation https://t.co/gvjh5hTcc3"
+REPRESENT THE WILL OF THE PEOPLE'S VOTE https://t.co/17oQTKrtYx
+i am Bernie not Biden good riddance to the lyin legacy  https://t.co/UGSSEQKzcM
+not voting hil https://t.co/c7E1ZgiV9N
+it is https://t.co/RNzTvkwfVT
+that hits the nail and controls indigenous lands https://t.co/9FgWoZEzWA
+the radiator is hissing - wait look - the runaway train is reversin Hil is desperately diggin her in heels https://t.co/crNdkpFlsa
+@brooklynnygirl she is no queen
+"I mean if ya ain't got principals, morals and integrity ? This article shows the lack of all three  https://t.co/6LCCK1uKgh"
+Release transcripts https://t.co/Xoq9gRb4NL
+"@diamondsnjeans  
+https://t.co/bKpsOkmItX"
+"""I know its about the issues but . . .""  Bernie is not 4 drama he ALWYS speaks of the issues ""please do not moan"" https://t.co/hQqYWa0arU"
+"Watch Berrigan
+https://t.co/ujzI6VCRKO"
+Dignity for the Citizens https://t.co/YZBmhFpS01
+they also misrepresent research Haiti https://t.co/2PakPJRA1D
+"Perseverance Bernie n Berrigan Cornell University activist against war ""SOME"" https://t.co/BSawVmv97Y  https://t.co/ZHUtdLBjY7"
+"Berrigan fought his whole life - professor at Cornell University activist against war ""SOME"" https://t.co/BSawVmv97Y https://t.co/od2M63mlUC"
+Better to shake from speaking the truth than to shake your soul off the tree of life https://t.co/gychmlaNnI
+the best quote of the interview and the gasps in the background were laughable Bernie's not for drama https://t.co/bLmU6ilDPx
+"""Some"" Berrigan's poem for Bernie and for us - keep moving https://t.co/BSawVmv97Y https://t.co/Negnl3sDa2"
+"@Quack4Bernie Berrigan on Democracy Now ""never seen such base cowardly violation of any kind of human bond"""
+"Berrigan on Democracy now ""never seen such base cowardly violation of any kind of human bond"" Vote Sanders #StillSanders"
+Berrigan's poem for Bernie https://t.co/BSawVmv97Y https://t.co/y9fRxI4Ozr
+giggling and giggling so very very accurate https://t.co/3HWB0StMyD
+T u Sara C this poem is for u by Berrigan https://t.co/BSawVmv97Y https://t.co/htwjLr5qdd
+Long time needed tu Bernie https://t.co/LX2rvsrA0T
+Citizens voices opinions and perspectives will not b present  Unite 4 conscious candidate Sanders https://t.co/HDtqRiKxFe
+@omairsheikh5 @panegron 1 . . . day 1
+Citizens voices opinions and perspectives will not b present  Unite 4 conscious candidate Sanders https://t.co/dPDDIF5UjH
+"Citizens voices opinions and perspectives will not b present  Unite 4 conscious candidate Sanders
+ https://t.co/F19agNRk6I"
+"Citizens voices opinions and perspectives will not b present  Unite 4 conscious candidate
+ https://t.co/tNOzt9P0OX"
+Endorse Sanders Elizabeth https://t.co/JZfIx0MWRH
+#CrazyBernie #BernieOrBust #StillSanders  https://t.co/8gGhBnbbIq
+#CrazyBernie #StillSanders  https://t.co/9aKrDYoSsj
+#CrazyBernie  https://t.co/o2dqVAHV1U
+well if the sign fits  in agreeance not n agreement bcause agreement is status quo  https://t.co/RAICaJ413O
+#CrazyBernie  https://t.co/Cs12dH6zOR
+Truth of the wise https://t.co/VzHD0FIgTj
+EUREKA  Go CA https://t.co/uXILKoiDId
+Cheyenne tu brings tears https://t.co/3jzjQZUcx5
+LONG LIVE @bertacaceres1 BERTA CACERES AND NELSON GARCIA https://t.co/fQwoCq5XfZ
+THANK YOU SUSAN Long Live Berta Caceres and Nelson Garcia https://t.co/g1dCFIqmOg
+#BernieSoCrazy  https://t.co/kUEtbSriat
+"""Simplicity is not the propaganda of the rich, but instead may be the road to virtue"" (BEHBAR) https://t.co/T69jiMcEkz"
+"REIGNITE OUR WILL FOR DIGNITY 1 VOTE, 1 DELEGATE, 1 CITIZEN AT A TIME our ACTION is needed NOW #StillSanders https://t.co/DYk0CwRPfs"
+"REIGNITE OUR WILL FOR DIGNITY 1 VOTE, 1 DELEGATE, 1 CITIZEN AT A TIME our ACTION is needed NOW #StillSanders https://t.co/5XXrfyzpdF"
+"REIGNITE OUR WILL FOR DIGNITY 1 VOTE, 1 DELEGATE, 1 CITIZEN AT A TIME our ACTION is needed NOW #StillSanders  https://t.co/f7jNb3gcVS"
+"REIGNITE OUR WILL 4 DIGNITY 1 VOTE, 1 DELEGATE, 1 CITIZEN AT A TIME our ACTION is needed NOW @SenSanders https://t.co/WRHH1uTIod"
+#StillSanders #BernieOrBust #BernieSanders #Sanders2016  https://t.co/CH0i3kI9tL
+"""In this great future you can't forget your past"" Bob Nesta Marley https://t.co/cKjPQWMCJE"
+"REIGNITE OUR WILL FOR DIGNITY ONE VOTE, ONE CITIZEN AT A TIME our ACTION is needed NOW #StillSanders @SenSanders https://t.co/9Vgmo66Z1V"
+"REIGNITE OUR WILL FOR DIGNITY ONE DELEGATE, ONE CITIZEN AT A TIME our ACTION is needed NOW #StillSanders @SenSanders https://t.co/JcMcjJlYL8"
+"REIGNITE OUR WILL FOR DIGNITY ONE DELEGATE, ONE CITIZEN AT A TIME our ACTION is needed NOW #StillSanders @SenSanders https://t.co/2ad0ydtiDV"
+"REIGNITE OUR WILL FOR DIGNITY ONE DELEGATE, ONE CITIZEN AT A TIME https://t.co/M4npHe4VAF"
+REIGNITE OUR WILL FOR DIGNITY ONE DELEGATE AT A TIME https://t.co/Q908pK61zQ
+"We Love ""Crazy"" Crazy enough 2 reignite citizen's fight against greed and corruption now we r all CRAZY https://t.co/UttXbWlTZk"
+Imperialistic tactics globally continuing colonialism benefiting greed but destroying life and dignity VOTE SANDERS  https://t.co/Vm08iNNAYn
+#StillSanders @SenSanders Citizens voices opinions and perspectives will not b present  Unite 4 conscious candidate https://t.co/mTwZEdr3ku
+"cold shoulder tactics, citizens voices opinions and perspectives ARE NOT PRESENT,   https://t.co/biOPs6t0KR"
+Freedom NOW instead of seduction thru false promises n cold shoulder tactics paving way 4 regime of $launderinggreed https://t.co/864r2To6Dd
+@Lane4Bernie sign ur work artists so everyone can share it and know who created it!
+Love Bernie will not vote Hil https://t.co/y6ggKT6C9q
+"""goin to Montana"" woot woot https://t.co/6IqYxVLDBS"

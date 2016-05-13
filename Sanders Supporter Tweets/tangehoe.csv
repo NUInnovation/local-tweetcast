@@ -1,0 +1,77 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 2950249990, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/718948953442508802/HAk3aunq_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/P1RLuQsLBz"", ""indices"": [0, 23], ""expanded_url"": ""http://tangehoe.tumblr.com"", ""display_url"": ""tangehoe.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 159, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""2950249990"", ""profile_background_color"": ""000000"", ""listed_count"": 2, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WeNeedFeminlsm: *drop mic* https://t.co/Mp4qkLQXXm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 730872468924063744, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 240990050, ""indices"": [3, 18], ""id_str"": ""240990050"", ""screen_name"": ""WeNeedFeminlsm"", ""name"": ""Feminism Matters\u2122""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 240990050, ""source_status_id_str"": ""730792977958903808"", ""expanded_url"": ""http://twitter.com/WeNeedFeminlsm/status/730792977958903808/photo/1"", ""display_url"": ""pic.twitter.com/Mp4qkLQXXm"", ""url"": ""https://t.co/Mp4qkLQXXm"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg"", ""source_user_id_str"": ""240990050"", ""source_status_id"": 730792977958903808, ""id_str"": ""730792977753346048"", ""sizes"": {""large"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""photo"", ""id"": 730792977753346048, ""media_url"": ""http://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1548, ""id_str"": ""730872468924063744"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""*drop mic* https://t.co/Mp4qkLQXXm"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 730792977958903808, ""favorite_count"": 3364, ""source"": ""<a href=\""http://bufferapp.com\"" rel=\""nofollow\"">Buffer</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/WeNeedFeminlsm/status/730792977958903808/photo/1"", ""display_url"": ""pic.twitter.com/Mp4qkLQXXm"", ""url"": ""https://t.co/Mp4qkLQXXm"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg"", ""id_str"": ""730792977753346048"", ""sizes"": {""large"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [11, 34], ""type"": ""photo"", ""id"": 730792977753346048, ""media_url"": ""http://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 1548, ""id_str"": ""730792977958903808"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": true, ""lang"": ""en"", ""created_at"": ""Thu May 12 16:13:18 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WeNeedFeminlsm/status/730792977958903808/photo/1"", ""display_url"": ""pic.twitter.com/Mp4qkLQXXm"", ""url"": ""https://t.co/Mp4qkLQXXm"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg"", ""id_str"": ""730792977753346048"", ""sizes"": {""large"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [11, 34], ""type"": ""photo"", ""id"": 730792977753346048, ""media_url"": ""http://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu May 12 21:29:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 240990050, ""source_status_id_str"": ""730792977958903808"", ""expanded_url"": ""http://twitter.com/WeNeedFeminlsm/status/730792977958903808/photo/1"", ""display_url"": ""pic.twitter.com/Mp4qkLQXXm"", ""url"": ""https://t.co/Mp4qkLQXXm"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg"", ""source_user_id_str"": ""240990050"", ""source_status_id"": 730792977958903808, ""id_str"": ""730792977753346048"", ""sizes"": {""large"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""small"": {""h"": 226, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 399, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [31, 54], ""type"": ""photo"", ""id"": 730792977753346048, ""media_url"": ""http://pbs.twimg.com/media/CiRMV2NWkAAsymh.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 379, ""description"": ""i am a child, not only of my parents, but of the lord"", ""friends_count"": 359, ""location"": ""767 days"", ""profile_link_color"": ""91D2FA"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/718948953442508802/HAk3aunq_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2950249990/1460240005"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""em."", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 2744, ""screen_name"": ""tangehoe"", ""notifications"": false, ""url"": ""https://t.co/P1RLuQsLBz"", ""created_at"": ""Mon Dec 29 23:22:09 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@nat10fastpitch thanks rat
+@_mariehosep  you know who...
+"@_mariehosep thanks, but you don't have to apologize, i did the same things that you did, sometimes worse things, just glad it's us behind!"
+"things you've lied about:
+•everything"
+@_mariehosep you're right mom!
+@cloey_hirst15
+@BamBam1A Happy Birthday (in the US) you nerd!!!! 💖
+@BernieSanders https://t.co/7BAxX0YePY
+do you think if i asked @BernieSanders to prom that he'd say yes?
+@MrsKBerry the american dream was and will never be a reality #thegreatgatsby
+you had a panic attack in my bathroom - flatsound
+flannel - the cardboard swords
+@lovesickwoe WE'VE NEVER BEEN MORE WHITE TRASH!!!!
+hdhdgdgsgdjdufyb I'M PREGNANT!!! https://t.co/vogsn2ZuWH
+✧･ﾟ: *✧･ﾟ:*song recs.*:･ﾟ✧*:･ﾟ✧
+✧･ﾟ: *✧･ﾟ:*threads*:･ﾟ✧*:･ﾟ✧
+@haikulester @patrick_selix which one?
+"I'm crying to Jim Bogart, who am i????"
+@kmolnar17 exhibit a https://t.co/QZ7G0nhBpF
+@kmolnar17 no you don't
+happy national siblings day to this fugly slice of white bread! @patrick_selix https://t.co/rtBnCcxOfX
+"things i've done other than psat practice:
+•watched 10 things i hate about you
+•ate hot cheetos
+•MEMESMEMESMEMES
+•cried"
+@lovesickwoe not really but ty mom
+https://t.co/4QKQlE89NV
+@_mariehosep https://t.co/vfIyaqzTpM
+"I'm not trying to be rude but, i'm not trying to sabotage your relationship.  i suggested you two get BACK TOGETHER I STG!"
+"jealousy in the air tonight, i can tell. i'll never understand that but, oh well."
+@AmazingPhil https://t.co/m8M2OS4aIf
+@_Amber_Welch_ I'm in a different time zone ugly https://t.co/44KgbcYj2Y
+@_Amber_Welch_ it's 3 am
+@_Amber_Welch_ thanks
+@_Amber_Welch_ https://t.co/2y1H26Dlt6
+"@_Amber_Welch_ just let ppl live amber, we all have things we like that other ppl don't understand, calm down bucko"
+@_Amber_Welch_ why don't you??
+@FrozenInLove2 look @ this m8 https://t.co/Dbcm4tYUUe
+"@FrozenInLove2 @JaydenWJamison  that boy looks like young chris christie, ngl"
+@lovesickwoe shit's lit
+joseph and the amazing technicolor dream was so lit.
+I hate @_Amber_Welch_
+@lovesickwoe but I'm still coming
+@lovesickwoe yes
+@ oomf 👀 https://t.co/6HDMB064RD
+happy pi day https://t.co/1Hx96PVIW7
+@cinnabonhowell 👀👀👀👀👀👀👀
+@michalak_joseph which isn't 100% true but he got the point
+@michalak_joseph when talking about African American men and the adversity they face
+happy primary day! https://t.co/s9oB4MpDYo
+hmu on insta @ champagnemma
+i want @SNCKPCK to adopt me
+"yes, no one deserves to be physically abuse??? maybe she cheated in him bc he hit her before???  https://t.co/pwae8lrIzh"
+I have officially lost my faith in the American people
+"the kids at my school are so privileged, even their shadows are white."
+mint choc chip and soft serve https://t.co/8aGZrpJWWH
+okay sweaty https://t.co/L1YGJhuVNN
+"hey friends, i write poems https://t.co/XjWcJYcDzt"
+"i think i'm becoming insignificant again, that's the third time today."
+i!! love!! crying!!
+do you think Hitler's mom was proud of him?
+@lovesickwoe 💅👼👵👴🏊🌠🌟✨🔥💤💡💫💦🐛📚🐻🐖🐣👌💖💀👽🙏🙌⬇✌💯🌌 what is this???
+fun fact: #blacklivesmatter
+I have to be up in 4 hours
+@lovesickwoe I'M HOTTER JUST BECAUSE
+@lovesickwoe OR THOSE SNOWMEN
+@lovesickwoe me either????
+i'm tails and banksy sonic https://t.co/pSkOrMtrgH
+SPOT THE DIFFERENCE! https://t.co/V8nTdRU3a9
+"@michalak_joseph i got a picture with him by I look like a goblin, but iT'S COOL"
+@michalak_joseph THAT'S WHAT HAPPENS WHEN YOU'RE FAMOUS
+"I've met god, he's gay. https://t.co/kiW7dq1NPi"
+@lovesickwoe you okay mate?
+okay but like troye sivan's lost boy is literally my  biography.

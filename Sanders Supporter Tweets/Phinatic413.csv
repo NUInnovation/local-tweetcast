@@ -1,0 +1,238 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 228884660, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/705065964480675841/yJB4yd71_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 388, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""228884660"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 30, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @WolfPAChq: RT if you agree that corporations do not have a right to buy our politicians! #GetMoneyOut: https://t.co/6DndF5fkVg https://\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731165653558800385, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 322183008, ""indices"": [3, 13], ""id_str"": ""322183008"", ""screen_name"": ""WolfPAChq"", ""name"": ""Wolf PAC""}], ""hashtags"": [{""indices"": [93, 105], ""text"": ""GetMoneyOut""}], ""urls"": [{""url"": ""https://t.co/6DndF5fkVg"", ""indices"": [107, 130], ""expanded_url"": ""http://bit.ly/getMoneyOut"", ""display_url"": ""bit.ly/getMoneyOut""}], ""media"": [{""source_user_id"": 322183008, ""source_status_id_str"": ""730819982632751104"", ""expanded_url"": ""http://twitter.com/WolfPAChq/status/730819982632751104/photo/1"", ""display_url"": ""pic.twitter.com/cXFrrXsczA"", ""url"": ""https://t.co/cXFrrXsczA"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg"", ""source_user_id_str"": ""322183008"", ""source_status_id"": 730819982632751104, ""id_str"": ""730819979981946880"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 730819979981946880, ""media_url"": ""http://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 190, ""id_str"": ""731165653558800385"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT if you agree that corporations do not have a right to buy our politicians! #GetMoneyOut: https://t.co/6DndF5fkVg https://t.co/cXFrrXsczA"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 730819982632751104, ""favorite_count"": 184, ""source"": ""<a href=\""http://itunes.apple.com/us/app/twitter/id409789998?mt=12\"" rel=\""nofollow\"">Twitter for Mac</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [78, 90], ""text"": ""GetMoneyOut""}], ""urls"": [{""url"": ""https://t.co/6DndF5fkVg"", ""indices"": [92, 115], ""expanded_url"": ""http://bit.ly/getMoneyOut"", ""display_url"": ""bit.ly/getMoneyOut""}], ""media"": [{""expanded_url"": ""http://twitter.com/WolfPAChq/status/730819982632751104/photo/1"", ""display_url"": ""pic.twitter.com/cXFrrXsczA"", ""url"": ""https://t.co/cXFrrXsczA"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg"", ""id_str"": ""730819979981946880"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 730819979981946880, ""media_url"": ""http://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 190, ""id_str"": ""730819982632751104"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Thu May 12 18:00:36 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/WolfPAChq/status/730819982632751104/photo/1"", ""display_url"": ""pic.twitter.com/cXFrrXsczA"", ""url"": ""https://t.co/cXFrrXsczA"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg"", ""id_str"": ""730819979981946880"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [116, 139], ""type"": ""photo"", ""id"": 730819979981946880, ""media_url"": ""http://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:54:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 322183008, ""source_status_id_str"": ""730819982632751104"", ""expanded_url"": ""http://twitter.com/WolfPAChq/status/730819982632751104/photo/1"", ""display_url"": ""pic.twitter.com/cXFrrXsczA"", ""url"": ""https://t.co/cXFrrXsczA"", ""media_url_https"": ""https://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg"", ""source_user_id_str"": ""322183008"", ""source_status_id"": 730819982632751104, ""id_str"": ""730819979981946880"", ""sizes"": {""small"": {""h"": 191, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 360, ""resize"": ""fit"", ""w"": 640}, ""medium"": {""h"": 338, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 730819979981946880, ""media_url"": ""http://pbs.twimg.com/media/CiRk5lWVAAAeayP.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 19972, ""description"": ""Dolphins fan since the early '90's. Tired of mediocrity. Love DMB. Hate the media and political establishment. #FeelTheBern #NotMeUs"", ""friends_count"": 83, ""location"": ""Western MA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/705065964480675841/yJB4yd71_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/228884660/1456935800"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""#StillSanders"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 511, ""screen_name"": ""Phinatic413"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Dec 20 23:21:34 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@ShaunKing @CKHyppolite please don't stop. Not even if Bernie drops out. Can't fear short term consequence when fighting for real change.
+"It's fucking terrifying.  Orwellian.
+
+#FreeJeanetteJing  https://t.co/u65DeX9NHx"
+"""Single payer will never, ever come to pass."" - HRC
+
+Hmmm...wonder why.
+#NeverHillary 
+#FeelTheBern  https://t.co/9aYStFPgiB"
+@meghanflinders claiming she's not corrupt without a smoking gun is typical GOP. Do some research. She's THE most corrupt current politician
+"It's like they think we're not even paying attention.
+
+Oh, that's right.  Most of us aren't. See: Hillary supporters https://t.co/8YxbY3Jx2B"
+@meghanflinders @AllysonSaad it's sad when Hillary supporters resort to old GOP tactics to defend their crooked candidate.  Just sad...
+"Wake the fuck up, America!
+
+Stop buying into the party line bs. EDUCATE yourself on the issues and candidates. https://t.co/rT6OjKXKZh"
+Instead they strategized to consolidate votes against Bernie while Biden laid in wait as plan B. https://t.co/yIrfnbbiKh
+"This was the most predictable thing ever.  Biden &amp; Hillary would've split votes, lost majority to Bernie. https://t.co/yIrfnbsU8R"
+"Liberate us, @BernieSanders.  Give us the option to support you in November, regardless of DNC. https://t.co/7oWvpdRTs1"
+@puppymnkey @trekkerteach12 @GovHowardDean 83%
+"@trekkerteach12 @puppymnkey @GovHowardDean why?? Because he's a true, genuine PEOPLE's servant. As a HRC supporter you wouldn't understand."
+"@trekkerteach12 @puppymnkey @GovHowardDean just in case you're math-challenged, that means a majority of ALL party types approve."
+@trekkerteach12 @puppymnkey @GovHowardDean he has an EIGHTY THREE PERCENT approval rating from his constituents.  83!!!!!
+"@trekkerteach12 @puppymnkey @GovHowardDean great idea!! Since he's the most like politician, at any level, in the ENTIRE country.  SMFH..."
+"But @seanhannity knows this. He's made a career out of lying &amp; sensationalizing to sheep.
+#FeelTheBern  https://t.co/9XZQsde7Sh"
+"Clinton is the scariest candidate running right now.  And that says an awful lot.
+#NeverHillary 
+#FeelTheBern  https://t.co/3JI84bOQLB"
+"Remember, it was last Clinton admin that set us on the path leading to where we are now
+#NeverHillary
+#FeelTheBern https://t.co/3JI84bOQLB"
+"Sorry, but anyone who doesn't think Clinton represents regress is sadly mistaken.
+#NeverHillary 
+#FeelTheBern  https://t.co/3JI84bOQLB"
+"@trekkerteach12 @SenWarren @elizabethforma if she came out in full support of Bernie early on, it would've made a real difference.  Smh..."
+"#CAPrimary
+#CaliforniaPrimary 
+#DemPrimary https://t.co/tXUwzKI2pK"
+"The Clinton Foundation is a front to launder illegal BILLIONS in bribes. Surprised?
+
+#ImWithHer
+#NeverHillary
+
+https://t.co/OfidYPtyFe"
+"Is the money she's paying you worth it, @peterdaou? Must be the self-loathing type...
+https://t.co/gVHZAlYlvH"
+"We're all watching...waiting to see what you do @FBI @StateDept @TheJusticeDept .
+
+Damned Information Age... https://t.co/KqcTHVnSuc"
+"So who are the d-bags that voted no!?  Bet their holding Hillary signs...
+
+#FeelTheBern
+#DemocracyAwakens 
+ https://t.co/AgWL9wQIO4"
+"The revolution is real. And it's just getting started. Thank you, @BernieSanders! https://t.co/AgWL9wQIO4"
+"But, but, but.....BERNIE BROS!!
+
+smh....just another dirty smear by Hillary Clinton and her #ImWithHer goons.
+
+https://t.co/oaHuLwd1R6"
+"Strangest part of this is that there's a #Marine who actually likes #Hillary
+ https://t.co/smiC9Rhvrz"
+"Maybe the unauthorized DELETION of 30,000 emails has something to do with it??
+#DemPrimary
+#POTUS2016
+#NeverHillary
+ https://t.co/KzuhmAoUbA"
+"Shots fired! @BernieSanders puts the DNC on notice.
+
+Continue to alienate us, @DWStweets. Good luck in November!
+
+https://t.co/jysODmiqVj"
+"Hey @DWStweets - this gets real ugly for you if you don't play fair. Reconsider the appointments.
+#DemPrimary https://t.co/p1NWjBGuTC"
+"I'm sorry, but I have ZERO respect for any member of a democratic society who is okay with this. NONE.
+
+#FeelTheBern https://t.co/d706iYRsnZ"
+"Choose one:
+
+Clinton
+
+Trump
+
+#ScareSomebodyIn4Words"
+"Dems don't nominate #Bernie
+
+#ScareSomebodyIn4Words"
+"Hillary Clinton takes office
+
+#ScareSomebodyIn4Words
+
+#NeverHillary
+#BetterWithBernie
+#BernieOrBust"
+This is so true.  And telling. https://t.co/IPwZRF190t
+"If we do all of that. If we stay strong for #Bernie. That &amp; #Hillary's polling and scandals, DNC would have to give it SERIOUS consideration"
+"Then turn out in MASSIVE #'s to support #Bernie in Philly at the convention. Overwhelm the entire city. We can do this for him!
+#FeelTheBern"
+"We don't even need to take over in pledged delegates. Make statement by winning another 6 states. Get a strong win in Cali...
+#FeelTheBern"
+"Cali please save us!! 🙏🏻
+
+We need a BLOWOUT for @BernieSanders.
+
+We don't have to accept choice a between two evils! https://t.co/IXfjdJ3qJT"
+"#Hillary can't fill a High School gym, but she'll win in November?
+
+Oh, that's right. They'll just rig the machines. https://t.co/K119EtHbPA"
+"Let's not forget to add #Indiana to the list, where exit polls had #Bernie ahead by 12 points.
+
+#FeelTheBern https://t.co/D2R5GC6mBM"
+"REMINDER: Daou is on #Hillary's payroll. Gets paid by her SuperPAC.
+
+#Bernie would NEVER use such deceptive tactics. https://t.co/QyB1aqzaos"
+"REMINDER: Daou is on #Hillary's payroll. Gets paid by her SuperPAC.
+
+#Bernie would NEVER use such deceptive tactics. https://t.co/QyB1aqhyZS"
+"Perfect assessment of the upcoming general election. Sad, sad time to be an American. I feel genuinely embarrassed. https://t.co/dilCMob9lo"
+Many GOP elites are saying #ImWithHer. Hillary has the support of BOTH party establishments. Several GOPers prefer her.  Let than sink in.
+@Shakestweetz Trump is scary.  Neoliberal Warhawks with a long history of scandal and dishonesty are scarier.
+@RedManatee @Shakestweetz @ddiamond false
+"What happens to her polling when Bernie's integrity prevents him from wholly endorsing her, despite his disdain for Trump?
+#DropOutHillary"
+"What happens to her already abysmal trust polling when Trump starts REALLY discussing her record of corruption?
+#DropOutHillary"
+"What happens when indies realize she is MORE dangerous than Trump on several levels?
+#DropOutHillary"
+"What happens when 30,000+ deleted emails are recovered revealing she traded policy position for Clinton Foundation donations
+#DropOutHillary"
+"What happens when GOP points out Hillary voted in favor of fossil fuel lobby initiatives after taking donations. FOUR times.
+#DropOutHillary"
+"What happens when Comey's resignation is the elephant in the room following the DOJ giving her a pass for political reasons
+#DropOutHillary"
+"What happens when Trump doesn't hold back on specifics of Hillary's quid pro quo corruption like Bernie did?
+#DropOutHillary"
+"@ReignOfApril @politicsislife she's right of Trump on military, trade, political process. She is THE most corrupt US pol of all time. No thx"
+Why no mention of the corporate tribunals and billions in tax payer $ shelled out to multinational biz that results? https://t.co/G5px7JUyrZ
+"Remember, @BlueNationRev is an arm of a Hillary SuperPAC masquerading as an independent publication
+#BernieOrBust https://t.co/qYV7tHp1nP"
+"In a typical manipulative Hillary move, Peter was paid by one of her SuperPACs in March
+
+#Journalism
+#NeverHillary 
+ https://t.co/Z9pYSHAK5J"
+"Hey @realDonaldTrump - Join Bernie in demanding that Hillary #ReleaseTheTranscripts
+A promise is a promise, right? https://t.co/rhpAhUAoOt"
+"@Kbrooks2080 @OmanReagan @JMJLyons lol...oh, ok then.  Please provide proper ""context"" for those items."
+Oh the irony in a Hillary supporter talking about people selling their soul and not caring about America... https://t.co/korC54ypEr
+"@seankent @KhaledBeydoun actually, that's completely irrelevant to the point he made.  False equivalency.  But you knew that."
+@seankent so there can be no reality where voters aren't disenfranchised and politicians work for the people instead of lobbies?
+"AHAHAHAHAHA...what hacks! But we already knew that.
+@peterdaou  https://t.co/BgMeVE1UrM"
+"That's right, only one candidate can stop Trump; @BernieSanders
+
+#FeelTheBern
+#NeverHillary
+
+https://t.co/zSckjwa5aS https://t.co/MygnS02vkp"
+"This is the part where establishment Dems use fear tactics to scare you into supporting a neolib warmonger. Don't fall for it.
+#NeverHillary"
+"@CKHyppolite she has the back drop of 30 years as an untrusted, dirty politician. Her haters unlikely to reconsider their disdain."
+@CKHyppolite I think you'll be surprised at how many indies and moderate Dems go to Trump.  He can unwind some of his mistakes.  She can't.
+"IF this happens, I'll be going to Washington. I hope millions join me.
+#FeelTheBern
+#POTUS2016
+#DemocracyAwakens  https://t.co/s2JiEs5bnY"
+Yep. I theorized months ago that Hillary is here just to keep Bernie out so establishment could pick their nom later https://t.co/s2JiEs5bnY
+@EricElizondo8 he's gonna tear shit up this year bro.  Tear.  Shit.  Up.
+"Can someone out there who's smarter than me calculate the statistical likelihood of #ExitPollGate?
+
+#FeelTheBern 
+ https://t.co/08JbOG0b3E"
+"You're God damn right you can @BernieSanders 
+#StillSanders
+#BernieOrBust 
+#FeelTheBern  https://t.co/jgRa9xc5XQ"
+Please let it be so @BernieSanders @SenSanders  https://t.co/lz5dVQdec1
+"Hey @HillaryClinton is this why single payer healthcare ""will never, ever come to pass""?
+#NeverHillary
+#FeelTheBern
+
+https://t.co/sAaY0U2V1N"
+"Is there a @BernieSanders group organizing a massive showing at the Convention in Philly? We need an OVERWHELMING presence.
+#FeelTheBern"
+"We need to:
+a) get 3rd parties in primaries
+b) standardize gen. ballot requirements
+c) eliminate 270 min. in general https://t.co/dcqgpoe3Qa"
+#BetterWithBernie #StillSanders #VoteBernie #INPrimary #IndianaPrimary #FeelTheBern #DemPrimary https://t.co/0mNvW5XPI1
+"#BetterWithBernie
+#StillSanders
+
+#VoteBernie because we CAN change the game in U.S. Politics!
+
+#FeelTheBern https://t.co/7gKOKWnmbz"
+"There was a time when this was a scary proposition to me. These days, can't tell them apart anyway. @TheDemocrats @trekkerteach12"
+"Eh...minor details.
+
+GOP is going to be unchecked. Maybe that's what @TheDemocrats need to wake up.
+
+#NeverHillary https://t.co/wfOyCBEu8E"
+"I mean, has she ever NOT skirted the law in one way or another for any extended period of time??
+#FeelTheBern  https://t.co/9ZkDwHeASA"
+"Shameful. The general is going to be more like a republican primary. 
+
+#FeelTheBern 
+#INPrimary  https://t.co/zh8QlKR5TB"
+"If this is fact, we should take Washington by storm.
+
+Bernie is the ONLY candidate who will change it.
+#FeelTheBern  https://t.co/Ax70rXRnjK"
+"I mean, come on! It's just incredible.  Bernie has been fighting for the same, EXACT things for 30 yrs!
+#FeelTheBern https://t.co/yoZ7AocDgr"
+@AQUAMAN_82 @EricElizondo8 haha I was totally kidding.  Ryan's had frustrating days where he could've been better IMO.  But I like him.
+@EricElizondo8 @AQUAMAN_82 #TanneKILL  lol
+"Exactly!  @HillaryClinton want to play both sides. Don't allow it! Vote Bernie!
+#FeelTheBern 
+#INPrimary  https://t.co/eXEo7dTG1M"
+"This shit is just so fucking gross.  Know who pursues it from the WH?
+NOT their puppet Hillary!
+
+#FeelTheBern
+ https://t.co/wf2JJZfquB"
+"(gasp!) @HillaryClinton ... a FRAUD!?!? Shocking!
+
+Let's bring honesty back to politics
+
+#FeelTheBern 
+#NeverHillary https://t.co/10yA2bFH27"
+I'm thinking @TheDemocrats would serve themselves well if they #FeelTheBern at the convention. https://t.co/uu1gYCkEwy
+"Egggggggggzactly
+#FeelTheBern 
+#StillSanders 
+#NeverHillary  https://t.co/QwPhBMjGLT"
+"Great question.  Any thoughts, #ImWithHer ?? https://t.co/jRPUcwJs7S"

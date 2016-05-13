@@ -1,0 +1,119 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2338275867, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/507753123029327873/zPzzHbmE.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/686783893270216704/xZqykmJ3_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 1320, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""2338275867"", ""profile_background_color"": ""022330"", ""listed_count"": 42, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @sassy__peaches: Tbh I could do that in a few hours https://t.co/UPKN1mpioB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731182773864534016, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1620464869, ""indices"": [3, 18], ""id_str"": ""1620464869"", ""screen_name"": ""sassy__peaches"", ""name"": ""babe from the boot""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 1620464869, ""source_status_id_str"": ""731173555518377984"", ""expanded_url"": ""http://twitter.com/sassy__peaches/status/731173555518377984/photo/1"", ""display_url"": ""pic.twitter.com/UPKN1mpioB"", ""url"": ""https://t.co/UPKN1mpioB"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg"", ""source_user_id_str"": ""1620464869"", ""source_status_id"": 731173555518377984, ""id_str"": ""731173551785447424"", ""sizes"": {""large"": {""h"": 363, ""resize"": ""fit"", ""w"": 897}, ""small"": {""h"": 138, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [55, 78], ""type"": ""photo"", ""id"": 731173551785447424, ""media_url"": ""http://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""731182773864534016"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Tbh I could do that in a few hours https://t.co/UPKN1mpioB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731173555518377984, ""favorite_count"": 10, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/sassy__peaches/status/731173555518377984/photo/1"", ""display_url"": ""pic.twitter.com/UPKN1mpioB"", ""url"": ""https://t.co/UPKN1mpioB"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg"", ""id_str"": ""731173551785447424"", ""sizes"": {""large"": {""h"": 363, ""resize"": ""fit"", ""w"": 897}, ""small"": {""h"": 138, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [35, 58], ""type"": ""photo"", ""id"": 731173551785447424, ""media_url"": ""http://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""731173555518377984"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 17:25:34 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/sassy__peaches/status/731173555518377984/photo/1"", ""display_url"": ""pic.twitter.com/UPKN1mpioB"", ""url"": ""https://t.co/UPKN1mpioB"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg"", ""id_str"": ""731173551785447424"", ""sizes"": {""large"": {""h"": 363, ""resize"": ""fit"", ""w"": 897}, ""small"": {""h"": 138, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [35, 58], ""type"": ""photo"", ""id"": 731173551785447424, ""media_url"": ""http://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 18:02:12 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 1620464869, ""source_status_id_str"": ""731173555518377984"", ""expanded_url"": ""http://twitter.com/sassy__peaches/status/731173555518377984/photo/1"", ""display_url"": ""pic.twitter.com/UPKN1mpioB"", ""url"": ""https://t.co/UPKN1mpioB"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg"", ""source_user_id_str"": ""1620464869"", ""source_status_id"": 731173555518377984, ""id_str"": ""731173551785447424"", ""sizes"": {""large"": {""h"": 363, ""resize"": ""fit"", ""w"": 897}, ""small"": {""h"": 138, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [55, 78], ""type"": ""photo"", ""id"": 731173551785447424, ""media_url"": ""http://pbs.twimg.com/media/CiWmeK9VEAAINof.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 44308, ""description"": ""21 \u2022 @Dodgers, @Warriors & @GreysABC \u2022 08.09.16\u2764\ufe0f \u2022 #FeelTheBern \u2022 Kobe Bryant is my role model. \u2022 Obsessively listening to #VIEWS \u2022"", ""friends_count"": 812, ""location"": ""CA"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/686783893270216704/xZqykmJ3_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2338275867/1460843999"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/507753123029327873/zPzzHbmE.jpeg"", ""name"": ""Daddy D\u270a"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 19628, ""screen_name"": ""iiDropBombs"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Feb 11 19:03:59 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Okay @netflix or @hulu, time for you to pick up @finding_carter &amp; @mtvfakingit 👏🏼👏🏼👏🏼"
+"Hey Script writers, don't ever send your scripts to @MTV, you'll only get 2 seasons at the most but teen mom 2 &amp; teen mom OG are recurring 🙄"
+THANKS @MTV 😡😡😡😡😡😡😑😑😑 https://t.co/H32KtXAwPF
+"Good article, @LetsGoWarriors  https://t.co/TQzKBv1ScE"
+Goodnight Twitter😴
+You'll have the time of your life  https://t.co/LliS3mY9ZJ
+😳😳😳😳😳😳😱😱😱😱😱😱😱😱 https://t.co/MDEK73HGKE
+F I L T H Y  😩 https://t.co/D1zjo9Lkke
+Yes. Do it.  https://t.co/yrTgsCSxj2
+DID I REALLY SEE WHAT I JUST SAW. MEREDITH!! 😳
+NO FUCKING WAY.
+Meredith can be a real bitch sometimes 🙄 https://t.co/ZdkRepN9H3
+RUN JO RUN
+EDWARDS LEAVE HIM THE FUCK ALONE JESUS CHRIST 😡😡😡
+WHO ISNT FEELING IT THO https://t.co/wYXhdVOS1o
+PENNY &amp; CALI BROKE UP. OH MY SHIT FINALLY. 🙄
+Oh my fucking god Edwards back off 🙄
+Edwards stop being fucking annoying 🙄
+THAT TRAILER WAS MY LIFE
+NEW GREYS ANATOMY RIGHT NOW
+Back to the drawing board.
+No clue.  https://t.co/Qm00tQx3Gw
+Yup https://t.co/KKV2PqlLcn
+2 years &amp; like 3 months I think  https://t.co/bTcpMPNEFS
+Too many times to count https://t.co/TOq2ecEWZC
+Not paying attention in school https://t.co/pyOrsJAkq3
+6'1 https://t.co/r8aIzHqF9a
+No https://t.co/knEYtH12SV
+No https://t.co/0scyyS5sIW
+Hawaii https://t.co/biq9i9H8Bd
+2 years difference https://t.co/JgqHM2nazm
+1 is on the way https://t.co/gMwlJwoKL5
+Seattle Seahawks https://t.co/VcNkzFykW9
+Oregon Ducks https://t.co/sWc7SetKHM
+Working for the @Dodgers &amp; being able to travel with them  https://t.co/UP1MwZqokq
+Baseball  https://t.co/b6JLH01Yks
+California https://t.co/S8hbbU0UTA
+21 https://t.co/SMpBqHB61U
+@Brunette_Btchh I crack up every single time 😂😂😂
+Still the funniest vine ever 😂😂😂😂😂 https://t.co/YBQKyVklVB
+😂😂😂 https://t.co/0dwFIhqshx
+"Gotta give him props, he knows what he doing lol 😂 https://t.co/KmKOA5UaGA"
+"⚡️ “George Zimmerman to auction off gun that killed Travyon Martin”
+
+https://t.co/bHSF26TiRH"
+"@yafilthy_animal @tiger_lilyyyx All of Sofia's friends &amp; family is in Seattle? If you were Cali, you would just take that away from her?"
+"🙄😭😒 
+
+ACCURATE ASF https://t.co/WPnLWkfMNh"
+"😂 
+
+yeah, that's pretty accurate😒 https://t.co/KliU6oTQf3"
+❤️ https://t.co/XSahEapqYU
+🌚 https://t.co/iHXIRcVVqR
+@yafilthy_animal @tiger_lilyyyx why wouldn't Arizona get it? Cali straight up was just gonna take Sofia without telling Arizona. Not cool
+This is hilarious 😂 https://t.co/YezcS9hUnI
+12:14
+CURRY DOES IT ALL 😂
+Scherzer 😳
+Imma just stop.
+That was probably a terrible example. 😂
+YES 😂😂 I LOVE THIS  https://t.co/eqBkTtLCUL
+This is dope AF 😍 https://t.co/OgUfAlpiy1
+Made it to 11:40
+"@Dodgers 
+Trayce: yeah, this is nothing. 
+Alanna: OH MY GOD NOOOOOOOO😁"
+Perfectly worded. 😍 https://t.co/DX47QYTvb1
+@Dodgers video
+Let Trayce have his moment. 🙄 stop mentioning Klay everytime Trayce does something good
+Trayce plays baseball &amp; Klay plays basketball. 2 TOTALLY DIFFERENT SPORTS🙄 YOU CANT COMPARE THEM
+@Dodgers video soon?
+TRAYCE!!!!!!!!!!!!!!!!! LETS GOOOOOOOOOOO!!!!!!!!!! #Win4Vin @Dodgers
+🙄 https://t.co/NnrhGlEKtA
+Can't wait until M does this to me 😭😍 https://t.co/XxUV2xWF1r
+Runner.
+"I really really suck at hints, I get so lost 😂"
+Slow Process. Patience.
+😂😂😂😂😂😂😂 home girl was out cold lol https://t.co/UT8dPOfgnY
+@Dodgerguns @DodgersNation Carl Crawford
+BOGUT looks really high 😂 https://t.co/QTrW447I7Y
+YES 😂 YOU SHOULD DO THIS EVERY GAME https://t.co/kIg2oKQ3kX
+Will be me AF.  https://t.co/XtD9iNLMXh
+Sass matches the ass.
+#MaybeSheDoesntHitYou this is a important hashtag too. Girls are just as accountable
+I KNEW IT WAS HIM!!!! HES BEEN HIDING THINGS ALL SEASON 😡 https://t.co/3OHFqxX0kf
+Yes. Yes he is. I'm glad you see that too. 🙌🏼 https://t.co/t7FIiZvaiY
+Omg game 5 at @OracleArena is gonna be insanely loud 😍😍😍
+"""I'm here! I'm back! I'm back!!"" #StephGonnaSteph #LetsGoWarriors https://t.co/gP0sgmzYMe"
+YOU ARE NOT CURRY BRUH STOP
+😂😂😂 https://t.co/aLVoqUXq0z
+#StephGonnaSteph #LetsGoWarriors 💙💛
+😂😂😂😂😂 STEPH CURRY IS BACK BABY!!!!!!!
+CURRY IS BACK.......
+LETS GO WARRIORS
+Curry had McCollum on skates 👀
+"You don't call the foul, then you throw him out the game when he calls you out on it"
+They are paying the fucking refs. They don't call shit when we have the ball but the Blazers get every single fucking call 😡
+I WOULDVE BEEN MAD TOO IF I GOT HIT IN THE FUCKING HEAD &amp; THEY DIDNT CALL IT😡😡😡🙄🙄
+PEACH RINGS😍 https://t.co/jOltq7CzgM
+😩😩😩😩😩I can't.  https://t.co/V52nEQR3Ji
+I ask a fuck ton of questions because I just like being on top of things.
+@_HisPsychoBabe true as fuck. Hillary will say anything to get in office. Everybody knows this. Trump is just a fucking idiot
+@_HisPsychoBabe people are slowly starting to join because of all this shit about trump &amp; Clinton coming out.
+#Bernie2016 https://t.co/VpD64w2LOm
+Scum scum scum. #Bernie2016 #FeelTheBern https://t.co/Qlg3p9ghHr
+"Whether you have your own personal hate for her, she's still the mother of my little girl so we will do just fine raising her."
+@KCRoyalPrincess @NiceGuyFromMD it's okay.
+@NiceGuyFromMD 💯💯💯💯💯 thanks fam
+Damn that was stupid by me😂
+Most of this shit is stupid anyway
+I can't clean up your mistakes. That's on you.
+This has been very eye opening.
+Karma is a bitch isn't it.
+It's time to let go.
+"If you're with someone that bitches &amp; complains about every single thing, drop em. You don't need that stress. Live your life."
+It's crazy how people come up with anything to start shit. Some of y'all got too much time on your hands.
+😂😂😂😂😂😂😂 https://t.co/FwqyeE5vUj

@@ -1,0 +1,110 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 4709196439, ""profile_background_image_url_https"": null, ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/684077889654919168/1w69xg3w_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 42, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""4709196439"", ""profile_background_color"": ""F5F8FA"", ""listed_count"": 1, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @Parker9_: @BernieSanders https://t.co/Aq08464ZwS"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731156199568113666, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4218742998, ""indices"": [3, 12], ""id_str"": ""4218742998"", ""screen_name"": ""Parker9_"", ""name"": ""Parker""}, {""id"": 216776631, ""indices"": [14, 28], ""id_str"": ""216776631"", ""screen_name"": ""BernieSanders"", ""name"": ""Bernie Sanders""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 4218742998, ""source_status_id_str"": ""730851497609568257"", ""expanded_url"": ""http://twitter.com/Parker9_/status/730851497609568257/photo/1"", ""display_url"": ""pic.twitter.com/Aq08464ZwS"", ""url"": ""https://t.co/Aq08464ZwS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg"", ""source_user_id_str"": ""4218742998"", ""source_status_id"": 730851497609568257, ""id_str"": ""730851481423732736"", ""sizes"": {""large"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""small"": {""h"": 334, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [29, 52], ""type"": ""photo"", ""id"": 730851481423732736, ""media_url"": ""http://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 73, ""id_str"": ""731156199568113666"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@BernieSanders https://t.co/Aq08464ZwS"", ""is_quote_status"": false, ""in_reply_to_status_id"": 730851123020496897, ""id"": 730851497609568257, ""favorite_count"": 141, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 216776631, ""indices"": [0, 14], ""id_str"": ""216776631"", ""screen_name"": ""BernieSanders"", ""name"": ""Bernie Sanders""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/Parker9_/status/730851497609568257/photo/1"", ""display_url"": ""pic.twitter.com/Aq08464ZwS"", ""url"": ""https://t.co/Aq08464ZwS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg"", ""id_str"": ""730851481423732736"", ""sizes"": {""large"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""small"": {""h"": 334, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 730851481423732736, ""media_url"": ""http://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg""}]}, ""in_reply_to_screen_name"": ""BernieSanders"", ""in_reply_to_user_id"": 216776631, ""retweet_count"": 73, ""id_str"": ""730851497609568257"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""216776631"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Thu May 12 20:05:50 +0000 2016"", ""in_reply_to_status_id_str"": ""730851123020496897"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/Parker9_/status/730851497609568257/photo/1"", ""display_url"": ""pic.twitter.com/Aq08464ZwS"", ""url"": ""https://t.co/Aq08464ZwS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg"", ""id_str"": ""730851481423732736"", ""sizes"": {""large"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""small"": {""h"": 334, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 730851481423732736, ""media_url"": ""http://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Fri May 13 16:16:36 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 4218742998, ""source_status_id_str"": ""730851497609568257"", ""expanded_url"": ""http://twitter.com/Parker9_/status/730851497609568257/photo/1"", ""display_url"": ""pic.twitter.com/Aq08464ZwS"", ""url"": ""https://t.co/Aq08464ZwS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg"", ""source_user_id_str"": ""4218742998"", ""source_status_id"": 730851497609568257, ""id_str"": ""730851481423732736"", ""sizes"": {""large"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""small"": {""h"": 334, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 572, ""resize"": ""fit"", ""w"": 583}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [29, 52], ""type"": ""photo"", ""id"": 730851481423732736, ""media_url"": ""http://pbs.twimg.com/media/CiSBjNXUYAAI5GC.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 156, ""description"": """", ""friends_count"": 94, ""location"": """", ""profile_link_color"": ""2B7BB9"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/684077889654919168/1w69xg3w_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_background_image_url"": null, ""name"": ""Kozmo Khani"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 648, ""screen_name"": ""KozmoKhani"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Jan 04 14:56:13 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+https://t.co/jpL9U7Kfx8
+https://t.co/feYyuUb5IO
+We absolutely love Bernie but the system will do everything possible to make sure he doesn't get elected! That's how corrupt they are!!!
+Ain't that the truth!!! https://t.co/fXa2Aoufbh
+https://t.co/FSanJyMxXo
+https://t.co/V6yPMnIGY6
+https://t.co/511nOj5Nlu
+Revolution of Compassion!!! https://t.co/eMJNRy02eE
+Freakin Moron!!! https://t.co/SRY2ByS4xO
+Persians for Bernie! :)
+I LOVE Bernie People! :)
+https://t.co/YpzbfGD8mW
+"We love Bernie Sanders! We'll never have another candidate like him! Honest, Truthful, Compassionate! The man is a gift from God!!! :)))"
+This piece of shit racist low life will never be the President!!! https://t.co/YLvJ71BeT6
+Congratulations to the new Mayor of London Mr. Khan! :)
+https://t.co/yiYqetvaa7
+https://t.co/zLgpFNLCPS
+Don't believe the lies! They are trying to devide us! That's how they win!!! https://t.co/dePhS8xM24
+Bernie will win! Don't believe the lies of the news Agencies! Nothing can stop the Revolution!!! :) https://t.co/ljVp2IgBde
+The man flies coach while Republicans suck the blood out of people for their lavish lifestyle!!! https://t.co/lzJ0tQETfD
+Butcher al AssSad and Netanyahu are the biggest war criminals of our modern day!!! May God save the humanity from them!!!
+Thank you Indiana for feeling the Bern!
+Once again all the losers came out and Trump won!!!
+Israel needs to stop it's genocide on innocent Palestinian woman &amp; children!!! https://t.co/PzTqufTXln
+https://t.co/FRdlnUvaFH
+It's my dream for these two beautiful people be in the white house!!! https://t.co/n3OnPDglfS
+https://t.co/huELxhOAPQ
+https://t.co/XQQtH7v7If
+Israel is a War Criminal Terrorist State that is built on lies and blood of millions of innocent Palestinians! Shame on us for supporting em
+https://t.co/bvuyuSO0aV
+So cute! :) https://t.co/pCVGadhr9z
+Thank you California for dumping Trump!
+https://t.co/wDxZj77qyD
+https://t.co/823VUfvyyF
+https://t.co/iINq0xOipk
+https://t.co/adUupvvVPV
+https://t.co/hXK0REf9kf
+All News Agencies do is spread Islamphobia! It's their new way of putting people to sleep so their bosses can continue raping the country!!!
+Unbelievable! This moron is the Presidential Frontrunner!!! https://t.co/m2y7PtuEAO
+Indonesia Pushes UN to End Israel Occupation of Palestine https://t.co/PHlLblVptz via @tempo_english
+"Free Palestine! Stop the Occupation, Stop the Genocide and Land Theft! Stop AIPAC! We're all going to lose if you keep backing the Evil!!!"
+Bernie Sanders is my Hero! :)
+Bernie is our Warrior! :) https://t.co/UiUyr40Zr3
+Bernie people are full of love &amp; Compassion! Full of life! True Americans with real values! Never imagined! We love them! We love Bernie! :)
+https://t.co/EwkZzSkACn
+Never trust the news it's owned by the 1%! https://t.co/kjkxRxZXy4
+https://t.co/aoQN33tBT8
+https://t.co/vPwS20xueg
+Boycott Racist Southwest Airlines!!
+https://t.co/IByf4vuKsn
+https://t.co/9ob7fcRkId
+I love Bernie believers! People with values and love! Go Bernie! :)
+https://t.co/wFOTm7Fxjw
+https://t.co/Q28diE6DgQ
+Republicans are evil! https://t.co/ljhaxvTZlI
+"Feeling the Bern! Once in a lifetime chance to finally choose the right President! The right person for the people,Stand together not Devide"
+"NY Jews don't want to support Bernie Sanders because of their commitment to Israel's War Crimes, Genocide &amp; Land Theft! So sad!"
+"The way Bernie stood up for Palestinians! Never see anything like it!
+I truly love this man! https://t.co/YrNmHmf7JC"
+"Bernie is honest and awesome, Hilary is fake and a lier unfortunately!"
+New York make us proud! Go Bernie!
+We love Bernie Sanders! Go Bernie! :)
+https://t.co/mBSkx33SOk
+https://t.co/OB8wC9KwpN
+https://t.co/B4IF4eBXUr
+Bernie wins Wisconsin! Love it! :)
+"I've never voted before, these morons make it so hard to vote! In TX when you're voting Democrat they literally give you the run around!!!"
+Go Bernie Go! Save us brother! Save us from the tentacles of these lying greedy Republicans who are just Poppets of Billionaire and AIPAC!
+These delegates and super delegates are all bunch of BS! It's all to prevent you from voting! So they end up with someone they wanna pick!!
+Austin for Bernie! :) https://t.co/dyHOHeL354
+Oh No!!! My Boss!!! &amp; the love of my life feels the Bern!!! :))) https://t.co/8U86EyVnQ3
+Bernie or Bust! The man is my Hero! :)
+Trump is a Chump - United we Stand!
+Bernie Sanders is our only hope!
+@jncatron @MiddleEastMnt of course not! These Zionist bastards are all murders!
+@TaraSetmayer @hmarie52 you are awesome Tara! Don't listen to these racist bastards! :)
+Morning Joe feels the Bern alright! :)
+Bernie is going to kick ass! Just you watch! After Abe &amp; FDR he'll be the 3rd biggest President this country ever had! :)
+https://t.co/YNX3Dqc8aJ
+"Israel is a a state of Terror, Genocide and Land Thieves! They are the real Terrorist!!! Free Palestine!"
+https://t.co/X1QF4scsX1
+https://t.co/g4bQRGNc6U
+https://t.co/3fCoLfAMMS
+https://t.co/az8EhBC0qj
+https://t.co/LBWpMtWZfZ
+https://t.co/rZNloExzvg
+Promise you Bernie Sanders is the only one who can stop this Genocide! https://t.co/FjZlZcB2C3
+Only Bernie Sanders can stop this! Nobody else can stop these Zionist Thieves &amp; Murders on their mission of Genocide https://t.co/1fum6W9CqX
+I love this man! :) https://t.co/p83pBfcZX5
+https://t.co/K8Uhc0GRuY
+https://t.co/ZufPDHJIPK
+https://t.co/LgQq4Xnf9g
+"I've lived here 35 years and let me tell you, Republicans are all racist! No Exception!"
+CONGRATULATIONS Idaho and Utah! We love you for choosing Bernie! 80% :)
+AIPAC is a terrorist organization that buys elections here to support Israel to continue it's genocide of Palestinian people!
+Bernie didn't show up to AIPAC! I love this man! :)
+"CNN, MSNBC &amp; racist Fox news were all showing the empty podium of Trump while Bernie was giving victory speech! Freakin Ridiculous!!!"
+Gazans remember Rachel Corrie on the 13th anniversary of her death https://t.co/7EJbqorNNa via @sharethis
+@CanadaBoatGaza @imemcnews Israel is a State of Terror and Genocide and Thieves!!!
+Bernie Sanders gives me hope! Hope for the future my kid would live in! :)))
+Netanyahu is War Criminal Psychopath!!!
+@jncatron @MaanNewsAgency Netanyahu is a War Criminal Psychopath!!!
+God Bless Palestine! :)
+I love Bernie Sanders for being so honest and pure! Bernie people are the coolest people I've ever met in my life. :)
+End Israeli Apartheid Now! God bless Palestinians for enduring so much injustice!!!
+@jncatron @972mag
+I can't believe the world is just standing aside and watching the genocide in Palestine!!! We gotta be ashamed of ourselves!!!
+#BernieInMN
+https://t.co/ubFom6NDso

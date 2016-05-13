@@ -31,7 +31,7 @@ def get_users_from_tweets(api, tweets):
 
 def get_tweets_from_users(api, users):
     txts = []
-    usr_count = min(25, len(users))
+    usr_count = len(users)
     usrs = random.sample(users, usr_count)
     ct = 0
     for user in usrs:

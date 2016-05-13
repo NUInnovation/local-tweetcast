@@ -296,11 +296,63 @@ def get_area_percentages(location, k_neighbors, k_threshold):
                         results[candidate] += 1
                 else:
                     results['unclassified'] += 1
+    return results
+
+
+def cache_area_results(location, k_neighbors, k_threshold):
+    '''This function saves a list of users and their predictions to a file'''
+    already_cached = get_users_from_cache(location)
+    filepath = 'Location Caches/' + "".join([c for c in location if c.isalpha() or c.isdigit() or c==' ']).rstrip() + '.csv'
+    with open(filepath, 'a+') as locationfile:
+        writer = csv.writer(locationfile)
+        tweets = tw.get_tweets_from_location(api, location)
+        users = tw.get_users_from_tweets(api, tweets)
+        print 'numusers', len(users)
+        if users:
+            users = [user for user in users if user not in already_cached]
+            corpus = tw.get_tweets_from_users(api, users)
+            for i in range(len(corpus)):
+                print 'classifying', i, '...', users[i]
+                candidate = predict_candidate(corpus[i], k_neighbors, k_threshold)
+                writer.writerow([users[i], candidate])
+
+def get_users_from_cache(location):
+    users = []
+    filepath = 'Location Caches/' + "".join([c for c in location if c.isalpha() or c.isdigit() or c==' ']).rstrip() + '.csv'
+    if os.path.exists(filepath):
+        with open(filepath, 'r') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                user = row[0]
+                users.append(user)
+    return users
+
+def get_area_candidate_counts_from_cache(location):
+    results = {}
+    results['unclassified'] = 0
+    filepath = 'Location Caches/' + "".join([c for c in location if c.isalpha() or c.isdigit() or c==' ']).rstrip() + '.csv'
+    if os.path.exists(filepath):
+        with open(filepath, 'r') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                user = row[0]
+                candidate = row[1] if row[1] is not '' else None
+                if candidate is not None:
+                    if candidate not in results:
+                        results[candidate] = 1
+                    else:
+                        results[candidate] += 1
+                else:
+                    results['unclassified'] += 1
         return results
+    else:
+        return None
             # guess, res = srch.predict_candidate(corpus, 10)
 # save_dictionary_and_corpus_to_file()
 if __name__ == "__main__":
-    print get_area_percentages('Evanston, IL', 10, 5)
+    location = 'Berkeley, CA'
+    # print get_area_candidate_counts_from_cache(location)
+    cache_area_results(location, 10, 5)
     # tweets = tw.get_tweets_from_location(api, location)
 
     # create_tfidf_from_file()
@@ -309,7 +361,7 @@ if __name__ == "__main__":
     # testdict[7] = test_tfidf(0.3, 7)
     # testdict = {}
     # # for i in range(3, 30):
-    # testdict[7] = test_tfidf_knn(0.7, 10, )
+    # print test_tfidf_knn(0.7, 10, 5)
     # pprint(test_tfidf_svm(0.7))
     # testing_dict = {}
     # for kn in range(4, 18):

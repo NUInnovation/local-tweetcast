@@ -1,0 +1,117 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 2750105810, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/731089352328024065/5xDsGt41_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/hicaSg7X9j"", ""indices"": [0, 23], ""expanded_url"": ""https://paper.li/WMN4SRVL/1408584540#"", ""display_url"": ""paper.li/WMN4SRVL/14085\u2026""}]}, ""description"": {""urls"": []}}, ""followers_count"": 4722, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""2750105810"", ""profile_background_color"": ""000000"", ""listed_count"": 353, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @ireneberns: @whodoesthat945 @CamelotGypsy @BerninForBernie @MamaB_L @DonaldFTurner https://t.co/L45yZ8fqZG"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731140868476829696, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 358410527, ""indices"": [3, 14], ""id_str"": ""358410527"", ""screen_name"": ""ireneberns"", ""name"": ""Irene Berns""}, {""id"": 4502281634, ""indices"": [16, 31], ""id_str"": ""4502281634"", ""screen_name"": ""whodoesthat945"", ""name"": ""Ms Leah""}, {""id"": 8287732, ""indices"": [32, 45], ""id_str"": ""8287732"", ""screen_name"": ""CamelotGypsy"", ""name"": ""California 4 Bernie!""}, {""id"": 3433390213, ""indices"": [46, 62], ""id_str"": ""3433390213"", ""screen_name"": ""BerninForBernie"", ""name"": ""Austin, Texas""}, {""id"": 3177941678, ""indices"": [63, 71], ""id_str"": ""3177941678"", ""screen_name"": ""MamaB_L"", ""name"": ""MamaB L""}, {""id"": 578327785, ""indices"": [72, 86], ""id_str"": ""578327785"", ""screen_name"": ""DonaldFTurner"", ""name"": ""Donald F Turner""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 358410527, ""source_status_id_str"": ""731137376970412032"", ""expanded_url"": ""http://twitter.com/ireneberns/status/731137376970412032/photo/1"", ""display_url"": ""pic.twitter.com/L45yZ8fqZG"", ""url"": ""https://t.co/L45yZ8fqZG"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg"", ""source_user_id_str"": ""358410527"", ""source_status_id"": 731137376970412032, ""id_str"": ""731137375665950721"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [87, 110], ""type"": ""photo"", ""id"": 731137375665950721, ""media_url"": ""http://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 8, ""id_str"": ""731140868476829696"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@whodoesthat945 @CamelotGypsy @BerninForBernie @MamaB_L @DonaldFTurner https://t.co/L45yZ8fqZG"", ""is_quote_status"": false, ""in_reply_to_status_id"": 731012249616154624, ""id"": 731137376970412032, ""favorite_count"": 8, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 4502281634, ""indices"": [0, 15], ""id_str"": ""4502281634"", ""screen_name"": ""whodoesthat945"", ""name"": ""Ms Leah""}, {""id"": 8287732, ""indices"": [16, 29], ""id_str"": ""8287732"", ""screen_name"": ""CamelotGypsy"", ""name"": ""California 4 Bernie!""}, {""id"": 3433390213, ""indices"": [30, 46], ""id_str"": ""3433390213"", ""screen_name"": ""BerninForBernie"", ""name"": ""Austin, Texas""}, {""id"": 3177941678, ""indices"": [47, 55], ""id_str"": ""3177941678"", ""screen_name"": ""MamaB_L"", ""name"": ""MamaB L""}, {""id"": 578327785, ""indices"": [56, 70], ""id_str"": ""578327785"", ""screen_name"": ""DonaldFTurner"", ""name"": ""Donald F Turner""}], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/ireneberns/status/731137376970412032/photo/1"", ""display_url"": ""pic.twitter.com/L45yZ8fqZG"", ""url"": ""https://t.co/L45yZ8fqZG"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg"", ""id_str"": ""731137375665950721"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [71, 94], ""type"": ""photo"", ""id"": 731137375665950721, ""media_url"": ""http://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg""}]}, ""in_reply_to_screen_name"": ""whodoesthat945"", ""in_reply_to_user_id"": 4502281634, ""retweet_count"": 8, ""id_str"": ""731137376970412032"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""4502281634"", ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Fri May 13 15:01:49 +0000 2016"", ""in_reply_to_status_id_str"": ""731012249616154624"", ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/ireneberns/status/731137376970412032/photo/1"", ""display_url"": ""pic.twitter.com/L45yZ8fqZG"", ""url"": ""https://t.co/L45yZ8fqZG"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg"", ""id_str"": ""731137375665950721"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [71, 94], ""type"": ""photo"", ""id"": 731137375665950721, ""media_url"": ""http://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""und"", ""created_at"": ""Fri May 13 15:15:41 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 358410527, ""source_status_id_str"": ""731137376970412032"", ""expanded_url"": ""http://twitter.com/ireneberns/status/731137376970412032/photo/1"", ""display_url"": ""pic.twitter.com/L45yZ8fqZG"", ""url"": ""https://t.co/L45yZ8fqZG"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg"", ""source_user_id_str"": ""358410527"", ""source_status_id"": 731137376970412032, ""id_str"": ""731137375665950721"", ""sizes"": {""large"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 400, ""resize"": ""fit"", ""w"": 400}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [87, 110], ""type"": ""photo"", ""id"": 731137375665950721, ""media_url"": ""http://pbs.twimg.com/media/CiWFkcaUkAE7cHQ.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 76424, ""description"": ""Best in feminist, pro-queer, anti-nuclear, anti-racist, anti-capitalist, and environmental news and activism from around the world & the web. Intersectionality!"", ""friends_count"": 5043, ""location"": ""WORLD"", ""profile_link_color"": ""00B30C"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/731089352328024065/5xDsGt41_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2750105810/1409413570"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""WomenForSurvival"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 6976, ""screen_name"": ""WMN4SRVL"", ""notifications"": false, ""url"": ""https://t.co/hicaSg7X9j"", ""created_at"": ""Wed Aug 20 19:28:28 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@davidsirota  https://t.co/VpNc4wR1NY
+@davidsirota It's true. #FreeJeanetteJing
+"@davidsirota #FreeJeanetteJing 
+@twitter unjustly suspended her account @support"
+"#CAPrimary CHECK YOUR VOTER REGISTRATION ONLINE PLEASE
+https://t.co/hGBNyyfSi0
+DEADLINE: MAY 23 https://t.co/ocIFXx8jjW"
+#KYPrimary #ORPrimary #CAPrimary #SDPrimary #NDPrimary https://t.co/TS7N6abLvt
+#FreeJeanetteJing Some ppl saw it trending briefly at 18K Rts https://t.co/bhIL4ZREzH
+#KYPrimary #ORPrimary #CAPrimary #SDPrimary #NDPrimary https://t.co/aHr1yDFdVQ
+@DoniaLilly @nani_booboo @50th_President @LeeCamp @TheBpDShow @BLUpfront @aminiaamir @rosariodawson @justinlong @pattonoswalt TY!
+"@RezOKC THANKS “I do not agree with what you have to say, but I’ll defend to the death your right to say it.” – Voltaire"
+"some ppl report seeing it trend, but we have never seen it trend #FreeJeanetteJing @support @twitter REINSTATE HER https://t.co/jkUgpclhdS"
+"T. Jefferson: ""I may not agree with all U say, but I will defend to the death UR right to say it."" #FreeJeanetteJing https://t.co/7LToIW98Xo"
+"Top 10 Reasons Hillary Clinton Should Not Be Elected
+https://t.co/Xnj5A2zvQT"
+"https://t.co/Pg0zeNiJcL
+#FreejeanetteJing
+FREE SPEECH MATTERS
+Even if we don't agree, we defend our right to speak."
+"All these archived political posts have been unjustly silenced by @twitter:
+https://t.co/LTyZpQ8q0Z
+#FreeJeanetteJing"
+#FreeJeanetteJing https://t.co/DSok0TTMKd
+"@bernbirdiebern @Bernie4People @JeanetteJing 
+We R only RTng accounts w/ her pic for rest of day in honor of this tireless warrior
+#FreeJing"
+"@KathyJoLloyd2 @NicoleJeanLTL @BLUpfront @JeanetteJing u can rt-click &amp; save pic, go to yr profile, click on yr pic, change pic, find saved"
+@Astra543 @Bernie4People #FreejeanetteJing - someone saw it trending briefly b4 it disappeared w/ 18K Rts
+"@burnodo @Bernie4People @madfloridian @I3ump @panegron #FreeJeanetteJing
+We R only Rtng accts w/ her profile pic for rest of day"
+"#SeeYouInPhilly
+BERNIE CAN STILL WIN THE NOMINATION!
+https://t.co/1a1H0dajiN https://t.co/nQqhh8eH51"
+@funkinatrix @Bergerholz @twitter @Support We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@BajaAZ4Bernie @tweets4quin @twitter We are only RTng accounts with @jeanettejing profile pics for today #FreeJeanetteJing
+@ToConservatives She has already done so. We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+#FreejeanetteJing #seeYouInPhilly https://t.co/Y4YJ0itpyK
+Have been upset by it all morning. Only RTng accounts w/ her profile pic for rest of day in solidarity. #FreeJing https://t.co/p8Xh34auca
+@MichaelSalamone @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+"@anonbene @JeanetteJing BTW, insults get u blocked. We R RTng in honor of a tireless warrior for truth bcz FREE SPEECH MATTERS."
+@annlrandall @JeanetteJing @twitter We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing #FreeJeanetteJing
+@epstein4bcnjsrg @JeanetteJing @HillaryClinton @BernieSanders We R only RTng accts w @jeanettejing profile pics for today #FreeJeanetteJing
+"@NancyRog11 @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing @support
+#FreeJeanetteJing"
+"We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+#FreeJeanetteJing
+@support https://t.co/2mSbWNQ14P"
+@WorldForBernie @twitter @HillaryClinton @JeanetteJing We R only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+"We are only RTng accounts with @jeanettejing profile pics for today 
+#FreeJeanetteJing
+FREE SPEECH MATTERS https://t.co/K28HZ4qEQM"
+@ejwensing @twitter @jack @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@NicoleJeanLTL @BLUpfront @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@eshaLegal @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@GeorgeBernardK @eshaLegal @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+"@DinahBernista @MamaB_L @DaphneW50161589 @IanMolony @BlackWomen4Bern @Support #WeAreJeanetteJing
+We R only RTng accts w/ @jeanettejing pics"
+@etrnlvista @JeanetteJing @twitter We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@TommyBoy504 @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@bosnianglilly @70torinoman @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@KickGamePropers @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@KickGamePropers @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@GeorgeBernardK @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@Citizenpmroy @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@pinko_snob @Laurie_Ayyy @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@anonbene @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing @twitter @support https://t.co/582naWfehR
+@JSithavady @TheYoungTurks @BernieSanders @JeanetteJing We R only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@vschirf @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@PeterETyrrell @twitter @Support @JeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@shebamariba @MsNonoESQ @JeanetteJing @ireneberns We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@breezyrobin @Support @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today #WeAreJeanetteJing
+@PeterETyrrell @twitter @Support @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today
+@jbsteenbergen @biz @ev @jack @twitter @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today
+@ToConservatives @DoniaLilly @50th_President @LeeCamp @TheBpDShow @BLUpfront @aminiaamir @rosariodawson @justinlong @pattonoswalt #FREEJING
+@PappyKorn @MichaelSalamone @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@BernPress @JeanetteJing @jerseygirlnb #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@passport2hauteT @AleahRN @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@LiberalLaHippie @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@CDZ_999 @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@panegron @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@MsNonoESQ @JeanetteJing #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@Ian56789 @JeanetteJing @twitter @Support #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+#FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for the rest of today in her honor  https://t.co/nJWezBySLs
+@WorldForBernie @twitter @HillaryClinton #FreeJeanetteJing We are only RTng accounts with @jeanettejing profile pics for today in her honor
+@scook2214 We are only RTng accounts with @jeanettejing profile pics for rest of day in honor of this tireless warrior for truth @twitter
+"""I may not agree w/ everything you say, but I will defend to the death your right to say it."" - TJefferson
+#FreeJing https://t.co/KADtOrSQXn"
+"@WSJ @nytpolitics @BBCBreaking Would YOU TOLERATE BEING SILENCED THE WAY @twitter has silenced @jeanettejing?
+#WeAreJeanetteJing"
+"This is the last video @jeanettejing posted before hr @twitter suspension. https://t.co/RZnSP4L55c  
+We R only RTng tweets w/ JJ profile pic"
+"#FreeJeanetteJing
+#WeAreJeanetteJing
+ https://t.co/KpbxBKahfW"
+"#WeAreJeanetteJing @twitter @support
+ https://t.co/Kx1LbOLqfW"
+Wonderful! We R only RTing accounts that have changed their profile pic for the rest of the day. Free speech matters https://t.co/sqpq7xPEFQ
+"For today we will only RT those w/ @jeanettejing profile pics.
+FREE SPEECH MATTERS
+#WeAreJeanetteJing
+#FreeJing
+ https://t.co/Gp4xxJ7ZLm"
+"@jimvaccaro1 There must be something more we can do!! 
+Support free speech #WeAreJeanetteJing @support
+Temp change profile pic!!"
+"@ActualFlatticus @twitter @JeanetteJing's archive: https://t.co/0rFvC4VJQR  
+Support free speech #WeAreJeanetteJing
+Temp change profile pic!"
+"@BernieTheBest1 @JeanetteJing's archive: https://t.co/0rFvC4VJQR  
+Support free speech #WeAreJeanetteJing @support
+Temp change profile pic!!"
+"@Sudi_KT @Support @JeanetteJing's archive: https://t.co/0rFvC4VJQR  
+Support free speech #WeAreJeanetteJing @support
+Temp change profile pic"
