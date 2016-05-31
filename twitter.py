@@ -16,7 +16,7 @@ def get_tweets_from_location(api, loc):
 
 def get_tweets_from_geo(api, loc_geo):
     q = ""
-    geocode = "{0},{1},{2}".format(loc_geo.latitude,loc_geo.longitude,"5mi")
+    geocode = "{0},{1},{2}".format(loc_geo.latitude,loc_geo.longitude,"15mi")
     a = api.search(q=q,geocode=geocode, count=100)
     return a
 

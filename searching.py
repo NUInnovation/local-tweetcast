@@ -14,6 +14,7 @@ from sklearn import svm
 import pickle
 import twitter as tw
 import tweepy
+import time
 from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET
 # logging for gensim
 # logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -347,12 +348,59 @@ def get_area_candidate_counts_from_cache(location):
         return results
     else:
         return None
+def runshit():
+    try:
+        f = open('ohio-counties.txt')
+        ohio_counties = f.read().split('\n')
+        for county in ohio_counties:
+            filepath = 'Location Caches/' + "".join([c for c in county if c.isalpha() or c.isdigit() or c==' ']).rstrip() + '.csv'
+            if county != '' and not os.path.exists(filepath):
+                cache_area_results(county, 10, 5)
+    except:
+        time.sleep(60 * 15)
+        runshit()
             # guess, res = srch.predict_candidate(corpus, 10)
 # save_dictionary_and_corpus_to_file()
 if __name__ == "__main__":
-    location = 'Berkeley, CA'
-    # print get_area_candidate_counts_from_cache(location)
-    cache_area_results(location, 10, 5)
+    # runshit()
+    # print ohio_counties
+    # location = 'Adams Co unty, Ohio'
+
+    # tfidf, index, dictionary, id_to_path_dict, corpus = create_tfidf_from_file()
+    # wordfreqs = {}
+    # for candidate_handle in candidate_handles:
+    #     wordfreqs[candidate_handle] = {}
+    # # for wordid, word in dictionary.iteritems():
+    # #     print wordid, word
+    # # for key, val in id_to_path_dict.iteritems():
+    # #     print key, val
+    # for i in range(len(corpus)):
+    #     doc = corpus[i]
+    #     supporterpath = id_to_path_dict[i]
+    #     for candidate_handle, folder_name in candidate_supporter_tweets_folders.iteritems():
+    #         if folder_name == supporterpath.split('/')[0]:
+    #             true_candidate = candidate_handle
+    #     for wordwordcounttup in doc:
+    #         if wordwordcounttup[0] not in wordfreqs[true_candidate]:
+    #             wordfreqs[true_candidate][wordwordcounttup[0]] = wordwordcounttup[1]
+    #         else:
+    #             wordfreqs[true_candidate][wordwordcounttup[0]] += wordwordcounttup[1]
+    # for candidate, candidatewordcounts in wordfreqs.iteritems():
+    #     pprint([(dictionary[tup[0]], tup[1]) for tup in sorted(candidatewordcounts.items(), key=lambda x: x[1], reverse=True)][:30])
+    #     print candidate
+    # for doc in corpus:
+        # print doc
+    # dict1 = get_area_candidate_counts_from_cache(location)
+    # percentages = {}
+    # total_supporters = 0
+    # for candidate, supportercount in dict1.iteritems():
+    #     if candidate != 'unclassified':
+    #         total_supporters += supportercount
+    # for candidate, supportercount in dict1.iteritems():
+    #     if candidate != 'unclassified':
+    #         percentages[candidate] = supportercount / float(total_supporters)
+    # print percentages
+    # cache_area_results(location, 10, 5)
     # tweets = tw.get_tweets_from_location(api, location)
 
     # create_tfidf_from_file()
