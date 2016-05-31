@@ -1,0 +1,118 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 712298250678611968, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/728424415898177536/JBLqTss__normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 206, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""712298250678611968"", ""profile_background_color"": ""000000"", ""listed_count"": 11, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @BernieVolunteer: DO U NEED A RIDE TO CONVENTION?  Let's discuss how U can get there.\nJuly 25\u201328. #Philadelphia #PA Wells Fargo Center h\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731152007604535296, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 695062579073409024, ""indices"": [3, 19], ""id_str"": ""695062579073409024"", ""screen_name"": ""BernieVolunteer"", ""name"": ""#ForThePeople""}], ""hashtags"": [{""indices"": [101, 114], ""text"": ""Philadelphia""}, {""indices"": [115, 118], ""text"": ""PA""}], ""urls"": [], ""media"": [{""source_user_id"": 695062579073409024, ""source_status_id_str"": ""731130843826032641"", ""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731130843826032641/photo/1"", ""display_url"": ""pic.twitter.com/twXcJKpclc"", ""url"": ""https://t.co/twXcJKpclc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg"", ""source_user_id_str"": ""695062579073409024"", ""source_status_id"": 731130843826032641, ""id_str"": ""731129674781196289"", ""sizes"": {""small"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""large"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""medium"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""thumb"": {""h"": 118, ""resize"": ""crop"", ""w"": 118}}, ""indices"": [139, 140], ""type"": ""photo"", ""id"": 731129674781196289, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 144, ""id_str"": ""731152007604535296"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""DO U NEED A RIDE TO CONVENTION?  Let's discuss how U can get there.\nJuly 25\u201328. #Philadelphia #PA Wells Fargo Center https://t.co/twXcJKpclc"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731130843826032641, ""favorite_count"": 142, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [80, 93], ""text"": ""Philadelphia""}, {""indices"": [94, 97], ""text"": ""PA""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731130843826032641/photo/1"", ""display_url"": ""pic.twitter.com/twXcJKpclc"", ""url"": ""https://t.co/twXcJKpclc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg"", ""id_str"": ""731129674781196289"", ""sizes"": {""small"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""large"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""medium"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""thumb"": {""h"": 118, ""resize"": ""crop"", ""w"": 118}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 731129674781196289, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 144, ""id_str"": ""731130843826032641"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 14:35:51 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731130843826032641/photo/1"", ""display_url"": ""pic.twitter.com/twXcJKpclc"", ""url"": ""https://t.co/twXcJKpclc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg"", ""video_info"": {""aspect_ratio"": [110, 59], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/CiV-kMYUgAErFjI.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""731129674781196289"", ""sizes"": {""small"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""large"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""medium"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""thumb"": {""h"": 118, ""resize"": ""crop"", ""w"": 118}}, ""indices"": [117, 140], ""type"": ""animated_gif"", ""id"": 731129674781196289, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 15:59:57 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 695062579073409024, ""source_status_id_str"": ""731130843826032641"", ""expanded_url"": ""http://twitter.com/BernieVolunteer/status/731130843826032641/photo/1"", ""display_url"": ""pic.twitter.com/twXcJKpclc"", ""url"": ""https://t.co/twXcJKpclc"", ""media_url_https"": ""https://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg"", ""source_user_id_str"": ""695062579073409024"", ""source_status_id"": 731130843826032641, ""video_info"": {""aspect_ratio"": [110, 59], ""variants"": [{""url"": ""https://pbs.twimg.com/tweet_video/CiV-kMYUgAErFjI.mp4"", ""bitrate"": 0, ""content_type"": ""video/mp4""}]}, ""id_str"": ""731129674781196289"", ""sizes"": {""small"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""large"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""medium"": {""h"": 118, ""resize"": ""fit"", ""w"": 220}, ""thumb"": {""h"": 118, ""resize"": ""crop"", ""w"": 118}}, ""indices"": [139, 140], ""type"": ""animated_gif"", ""id"": 731129674781196289, ""media_url"": ""http://pbs.twimg.com/tweet_video_thumb/CiV-kMYUgAErFjI.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 2966, ""description"": ""The peasants are angry. We have come to eat the rich."", ""friends_count"": 292, ""location"": """", ""profile_link_color"": ""1B95E0"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/728424415898177536/JBLqTss__normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/712298250678611968/1461330879"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Bcuz Fuck This"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1989, ""screen_name"": ""name47z"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Mar 22 15:21:51 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Because who the fuck else is even coming remotely close to this. It's a step in the right direction. LONG overdue https://t.co/dxuRC4SJgB
+The age of impunity https://t.co/DjCtDzoJXK via @BostonGlobe #EnoughIsEnough
+7 things to worry about more than transgender people in a bathroom @mathewrodriguez https://t.co/5KGWTcY8WB via @MicNews
+"@panchovilla9999 @janeosanders they have them all ready 2 go, just #ReleaseTheTranscripts not that hard"
+@midnight attack of the sun dried tomatoes
+'A silent catastrophe': Chilean fishermen protest failure to mitigate toxic 'red tide' https://t.co/YrWTYykiHt
+@SenatorCantwell ONE candidate works with the tribes. ONE. let's get some REAL change going on.
+"@IowaPeg ahhh, well that makes a lot of sense then, on why u support ur candidate. Wonder how much they have improved in the last 8yrs. ?"
+"@elizabethforma Dam woman, ALL u tweet about is @realDonaldTrump ? Come on, move into some of your own issues. Your embarrassing yourself"
+"@Heather28df @MsRock4Ever No, it's not funny. 
+It was meant to further expand on the actual horror of what happened. No amount of $ is enoug"
+"@IowaPeg what state? They didn't cover any services? DSHS DDD? Real question, not a troll question"
+@Jarmadillos who knew that what it looks like? Huh.
+"Stealing? I don't see it that way, more like 'this is rad just the way it is, I want others to see it' idk https://t.co/SDZbKlkxR8"
+#IWasBlockedFor who knows? I want that god like power over someone. That would be rad
+"@IowaPeg You know why the military has such high rates of autism, right? Is she going to flip in this 2? Or rather, misspeak. Again."
+@IowaPeg this 'plan' is rehashing things already in play. What state doesn't provide services? All of those things are ahead in play
+@IowaPeg @FluffySays What candidate for has an autism platform? Got a kid on the spectrum $hill &amp; drumpf dont either. Healthcare wud help us
+@MsRock4Ever @Heather28df *doubt
+"@MsRock4Ever @Heather28df I actually dont know. I dought it, an what wud B the going rate of compensation for sterilization? No diapers?"
+@ThankYouBernie @Landorcan .....? Goodnight
+Seems legit https://t.co/lk4j4bWDAk
+@DeptofDefense greeeeeeaaat.....
+"@michaelallenmar She is limping along w the help of #ExitPollGate, no idea y the South hates themselves so much they vote Hillary. Bizarre"
+"@MsRock4Ever @Heather28df well, they got caught doing it in SC anyway"
+"That crazy Bernie, more overflowing crowds show up to boo him https://t.co/NiIoYAKlgE"
+"@maryaliceparks @ND4Bernie Weird, you have to have signed up 2 get that email. They send those out all the time. Just like the DNC/GOP"
+"@LeeCamp the world Bank, heroin is the new oil, Native anything really. Anything about the tribes. The Native Holocaust that NO ONE mentions"
+No other people have been treated so shamefully. And it's completely ignored by everyone. #NativeLivesMatter https://t.co/uq2EUN5NCM
+#FrackOff #DropOutHillary #ImWithHer @HillaryClinton u support this https://t.co/HvppaP0ypu
+#DropOutHillary https://t.co/SW4au8utdQ
+I'm. So. Shocked. #CrookedHillary ? Nooooo https://t.co/TPONFyc9m6
+@SJBSchu @FAIRmediawatch that's what they want. Don't buy into it. They are delusional
+@evil_avatar we live in a country that incarcerates more people than China. Prisons for profit is evil at its core. Sry u can't see that
+"@evil_avatar @WhichhHilllary I would #Doyourownresearch more but, looks like you got some readin to do. L8r have a good day"
+@evil_avatar @WhichhHilllary https://t.co/67ZDgiXudh
+@evil_avatar @WhichhHilllary https://t.co/PbDL26WYiu
+@evil_avatar @WhichhHilllary
+@evil_avatar @WhichhHilllary American Civil Liberties Union https://t.co/iM9uvPHODC via @aclu
+@evil_avatar @WhichhHilllary the bigger picture of the profit prison system
+@evil_avatar @WhichhHilllary oh it's far from over https://t.co/5gaYb8Yc7h
+@evil_avatar @WhichhHilllary Try to step back and see the bigger picture. That's all
+That #CrazyBernie https://t.co/WJJjBoXdw9
+"#CrazyBernie sees the conspiracy, and is doing something about it https://t.co/oqBYDwyMdm"
+"@FAIRmediawatch @SJBSchu Remember when they ran 16 fucking articles in what, a day? They are digging their own grave"
+"#CrazyBernie Y is he pandering to Canada! His lavish friendship w key leadrs seems suspicious, wait thats the Saudis https://t.co/qtlrnJZt4b"
+@CrazyYoHi @GlennHeiser I've noticed Twitter doesn't like #CrazyBernie anymore...Odd....
+"#CrazyBernie and his passion for change. Doing overtime, what a buffoon. https://t.co/KgHN7WV3zY"
+"#CrazyBernie and the #ORPrimary ! Just a bunch of white, rural, young men. Nothing to see here, move along https://t.co/UisCoXCUyh"
+That #CrazyBernie all those people waited for hours and hours to boo him! https://t.co/WMZyTkismv
+@Bern_Naste @WickNWares #CrazyBernie wants her to #ReleaseTheTranscripts ! U believe that shit?!
+Ffs ppl STOP SCREWING THE VOTERS https://t.co/0E4Niw6aqr
+"#CrazyBernie and his unpaid, non biased journalist swarm. https://t.co/sK9R54bX7O"
+"#CrazyBernie focused on people's lives. Fuck the poor, they are subhuman https://t.co/mBMyf1Wdo8"
+He got that #CrazyBernie swag https://t.co/OJXdqLI39r
+Crazy Bernie can economy to potato... https://t.co/0h2TT1Nguc
+"That crazy Bernie Sanders, protesting for the darkies, what an ass https://t.co/I8IfzhAjgT"
+"Crazy Bernie, wants her 2 #ReleaseTheTranscripts what an ass!"
+"Crazy Bernie, all these people came to boo him https://t.co/UruCPOc2y6"
+"That Crazy Bernie, drawing thousands, bringing in new voters, what a douche"
+"@GlennHeiser @BernieSanders if money is pple, and banks are 4 money, then would breaking them up be like breaking an arm? Start w/the neck"
+"Oh that crazy Bernie, wants everyone to have healthcare! Can you believe that shit?!"
+CIA And Satanism - https://t.co/iQPbtdLjrk via @YouTube
+Jesus H Christ. Berners flipping for $hill have no place in my feed #NeverHer #NeverHillary #BernieOrBurnItDown
+"@inartic hmm, not gunna happen. ever."
+"Bernie’s campaign is fizzling, only attracts 21,000 people to rally in Sacramento - https://t.co/X8IPTUEg2A"
+I love West Virginia https://t.co/UZOKdne0hr
+"Because, nothing to see here, move along https://t.co/yzYL9bH2PV"
+Little evidence to prove anything illegal Clinton aide reported to have walked out of FBI interview https://t.co/BcTiljBmoN offs
+@aheffne Journalism has died. Who would let that go as an answer?
+"@HAGOODMANAUTHOR move along, nothing to see here"
+@RT_com Over here in America he would have been shot dead. Beaten then killed if they had dark pigmentation.
+"@aheffne She made a very important and clear point, one her predecessors were unable to do in the manner in wich she was able to make points"
+It's the end of the internet as we know it https://t.co/y8pQ2s3RnA
+"Of course she does. Have to protect special interest donors. I mean, Israel, yeah Israel https://t.co/0gwni4ew9E"
+#ImNotEvilImJust rambling on about nothing https://t.co/LVjaT1hnsP
+#ImNotEvilImJust doing business
+#ImNotEvilImJust not releasing the transcripts
+#ImNotEvilImJust tired of getting screwed by the man.
+#ImNotEvilImJust #WithHer
+#ImNotEvilImJust poisoning water for profit
+Good reminder https://t.co/JioYVm51EP
+"*We come from the WV coal mines, *country roads, take Bernie home https://t.co/wlCGL5bQ7w"
+@ND4Bernie @zhaabowekwe @TribesForBernie @NativeIndian4Be @Natives_4Bernie @Native_NewsNet it's this stuff right here
+#NativeVote16 #NativeMomsTaughtMe to believe in the only candidate talking with the tribes https://t.co/GiD1Lm9gJv
+This is just fucking awesome https://t.co/p2ySd810DH
+@Bernie_Facts @HillaryClinton https://t.co/19xwlxHRdQ
+"Bernie Sanders Sacramento, California Rally: The Pictures You Need to See https://t.co/qbeOHxsVzD"
+"@Old_Bern_Kenobi of course since it was all her personal emails they aren't subject to the freedom of info act, but that's a coincidence"
+@Bernie_Facts @JoyAnnReid #MillionDollarTrolls
+@realDonaldTrump @RedRising11 makes about as much sense as poc voting for Hillary
+@ArabsForBernie agreed
+"@ArabsForBernie it is a very well researched spread sheet showing stats thus far, a fellow Berner made it #BernieOrBust, no disrespect!"
+@UtopiasTaint @kujakupoet @political_ppl @DrJillStein @BernieSanders https://t.co/ILl143Syxz
+@Dywebs @HillaryClinton https://t.co/2i7CwXWEAy
+@funkinatrix @FiercelyZen #math https://t.co/rgc474ycD5
+#ImWithHer #mondaymotivation CURL: Why Hillary Clinton’s health matters: https://t.co/KRetZHB9jg via @washtimes @HillaryClinton
+I don't even https://t.co/2UygwOI5k5
+"@ThankYouBernie @janiecefarris @SmartStik @TheDemocrats people finally realizing we live in an over militarized police state, good"
+@Old_Bern_Kenobi omg. That is SO bad! They expect people to by into that shit?! BAHAHAHAHAHAHAHAHA!!!!!! FFS
+"#Poverty is your broken tooth ripping your cheek, and wondering if a nail file will help smooth it out"
+"Because, donating blood is boring if you can't look at nature pic https://t.co/hXvvtC3Li0"
+"@ArabsForBernie because, #math https://t.co/W9B6nXhmom"
+#ReleaseTheTranscripts https://t.co/RlwTiRhIaj
+"@name47z Meaning, a lower birth rate coupled with a virus that causes birth defects could be detrimental to the black community. Not good."
+@ReelRotation27 @VanJones68 @jimvaccaro1 @MarkRuffalo maybe they can't afford it. Only made a few billion this year
+Because caring about ppl shouldn't be a radical idea https://t.co/0y8CJwlxdB
+Because WE the MOTHERFUCKING people https://t.co/klqRIiYZIp
+"@charlesfrith I didn't throw a tantrum, it made me sick. Now I'm ready to throw a tantrum. Every1 thinks I'm crazy when I try 2 talk abt ths"
+@charlesfrith wasnt he killed for not going along with the attempted takeover of Cuba by the world Bank/Rothschild world plan?
+@charlesfrith why not give them disguises at the very least?
+@charlesfrith I remember watching this on the news and thinking it was bizarre those 3 were just waking around. It was so fake. Why?
+"Because, #NeverHillary https://t.co/kdkFMAOCJN"
+@Twitlertwit @CamelotGypsy @akeleven @RaniaKhalek Nope. https://t.co/PjYhpskdts
+"@SplottDave @Aliprism Offs. That doesn't even make any sense. HTF are we allowing this, seriously"
+FUCKING ridiculous https://t.co/Iv4GnJBkUF
+@JSidote @CamelotGypsy Apparently we are. I'm ready to start fires and hasten it's arrival

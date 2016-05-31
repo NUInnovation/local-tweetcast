@@ -1,0 +1,68 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 108195456, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme18/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": {""full_name"": ""Livermore, CA"", ""url"": ""https://api.twitter.com/1.1/geo/id/159279f05be2ade4.json"", ""country"": """", ""place_type"": ""unknown"", ""bounding_box"": null, ""contained_within"": [], ""country_code"": """", ""attributes"": {}, ""id"": ""159279f05be2ade4"", ""name"": ""Livermore, CA""}, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/719416492899500032/6Dzq-mV2_normal.jpg"", ""profile_sidebar_fill_color"": ""F6F6F6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 50, ""profile_sidebar_border_color"": ""EEEEEE"", ""id_str"": ""108195456"", ""profile_background_color"": ""ACDED6"", ""listed_count"": 8, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @lsarsour: \""Against all authority, except my mother.\"" #HappyMothersDay https://t.co/M6VAO8wbOB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729525973608071168, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 27187343, ""indices"": [3, 12], ""id_str"": ""27187343"", ""screen_name"": ""lsarsour"", ""name"": ""Linda Sarsour""}], ""hashtags"": [{""indices"": [57, 73], ""text"": ""HappyMothersDay""}], ""urls"": [], ""media"": [{""source_user_id"": 27187343, ""source_status_id_str"": ""729388013692792832"", ""expanded_url"": ""http://twitter.com/lsarsour/status/729388013692792832/photo/1"", ""display_url"": ""pic.twitter.com/M6VAO8wbOB"", ""url"": ""https://t.co/M6VAO8wbOB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg"", ""source_user_id_str"": ""27187343"", ""source_status_id"": 729388013692792832, ""id_str"": ""729388007606890497"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [74, 97], ""type"": ""photo"", ""id"": 729388007606890497, ""media_url"": ""http://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 224, ""id_str"": ""729525973608071168"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""\""Against all authority, except my mother.\"" #HappyMothersDay https://t.co/M6VAO8wbOB"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 729388013692792832, ""favorite_count"": 380, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [43, 59], ""text"": ""HappyMothersDay""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/lsarsour/status/729388013692792832/photo/1"", ""display_url"": ""pic.twitter.com/M6VAO8wbOB"", ""url"": ""https://t.co/M6VAO8wbOB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg"", ""id_str"": ""729388007606890497"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [60, 83], ""type"": ""photo"", ""id"": 729388007606890497, ""media_url"": ""http://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 224, ""id_str"": ""729388013692792832"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Sun May 08 19:10:28 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/lsarsour/status/729388013692792832/photo/1"", ""display_url"": ""pic.twitter.com/M6VAO8wbOB"", ""url"": ""https://t.co/M6VAO8wbOB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg"", ""id_str"": ""729388007606890497"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [60, 83], ""type"": ""photo"", ""id"": 729388007606890497, ""media_url"": ""http://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Mon May 09 04:18:40 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 27187343, ""source_status_id_str"": ""729388013692792832"", ""expanded_url"": ""http://twitter.com/lsarsour/status/729388013692792832/photo/1"", ""display_url"": ""pic.twitter.com/M6VAO8wbOB"", ""url"": ""https://t.co/M6VAO8wbOB"", ""media_url_https"": ""https://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg"", ""source_user_id_str"": ""27187343"", ""source_status_id"": 729388013692792832, ""id_str"": ""729388007606890497"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [74, 97], ""type"": ""photo"", ""id"": 729388007606890497, ""media_url"": ""http://pbs.twimg.com/media/Ch9Oh0jWsAEmif9.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": null, ""statuses_count"": 508, ""description"": ""Cha(lle)nge everything."", ""friends_count"": 155, ""location"": ""Livermore, CA"", ""profile_link_color"": ""038543"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/719416492899500032/6Dzq-mV2_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/108195456/1460357202"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme18/bg.gif"", ""name"": ""Lizzzzzz"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 311, ""screen_name"": ""lizznarf"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon Jan 25 04:37:48 +0000 2010"", ""contributors_enabled"": false, ""time_zone"": null, ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+Adding to my best books ever collection @auntiesbooks #bookstoreday https://t.co/Nn6CxTF1Nj
+@eelawl1966 at least they'd finally be paying for something useful (not that I make $250K)
+"The only gateway to heroin is pain: physical, emotional, or spiritual, not pot. #MSM you are the worst.  https://t.co/o6vKb5q38y"
+SF police brutality and war on homeless leads to hunger strikes https://t.co/wrtgf5IGfV
+Apparently you can now legally put your dick in an unconscious persons mouth in Oklahoma #rapeculture https://t.co/o5PuI6usul
+We need to shift our goals: seek enlightenment rather than stuff.
+I think I just peed a little.  https://t.co/Jycbjp758X
+"Vote for civil servants, not politicians.  https://t.co/t5siehwkS1"
+Just made a donation to Jill Stein. This is the progressive party. #ItsInOurHands! https://t.co/Uykgm2ddij
+@MalyndaNyc @veggie64_leslie This picture is San Francisco. America already looks like this.
+@tarintowers the teams are both trying to win. They need to score the most points. #sportscasting
+Good thing you get two grandpas. #CoolGrandpaBiden #GrandpaBernie https://t.co/0izEnXMhnK
+@thelindywest I bet you don't have much debt from that.
+#UsNotMe I love @JustinTrudeau  https://t.co/EoKhtQpDQ0
+"I'm supporting this fundraiser, please check it out: 'Stray cat/dog rescue ' -  https://t.co/55jPLXR0Wz"
+"@pink_ninja @sandersfangirl sweet, I've got to go to Berkeley on Sunday, I'm gonna swing by for a selfie!"
+Omg I can't breathe for laughing. I had no idea that being thin was so expensive! https://t.co/x0tvp1M1bg
+"Prince, American music superstar and pioneer, dies aged 57 https://t.co/WGpTfhkjZ3"
+https://t.co/GjtyF2pLpd
+It's not over...#hastaelfinal  https://t.co/FmkHKhTG0A
+"Ditto. My vote is for the people, not just me.  https://t.co/JdxMWNEcQh"
+Still haven't heard back. #VoterSuppression #VoterPurge #VoterFraud https://t.co/VqWddJRpxW
+@pink_ninja @sandersfangirl Where in Oakland?
+Fuuuuuuuuu... https://t.co/jeotdjhvVq
+You let em kick you 5 times they kick you five times but if you break off they fucking feet aint gonna be no more kickin
+@NPR I'd rather have the Trail of Tears on the back.
+@StrikklyRealDea It's like the $hill doesn't even want our votes.
+Report voter registration problems here: https://t.co/jhUzMA5hvc #VoterSuppression #VoterPurge
+I stand with @DrJillStein: it's time to #BanFrackingNow and move to 100% clean renewable energy! #ItsInOurHands https://t.co/yG1y9adDj6
+#StillSanders #HastaElFinal https://t.co/jojFUBJBn5
+"Upstate NY Eatery Devotes Sandwiches to Bernie Sanders, Hillary Clinton https://t.co/3x4nOyVhAm"
+Tell Congress It’s Time to Automatically Register Every American to Vote - Sign the Petition! https://t.co/VJp78J3ZBT via @Change
+@LeeCamp Probably. My voter registration disappeared out here in CA.
+Legalized theft.  https://t.co/GHAM2RySSv
+DNC wants to raise the voting age to 35? https://t.co/S4WpLnXOQK
+I Won't Vote For Hillary Because I Don't Vote For Republicans https://t.co/cZLmDPRGAy via @HuffPostPol
+"@Mariel_Bailey Or your registration just disappears. Oh yeah, that's me suddenly not registered to vote. https://t.co/KsbNhxpjYD"
+Looks like California doesn't want me to vote. #VoterSuppression https://t.co/C9ErdiBDmq
+Sign it! End superdelegates! Support @AlanGrayson https://t.co/Gf6XNVmzCV
+Because #Ididmyresearch https://t.co/56IqA9mSVF
+@eilatan5445 Berners are SERIOUS. https://t.co/Xr3K5EFYPB
+@eilatan5445 Was that you? https://t.co/96iEfhElsS
+LIVE Bernie Sanders Rally in Brooklyn’s Prospect Park New York (4-17-16) https://t.co/7uMvxwnxU3 via @YouTube
+I liked a @YouTube video from @inewsuniverse https://t.co/V0e4hDXUev LIVE Bernie Sanders Rally in Brooklyn’s Prospect Park New York
+Now that's an endorsement. https://t.co/0nBnXcEXqr
+"After death threat, Keith Ellison slams ISIS https://t.co/3JM79AWAl6"
+@alecia_noelle Boys&amp;Girls $hillary is here to say: You're all suckers.
+#lifeimitatesart https://t.co/Rvuny5B9TI
+@docrocktex26 Elect officials who refuse PAC money. Small individual donations only. Constitutional amendment repealing Citizens United.
+Total #BernieBros https://t.co/PWMNkJQ8XB
+Make being a spectator at dogfights a felony https://t.co/3mkSClxPDV via @Change
+"Sometimes I feel that if the people of the US don't want revolution for good, we should just embrace our downfall as a nation."
+@veggie64_leslie she should check out a homeless in SF tent.
+@veggie64_leslie And that's someone doing alright!
+@Walmart try paying your workers a living wage.
+@neilhimself Looking forward to reading this already well loved copy of Coraline. Thanks @GoodwillIntl https://t.co/wD6mI1yEr4
+...to actual sex workers https://t.co/jkJMWd33V4
+"@billclinton when you say something wrong, try saying sorry. #blm https://t.co/jkJMWd33V4"
+"@emilyslist I'm with @LucyFlores  if you can't support her, maybe time to go in for @cathymcmorris #feminist https://t.co/W26oj1EhEz"
+"Me too. Very, very much.  https://t.co/rmvoPEhndP"
+"Addiction is a disease, not a crime. Marijuana is safer than alcohol. #Endwarondrugs https://t.co/ctrTnwCwf7"
+@goodbyethirdway @tomwatson That word doesn't mean what he thinks it means.
+"Just like herpes, the internet is forever. https://t.co/gy996fg4Nq"
+@eelawl1966 https://t.co/gb0Q4k4anD This one's not actually true.
+KING: Why I disagree with The News endorsing Hillary Clinton https://t.co/FMe1GHg6H1
+Why I’m Supporting Bernie Sanders https://t.co/b5l7UdRveN Sen. Merkley (D-OR) found the #bridgetobernie
+@LarryWebsite Time to vote them out of office. https://t.co/UvsmdViKsx

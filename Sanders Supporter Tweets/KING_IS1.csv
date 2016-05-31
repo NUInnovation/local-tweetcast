@@ -1,0 +1,199 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": false, ""profile_text_color"": ""000000"", ""default_profile_image"": false, ""id"": 705585036108685312, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/705633983728525313/M2e14xfW_normal.jpg"", ""profile_sidebar_fill_color"": ""000000"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 153, ""profile_sidebar_border_color"": ""000000"", ""id_str"": ""705585036108685312"", ""profile_background_color"": ""000000"", ""listed_count"": 25, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""Yes, HRC doesn't have anyone's back &amp; doesn't care about security of the U.S #FeelTheBern #imwithher #ShesWithUs https://t.co/260cS1T4Kx"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731159755041857536, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [{""indices"": [81, 93], ""text"": ""FeelTheBern""}, {""indices"": [94, 104], ""text"": ""imwithher""}, {""indices"": [105, 116], ""text"": ""ShesWithUs""}], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/KING_IS1/status/731159755041857536/video/1"", ""display_url"": ""pic.twitter.com/260cS1T4Kx"", ""url"": ""https://t.co/260cS1T4Kx"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/731159642072592388/pu/img/p6Y7AxG3GXWuVV7W.jpg"", ""id_str"": ""731159642072592388"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""photo"", ""id"": 731159642072592388, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/731159642072592388/pu/img/p6Y7AxG3GXWuVV7W.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 0, ""id_str"": ""731159755041857536"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:30:44 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""additional_media_info"": {""monetizable"": false}, ""expanded_url"": ""http://twitter.com/KING_IS1/status/731159755041857536/video/1"", ""display_url"": ""pic.twitter.com/260cS1T4Kx"", ""url"": ""https://t.co/260cS1T4Kx"", ""media_url_https"": ""https://pbs.twimg.com/ext_tw_video_thumb/731159642072592388/pu/img/p6Y7AxG3GXWuVV7W.jpg"", ""video_info"": {""aspect_ratio"": [1, 1], ""duration_millis"": 30000, ""variants"": [{""url"": ""https://video.twimg.com/ext_tw_video/731159642072592388/pu/vid/480x480/ZrXNn4AzARS9o3cn.mp4"", ""bitrate"": 832000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/731159642072592388/pu/vid/240x240/3aO_KjYxy-jEHuTT.mp4"", ""bitrate"": 320000, ""content_type"": ""video/mp4""}, {""url"": ""https://video.twimg.com/ext_tw_video/731159642072592388/pu/pl/YLcSAnIJKWHisM55.mpd"", ""content_type"": ""application/dash+xml""}, {""url"": ""https://video.twimg.com/ext_tw_video/731159642072592388/pu/pl/YLcSAnIJKWHisM55.m3u8"", ""content_type"": ""application/x-mpegURL""}, {""url"": ""https://video.twimg.com/ext_tw_video/731159642072592388/pu/vid/720x720/EjxM80J5n4a5JRKA.mp4"", ""bitrate"": 1280000, ""content_type"": ""video/mp4""}]}, ""id_str"": ""731159642072592388"", ""sizes"": {""small"": {""h"": 340, ""resize"": ""fit"", ""w"": 340}, ""large"": {""h"": 720, ""resize"": ""fit"", ""w"": 720}, ""medium"": {""h"": 600, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [117, 140], ""type"": ""video"", ""id"": 731159642072592388, ""media_url"": ""http://pbs.twimg.com/ext_tw_video_thumb/731159642072592388/pu/img/p6Y7AxG3GXWuVV7W.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -18000, ""statuses_count"": 1687, ""description"": ""Independent Product Developer,\n\nGuitar enthusiast, Dog (King) who I live for, Neat Freak, Animal rights-Animals are not commodities, Anti-Zoos, #BeRnIeOrBuSt"", ""friends_count"": 174, ""location"": ""Chicagoland IL, USA"", ""profile_link_color"": ""1B95E0"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/705633983728525313/M2e14xfW_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/705585036108685312/1457332325"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Brad Lee"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1484, ""screen_name"": ""KING_IS1"", ""notifications"": false, ""url"": null, ""created_at"": ""Fri Mar 04 02:45:56 +0000 2016"", ""contributors_enabled"": false, ""time_zone"": ""Central Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"Yes, HRC doesn't have anyone's back &amp; doesn't care about security of the U.S #FeelTheBern #imwithher #ShesWithUs https://t.co/260cS1T4Kx"
+"Typical stammer, stutter then misdirection. #SmokeAndMirrors #FeelTheBern #imwithher #ShesWithUs #bernieorbust https://t.co/ZKlT5ViXCh"
+She was aware of importance of classification. #FeelTheBern #imwithher #ShesWithUs #hillyes #guilty #NeverHillary https://t.co/EBzTRxuSlL
+"I love Hillbots only defense is ""look at the numbers""....yeah, look at Trumps numbers too, with no experience. Doesn't mean he would b good?"
+@mlisalebeau I worry about our security too(more than budget)W/HRC'S abysmal SOS record. Reason her trust &amp; fav rating in toilet &amp; flushed
+@mlisalebeau I think he should release everything. I agree..
+"@mlisalebeau ok, another missed point...:-("
+"@mlisalebeau &amp; all the women that had courage 2 speak up how her husband treated them,Hill tried to add to their pain by going after them"
+That's all u got? How many women did B.C have affairs with? She stays with him? Strong woman? Then attacks accusers? https://t.co/sEoZrgADm0
+@ABC @dozerrand Good. They should never serve the public ever again...disgraceful
+@mlisalebeau How is that apples &amp; oranges?She says he must b hiding if he won't release.She won't release her transcripts.What's she hiding?
+"@mlisalebeau nice try, he released his taxes. Same principle. She says he must be hiding something if he won't release?"
+"#NeverTrustanyoneWho  ""fights 4 women's rights"" , then pays men 38% more than women who work @ Clinton Foundation https://t.co/ebLUtVuyoN"
+#NeverTrustAnyoneWho says Trump must be hiding something if he won't release Taxes #releasethetranscripts #hypocrite https://t.co/ebLUtVuyoN
+#NeverTrustAnyoneWho is under multiple FBI INVESTIGATIONS (also one for Clinton Foundation) #feelthebern #imwithher https://t.co/ebLUtVuyoN
+"@michaelallenmar DWS biased obviously, then trying to fill convention with mostly HRC supporters, Comcast donates to HRC....it all reeks😞"
+"#Superdelegates Bernies trust &amp; favorability ratings are incredible, beats Trump by a larger margin than HRC, isn't under FBI investigation"
+"Attn: #Superdelegates * Bernie beats Trump by 22 pts among independents, while Clinton loses independents to Trump by 2 points. #feelthebern"
+"@BonnieGranny @bad_bad_bernie I really have to be honest, when I see this picture my stomach starts to twist and my blood pressure rises😵"
+"@FedUpPolitics So I stopped with CNN, then MSNBC, now I am on the verge of being ""Fox news free"" because of the insane Trump coverage."
+@Liz57268892 @freethinkerhub I love how Bernie has brought us together like this. I feel sorry for ppl who are supporting anyone else
+An intern starting wage at the Clinton Foundation makes $14.98/hr. minimum. Pretty close to $15 if u ask me. #feelthebern #BernieOrBust
+"Dear Hillary supporters, Men get paid 38% more than women that work 4 the Clinton Foundation.#oops #equality #ShesWithUs #ImWithHer #hillyes"
+"https://t.co/jhFRYLI1vK
+Yes, Hillary is a total hypocrite...&amp; is a faux feminist
+#FeelTheBern #imwithher #ShesWithUs #hillyes #hillno"
+"https://t.co/p1j9oSw76K
+Keep denying the truth...You are supporting a very dishonest candidate
+#ShesWithUs #ImWithHer #hillyes #hillno"
+#FeelTheBern #ShesWithUs #ImWithHer #hillyes #hillno #bernieorbust #neverhillary https://t.co/43siSQou6s
+@FedUpPolitics aww..come on. Hillary can't be this crooked and corrupt. I'm sure this is just a smear https://t.co/S5U9GcgquH
+"@AlisonSpalding2 Yes, &amp; when Hillbots say we ""whine"" about S.D....those shady early commitments is why we are pissed."
+"https://t.co/6DMkWgr3WQ
+This is how she would stumble if asked about her hypocracy on Trump releasing his taxes #FeelTheBern #imwithher"
+@heatherhair81 @HillaryClinton @BernieSanders @maddow @MSNBC she clearly thinks everybody including her supporters are stupid
+Exactly....Why doesn't she want to #ReleaseTheTranscripts #hypocrite #ShesWithUs #ImWithHer #FeelTheBern #hillyes https://t.co/XatMoxoSdm
+@FoxNews We don't nearly care as much about Trump as your coverage this morn. suggests. #thinice #FeelTheBern #BernieOrBust
+It is so funny that was expecting to wrap this up over 3 months ago. People don't trust or like her...they see through her #neverhillary
+"@PatsCSW @Gelz209 @HillaryClinton @CharlesOrtel of course it's shady...the foundation title has the word ""Clinton"" in it...😉"
+"@bad_bad_bernie what's exciting about a man who is leading a revolution, who came from -59 pts in beginning to big wins, funded by the 99%😀"
+"@bad_bad_bernie Yes, it sucks b/c so much bias towards her from CNN MSNBC etc. Hillary Vs. Trump equals higher ratings...like Jerry Springer"
+"@bad_bad_bernie @aminiaamir yes, really the actions after possible recommended indictment/ leaks will be just like an indictment politically"
+"@bad_bad_bernie yes, and if and when that happens it will have devastating results even if they recommend indictment and doj does nada"
+@bad_bad_bernie @aminiaamir copy😀
+"@ErinBrockovich  if he's crazy visionary,  I would take that over a psychopathic flip flopping corrupt power hungry warmonger any day!!"
+"@bad_bad_bernie @aminiaamir by that u mean she will b fair 2 appoint outside b/cbias exists? Also, what do u mean when u say act on FBI?"
+@subliminal_cat and yet Comey is a Republican...dare I say he may want Hillary against Trump so then he can drop the bomb? #feelthebern
+"@aminiaamir @bad_bad_bernie and if it's a tight race now, what happens if/when FBI leaks if Lynch doesn't do her job
+#bernieorbust #hillyes"
+"https://t.co/K13bnlKY1d
+This shows that @MSNBC remains ridiculous &amp;#Bernie remains focused &amp; classy#FeelTheBern #BernieOrBust"
+@MalyndaNyc I agree..she is blatantly hiding them...do her supporters not care how fake and slippery she is? #ImWithHer #ShesWithUs #hillyes
+@fightdenial @HillaryClinton @MichaelSalamone Now she is saying Trump gave speeches and won't release unless he does. How fucking childish!
+@HillaryClinton You are running against Bernie presently who has no transcripts.Forget Trump. You are hiding a lot!!! #ReleaseTheTranscripts
+@CDZ_999 that is the only logical assumption we have to make when she won't release. Excuses so lame saying when Trump does she will
+"@ILoveBernie1 I found the transcript (LOL) of the interview..she says Trump has been paid 4 speeches, when he releases she will. What a joke"
+@ILoveBernie1 @gmulligan38 so in this interview what was the actual reason she said? I can't find this interview
+#FeelTheBern #ShesWithUs #ImWithHer #hillyes #BernieOrBust #neverhillary #DropOutHillary #hillno https://t.co/YboFICgoJ1
+"@gmulligan38 Yes...it's not the ""Federal Bureau of routine inquiries""... But Investigation. Nice try HRC #ShesWithUs #ImWithHer #hillyes"
+"Crunch time: with recent polls in swing states, HRC supporters have to decide if they want Trump as POTUS #ShesWithUs #ImWithHer #hillyes"
+"https://t.co/viX5weQLH2
+Your lies and cover-ups are just a few reasons people are not voting for U. #ImWithHer #ShesWithUs #hillyes #guilty"
+"Yes, there is a separate investigation into the Clinton Foundation. Not conspiracy #ShesWithUs #ImWithHer #hillyes #hillno #bernieorbust"
+"Why doesn't Cheryl Mills not want 2 answer ""why the server was set up for Hillary?"" #FeelTheBern #BernieOrBust #neverhillary #DropOutHillary"
+"@celiabonavita @barbos2 let's keep our fingers crossed. There are so many negatives surrounding her at all times, justice has to happen!!"
+"@celiabonavita @ImWithHerBcause Wow, that pretty much sums her up...and oh yeah, track record and judgement as SOS was horrendous😞"
+"@celiabonavita @barbos2  I also beleive investigations are going on with the ""foundation"" as some emails found suggested more red flags😵"
+"@RiversDecas @MargaretDudley1 @TheDemocrats This political system will crumble (by the system's own doing and by ""we the people"")"
+@RiversDecas @MargaretDudley1 @TheDemocrats Thats Debbie Downer for you....what a joke of a system.
+@TheBaltimoreCVS impatient?....vs. wanting incremental change that is not working like Obama &amp; HRC? If by impatient U mean sense of urgency
+"@TweetingYarnie @Twitlertwit @zachhaller Well said...ppl voted for her in '08 are either no longer with us, or they wised up + new voters!!😀"
+"@lynnrose789 @ThankYouBernie Exactly, she's already been clear on not getting on board with his progressive policies,I'm sure he wouldn't VP"
+#imwithher #bernieorbust #sheswithus #dropouthillary https://t.co/TW5X4QI8Gp
+"That is how flawed HRC is, the only thing she has(being a woman) &amp; she can't even make that work 4 her #feelthebern https://t.co/KvgQbZhAcp"
+@ThankYouBernie Ughhhh..that's why I proudly #occupycnn &amp; #occupymsnbc ........ #lamestreammedia
+@hillaryclinton #imwithher #sheswithus #hillyes #hillno #bernieorbust #neverhillary #dropouthillary #feelthemath https://t.co/HL4CsYNnZI
+Incredible..Bernie is the Man! Easy....that's not a sexist remark either PC peeps.😀 https://t.co/c4MQTxrMyR
+@TravisRuger @IBTimes and her supporters can't defend her abysmal judgement and actions..or favorability or trust ratings..
+@ProgressivGreen I think even her supporters know that they would greatly hurt her campaign if she released them Less negative if she doesnt
+Her supporters will support her if she says anything #ShesWithUs #ImWithHer #hillyes #BernieOrBust #neverhillary https://t.co/RX4sXQ4TA9
+@NCForBernie @barbos2 seems like the foundation is all kinds of illegal? As SOS I will bet she indeed did favors 4 countries for $donations
+@Of_the_People7 @PoliticsPeach @MagoffinShane @CNN @MSNBC yes..what a waste...at least the 10.5 currently isn't with Crooked Hill.
+@azjillybean I think she knew she couldn't dig herself out after she told miners she was going to put them out of jobs. Oops
+#FeelTheBern #CAPrimary #NJPrimary #ShesWithUs #ImWithHer #hillyes #BernieOrBust #neverhillary  #DropOutHillary https://t.co/Xiw0BtpjmI
+@ARoss02 @PoliticsPeach @CNN @MSNBC @EuliEul @Glertsgal @sbledso_e Thanks much!
+@PoliticsPeach @CNN @MSNBC let's hope that extra 10% goes to Bernie and does not go to Hillary.
+@PoliticsPeach @CNN @MSNBC I was just wondering the same thing. Google results show the same
+@TerminatorBarbi I just commented on how Bill and Hillary are most likely together just for political power.  that's all
+@TerminatorBarbi hmm. Maybe you misinterpreted something. I am a Bernie for lifer
+@BeantownBop She did try 2 back track after the fact(as always)It just shows her judgement is horrible &amp; shes always defending her stupidity
+Can you reverse the water flow for hot days? Sometimes you want to get wet... https://t.co/0BCIuJnSB9
+"@LiberalLaHippie &amp; Clinton announcing she isn't on board with his progressive policies, further advances and grows the #BernieOrBust 's"
+@MisterAime @NicoleJeanLTL taking into consideration liberal voters are more prone to participate in exit polls than conservatives...
+"@MisterAime On @FoxNews today, exit polls from NE &amp; WV suggested nearly 50% of Bern supporters would vote for Trump in Fall if he faces HRC"
+"@ShaunKing We are engaged on twtitter because we have a passion 4 Bernie and disdain for HRC. Hillbots simply get paid for their ""passion"""
+How do u say that u r going 2 put a lot of coal miners out of work &amp; not realize u r going 2 lose a lot more people #feelthebern #WVPrimary
+How screwed up..This person should be in jail for life. #FeelTheBern #NeverHillary #BernieOrBust #ImWithHer  https://t.co/a4I6JOcxBf
+"Anyone who trusts her has blinders on.Her regular judgement sucks, but add special interest $ =Trouble #FeelTheBern  https://t.co/OHlCNNbIXn"
+#ImWithHer #sheswithus #hillyes #neverhillary #bernieorbust https://t.co/3c2SkSqnsC
+"@TerminatorBarbi @mhazaaaaaa @MamaB_L Yes, her tolerance for Bill's infidelity just shows me that they are only 2gether for political power"
+@saneprogressive @Xaron4 @GottaLaff @nicolesandler @Cronikeys this pic is laughable
+"Hillary Clinton’s Long History of Targeting Women https://t.co/FQld1aJPPT
+HRC called Flowers ""trailer trash"" #FeelTheBern #imwithher #hillno"
+"@bad_bad_bernie Pagliano and his deleted emails, or lack there of is a #RedFlagWarning #FeelTheBern #NeverHillary #hillno"
+King's 2nd Water Treadmill session went well yesterday! He's slowly gaining Mobility every day #dogs #slippeddisc https://t.co/FjXvsGVssC
+State Department says it can't find emails from Clinton IT specialist | Fox News |  https://t.co/NWYl2WPG2Q
+#FeelTheBern #NeverHillary #hillno #bernieorbust https://t.co/RgBUDdgeW0
+"https://t.co/DaTidSSCXz
+Make light of your criminal activity, mock the FBI. 1 more reason I am #NeverHillary 
+#BernieorBust #FeeltheBern"
+https://t.co/IlaMx237i1 Judge Jeanine is credible... #feelthebern #imwithher #sheswithus #bernieorbust
+"https://t.co/2qR9kllDun
+#feelthebern #imwithher #sheswithus #bernieorbust"
+"@Tristanshouts Her homebrew server wasn't 2 official either, that's what got her into big trouble in regards to putting our security @ risk"
+@Tristanshouts Laughter hides the pain.😉
+"@Tristanshouts FBI does INVESTIGATIONS not inquiry's &amp; when someone breaks the law it isn't a conspiracy,its a crime https://t.co/EAiXbYcTh2"
+"@LA_Crystal @Tristanshouts @ThankYouBernie Clinton prefers ""review"" but it is an investigation. Federal Bureau of Investigations....😉"
+@LA_Crystal @Tristanshouts @ThankYouBernie lol.Fine an FBI CRIMINAL REVIEW...😀
+@LA_Crystal I just blocked her ignorance...
+@Tristanshouts @LA_Crystal @ThankYouBernie Typical avoidance of the facts.
+@Tristanshouts @LA_Crystal @ThankYouBernie HRC supporters love smoke and mirrors.....and blinders
+"@Tristanshouts @LA_Crystal @ThankYouBernie Typical, not addressing the fact she's being criminally investigated...just like Hillary is doing"
+@Tristanshouts @LA_Crystal @ThankYouBernie but I personally think Hillary won't lose the Gen. Elec. b/c she won't be in it...😉
+"@Tristanshouts @LA_Crystal @ThankYouBernie If she loses its b/c DNC pissed off Bern supporters, Hillary's trust ratings,&amp; FBI Crim. Invest"
+@Tristanshouts @LA_Crystal @ThankYouBernie But then Hillary supporters can't be whining if Hillary loses General by blaming Bern supporters
+"@Tristanshouts @LA_Crystal @ThankYouBernie OK, if someone is whining about supers then OK, it's wrong"
+"@Tristanshouts @LA_Crystal @ThankYouBernie if Bernie had 14 delegates and HRC had 2200, I would still be supporting Bernie"
+@Tristanshouts @LA_Crystal @ThankYouBernie I respect that.
+"@freethinkerhub @jamesmurph66 the longer people do their research they start to find the same thing.Bernie isn't perfect, but no one better"
+"@jamesmurph66 @freethinkerhub WTF? You clearly are all over the place. Rape incest,the Pope? I'm Bockin..don't want 2 b bothered by this guy"
+@freethinkerhub @jamesmurph66 Orange is definitely her color https://t.co/8UU9O5fdwr
+"@freethinkerhub @jamesmurph66 Yes, she is terrified now b c Trump can completely focus on tearing her apart, while Bernie wins primaries"
+@jamesmurph66 @freethinkerhub polls are like the bible...you can find a verse somewhere to fit your agenda....
+"@jamesmurph66 @freethinkerhub that's the diff.U call names (dumb rubes etc). your free 2 do so,but it makes u less credible(&amp; likeable)"
+@Tristanshouts @ThankYouBernie ok. Sure. Get well soon.
+@jamesmurph66 @freethinkerhub lol Denying math is exactly the point my friend.U deny the math that dictates the NeverHillary's make her lose
+"@jamesmurph66 @freethinkerhub how's HC gonna win General? Indys, Bernie or Buster's, she does poor in open prim. + FBI CRIM. INVESTIGATION"
+Ironic she has trouble with the female vote...#ImWithHer #ShesWithUs #hillyes #fauxfeminism #FeelTheBern #hillno https://t.co/y7P5YAgoGP
+"@chinoisdEtats @mkgratz Yes, Her supporters are far more dangerous than HRC...You can't start a fire without a spark..."
+Absolutely 100% True! Flawed candidates have to resort to Hillary's tactics.#ImWithHer #ShesWithUs #hillyes  #hillno https://t.co/WjPGt5radr
+#ImWithHer #ShesWithUs #hillyes #BernieOrBust #hillno #neverhillary https://t.co/JjvbmueqXj
+Revolutions don't always start in desperate times....Revolutions can start when we get a glimpse of better opportunities #FeelTheBern
+"@ThankYouBernie @Tristanshouts did he say ""fair""? DWS as DNC chair, Super delegates committing b4 voting in their states, purges? Lol. Ok"
+"@bad_bad_bernie Yes, and as it's known, the way she attacked the women who spoke up against Bill won't be forgotten either..."
+"@BenjaminNorton @barbos2 @WSJ @Salon There is a shocker..Wall Street LOVES her, I am sure"
+@DWSTWEETS @HillaryClinton #BernieOrBust #neverhillary #FeelTheBern #imwithher #ShesWithUs #hillyes #hillno https://t.co/jRpuwNr9Y6
+"https://t.co/XUxP1FiOUV
+Give a REAL journalist this interview and they would have had the right responses to her shitty ones. #Feelthebern"
+"Bill Clinton’s ex-lover opens floodgates on ‘Crooked Hillary’s’ past https://t.co/CsoYadAYPG via @worldnetdaily
+#feelthebern #crookedhillary"
+#ImWithHer #ShesWithUs #hillyes #BernieOrBust #hillno #neverhillary https://t.co/6eIFtKi034
+#FeelTheBern #BernieSanders #Hillno #BernieOrBust #neverhillary #Election2016 https://t.co/dlo7quLNJc
+"@JudyJones1990 @sanderswinsbig lol. Like her poor judgement,corrupt history,favorability and trust ratings don't exist...smoke &amp; mirrors!"
+This would be a great! https://t.co/rT2ANbOUtm
+#ImWithHer #ShesWithUs #hillyes #FeelTheBern #BernieOrBust #neverhillary #hillno https://t.co/NmpaJp4xTk
+"@feistybunnygirl @MarieMurcelle1 @rmiskimens even if that were actually true,it would pale in comparison 2 taking big $$ from spec. interest"
+"@HillaryClinton If you actually get E. Warren to run w/ you, it won't make a difference. It won't  erase your poor judgment.  #FeelTheBern"
+@LIBsouthernGRL  The only reason she hasn't is b/c releasing speeches are probably more harmful than not releasing. I don't think she will..
+"@bad_bad_bernie I want my pic w/ Chelsea.It's like going 2 Disneyland &amp; getting your pic w/Goofy, except the pic w/Goofy is more valuable"
+@DWStweets #ShesWithUs #ImWithHer #hillyes #hillno #bernieorbust #neverhillary https://t.co/D7bQGAdhAg
+"Just relaxin on a beautiful Sunday....Happy #MothersDay to all the great ""Moms"" out there! #dogsunday #dogsoftwitter https://t.co/wgH2YHijO7"
+"@sharbrothers @CARSONKING5TV Yes, about the only thing positive about it is it maybe will create some jobs for a bit...."
+"https://t.co/eIUKX51E5P  I really just have to say...F√©k #CNN &amp; F√©k #MSM in the most sincere way. #OccupyCNN 
+#feelthebern #hillno"
+@womanINtransit @NYDailyNews let's get Bill Deblasio on the case. He's an honest fellow I'm sure of it....maybe Debbie W.S can help out too😉
+"@WallStreetShill @HillaryClinton wouldn't for for Hillary if the Pope, Dalai Lama,or God himself/herself were collectively her running mates"
+@womanINtransit @NYDailyNews It is so frustrating...Suspending a clerk w/o pay doesn't do the disenfranchised voters any good
+"@womanINtransit @NYDailyNews what do they mean when they say ""Yet it is expected to certify the April 19 primary results Thursday.""?"
+"After voting,there should b a tally on the county website w/ a voter ID# &amp; then show the totals.That way we know we were counted #voterfraud"
+"@PhroydsWorld , the schadenfreude in me wants to see her go down so bad, but I do have to let go a little bit. I have a little obsession"
+@PhroydsWorld key words in article : CNN reported.......totally disqualifies the article IMO
+@creditease I don't think Bill would care. I think they are partners in crime &amp; are with each other 4 political gain &amp; power at this point
+"https://t.co/hac5OeIIgJ
+#FeelTheBern #msm #BernieOrBust"
+"With the Clintons, it isn't just their judgment , it's always the cover ups!  The most crooked gruesome twosome ever.
+#NeverHillary #HillNo"
+"@victoria2dcme sorry, what do you mean white house Fri night dump?"
+#imwithher #sheswithus #hillyes #hillno #bernieorbust #neverhillary #dropouthillary https://t.co/2YzOL8zCqX
+@Maynard1Rick @Gelz209 @politico @Quicksilver2723 she's appalling....
+"https://t.co/KNoK9eZ8vM
+And where did this ever lead to? Clinton Foundation is obviously just a front. Where's justice? #feelthebern #hillno"
+"@alexandrabrinn lol.I remember that and Boomerang. If I remember correctly, I think Dist. Gent. is fitting .Corruption in Washington, right?"
+#NeverHillary #BernieOrBust #FeelTheBern #warmonger #hillno #DropOutHillary https://t.co/NhXGq6qx1v
+"No, she doesn't have multiple personalities. Just one elitist, psychopathic, corrupt one #neverhillary #bernieorbust https://t.co/3qfdLlgb5j"
+I'm going out on a limb...Real feminists would never want Hillary being the first Woman POTUS #tarnish #feelthebern #imwithher #sheswithus
+@zachhaller Am I correct in thinking she is the only candidate ever that has been under an FBI CRIMINAL INVESTIGATION?
+"@Liberalthelorax if shes the nom, I hope that isn't true....Maybe he will spiral on purpose....realizing he really doesn't want to be POTUS"
+"Think of everything corrupt about #HillaryClinton. Now, think of how many things we must not even know about.. #FeelTheBern #BernieOrBust"
+@AlisonSpalding2 The only reason Warren would ever agree to that is to keep a close eye on her...thank god she doesn't want a bad reputation
+"@ArcticTidalSurg @shells2014 Yes. It is truly unfathomable.  The FBI investigations, possible deposition, and her history...So many blind"
+This says it all. #Bernie is just like u &amp; me. I cant see HRC having a sense of urgency to do anything #feelthebern https://t.co/PPgtUPBNmS
+@EricShaeffer @MSNBC lmao
+"Yes Debbie, if u try to fill ""your"" convention primarily w/ HRC supporters, your party will crumble even further #FeelTheBern #bernieorbust"
+"Seriously, what are the odds that a husband and his wife are both truly qualified 2 b POTUS? #NeverHillary #FeelTheBern #BernieOrBust"
+We could save a lot of time and $ if we all #FeelTheBern #Bernieorbust #neverhillary https://t.co/E9bN5lZQOi
+"@BlackWomen4Bern I don't know you, but I know what you stand for. I love you for saying that!"
+@WatchableNow @Caitlyn_Jenner no thank you.
+"@DWStweets Tread lightly. If u try and fill the convention with HRC supporters, the party will crumble further. #FeelTheBern #BernieSanders"

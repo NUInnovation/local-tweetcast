@@ -16,7 +16,7 @@ def get_tweets_from_location(api, loc):
 
 def get_tweets_from_geo(api, loc_geo):
     q = ""
-    geocode = "{0},{1},{2}".format(loc_geo.latitude,loc_geo.longitude,"5mi")
+    geocode = "{0},{1},{2}".format(loc_geo.latitude,loc_geo.longitude,"15mi")
     a = api.search(q=q,geocode=geocode, count=100)
     return a
 
@@ -31,7 +31,7 @@ def get_users_from_tweets(api, tweets):
 
 def get_tweets_from_users(api, users):
     txts = []
-    usr_count = min(25, len(users))
+    usr_count = len(users)
     usrs = random.sample(users, usr_count)
     ct = 0
     for user in usrs:

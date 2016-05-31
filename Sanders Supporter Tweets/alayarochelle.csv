@@ -1,0 +1,122 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": true, ""profile_use_background_image"": true, ""profile_text_color"": ""11DEDB"", ""default_profile_image"": false, ""id"": 29484927, ""profile_background_image_url_https"": ""https://pbs.twimg.com/profile_background_images/663933169/vy15y8tit55g9zqezsta.jpeg"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/729457863001702400/R3F7c1xc_normal.jpg"", ""profile_sidebar_fill_color"": ""DDFFCC"", ""entities"": {""url"": {""urls"": [{""url"": ""https://t.co/FeEeqAccpB"", ""indices"": [0, 23], ""expanded_url"": ""http://ineffablyss.tumblr.com"", ""display_url"": ""ineffablyss.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 2937, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""29484927"", ""profile_background_color"": ""4E1D59"", ""listed_count"": 33, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @ryyyderrr: found in ATL \ud83d\ude02 https://t.co/U3MfjfbyvZ"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731166807462019073, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 611898256, ""indices"": [3, 13], ""id_str"": ""611898256"", ""screen_name"": ""ryyyderrr"", ""name"": ""NIC\u2661LE""}], ""hashtags"": [], ""urls"": [], ""media"": [{""source_user_id"": 611898256, ""source_status_id_str"": ""731166153528115200"", ""expanded_url"": ""http://twitter.com/ryyyderrr/status/731166153528115200/photo/1"", ""display_url"": ""pic.twitter.com/U3MfjfbyvZ"", ""url"": ""https://t.co/U3MfjfbyvZ"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg"", ""source_user_id_str"": ""611898256"", ""source_status_id"": 731166153528115200, ""id_str"": ""731166141364604933"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 800}, ""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 419, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [30, 53], ""type"": ""photo"", ""id"": 731166141364604933, ""media_url"": ""http://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""731166807462019073"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""found in ATL \ud83d\ude02 https://t.co/U3MfjfbyvZ"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731166153528115200, ""favorite_count"": 10, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [], ""media"": [{""expanded_url"": ""http://twitter.com/ryyyderrr/status/731166153528115200/photo/1"", ""display_url"": ""pic.twitter.com/U3MfjfbyvZ"", ""url"": ""https://t.co/U3MfjfbyvZ"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg"", ""id_str"": ""731166141364604933"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 800}, ""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 419, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 731166141364604933, ""media_url"": ""http://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 4, ""id_str"": ""731166153528115200"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:56:10 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/ryyyderrr/status/731166153528115200/photo/1"", ""display_url"": ""pic.twitter.com/U3MfjfbyvZ"", ""url"": ""https://t.co/U3MfjfbyvZ"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg"", ""id_str"": ""731166141364604933"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 800}, ""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 419, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [15, 38], ""type"": ""photo"", ""id"": 731166141364604933, ""media_url"": ""http://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:58:45 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 611898256, ""source_status_id_str"": ""731166153528115200"", ""expanded_url"": ""http://twitter.com/ryyyderrr/status/731166153528115200/photo/1"", ""display_url"": ""pic.twitter.com/U3MfjfbyvZ"", ""url"": ""https://t.co/U3MfjfbyvZ"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg"", ""source_user_id_str"": ""611898256"", ""source_status_id"": 731166153528115200, ""id_str"": ""731166141364604933"", ""sizes"": {""large"": {""h"": 558, ""resize"": ""fit"", ""w"": 800}, ""small"": {""h"": 237, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 419, ""resize"": ""fit"", ""w"": 600}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [30, 53], ""type"": ""photo"", ""id"": 731166141364604933, ""media_url"": ""http://pbs.twimg.com/media/CiWfu0_UkAU6XpS.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -25200, ""statuses_count"": 61485, ""description"": ""i wanna do cool shit like travel the world, learn everything abt everything, open my 3rd eye, & unlock that other 90% of my brain. like matilda. you know?"", ""friends_count"": 568, ""location"": ""Out There \u2653\ufe0f\u2650\ufe0f\u2652\ufe0f"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/729457863001702400/R3F7c1xc_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/29484927/1389803506"", ""profile_background_image_url"": ""http://pbs.twimg.com/profile_background_images/663933169/vy15y8tit55g9zqezsta.jpeg"", ""name"": ""\u26a1\ufe0f\u00e3l\u00e2\u00ff\u00e5 \u2604"", ""lang"": ""en"", ""profile_background_tile"": true, ""favourites_count"": 38272, ""screen_name"": ""alayarochelle"", ""notifications"": false, ""url"": ""https://t.co/FeEeqAccpB"", ""created_at"": ""Tue Apr 07 16:39:55 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Pacific Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+chance! the rapper! ☄
+"@opal_forest cleanse"" w clay &amp; eventually u can use whichever one you'd like, just coconut oil, or nothing ☺️ but idk. just ordered the clay"
+"@opal_forest deodorant is the last ""bad"" thing I'm switching over too, &amp; same thing is happening to me. I read that u should do an ""armpit"
+"I request another dream 
+I need a forest fire."
+making a list of 3 things I'm grateful for every morning before setting my intentions is a nice breath of fresh air every time💓⚡️
+one year ago 💕 https://t.co/awEXAjJ7pK
+"@CassandraRules if Bernie doesn't make it, &amp; it's trump vs Hillary, I'd rather trump get elected so that Bernie has a shot in 4yrs &amp; not 8🙊🙈"
+Taurus sun Leo moon type shit
+@urinnate mmm me too. it's one of the secrets to life.
+finally at about the same level of flexibility that I was at this time last year before I stopped stretching 💜
+@cxltyn I will definitely consider that next time 👼
+@cxltyn what benefit was I receiving from him at any time?
+@cxltyn how should I have handled the situation coltyn? i am ALL ears! 👂🏼
+@cxltyn that's why I stopped looking him in the eyes &amp; kicked him tf out of my house. is that not real enough for you?!
+@cxltyn lmao well why would anyone be talking shit about me? I was just lettin a dude live on my couch.... nothin really to say
+@cxltyn no shade to u but I know you're deeply misinformed &amp; barely paying any attention to the situation so imma ignore ü homie 💞
+@cxltyn I know right? sometimes I need to hop up off my pedestal to remind ppl they got me all the way fucked up 💅🏼
+@spiritedyouth_ there is a disturbance in the force
+@cxltyn 👼👼👼
+@halluciluna lol I love you 💕💞💕
+exactly 💞🌸 https://t.co/mBLb4BVeE8
+it sucks when you realize the majority of ur friends r being manipulated by an evil reptilian shapeshifter.
+@krisguardi I actually did date a guy like this one time.
+I have to take THREE classes this summer. 😅
+@kahleeweber thank you babe! ☺️
+I miss this hair &amp; this sweater so much. https://t.co/EBkxhxoDfy
+@ElliePharmakeia @HIEROSIGHT @hierosound 😽😽😽💜
+are you guys following @HIEROSIGHT? &amp; @hierosound? ☺️
+@ElliePharmakeia people def take it more seriously in California
+people that don't jaywalk confuse me. deeply.
+"the first station recommended for me on Apple Music is ""chillin in the bathtub"" &amp; I'm fuckin sold."
+the. beetles.  https://t.co/Ns9nkCZaHR
+the thorns are showing.
+@priya_ebooks I'm 5'9 &amp; always wanted to be 5'7 tbh. *sigh*
+@JAYYCAM are you Jason from vine?
+Quebec teen discovers ancient Mayan ruins by studying the stars https://t.co/Fue6s0Hbyx via @Yahoocanada
+"gonna call my mom &amp; both my gmas today 🌸
+I encourage ü to do the same if they're still in this dimension
+if not, light a candle &amp; call them🔮"
+fml I meant election. I hate typosz
+I can't believe this ejection even ruined lady gaga for me.  https://t.co/mmzOWyCg0k
+smoked out of a volcano vaporizer for the first time in like 7 years tonight
+@lilmsragerr hope you had a wonderful birthday Robyn ☺️💜
+I think I'm gonna start wearing bras again. it sounds fun.
+@_joymc miss u already 💞
+@austynnicolee thanks babe 😽😽
+@passthatversace same 💞💜🌸
+2016. https://t.co/ECzufO0TtL
+@JAYYCAM wow yes. what a compliment.
+blessing ü with these since I'm at the old LA zoo again 😽 https://t.co/mYkoeQ9Nea
+RTing babes is a lifestyle.
+the fact that I have an actual 8th sense for proximity to hummingbirds.
+but that's why I'm buying my own island TBH. one of the many reasons.
+i wish I could run for president. I'm honestly sad I've been a public crackhead before.
+"just felt hella cool recognizing a song on the jazz station... then i realized it's bc the song is in ""who framed roger rabbit?"""
+"happy double new moon in Taurus! 
+spend today being productive, cleansing your environment, &amp; setting intentions for the cycle ahead
+🌙♉️☀️♉️"
+It’s Happening: Democratic Party Officials to Vote on Eliminating Superdelegates https://t.co/DDpch3tTtn
+@emmi__babi WOW that sounds amazing 😻
+@RayontheMoon saaaame! very true lol
+@iErickDGAF ignorance is bliss 😭 but who wants to be ignorant about anything? not I
+@RayontheMoon he's definitely Prince Charming 💞 money budget God might be a slight exaggeration though lol
+Christian just sat me down &amp; made me budget out my money. I cried.
+I hope you had an AMAZING birthday @emmi__babi! you deserve everything wonderful ☺️ birthdays at HP world are officially goals. 💜💜
+"we pick a party based on our beliefs... &amp; then if we don't like our eventual nominations for presidency, we pick the lesser of 2 evils?"
+the fact that we are still operating on a two-party system in the year 2016 amazes me.
+when you finally get your student loans... on cinco de mayo.
+being neighbs with @_joymc is a blessing upon my life
+@onlydchzusetwtr sad 😭😭
+"I hate when there's no food in my house &amp; I stumble into my ""hungry &amp; helpless"" state."
+@_joymc tomorrow works too
+@onlydchzusetwtr @macjamesward you guys should probably just come to #soulstice ☄⚡️
+@macjamesward I TRULY do have the best stories I was crazy for so long. next time we are 2gether I'll act one out for u for the full effect😽
+@iErickDGAF it actually did grow back! I phrased that weird. but RIP to all the time I spent soaking my pinky in Epsom salt for months
+"happy cinco de mayo, or as I like to call it, the 5 year anniversary of me accidentally locking myself in a junkyard &amp; losing my pinky nail."
+"listening to Sunbeam Decompression by @hanyaukuu, dreaming of a sunrise #soulstice set of his 💞
+
+https://t.co/Hfscf1wlZW"
+@girl___no I wanna go back so bad
+dave matthews band has a v special place in my heart. always
+anticipating spending $300 at Costco $200 at Trader Joes &amp; $100 at the farmers market this weekend 🤑
+I need to finish stats by the end of summer &amp; I can't find it offered anywhere online :(
+"does anyone know if it's possible to enroll in a program like ""my math lab,"" finish it, &amp; then show your school for credit?"
+"when profs lecture on material NOT on the test, before the test.... rude."
+when it's Star Wars day but you already wore your Star Wars shirt 3 days in a row last week bc failure to plan
+lilac trees!!! 😻💜
+if ü live in Indiana &amp; voted for Bernie Sanders today show me the footage so I can love you!
+I am from Indiana &amp; I'm hoping that all my friends &amp; family still there turn the fuck up for Bernie Sanders today! please!!
+ppl tell me this ALL the time &amp; the looks I get when I say it in public are super funny too lol  https://t.co/MgK66NGfVe
+"when ur blasting classical music smoking weed sipping chlorophyl studying for midterms &amp; u can't figure out if you're 14, 22, 68, or a plant"
+unfortunately I have to spend today being a cracked-out anxious mess attempting to study enough to get an A on my Astronomy midterm.
+3 weeks from today @corrrmarrrie &amp; @widdlebritt arrive for LIB ☺️
+l o l  https://t.co/FeXnfMk7hf
+I'm just trying to think of the long game of it all. it's not just Bernie. it's what he's started. maybe Elizabeth Warren will decide to run
+actually yes  https://t.co/ombnnYDbho
+😔😔😔 https://t.co/QDWNSv9MdR
+I honestly don't think I could vote in a Trump-Clinton election regardless. I'd rather walk the plank.
+"in my mind, at this point, it's lookin like 4 years of Trump vs 8 years of Clinton.
+
+is anyone else seeing this?"
+"however, if Trump is elected president in 16, Bernie can win the dem nomination in 20. &amp; so you think that fool is gonna get re-elected? no."
+if Clinton is elected president in 16 she'll be the Democratic nominee in 20. &amp; she might get reelected. no opportunity for Bernie in that.
+if anyone can guess where I'm going w this you're probably like woah girl don't hurt yourself.
+"despite what happens in this election year 2016, my priority remains getting Bernie Sanders elected. &amp; that means I have to think long term."
+I hate them both. so much. trump is a racist idiot. Clinton is an evil elitist reptilian shapeshifting bitch.
+"so..... imagining that the FBI doesn't indict Hillary Clinton &amp; she wins the nomination, we are supposed to choose between her &amp; Trump."
+I'm sitting in class thinking about how Bernie Sanders might not win the nomination for the Democratic Party this year. &amp; what that means.
+@corrrmarrrie I'm adding hemp entrepreneur to my future resume tbh
+check my snap @ rochella for footage of the paintings I didn't take! beautiful naked women. &amp; then later I'll show my personal art come up☺️
+"my russian gma is an amazing painter &amp; shipped some of her art from London to SD.
+
+&amp; I get to ""watch"" some of them for awhile☺️ aka FOREVER!"
+@halluciluna saaaame! Christian doesn't have to work now either ☺️
+@ElliePharmakeia for products! not to smoke
+I need to learn how to grow hemp!
+hemp literally is everything.
+@emmi__babi 😽😽😽
+this time last year.... https://t.co/cPWszS1qYd
+wow timehop this is offensive. you cannot compare me wearing a push up bra &amp; makeup to me all fresh faced &amp; shit. https://t.co/2LNK87EnPs

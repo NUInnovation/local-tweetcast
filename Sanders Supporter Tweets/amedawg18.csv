@@ -1,0 +1,88 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""3E4415"", ""default_profile_image"": false, ""id"": 27785974, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme5/bg.gif"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/666487448210395136/DT5ZzNx-_normal.jpg"", ""profile_sidebar_fill_color"": ""99CC33"", ""entities"": {""url"": {""urls"": [{""url"": ""http://t.co/lparRA4oVM"", ""indices"": [0, 22], ""expanded_url"": ""http://amedawg18.tumblr.com/"", ""display_url"": ""amedawg18.tumblr.com""}]}, ""description"": {""urls"": []}}, ""followers_count"": 1172, ""profile_sidebar_border_color"": ""829D5E"", ""id_str"": ""27785974"", ""profile_background_color"": ""352726"", ""listed_count"": 135, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @CollectorCorps: Coming Soon: Civil War Four-Pack! https://t.co/tg9f9kX0iN https://t.co/woF4Q5nELS"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731166503412891648, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 2897938046, ""indices"": [3, 18], ""id_str"": ""2897938046"", ""screen_name"": ""CollectorCorps"", ""name"": ""CollectorCorps""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/tg9f9kX0iN"", ""indices"": [54, 77], ""expanded_url"": ""http://bit.ly/1OrVWzx"", ""display_url"": ""bit.ly/1OrVWzx""}], ""media"": [{""source_user_id"": 2897938046, ""source_status_id_str"": ""731165946409328641"", ""expanded_url"": ""http://twitter.com/CollectorCorps/status/731165946409328641/photo/1"", ""display_url"": ""pic.twitter.com/woF4Q5nELS"", ""url"": ""https://t.co/woF4Q5nELS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg"", ""source_user_id_str"": ""2897938046"", ""source_status_id"": 731165946409328641, ""id_str"": ""731165946220515328"", ""sizes"": {""large"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [78, 101], ""type"": ""photo"", ""id"": 731165946220515328, ""media_url"": ""http://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 484, ""id_str"": ""731166503412891648"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Coming Soon: Civil War Four-Pack! https://t.co/tg9f9kX0iN https://t.co/woF4Q5nELS"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731165946409328641, ""favorite_count"": 941, ""source"": ""<a href=\""http://sproutsocial.com\"" rel=\""nofollow\"">Sprout Social</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/tg9f9kX0iN"", ""indices"": [34, 57], ""expanded_url"": ""http://bit.ly/1OrVWzx"", ""display_url"": ""bit.ly/1OrVWzx""}], ""media"": [{""expanded_url"": ""http://twitter.com/CollectorCorps/status/731165946409328641/photo/1"", ""display_url"": ""pic.twitter.com/woF4Q5nELS"", ""url"": ""https://t.co/woF4Q5nELS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg"", ""id_str"": ""731165946220515328"", ""sizes"": {""large"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [58, 81], ""type"": ""photo"", ""id"": 731165946220515328, ""media_url"": ""http://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 484, ""id_str"": ""731165946409328641"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:55:20 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""expanded_url"": ""http://twitter.com/CollectorCorps/status/731165946409328641/photo/1"", ""display_url"": ""pic.twitter.com/woF4Q5nELS"", ""url"": ""https://t.co/woF4Q5nELS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg"", ""id_str"": ""731165946220515328"", ""sizes"": {""large"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [58, 81], ""type"": ""photo"", ""id"": 731165946220515328, ""media_url"": ""http://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg""}]}}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""en"", ""created_at"": ""Fri May 13 16:57:33 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null, ""extended_entities"": {""media"": [{""source_user_id"": 2897938046, ""source_status_id_str"": ""731165946409328641"", ""expanded_url"": ""http://twitter.com/CollectorCorps/status/731165946409328641/photo/1"", ""display_url"": ""pic.twitter.com/woF4Q5nELS"", ""url"": ""https://t.co/woF4Q5nELS"", ""media_url_https"": ""https://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg"", ""source_user_id_str"": ""2897938046"", ""source_status_id"": 731165946409328641, ""id_str"": ""731165946220515328"", ""sizes"": {""large"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""small"": {""h"": 184, ""resize"": ""fit"", ""w"": 340}, ""medium"": {""h"": 243, ""resize"": ""fit"", ""w"": 450}, ""thumb"": {""h"": 150, ""resize"": ""crop"", ""w"": 150}}, ""indices"": [78, 101], ""type"": ""photo"", ""id"": 731165946220515328, ""media_url"": ""http://pbs.twimg.com/media/CiWfjeBWEAAbwym.jpg""}]}}, ""is_translation_enabled"": false, ""utc_offset"": -14400, ""statuses_count"": 74151, ""description"": ""I could eat a cracker."", ""friends_count"": 2129, ""location"": ""Boston, Massachusetts, USA"", ""profile_link_color"": ""D02B55"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/666487448210395136/DT5ZzNx-_normal.jpg"", ""following"": false, ""geo_enabled"": true, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/27785974/1381329153"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme5/bg.gif"", ""name"": ""Amy Meek"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 25368, ""screen_name"": ""amedawg18"", ""notifications"": false, ""url"": ""http://t.co/lparRA4oVM"", ""created_at"": ""Tue Mar 31 01:56:13 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Eastern Time (US & Canada)"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+"#Supernatural 👼🙏🏾👼
+""I've never seen so much porn. Not in one sitting.""
+@cw_spn
+#DeanWinchester
+#Chuck https://t.co/1Ll1AEYU2g"
+"#Supernatural 👼🙏🏾👼
+HE'S WATCHING CURLING.
+@cw_spn
+#Chuck
+#same https://t.co/br7trQmbfs"
+"#Supernatural 👼🙏🏾👼
+
+Supernatural, doing one of the things it does best: hilarity to intense feels, perfectly, quickly, naturally.
+
+@cw_spn"
+“@CollectorCorps: We loved @CaptainAmerica #CivilWar! Who was your favorite character? https://t.co/3Zqp7hX05G” #Bucky #Stucky #OTP #TeamCap
+"#Supernatural 👼🙏🏾👼
+""Holy crap.""
+@cw_spn"
+"#Archer 🏋🏼🏋🏼
+""Shoo! Shoo! Shoo! Sha! Sha! Shaa! Szhee!""
+KRIEGER.
+@ArcherFX
+#ArcherFX
+[ #KarateKid ] https://t.co/xTu4IKnwqR"
+"#Archer 🐭🐭
+""Okay, so, do you have change for 10 – let me finish – drams of vole's blood?""
+@ArcherFX
+#ArcherFX"
+"#Archer 🐆🐆
+""The quarry may change, but never the hunt!""
+@ArcherFX
+#ArcherFX"
+"#Archer 🗑🗑
+""Welp, guess I'm gonna need a bucket of ice and a roll of gaffer tape.""
+@ArcherFX
+#ArcherFX"
+"#Archer 💰🔮💰
+""Ah ha! So you do have a price!""
+""Yes, duh. But it's not twenty grand, Ron Measly.""
+@ArcherFX
+#ArcherFX https://t.co/4HvNOPa3vI"
+"“@dailyoscarisaac: https://t.co/EdpN1pywlR”
+
+#OscarIsaac: proud captain of the good ship #Stormpilot. #hero
+
+#PoeDameron #StarWars #FinnPoe"
+"“@dailyoscarisaac: https://t.co/FmrSY3J6Am”
+
+PERFECT LITTLE HERO SHIT OF PERFECTION.
+
+#OscarIsaac #Stormpilot #PoeDameron #StarWars #FinnPoe"
+@zincstoat @TheMarySue Agreed. Ugh.
+@thisismydesignn @SarahLister Absolutely we will!
+"@thisismydesignn Fucking fuck yes, my friend! #CivilWar #Stucky #StuckyTheMovie 
+
+Wish you weren't so far, @SarahLister, so you could join!"
+@thisismydesignn Yessssssss! I'm excited to see you and to see #CivilWar again and to share all of the #Bucky feels and #Stucky feels w/you!
+"Much like @thisismydesignn, I have so many things I wish to do before bed, but not the time/energy: #Archer, #Supernatural, #TheRavenKing..."
+"#Blackish
+""Why would you undo all the good that you've done? Don't Phantom Menace yourself.""
+@BlackishWriters
+@black_ishABC
+#StarWars"
+"1st @Castle_ABC's horrible treatment of its women, now @AgentCarterTV &amp; @GalavantABC. Boo, @ABCNetwork, BOO. #Castle #AgentCarter #Galavant"
+"“@cavecibum: Heartbroken over #AgentCarter 😭😭😭😭” Same, my friend, same."
+"@SarahLister @thisismydesignn Hahahahaha, indeed. Thank you, I had only seen this in gif form. https://t.co/td8oOgiOf6ロ-щ-xx"
+"@SarahLister Hahhaha, excellent. Glad to have helped, my friend. Same, re: the gif. I mean, how could your day not be improved by that face?"
+"“@dailyoscarisaac: https://t.co/xPd7GyTSz8”
+
+Flies into the sun.
+
+Oh shit, his face IS the sun.
+
+Definitely flies into the sun.
+
+#OscarIsaac"
+"“@dailyoscarisaac: https://t.co/8S2NI7HYtv”
+
+#preciouscreatureofperfection
+
+#OscarIsaac"
+“@tyrellwelliot: hot damn 🔥🔥🔥🔥 #HappyBirthdayRamiMalek https://t.co/9EmkiUKktD” Belated Happy Bday to this gorgeous tiny smol. #guh
+@cavecibum Excellent call!
+"“@thisismydesignn: Fitz needs Mack &lt;3 #AgentsOfSHIELD” I am so far behind, but I will always agree with this statement. Always. #FitzMack"
+“@SuperheroNewsCB: Details on Tom Hardy’s role in ‘Star Wars: Episode VIII’ https://t.co/MJevARd3hu” OMGOMGOMGOMGOMG
+@MatthewDaddario https://t.co/DYXmepo97u

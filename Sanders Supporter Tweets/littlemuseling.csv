@@ -1,0 +1,95 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": true, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 47781093, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/726155867779788800/TOuBMaD4_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 61, ""profile_sidebar_border_color"": ""C0DEED"", ""id_str"": ""47781093"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 8, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @MichaelSalamone: @Deir_in_DC @kimdallas07 @JeanetteJing @twitter @rosariodawson @SusanSarandon Maybe Fri we all post her vids w/ #Bring\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 731011319386660866, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com/download/iphone\"" rel=\""nofollow\"">Twitter for iPhone</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 25904260, ""indices"": [3, 19], ""id_str"": ""25904260"", ""screen_name"": ""MichaelSalamone"", ""name"": ""Michael Salamone""}, {""id"": 151552315, ""indices"": [21, 32], ""id_str"": ""151552315"", ""screen_name"": ""Deir_in_DC"", ""name"": ""Deirdre""}, {""id"": 377778958, ""indices"": [33, 45], ""id_str"": ""377778958"", ""screen_name"": ""kimdallas07"", ""name"": ""kimberly""}, {""id"": 1558510549, ""indices"": [46, 59], ""id_str"": ""1558510549"", ""screen_name"": ""JeanetteJing"", ""name"": ""Jeanette Sandernista""}, {""id"": 783214, ""indices"": [60, 68], ""id_str"": ""783214"", ""screen_name"": ""twitter"", ""name"": ""Twitter""}, {""id"": 82939583, ""indices"": [69, 83], ""id_str"": ""82939583"", ""screen_name"": ""rosariodawson"", ""name"": ""Rosario Dawson""}, {""id"": 618300542, ""indices"": [84, 98], ""id_str"": ""618300542"", ""screen_name"": ""SusanSarandon"", ""name"": ""Susan Sarandon""}], ""hashtags"": [{""indices"": [133, 140], ""text"": ""BringBackJeanetteJing""}], ""urls"": []}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 22, ""id_str"": ""731011319386660866"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""@Deir_in_DC @kimdallas07 @JeanetteJing @twitter @rosariodawson @SusanSarandon Maybe Fri we all post her vids w/ #BringBackJeanetteJing??"", ""is_quote_status"": false, ""in_reply_to_status_id"": 730968940776591360, ""id"": 730969518642696192, ""favorite_count"": 30, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 151552315, ""indices"": [0, 11], ""id_str"": ""151552315"", ""screen_name"": ""Deir_in_DC"", ""name"": ""Deirdre""}, {""id"": 377778958, ""indices"": [12, 24], ""id_str"": ""377778958"", ""screen_name"": ""kimdallas07"", ""name"": ""kimberly""}, {""id"": 1558510549, ""indices"": [25, 38], ""id_str"": ""1558510549"", ""screen_name"": ""JeanetteJing"", ""name"": ""Jeanette Sandernista""}, {""id"": 783214, ""indices"": [39, 47], ""id_str"": ""783214"", ""screen_name"": ""twitter"", ""name"": ""Twitter""}, {""id"": 82939583, ""indices"": [48, 62], ""id_str"": ""82939583"", ""screen_name"": ""rosariodawson"", ""name"": ""Rosario Dawson""}, {""id"": 618300542, ""indices"": [63, 77], ""id_str"": ""618300542"", ""screen_name"": ""SusanSarandon"", ""name"": ""Susan Sarandon""}], ""hashtags"": [{""indices"": [112, 134], ""text"": ""BringBackJeanetteJing""}], ""urls"": []}, ""in_reply_to_screen_name"": ""Deir_in_DC"", ""in_reply_to_user_id"": 151552315, ""retweet_count"": 22, ""id_str"": ""730969518642696192"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": ""151552315"", ""lang"": ""en"", ""created_at"": ""Fri May 13 03:54:48 +0000 2016"", ""in_reply_to_status_id_str"": ""730968940776591360"", ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""lang"": ""en"", ""created_at"": ""Fri May 13 06:40:54 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 16200, ""statuses_count"": 1312, ""description"": ""Political junkie, sock lover, introvert, chef, infophile & humanist. INTJ/INFJ, hockey obsessed, ice skater, progressive, & misanthropic but empathetic."", ""friends_count"": 138, ""location"": ""Colorado Springs, CO"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/726155867779788800/TOuBMaD4_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/47781093/1461964024"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""Denise Timmons"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 1339, ""screen_name"": ""littlemuseling"", ""notifications"": false, ""url"": null, ""created_at"": ""Tue Jun 16 23:53:18 +0000 2009"", ""contributors_enabled"": false, ""time_zone"": ""Tehran"", ""protected"": false, ""default_profile"": true, ""is_translator"": false}"
+@jimmy_dore @TYTNetwork Thank you for speaking so passionately abt the issues facing most Americans: income inequality. They need to listen!
+@jimmy_dore Damn good job on this debate!! You knocked it out of the park!!! https://t.co/SLCz76XIL0
+@cenkuygur @AnaKasparian Same argument against poor ppl. Some get away w/abuse so all should suffer. Baby w/the bath water argument no good.
+"@TheDailyShow if he had taken the factors of the discontent with the establishment that he is a part of into account, could've been accurate"
+@cenkuygur #tytlive Trumps ability to be dynamic-good or bad-and bounce back from failure will be his successful campaign. Terrifying.
+@cenkuygur THANK YOU for the distinction between criticism and smear. Please highlight in a clip for reference!!! NEED THIS! #tytlive
+@AnaKasparian fabu!
+"@billmaher sometimes they don't even need words. I present your weird, grumpy neighbor: https://t.co/nd1HymzxSM"
+@JordanChariton @politico but it'll never happen...isn't that what they keep telling us? /s
+@JordanChariton #FeelThePolls love it!
+ALL OF THIS https://t.co/n8TQRLQWNA
+Itching for #tytlive! I want my news!!! #addict
+This needs to be viral. https://t.co/SfTdWdZ1Cn
+The populist and the establishment are coalescing on the right. We need #CrazyBernie to get us through this. https://t.co/6SIInEPH36
+@realDonaldTrump youre adorable. You went against a bunch of losers and @HillaryClinton is a loser to. You wont know how to handle a winner.
+"I donated $10 last night, can you? https://t.co/V2LMjDDYaO"
+"@cenkuygur @SenSanders weird, white West Virginia, right? It even has a V in it like Vermont! No wonder Bernie won! Not even really west!"
+This makes me happy on 15 levels. https://t.co/mNC3Trg2Kr
+"@jiadarola apparently West Virginia is weird now, too. Instead of viral, are things going Vermont now? 😜 https://t.co/ZF2fYejQFZ"
+@JacksonWkelly thanks!
+@cenkuygur helped canvas on Wendy Davis campaign. HIGHLY disorganized too. I blame that more than anything. #tytlive
+@Moni100 @zaskoda https://t.co/D7rgsLyH3F
+@Moni100 @zaskoda https://t.co/lbgVNRzlV2
+@Moni100 @zaskoda https://t.co/E5U5IzySH3
+"@zaskoda @Moni100 lol, more like she is a misleader who doesn't understand independents vote in the general election. Or doesn't care."
+"@Moni100 Then why doesn't Clinton, the weaker and more disliked candidate, drop out? I know u hate logic but damn."
+"@Moni100 @zaskoda @maddow @BernieSanders lol, because if Hillary can't win by starting now vs July, it will be Sanders fault? Sure."
+@RBReich thanks for being an awesome economist. ::fist bump::
+"@PaulBegala @ABswl16 @Dano50 I'd like to think if Clinton was as strong as she says she is, going to convention would actually improve img."
+@PaulBegala @ABswl16 @Dano50 Berner here. I would support her to go to convention if Bernie was leading. Why have this setup if never to use
+@ABswl16 I will be rubbing this in your face. https://t.co/dHOPB0UO0f
+@ABswl16 have fun crying like a little bitch when Bernie takes Cali! 😘
+@ABswl16 I didn't nor did I ever claim to be an economist. Want a cookie?
+"@ABswl16 good debaters don't need logical fallacies to ""win."""
+@ABswl16 @RBReich is not some hack job economist. You're becoming a bore. https://t.co/WJO8ddm4rx
+@ABswl16 are you sure you're really a lawyer? You're horrible at arguing. 😂
+"@ABswl16 you made assessment no economist approves, I proved wrong. Never said some economist disapprove, that is obvious."
+@ABswl16 *yawn* https://t.co/52uTYQN3xv
+"@ABswl16 you forgot the ""70"" behind that one. https://t.co/hXnD6khvT2"
+@ABswl16 I'll take that as a yes.
+@ABswl16 and Robert Reich thinks Sanders economic plan is A+++ He was good enough for the Clinton's.... 😒
+@ABswl16 I volunteer at shelters. Carry non perishable food&amp;water to give to the homeless in CoS when I go around town. Did I pass?
+"@ABswl16 but no denying it, just like the rest of the paid for trolls. Being those things doesn't exempt you from being a sellout."
+@ABswl16 most economist agree we need this. Sorry you're too narrow minded for it.
+@ABswl16 how's it feel to sell your soul a comment at a time? Must be pretty hard up to support criminal stealing America's democracy.
+"@ABswl16 no, I'm willing to help Bernie get elected. Have I helped you collect enough tonight? #MillionDollarTrolls"
+"@ABswl16  want go to conspiracies? Hillary laughing about getting a child molester off, that's gotta make you feel great."
+@ABswl16 @DrJillStein glad you have the privilege of affording neoliberal policies. I don't. My son deserves college.
+@ABswl16 on what? He's being dismissed whole campaign by dems....more worried about back and forth cry-bully w/no substance w/Trump vs HRC
+@ABswl16 @CNN idk? Just being honest!
+@ABswl16 @DrJillStein Will get my vote in Colorado if Bernie is not on the ticket. Hillary lost my vote w/fracking and universal HC abandon.
+"@ABswl16 willing to take as part of average, but considering she's slated to lose next several contests, poor favor rating, again, why risk?"
+@ABswl16 forgive me for being a weency bit skeptical of @CNN-they are Hillary donors
+@ABswl16 @Moni100 @zaskoda @maddow @BernieSanders I don't like caucuses either. Better now?
+@ABswl16 @Moni100 @zaskoda @maddow averages don't reflect https://t.co/D64B75v0cv
+"@ABswl16 @Moni100 @zaskoda @maddow @BernieSanders because closed primaries that make zero sense in open general elections, maybe?"
+@ABswl16 @Moni100 @zaskoda @maddow last I saw it was single/some HRC losing to Trump. Bernie does better. Why risk it? Oh yeah $$$$ 🙄
+"@Moni100 @zaskoda @ABswl16 @maddow @BernieSanders logic, what's your excuse?"
+"@Moni100 @zaskoda @ABswl16 @maddow @BernieSanders if Hillary's chances are based on Bernie leaving early, maybe we need someone better."
+"@Moni100 @ABswl16 @zaskoda @maddow @BernieSanders if you gave a shit abt the country, you'd want who beats Trump twice as well as Hillary"
+"@maddow @BernieSanders @POTUS YAAAAAAAAS. I'm sure your staff would appreciate the break, Rachel."
+"@Moni100 @zaskoda @maddow @BernieSanders point out something not right and I'm an idiot? Go ahead and block, you're not worth the time."
+@Moni100 @zaskoda @maddow @BernieSanders because neoliberalism is better than democratic socialism? Are you mad? 😢 healthcare &gt; war
+"Brilliance! Go on a thread, pledge $1 per negative Bernie comment, when dies down, tally, donate and share! #BernieBucks please donate &amp; RT"
+"@maddow @BernieSanders #BernieBucks &lt;go on a thread, pledge $1 per negative comments, donate! https://t.co/H9A5zqcwdG"
+@maddow @BernieSanders $21 for Bernie!!!! Thanks for 21 reasons to help Bernie out!
+@maddow @BernieSanders $20 now to #FeelTheBern
+@maddow @BernieSanders $17 to #FeelTheBern
+@maddow @BernieSanders I'll donate $1 dollar per every negative Bernie comment to his campaign. Haters want to help out? 😂😂😂
+@ProtectCO I moved from Texas to escape fracking. It is horrible and there are cleaner alts. #LeaveItInTheGround #BanFracking
+"@BernieSanders we're doing what we can! #InItToWinIt #TheRevolutionIsCalling tomorrow from CO! If I call you, #CAPrimary #FeelTheBern ? :D"
+💗 Thank you Barbara! You're a hero! https://t.co/nqi6FVWh4n
+You rock!!! 🙌🙌🙌 https://t.co/mRHqKv1Xcb
+Has anyone bothered to ask how CNN knows the investigators haven't found anything? @CNN how do you /know/ this?  https://t.co/x6zEEQEwzL
+#ScareHillaryIn4Words Bernie is just better.
+#ScareHillaryIn4Words  Never getting my vote.
+#ScareHillaryIn4Words = #CaliDreamsOfBernie
+"Bernie's got a cash crunch, I donated $27, can you? #CaliDreamsOfBernie Let's make it come true! https://t.co/8YtF9pSY9H"
+@jaysandheat13 @Amy_Siskind @politico pro tip-just stop insulting the intelligence of Bernie supporters. We didn't come and won't go lightly
+@jaysandheat13 @Amy_Siskind @politico I'm not and you're a simpleton for suggesting I am. It is not my fault she did not earn my vote.
+@FoxNews oh my lord. All of you would be losing your mind if he didn't drink it #neverhappy.
+@nytimes how about we leave that up to @britneyspears and her conservator and stay the fuck out of their biz?
+@zachhaller @JeffMyers82 and it's not like we haven't heard these things already? Reforming into a sound bite is the winning strategy? Smh
+@cenkuygur @politico Carson's suggestions are very vice presidential....aren't they?
+"As much as I am happy you do, @cenkuygur , dammit, stop predicting this crap!!!! https://t.co/YnVQZLgl3L"
+"@jaysandheat13 @Amy_Siskind @politico point: don't blame us when she loses, you were fully warned. #BernieOrBust"
+"@dbarcon @MoveOn @BernieSanders I see you can't read. Point: don't cry when she loses, you were fully warned."
+#tyt #BernieOrBust #DropOutHillary #ReleaseTheTranscripts #FeelTheBern https://t.co/jZwMXWoTrq
+@MoveOn @BernieSanders https://t.co/77hc5bR0NA
+@TVHousehusband https://t.co/kXuXUOzEPM
+@steph_bello https://t.co/4fckzdcJUe
+@Amy_Siskind @politico https://t.co/aqXxVzw4WQ
+Pass it on. #NeverHillary #DropOutHillary https://t.co/vKlq8jy1E7
+There are no words #FortMcMurray. I visited in 98 for my birthday. This breaks my heart. #ymmfire #redcross #abredcross #FortMacFire

@@ -1,0 +1,74 @@
+"{""follow_request_sent"": false, ""has_extended_profile"": false, ""profile_use_background_image"": false, ""profile_text_color"": ""333333"", ""default_profile_image"": false, ""id"": 2525820541, ""profile_background_image_url_https"": ""https://abs.twimg.com/images/themes/theme1/bg.png"", ""verified"": false, ""imported_to_gensim"": false, ""profile_location"": null, ""profile_image_url_https"": ""https://pbs.twimg.com/profile_images/663041228800438273/QT9dT7o9_normal.jpg"", ""profile_sidebar_fill_color"": ""DDEEF6"", ""entities"": {""description"": {""urls"": []}}, ""followers_count"": 2738, ""profile_sidebar_border_color"": ""FFFFFF"", ""id_str"": ""2525820541"", ""profile_background_color"": ""C0DEED"", ""listed_count"": 150, ""status"": {""contributors"": null, ""truncated"": false, ""text"": ""RT @SeveZubiri: Brasil, Temer e inestabilidad https://t.co/dQnyw8hWB5 @pilarlarraona @dovesandletters @ErnestoSuidry @lareirinha @IsabelQui\u2026"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 730881869600952320, ""favorite_count"": 0, ""source"": ""<a href=\""http://twitter.com\"" rel=\""nofollow\"">Twitter Web Client</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 423756071, ""indices"": [3, 14], ""id_str"": ""423756071"", ""screen_name"": ""SeveZubiri"", ""name"": ""Seve Zubiri""}, {""id"": 1163721696, ""indices"": [70, 84], ""id_str"": ""1163721696"", ""screen_name"": ""pilarlarraona"", ""name"": ""pilarlarraona""}, {""id"": 2525820541, ""indices"": [85, 101], ""id_str"": ""2525820541"", ""screen_name"": ""dovesandletters"", ""name"": ""La belle Hamilton""}, {""id"": 861953796, ""indices"": [102, 116], ""id_str"": ""861953796"", ""screen_name"": ""ErnestoSuidry"", ""name"": ""Ernesto Collazo""}, {""id"": 2511075531, ""indices"": [117, 128], ""id_str"": ""2511075531"", ""screen_name"": ""lareirinha"", ""name"": ""lareirinha""}, {""id"": 406488316, ""indices"": [129, 140], ""id_str"": ""406488316"", ""screen_name"": ""IsabelQuintansR"", ""name"": ""Isabel Quintans""}, {""id"": 375178685, ""indices"": [139, 140], ""id_str"": ""375178685"", ""screen_name"": ""spinola71"", ""name"": ""jose A. jauregui""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/dQnyw8hWB5"", ""indices"": [46, 69], ""expanded_url"": ""https://youtu.be/e8S3d9cyvIg"", ""display_url"": ""youtu.be/e8S3d9cyvIg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""730881869600952320"", ""favorited"": false, ""retweeted_status"": {""contributors"": null, ""truncated"": false, ""text"": ""Brasil, Temer e inestabilidad https://t.co/dQnyw8hWB5 @pilarlarraona @dovesandletters @ErnestoSuidry @lareirinha @IsabelQuintansR @spinola71"", ""is_quote_status"": false, ""in_reply_to_status_id"": null, ""id"": 730869849145126912, ""favorite_count"": 2, ""source"": ""<a href=\""http://twitter.com/download/android\"" rel=\""nofollow\"">Twitter for Android</a>"", ""retweeted"": false, ""coordinates"": null, ""entities"": {""symbols"": [], ""user_mentions"": [{""id"": 1163721696, ""indices"": [54, 68], ""id_str"": ""1163721696"", ""screen_name"": ""pilarlarraona"", ""name"": ""pilarlarraona""}, {""id"": 2525820541, ""indices"": [69, 85], ""id_str"": ""2525820541"", ""screen_name"": ""dovesandletters"", ""name"": ""La belle Hamilton""}, {""id"": 861953796, ""indices"": [86, 100], ""id_str"": ""861953796"", ""screen_name"": ""ErnestoSuidry"", ""name"": ""Ernesto Collazo""}, {""id"": 2511075531, ""indices"": [101, 112], ""id_str"": ""2511075531"", ""screen_name"": ""lareirinha"", ""name"": ""lareirinha""}, {""id"": 406488316, ""indices"": [113, 129], ""id_str"": ""406488316"", ""screen_name"": ""IsabelQuintansR"", ""name"": ""Isabel Quintans""}, {""id"": 375178685, ""indices"": [130, 140], ""id_str"": ""375178685"", ""screen_name"": ""spinola71"", ""name"": ""jose A. jauregui""}], ""hashtags"": [], ""urls"": [{""url"": ""https://t.co/dQnyw8hWB5"", ""indices"": [30, 53], ""expanded_url"": ""https://youtu.be/e8S3d9cyvIg"", ""display_url"": ""youtu.be/e8S3d9cyvIg""}]}, ""in_reply_to_screen_name"": null, ""in_reply_to_user_id"": null, ""retweet_count"": 2, ""id_str"": ""730869849145126912"", ""favorited"": false, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""pt"", ""created_at"": ""Thu May 12 21:18:45 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""geo"": null, ""in_reply_to_user_id_str"": null, ""possibly_sensitive"": false, ""lang"": ""pt"", ""created_at"": ""Thu May 12 22:06:31 +0000 2016"", ""in_reply_to_status_id_str"": null, ""place"": null}, ""is_translation_enabled"": false, ""utc_offset"": 10800, ""statuses_count"": 44648, ""description"": ""Good food, water, air & shelter for all living things; humans that can all read, write, code & contribute to their societies."", ""friends_count"": 2989, ""location"": ""Paris, France"", ""profile_link_color"": ""0084B4"", ""profile_image_url"": ""http://pbs.twimg.com/profile_images/663041228800438273/QT9dT7o9_normal.jpg"", ""following"": false, ""geo_enabled"": false, ""profile_banner_url"": ""https://pbs.twimg.com/profile_banners/2525820541/1429967320"", ""profile_background_image_url"": ""http://abs.twimg.com/images/themes/theme1/bg.png"", ""name"": ""La belle Hamilton"", ""lang"": ""en"", ""profile_background_tile"": false, ""favourites_count"": 14796, ""screen_name"": ""dovesandletters"", ""notifications"": false, ""url"": null, ""created_at"": ""Mon May 26 20:34:03 +0000 2014"", ""contributors_enabled"": false, ""time_zone"": ""Athens"", ""protected"": false, ""default_profile"": false, ""is_translator"": false}"
+@GodandtheBear  https://t.co/9Q34MxLHYh
+"@SER1897 Entire Democratic party IS INDEED corrupt, no need for painting, brushes or paint"
+"@SER1897 That's possible but not certain, no one's accusing him yet of anything even on Twitter aside from possibly protecting her"
+"#TodosConDilma !!!
+@ErnestoSuidry @SeveZubiri @Fabiana_tfp @SergioFloresRon @YouTube"
+"@SER1897 Bernie has always been an Independent, is not seen as belonging to the establishment and genuinely doesn't."
+"@IanMolony Signed it and good afternoon to you, Ian! @GodandtheBear"
+"@SER1897 HRC's indictment wouldn't contaminate Bernie. He's seen as truthful and honest by American public, even those that don't like him."
+Did Fox make this up or is it true or truthy or contain a grain-of-truthiness? #ImWithHer #BernieIsBae #BernieOrBust https://t.co/y1rA5YSK66
+"@IdeasWhittler @helena_jennie 12,5% of WV voters chose Rocky De La Fuente or a guy no longer in the race? WTF?"
+"@SAWHEAT1 @jomu2222 your gif reeks of privilege and self-satisfaction, just like you, I guess, and your queen"
+"@DemLibs compared to Trump a potato is qualified &amp; HRC is not liberal, she's neo-liberal"
+@treehugger1605 It's just that there are days when things strike you more
+"@Ma1973sk @SenWarren No, we loved her for standing up for the little guy &amp; consumers, if she goes w HRC she sells out &amp; loses our support."
+@treehugger1605 Nope meant Trumpsters
+@Ma1973sk Berners would NEVER forgive Warren if she accepted the VP spot on HRC's ticket for the presidency @SenWarren
+@jomu2222 @SAWHEAT1 Hillbots posted porn on Berner Facebook sites to get them taken down - SAWHEATbot not even following his own kind
+@treehugger1605 Realized these guys are all about brutality &amp; shaming others &amp; the extent to which they run things @GodandtheBear @wcgirl1
+@treehugger1605 Then I got some sick msgs from Trumpster friends of that Trumpster I've been exchanging with @GodandtheBear @wcgirl1
+@treehugger1605 Watched @democracynow's coverage of prison guards murdering prisoners w mental health problems @GodandtheBear @wcgirl1
+@treehugger1605 It's not the same kind of bullying that Trump &amp; HRC wield - not saying one better than the other @GodandtheBear @wcgirl1
+"@TimBartender If that's all that was wrong with him, voting for him would just be dippy &amp; cray-cray. But there's so much more."
+.@TrapBernie @MamaB_L Thanks for the good news! There are moments when you really need it!
+What took me so long? Today I realized what a Trump presidency would mean: the bullies take over @treehugger1605 @GodandtheBear @wcgirl1
+"@BernieVolunteer @Thinkers4Bernie What is this? Who is she? If the Qs are spontaneous, why is she reading from a script to answer?"
+@treehugger1605 Showed me part of BS's speech w a Trump wig floating around &amp; sometimes on Bernie's head :-(
+@Ma1973sk I hope you like snow
+"@Ma1973sk And finally, I hope to go back one day."
+"@Ma1973sk Also, don't think it's possible to stop caring about the place where you grew up: you can take the girl out of the country, but..."
+"@Ma1973sk If Bernie won in the USA, it would make a lot of things possible here."
+"@Ma1973sk So many reasons! My family &amp; one daughter are there. The USA sets the tone, the terms other countries, including France, follow."
+@Ma1973sk IF he's protecting her it's not for her blue eyes but for reasons of his own. Will he too become a lobbyist?
+"@Ma1973sk @FBI And the full story won't likely come out 'till you and I are dead and buried, if ever."
+"@adam01time @Ma1973sk @FBI A slush fund of some kind, in any case."
+".@Ma1973sk @FBI Far as I'm concerned, this is not just fair game, this is where Bernie should have stepped up the attacks."
+"@Ma1973sk That's possible but we're never gonna know if it's true. He'd be wrapping it up if the polls &amp; process weren't rigged, for sure."
+"@Ma1973sk Trump as social justice warrior, woman's advocate &amp; defender of the weak and victimized will be amusing."
+@Ma1973sk I don't touch this kind of stuff.
+"@Ma1973sk Also, I'm old school on this subject. I refuse to tar pols with allegations or innuendo of sexual impropriety, misbehavior."
+"@Ma1973sk Yes they do, but I don't. I know quite a lot about the ambiguities of legal representation for accused rapists."
+@digitalorality Yeah it is
+.@majorityvillain I signed months ago #BernieOrBust
+"@digitalorality Yep, nope, the digital world is mind stuff, an extension of our biology... anyway, so much to ponder!"
+@bluefin2222 You've got two beautiful girls! Tx for the follow!
+"Coining a new term for Nate Silver of 358's strange and novel affliction
+@wcgirl1 @cenkuygur @Thinkers4Bernie  https://t.co/QCseNz4ked"
+"@digitalorality Love your bio pics, the colors, stories they tell"
+"@HeerJeet This is a joke, right?"
+"@CarmodyJack If Nate were the only1 with grave cognitive dissonance at this point, it wouldn't be so concerning @CharlesMunn1 @GodandtheBear"
+"Not sure the kind of people who think that are the kind of people that are interested in definitions
+@wcgirl1 https://t.co/Hq65EErrFv"
+@Thinkers4Bernie Love it love it love it !!! @PoliticalChic20 @tdrard
+@Thinkers4Bernie My problem is I'm so removed from their way of thinking that I have trouble understanding their simplest utterances :-(
+"@PoliticalChic20 ah, ok, this guy -&gt; @tdrard was complaining about taxes, now I got it @Thinkers4Bernie"
+@Thinkers4Bernie @tdrard Doesn't everyone take $ from one person when they get paid &amp; give it to another when they buy stuff? #Lost :-(
+@Thinkers4Bernie @tdrard You guys lost me there
+@OnPointRadio @Teapublicanways What SPECIFICALLY Hillary has told her she will do for black women &amp; the black community
+:-) https://t.co/OysIQDCH03
+".@Thinkers4Bernie @natureofthings7 Crazy Bernie's simplicity is in contrast to other's artifice, deception, hypocrisy, pretension, cunning.."
+Taking bets on whether Urzi supports Trump or Hillary or is just a cool cucumber https://t.co/t7U9DbBztd
+"Oooh, look, I caught a Hillbot! 1 2 3 4 5, once I caught a fish alive, 6 7 8 9 10 then I threw it back again. https://t.co/AJa0X3UQiy"
+"I love Crazy Bernie so much for all that he stands for, his honesty, earnestness, simplicity and courage #CrazyBernie @Thinkers4Bernie"
+@AbusedKids @burberryant Strange question. I rarely remember how I got anywhere on the web &amp; I'm an adult.
+@the3rdrm But Kerry actually won that election https://t.co/x56PeOl9Lg @hustnhavprob @Bettz49
+"@BernieIsHope I've got another friend -&gt;@NeilYoungSaveUs who believes in them, he sent me some stuff"
+.@adamjohnsonNYC @Jennyjinx HRC is a lesson in the use of social justice language to divide us!
+".@rabihalameddine @oliverwasow j'odalisque, tu odalisques, vous odalisquez, il/elle odalisque, ils odalisquent, nous odalisquons"
+"@BernieIsHope No disrespect to you my brother Berner, but I don't believe in chemtrails either"
+.@rabihalameddine I adore the humor in all the art historical citations in this portrait - l'odalisque :-) @oliverwasow
+#CenkUygar did a great explanation of why Nate can't believe his own math &amp; has been failing 2make good predictions. https://t.co/YQMYXrxQwt
+Maybe people in those Dubai towers will bake despite air conditioning. How will they cool down when the oil's gone? https://t.co/OsOKmyDnyg
+.@NaomiAKlein There are a lot of people who really believe that they &amp; other privileged types will soon colonizeMars. Leave pollution behind
+.@wcgirl1 The media I consult don't give details so Idk how well they are really keeping track of delegate count @BernieSanders @abowersock
