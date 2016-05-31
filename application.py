@@ -1,10 +1,11 @@
 from flask import Flask, request, session, g, redirect, url_for, \
-    abort, render_template, flash
+    abort, render_template, flash, copy_current_request_context
 from geopy.geocoders import Nominatim
 from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 import tweepy
 import twitter as tw
 import searching as srch
+import threading
 
 app = Flask(__name__)
 app.config.from_object('config')
@@ -17,7 +18,7 @@ api = tweepy.API(auth)
 class ReusableForm(Form):
     name = TextField('Location: ', validators=[validators.required()])
 
-@app.route('/main', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def hello():
     form = ReusableForm(request.form)
     print(form.errors)
@@ -48,14 +49,27 @@ def results(location):
         else:
             flash('Error: All the form fields are required. ')
 
-    tweets = tw.get_tweets_from_location(api, location)
-    if tweets:
-        users = tw.get_users_from_tweets(api, tweets)
-        if users:
-            corpus = tw.get_tweets_from_users(api, users)
-            # guess, res = srch.predict_candidate(corpus, 10)
-            res = srch.get_area_percentages(corpus, 7, 4)
+    cache = srch.get_area_candidate_counts_from_cache(location)
+    app.logger.debug(cache)
+    if cache is not None:
+        res = cache
+        return render_template('results.html', res=res, city=location, form=form)
+    else:
+        threading.Thread(target=lambda: srch.cache_area_results(location, 10, 5)).start()
+        return redirect(url_for('waiter', location=location))
     return render_template('results.html', res=res, city=location, form=form)
+
+@app.route('/waiter/<location>')
+def waiter(location):
+    return render_template('waiter.html', city=location)
+
+@app.route('/checkincache/<location>')
+def checker(location):
+    cache = srch.get_area_candidate_counts_from_cache(location)
+    if cache is not None:
+        return 'Yes'
+    else:
+        return 'No'
 
 if __name__ == '__main__':
     app.debug = True

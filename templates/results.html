@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <body>
-    <h1>TweetCast Your Vote in {{city}}!</h1>
-    <h1>{{city}} Swings {{res.winners.party}}!</h1>
-    <form action="" method="post">
+    <h1 class="text-center">Results for {{city}}</h1>
+    <!-- <form action="" method="post">
       {{ form.csrf }}
       <div class="input text">
       {{ form.name.label }} {{ form.name }}
       <input type="submit" value="Search Again" class="btn btn-lg btn-default">
       </div>
-    </form>
-    <div><div id="pieChart"></div></div>
-    <div style="margin: auto;"><div id="pieChartRep"></div></div>
-    <div><div id="pieChartDem"></div></div>              
+    </form> -->
+    <div class="text-center"><div id="pieChart" class="text-center" style="svg {max-width: 100%;}"></div>
+    <a href="/">Try again?</a>
+  </div>
   </body>
   <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -29,203 +30,8 @@
     var a=this;f.whenIdExists(this.cssPrefix+"footer",function(){k.positionFooter(a);var b=f.getDimensions(a.cssPrefix+"footer");a.textComponents.footer.h=b.h,a.textComponents.footer.w=b.w});var b=[];this.textComponents.title.exists&&b.push(this.cssPrefix+"title"),this.textComponents.subtitle.exists&&b.push(this.cssPrefix+"subtitle"),this.textComponents.footer.exists&&b.push(this.cssPrefix+"footer"),f.whenElementsExist(b,function(){if(a.textComponents.title.exists){var b=f.getDimensions(a.cssPrefix+"title");a.textComponents.title.h=b.h,a.textComponents.title.w=b.w}if(a.textComponents.subtitle.exists){var c=f.getDimensions(a.cssPrefix+"subtitle");a.textComponents.subtitle.h=c.h,a.textComponents.subtitle.w=c.w}if(a.textComponents.title.exists||a.textComponents.subtitle.exists){var d=0;a.textComponents.title.exists&&(d+=a.textComponents.title.h,a.textComponents.subtitle.exists&&(d+=a.options.header.titleSubtitlePadding)),a.textComponents.subtitle.exists&&(d+=a.textComponents.subtitle.h),a.textComponents.headerHeight=d}h.computePieRadius(a),h.calculatePieCenter(a),k.positionTitle(a),k.positionSubtitle(a),a.options.misc.gradient.enabled&&j.addGradients(a),j.create(a),i.add(a,"inner",a.options.labels.inner.format),i.add(a,"outer",a.options.labels.outer.format),i.positionLabelElements(a,"inner",a.options.labels.inner.format),i.positionLabelElements(a,"outer",a.options.labels.outer.format),i.computeOuterLabelCoords(a),i.positionLabelGroups(a,"outer"),i.computeLabelLinePositions(a),a.options.labels.lines.enabled&&"none"!==a.options.labels.outer.format&&i.addLabelLines(a),i.positionLabelGroups(a,"inner"),i.fadeInLabelsAndLines(a),a.options.tooltips.enabled&&l.addTooltips(a),j.addSegmentEventHandlers(a)})};return m});
     </script>
     <script>
-    var pieR = new d3pie("pieChart", {
-      "header": {
-        "title": {
-          "text": "Republican",
-          "fontSize": 17,
-          "font": "courier"
-        },
-        "subtitle": {
-          "text": "{{city}} Republicans Skew {{res.winners.rep}}",
-          "color": "#999999",
-          "fontSize": 12,
-          "font": "courier"
-        },
-        "titleSubtitlePadding": 9
-      },
-      "footer": {
-        "color": "#999999",
-        "fontSize": 10,
-        "font": "open sans",
-        "location": "bottom-left"
-      },
-      "size": {
-        "canvasHeight": 450,
-        "canvasWidth": 450,
-        "pieInnerRadius": "10%",
-        "pieOuterRadius": "65%"
-      },
-      "data": {
-        "sortOrder": "value-desc",
-        "content": [
-          {
-            "label": "Cruz",
-            "value": {{res.res_rep.Cruz}},
-            "color": "#ff6666"
-          },
-          {
-            "label": "Trump",
-            "value": {{res.res_rep.Trump}},
-            "color": "#990000"
-          }
-        ]
-      },
-      "labels": {
-        "outer": {
-          "format": "none",
-          "pieDistance": 32
-        },
-        "inner": {
-          "format": "label-percentage2",
-          "hideWhenLessThanPercentage": 3
-        },
-        "mainLabel": {
-          "color": "#ffffff",
-          "font": "courier",
-          "fontSize": 18
-        },
-        "percentage": {
-          "color": "#ffffff",
-          "font": "courier",
-          "fontSize": 18,
-          "decimalPlaces": 0
-        },
-        "value": {
-          "color": "#adadad",
-          "fontSize": 16
-        },
-        "lines": {
-          "enabled": true
-        },
-        "truncation": {
-          "enabled": true
-        }
-      },
-      "effects": {
-        "pullOutSegmentOnClick": {
-          "effect": "linear",
-          "speed": 400,
-          "size": 8
-        }
-      },
-      "misc": {
-        "gradient": {
-          "enabled": true,
-          "percentage": 100
-        },
-        "pieCenterOffset": {
-          "y": -25
-        }
-      }
-    });
-    </script>
-    <script>
-    var pieP = new d3pie("pieChart", {
-      "header": {
-        "title": {
-          "text": "Political Leanings of {{city}}",
-          "fontSize": 20,
-          "font": "courier"
-        },
-        "subtitle": {
-          "text": "{{city}} Skews {{res.winners.party}}",
-          "color": "#999999",
-          "fontSize": 12,
-          "font": "courier"
-        },
-        "titleSubtitlePadding": 9
-      },
-      "footer": {
-        "color": "#999999",
-        "fontSize": 10,
-        "font": "open sans",
-        "location": "bottom-left"
-      },
-      "size": {
-        "canvasHeight": 450,
-        "canvasWidth": 450,
-        "pieInnerRadius": "20%",
-        "pieOuterRadius": "85%"
-      },
-      "data": {
-        "sortOrder": "value-desc",
-        "content": [
-          {
-            "label": "Republican",
-            "value": {{res.res_party.Republican}},
-            "color": "#ff0000"
-          },
-          {
-            "label": "Democrat",
-            "value": {{res.res_party.Democrat}},
-            "color": "#0000ff"
-          }
-        ]
-      },
-      "labels": {
-        "outer": {
-          "format": "none",
-          "pieDistance": 32
-        },
-        "inner": {
-          "format": "label-percentage2",
-          "hideWhenLessThanPercentage": 3
-        },
-        "mainLabel": {
-          "color": "#ffffff",
-          "font": "courier",
-          "fontSize": 18
-        },
-        "percentage": {
-          "color": "#ffffff",
-          "font": "courier",
-          "fontSize": 18,
-          "decimalPlaces": 0
-        },
-        "value": {
-          "color": "#adadad",
-          "fontSize": 16
-        },
-        "lines": {
-          "enabled": true
-        },
-        "truncation": {
-          "enabled": true
-        }
-      },
-      "effects": {
-        "pullOutSegmentOnClick": {
-          "effect": "linear",
-          "speed": 400,
-          "size": 8
-        }
-      },
-      "misc": {
-        "gradient": {
-          "enabled": true,
-          "percentage": 100
-        },
-        "pieCenterOffset": {
-          "y": -25
-        }
-      }
-    });
-    </script>
-    <script>
     var pieD = new d3pie("pieChart", {
       "header": {
-        "title": {
-          "text": "Democrat",
-          "fontSize": 17,
-          "font": "courier"
-        },
-        "subtitle": {
-          "text": "{{city}} Democrats Skew {{res.winners.dem}}",
-          "color": "#999999",
-          "fontSize": 12,
-          "font": "courier"
-        },
         "titleSubtitlePadding": 9
       },
       "footer": {
@@ -245,13 +51,30 @@
         "content": [
           {
             "label": "Clinton",
-            "value": {{res.res_dem.Clinton}},
+            "value": {% if res.hillaryclinton %}
+            {{res.hillaryclinton}}
+            {% else %}
+            0
+            {% endif %},
             "color": "#6666ff"
           },
           {
             "label": "Sanders",
-            "value": {{res.res_dem.Sanders}},
+            "value": {% if res.berniesanders %}
+            {{res.berniesanders}}
+            {% else %}
+            0
+            {% endif %},
             "color": "#000099"
+          },
+          {
+            "label": "Trump",
+            "value": {% if res.realdonaldtrump %}
+            {{res.realdonaldtrump}}
+            {% else %}
+            0
+            {% endif %},
+            "color": "#E01621"
           }
         ]
       },

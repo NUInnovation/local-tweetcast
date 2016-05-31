@@ -192,6 +192,27 @@ def predict_candidate(blob_of_tweets, k_neighbors, k_threshold):
 
     return classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict, k_threshold)
 
+def bulk_predict_candidate(list_of_tweet_blobs, k_neighbors, k_threshold):
+    candidate_predictions = []
+    training_set = []
+    for candidate_handle in candidate_handles:
+        candidate_folder = candidate_supporter_tweets_folders[candidate_handle]
+        dirlist = os.listdir(candidate_folder)
+        dirlist = [file for file in dirlist if file.endswith('.csv')]
+        shuffle(dirlist)
+        for i in range(len(dirlist)):
+            filepath = os.path.join(candidate_folder, dirlist[i])
+            training_set.append(filepath)
+
+    tfidf, index, dictionary, id_to_path_dict, corpus = create_tfidf_from_file()
+
+    for blob_of_tweets in list_of_tweet_blobs:
+        clean_block_of_tweets = utils.any2unicode(blob_of_tweets.replace('\n', ' ').replace('\t', ' '), errors='ignore')
+        text = [word for word in clean_block_of_tweets.lower().split() if word not in stoplist]
+
+        candidate_predictions.append(classify_tfidf_knn(tfidf, dictionary, index, text, k_neighbors, id_to_path_dict, k_threshold))
+    return candidate_predictions
+
 def get_candidate_percentages(sortedresult):
     x = { "CR": [0,0], "TR": [0,0], "CL": [0,0], "SA": [0,0]}
     res = { "CR": 0, "TR": 0, "CL": 0, "SA": 0}
@@ -285,7 +306,7 @@ def get_area_percentages(location, k_neighbors, k_threshold):
         users = tw.get_users_from_tweets(api, tweets)
         print 'numusers', len(users)
         if users:
-            corpus = tw.get_tweets_from_users(api, users)
+            corpus = tw.get_tweets_from_users(api, users[:10])
             'corpus found'
             for i in range(len(corpus)):
                 print 'classifying', i, '...'
@@ -303,19 +324,27 @@ def get_area_percentages(location, k_neighbors, k_threshold):
 def cache_area_results(location, k_neighbors, k_threshold):
     '''This function saves a list of users and their predictions to a file'''
     already_cached = get_users_from_cache(location)
+    rows = []
+    list_of_tweet_blobs = []
+    tweets = tw.get_tweets_from_location(api, location)
+    users = tw.get_users_from_tweets(api, tweets)
+    print 'numusers', len(users)
+    if users:
+        users = [user for user in users if user not in already_cached]
+        corpus = tw.get_tweets_from_users(api, users)
+        candidates = bulk_predict_candidate(corpus, k_neighbors, k_threshold)
+        assert len(users) == len(candidates), 'users needs to be same length as candidates'
+        for i in range(len(users)):
+            rows.append([users[i], candidates[i]])
     filepath = 'Location Caches/' + "".join([c for c in location if c.isalpha() or c.isdigit() or c==' ']).rstrip() + '.csv'
+    print 'opening'
     with open(filepath, 'a+') as locationfile:
+        print 'open'
         writer = csv.writer(locationfile)
-        tweets = tw.get_tweets_from_location(api, location)
-        users = tw.get_users_from_tweets(api, tweets)
-        print 'numusers', len(users)
-        if users:
-            users = [user for user in users if user not in already_cached]
-            corpus = tw.get_tweets_from_users(api, users)
-            for i in range(len(corpus)):
-                print 'classifying', i, '...', users[i]
-                candidate = predict_candidate(corpus[i], k_neighbors, k_threshold)
-                writer.writerow([users[i], candidate])
+        for row in rows:
+            print row
+            writer.writerow(row)
+        locationfile.flush()
 
 def get_users_from_cache(location):
     users = []
@@ -361,7 +390,7 @@ def runshit():
         runshit()
             # guess, res = srch.predict_candidate(corpus, 10)
 # save_dictionary_and_corpus_to_file()
-if __name__ == "__main__":
+# if __name__ == "__main__":
     # runshit()
     # print ohio_counties
     # location = 'Adams Co unty, Ohio'
