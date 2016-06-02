@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-  <body>
+<meta http-equiv="Content-type" content="application/json; charset=UTF-8"/>
+  <body class="text-center">
     <h1 class="text-center">Results for {{city}}</h1>
+    <a href="/">Try again?</a>
     <!-- <form action="" method="post">
       {{ form.csrf }}
       <div class="input text">
@@ -10,10 +12,13 @@
       </div>
     </form> -->
     <div class="text-center"><div id="pieChart" class="text-center" style="svg {max-width: 100%;}"></div>
-    <a href="/">Try again?</a>
   </div>
+    <h2>How does {{city}} compare to the rest of the nation?</h2>
   </body>
   <head>
+
+    <meta http-equiv="Content-type" content="application/json; charset=UTF-8"/>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
     <!-- Latest compiled and minified CSS -->
@@ -128,4 +133,81 @@
     });
     </script>
   </head>
+
+<style>
+
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.q0-9 { fill:rgb(255,51,51); }
+.q1-9 { fill:rgb(255,102,102); }
+.q2-9 { fill:rgb(255,153,153); }
+.q3-9 { fill:rgb(255,204,204); }
+.q4-9 { fill:rgb(224,224,224); }
+.q5-9 { fill:rgb(204,204,255); }
+.q6-9 { fill:rgb(153,153,255); }
+.q7-9 { fill:rgb(102,102,255); }
+.q8-9 { fill:rgb(51,51,255); }
+
+</style>
+<body>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/queue.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = 960,
+    height = 600;
+
+var rateById = d3.map();
+
+var quantize = d3.scale.quantize()
+    .domain([0, 1])
+    .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+
+var projection = d3.geo.albersUsa()
+    .scale(1280)
+    .translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+queue()
+    .defer(d3.json, "https://cdn.rawgit.com/shawncaeiro/94e9cdc202d991c494fdb9a5ea6ad1d8/raw/04970962ea71a312202ba3067479fc52ae4743d9/map.json")
+    .defer(d3.tsv, "https://cdn.rawgit.com/shawncaeiro/3696a14b72e7c42e7a96958f6ab5dbb6/raw/2651b7e738031d43e201713513d059e5b98d698d/dataUpdated.tsv", function(d) { rateById.set(d.id, +d.rate); })
+    .await(ready);
+
+function ready(error, us) {
+  if (error) throw error;
+
+  svg.append("g")
+      .attr("class", "counties")
+    .selectAll("path")
+      .data(topojson.feature(us, us.objects.counties).features)
+    .enter().append("path")
+      .attr("class", function(d) { return quantize(rateById.get(d.id)); })
+      .attr("d", path);
+
+  svg.append("path")
+      .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+      .attr("class", "states")
+      .attr("d", path);
+}
+
+d3.select(self.frameElement).style("height", height + "px");
+
+</script>
+
+
 </html>
