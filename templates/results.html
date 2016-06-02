@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <body>
+    <div style="margin-left: 370px;">
     <h1>TweetCast Your Vote in {{city}}!</h1>
     <h1>{{city}} Swings {{res.winners.party}}!</h1>
     <form action="" method="post">
@@ -10,9 +11,13 @@
       <input type="submit" value="Search Again" class="btn btn-lg btn-default">
       </div>
     </form>
+  </div>
     <div><div id="pieChart"></div></div>
     <div style="margin: auto;"><div id="pieChartRep"></div></div>
-    <div><div id="pieChartDem"></div></div>              
+    <div><div id="pieChartDem"></div></div>  
+    <h2 style="margin-left: 352px;">Trump Supporters Say | Clinton Supporters Say</h2>
+    <img src="http://i.imgur.com/r6qAVFS.png" style="width:304px;height:228px;margin-left: 370px;">
+    <img src="http://i.imgur.com/oCiOAo6.png" style="width:304px;height:228px;margin: auto;">
   </body>
   <head>
     <!-- Latest compiled and minified CSS -->
@@ -37,7 +42,7 @@
           "font": "courier"
         },
         "subtitle": {
-          "text": "{{city}} Republicans Skew {{res.winners.rep}}",
+          // "text": "{{city}} Republicans Skew {{res.winners.rep}}",
           "color": "#999999",
           "fontSize": 12,
           "font": "courier"
@@ -129,7 +134,7 @@
           "font": "courier"
         },
         "subtitle": {
-          "text": "{{city}} Skews {{res.winners.party}}",
+          // "text": "{{city}} Skews {{res.winners.party}}",
           "color": "#999999",
           "fontSize": 12,
           "font": "courier"
@@ -152,14 +157,19 @@
         "sortOrder": "value-desc",
         "content": [
           {
-            "label": "Republican",
-            "value": {{res.res_party.Republican}},
-            "color": "#ff0000"
+            "label": "Clinton",
+            "value": {{res.res_party.Clinton}},
+            "color": "#0000ff"
           },
           {
-            "label": "Democrat",
-            "value": {{res.res_party.Democrat}},
+            "label": "Sanders",
+            "value": {{res.res_party.Sanders}},
             "color": "#0000ff"
+          },
+          {
+            "label": "Trump",
+            "value": {{res.res_party.Trump}},
+            "color": "#ff0000"
           }
         ]
       },
@@ -221,7 +231,7 @@
           "font": "courier"
         },
         "subtitle": {
-          "text": "{{city}} Democrats Skew {{res.winners.dem}}",
+          // "text": "{{city}} Democrats Skew {{res.winners.dem}}",
           "color": "#999999",
           "fontSize": 12,
           "font": "courier"

@@ -1,0 +1,74 @@
+Sanders = [('just', 868), ('like', 733), ('get', 535), ('#feelthebern', 510), ('love', 455), ('will', 443), ('can', 423), ('&amp;', 400), ('people', 369), ('bernie', 342), ('know', 328), ('one', 325), ('via', 316), ('@berniesanders', 294), ('see', 286), ('need', 282), ('want', 279), ('think', 269), ('good', 269), ('go', 262), ('got', 250), ('time', 250), ('going', 240), ('u', 233), ('make', 228), ('now', 226), ('still', 219), ('day', 217), ('really', 211), ('-', 210), ('even', 210), ('never', 203), ('new', 201), ('much', 185), ('vote', 175), ('back', 174), ('always', 168), ('2', 164), ('say', 164), ('feel', 162), ('#notmeus', 153), ('hillary', 153), ('@hillaryclinton', 152), ('fuck', 145), ('@', 143), ('fucking', 143), ('us', 143), ('right', 143), ('@realdonaldtrump', 141), ('way', 138)]
+
+Trump [('trump', 2867), ('@realdonaldtrump', 2237), ('will', 1870), ('&amp;', 1448), ('like', 1260), ('get', 1162), ('just', 1124), ('cruz', 976), ('vote', 947), ('people', 888), ('can', 808), ('u', 803), ('via', 752), ('-', 733), ('go', 722), ('one', 672), ('need', 639), ('know', 627), ('@tedcruz', 594), ('want', 586), ('hillary', 585), ('great', 556), ('#trump2016', 552), ('us', 546), ('think', 521), ('good', 518), ('going', 494), ('america', 488), ('love', 482), ('now', 476), ('never', 467), ('time', 457), ('donald', 451), ('2', 442), ('ted', 441), ('see', 423), ('r', 409), ('make', 408), ('take', 406), ('4', 403), ('@foxnews', 392), ('back', 391), ('obama', 387), ('new', 384), ('thank', 379), ('@hillaryclinton', 378), ('say', 347), ('still', 346), ('many', 339), ('keep', 336)]
+
+[('-', 770), ('just', 761), ('will', 599), ('via', 530), ('get', 522), ('&amp;', 508), ('can', 461), ('like', 453), ('love', 428), ('de', 375), ('good', 350), ('trump', 348), ('one', 340), ('u', 339), ('new', 319), ('know', 299), ('people', 284), ('go', 274), ('need', 268), ('great', 266), ('see', 247), ('want', 233), ('la', 233), ('now', 227), ('2', 214), ('time', 213), ('think', 210), ('make', 203), ('@hillaryclinton', 194), ('hillary', 189), ('en', 188), ('day', 188), ('\xd1\x81', 185), ('going', 184), ('leo', 183), ('never', 183), ('@', 179), ('got', 177), ('really', 176), ('big', 175), ('best', 174), ('us', 172), ('thank', 172), ('video', 171), ('que', 171), ('photo', 171), ('vote', 170), ('please', 170), ('@youtube', 168), ('\xd0\xbf\xd0\xbe\xd0\xbc\xd0\xbe\xd1\x89\xd1\x8c\xd1\x8e', 168)]
+
+Sanders: 
+Sanders = ["#feelthebern",
+"love",
+"people",
+"bernie",
+"@berniesanders",
+"think",
+"#notmeus",
+"fuck",
+"fucking",
+"right"]
+
+510 #feelthebern
+455 love
+369 people
+342 bernie
+294 @berniesanders
+269 think
+153 #notmeus
+145 fuck
+143 fucking
+143 right
+
+,Trump:",
+Trump = ["trump",
+"@realdonaldtrump",
+"vote",
+"people",
+"great",
+"#trump2016",
+"america",
+"never",
+"@foxnews",
+"obama"]
+
+trump
+@realdonaldtrump
+vote
+people
+great
+#trump2016
+america
+never
+@foxnews
+obama
+
+,"Clinton:",
+Clinton = ["time",
+"great",
+"@hillaryclinton",
+"hillary",
+"day",
+"big",
+"best",
+"thank",
+"vote",
+"please"]
+
+time
+great
+@hillaryclinton
+hillary
+day
+big
+best
+thank
+vote
+please

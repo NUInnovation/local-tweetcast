@@ -7,6 +7,7 @@ from flask import Flask, request, session, g, redirect, url_for, \
 
 def get_tweets_from_location(api, loc):
     geolocator = Nominatim()
+    print loc
     loc_geo = geolocator.geocode(loc)
     if loc_geo is not None:
         return get_tweets_from_geo(api, loc_geo)
@@ -31,7 +32,7 @@ def get_users_from_tweets(api, tweets):
 
 def get_tweets_from_users(api, users):
     txts = []
-    usr_count = min(25, len(users))
+    usr_count = min(20, len(users))
     usrs = random.sample(users, usr_count)
     ct = 0
     for user in usrs:
@@ -46,5 +47,4 @@ def get_tweets_from_users(api, users):
                 pass
         txts.append(txt)
         print 'done', ct
-    print 'retty'
     return txts

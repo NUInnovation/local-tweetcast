@@ -15,6 +15,7 @@ import pickle
 import twitter as tw
 import tweepy
 from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET
+import operator
 # logging for gensim
 # logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
@@ -276,6 +277,38 @@ def create_tfidf_from_file():
 
     return tfidf, index, dictionary, id_to_path_dict, corpus
 
+def get_candidate_pref(blob):
+    x = blob.split()
+    Sanders = ["#feelthebern", "love","people","bernie","@berniesanders","think","#notmeus","fuck","fucking","right"]
+    Trump = ["trump","@realdonaldtrump","vote","people","great","#trump2016","america","never","@foxnews","obama"]
+    Clinton = ["time","great","@hillaryclinton","hillary","day","big","best","thank","vote","please"]
+
+    cap_words = [word.lower() for word in x] #capitalizes all the words
+
+    word_counts = Counter(cap_words) #counts the number each time a word appears
+    word_counts_no_stop = Counter(cap_words) #counts the number each time a word appears
+
+    for w in word_counts:
+        if w in stop:
+            word_counts_no_stop.pop(w, None)
+    newA = sorted(word_counts_no_stop.iteritems(), key=operator.itemgetter(1), reverse=True)[:100]
+    winner = {"Clinton":0, "Trump":0, "Sanders":0, "Cruz":0}
+    for word in newA:
+        word = word[0]
+        if word in Clinton:
+            winner["Clinton"] += 1
+        if word in Trump:
+            winner["Trump"] += 1
+        if word in Sanders:
+            winner["Sanders"] += 1
+    factor=1.0/(sum(winner.itervalues()) + 1)
+    normalised_d = {k: v*factor for k, v in winner.iteritems() }
+    return normalised_d
+
+    res = {"res_party": { "Democrat": 40, "Republican": 60 }, "res_dem":{ "Clinton": 30, "Sanders": 70}, "res_rep":{ "Cruz": 30 , "Trump": 70}, "winners":{"party": "DEM", "dem": "Clinton", "rep": "Trump"}}
+
+
+
 def get_area_percentages(location, k_neighbors, k_threshold):
     tweets = tw.get_tweets_from_location(api, location)
     results = {}
@@ -315,3 +348,5 @@ if __name__ == "__main__":
     # for kn in range(4, 18):
     #     testing_dict[kn] = test_tfidf(0.7, kn)
     # pprint(testdict)
+
+stop = ["a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "aren't", "as", "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can't", "cannot", "could", "couldn't", "did", "didn't", "do", "does", "doesn't", "doing", "don't", "down", "during", "each", "few", "for", "from", "further", "had", "hadn't", "has", "hasn't", "have", "haven't", "having", "he", "he'd", "he'll", "he's", "her", "here", "here's", "hers", "herself", "him", "himself", "his", "how", "how's", "i", "i'd", "i'll", "i'm", "i've", "if", "in", "into", "is", "isn't", "it", "it's", "its", "itself", "let's", "me", "more", "most", "mustn't", "my", "myself", "no", "nor", "not", "of", "off", "on", "once", "only", "or", "other", "ought", "our", "ours ourselves", "out", "over", "own", "same", "shan't", "she", "she'd", "she'll", "she's", "should", "shouldn't", "so", "some", "such", "than", "that", "that's", "the", "their", "theirs", "them", "themselves", "then", "there", "there's", "these", "they", "they'd", "they'll", "they're", "they've", "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "wasn't", "we", "we'd", "we'll", "we're", "we've", "were", "weren't", "what", "what's", "when", "when's", "where", "where's", "which", "while", "who", "who's", "whom", "why", "why's", "with", "won't", "would", "wouldn't", "you", "you'd", "you'll", "you're", "you've", "your", "yours", "yourself", "yourselves"]

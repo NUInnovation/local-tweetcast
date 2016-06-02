@@ -49,12 +49,21 @@ def results(location):
             flash('Error: All the form fields are required. ')
 
     tweets = tw.get_tweets_from_location(api, location)
+    pref = {"Clinton":0, "Trump":0, "Sanders":0, "Cruz":0}
     if tweets:
         users = tw.get_users_from_tweets(api, tweets)
         if users:
             corpus = tw.get_tweets_from_users(api, users)
-            # guess, res = srch.predict_candidate(corpus, 10)
-            res = srch.get_area_percentages(corpus, 7, 4)
+            for u in corpus:
+                nxt = srch.get_candidate_pref(u)
+                pref = { k: pref.get(k, 0) + nxt.get(k, 0) for k in set(pref) & set(nxt) }
+            #guess, res = srch.predict_candidate(corpus, 10)
+            #res = srch.get_area_percentages(corpus, 7, 4)
+    print pref
+    factor=1.0/(sum(pref.itervalues()) + 1)
+    normalised_pref = {k: v*factor for k, v in pref.iteritems() }
+
+    res = {"res_party": { "Clinton": normalised_pref["Clinton"], "Sanders": normalised_pref["Sanders"], "Trump": normalised_pref["Trump"] + normalised_pref["Cruz"] }, "res_dem":{ "Clinton": normalised_pref["Clinton"], "Sanders": normalised_pref["Sanders"]}, "res_rep":{ "Cruz": normalised_pref["Cruz"] , "Trump": normalised_pref["Trump"]}, "winners":{"party": "DEM", "dem": "Clinton", "rep": "Trump"}}
     return render_template('results.html', res=res, city=location, form=form)
 
 if __name__ == '__main__':
