@@ -15,19 +15,35 @@ Users will enter a location their are intersted in seeing the politic preference
 ### Tech Architecture
 
 * Python
-* Flash
-* Elasticsearch
+* Flask
+* gensim
+* Tweepy
+* 
+
+## How to Run App
+
+### Through Heroku Service
+
+Go to https://localtweetcast.herokuapp.com
+
+### Locally
+
+1. Clone repository locally.
+2. Setup virtual environment with the command
+```
+pip install -r requirements.txt
+```
+3. Run application using command
+```python
+python application.py
+```
+4. Go to address given in terminal.
 
 ### Next Steps
-
-##### Short Term
-
-* Create a simple UI for entering locations
-* Display a prediction based on a simple ML method
 
 ##### Long Term
 
 * Create more detailed views for the location's politic's dashboard
 * Fine tune our algoirhtm for determining politcal preference
-* Matching Twitter Places to voting districts
+* Matching Places to voting districts
 * Trying to predict local elections.
