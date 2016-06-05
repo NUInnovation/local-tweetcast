@@ -20,7 +20,11 @@ Go to https://localtweetcast.herokuapp.com
 
 ### Locally
 
+**NOTE: IF RUNNING LOCALLY TWITTER CREDENTIALS MUST BE RESUPPLIED IN config.py!**
+
+
 1) Clone repository locally.
+
 2) Setup virtual environment with the command
 ```
 pip install -r requirements.txt
