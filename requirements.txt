@@ -11,7 +11,7 @@ greenlet==0.4.9
 gunicorn==19.6.0
 httpretty==0.8.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 numpy==1.11.0
 oauthlib==1.0.3
